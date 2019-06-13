@@ -1,0 +1,966 @@
+Smith, S., Jaszczak, A., Graber, J., Lundeen, K., Leitsch, S., Wargo, E., & O'Muircheartaigh, C. (2009). Instrument development, study design implementation, and survey conduct for the national social
+life, health, and aging project. Journal of Gerontology: Social Sciences, 64B(S1), i20­i29, doi:10.1093/geronb/gbn013.
+© The Author 2008. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+i20
+THE National Opinion Research Center (NORC), led by
+a team of investigators at the University of Chicago,
+conducted more than 3,000 interviews during 2005 and
+2006 with a nationally representative sample of adults aged
+57­85 years. Face-to-face interviews and biomeasure col-
+lection took place in respondents' homes. Data collection
+elicited (a) demographic characteristics, (b) social networks,
+(c) social and cultural activity, (d) physical and mental
+health including cognition, (e) well-being, (f) illness, (g)
+medications and alternative therapies, (h) history of sexual
+and intimate partnerships, and (i) patient­physician com-
+munication. The National Social Life, Health, and Aging
+Project (NSHAP) also collected important health informa-
+tion in the home, prioritizing noninvasive collection tech-
+niques and cutting edge technology that minimizes
+respondent burden. The NSHAP interview included the col-
+lection of 13 biomeasures: weight, waist circumference,
+height, blood pressure, smell, saliva collection, taste, a self-
+administered vaginal swab for female respondents, "Get Up
+and Go," distance vision, touch, oral mucosal transudate
+(OMT; Orasure Technologies/Inc, Bethlehem, PA) test for
+human immunodeficiency virus (HIV), and blood spots.
+NSHAP grew from a history of survey research in health
+and aging. Prior to NSHAP, data documenting the sexual prac-
+tices of persons older than 57 years, using representative sam-
+ples of the United States, were limited. The National Health
+and Social Life Survey (NHSLS; Laumann, Gagnon, Michael,
+& Michaels, 1994; Laumann & Michael, 2001) and the Chi-
+cago Health and Social Life Survey (CHSLS; Laumann, El-
+lingson, Mahay, Paik, & Youm, 2004) gathered data from
+probability-based representative samples of adult households,
+aged 18­59 years, in 1992 and 1995­1997, respectively. These
+surveys laid the methodological groundwork for NSHAP.
+Building on methodology and lessons learned from the
+NHSLS and the CHSLS, this article describes how the com-
+plex design described in the article by O'Muircheartaigh in
+this issue was operationalized with the development of the
+NSHAP Wave I instruments, protocols, and the administra-
+tion of field operations. Table 1 highlights the important
+milestone field dates from the start of the project through to
+the end of data collection.
+Methods
+The NSHAP team faced considerable challenges in de-
+veloping the instruments and protocols required for the col-
+lection of questionnaire and biomeasure data. This section
+of the article describes how the team successfully integrated
+each of these components so that the data were collected
+efficiently, cost-effectively, and with appropriate quality.
+Instrument and Biomeasure Protocol Development
+NSHAP Wave I administration consisted of an in-home
+questionnaire, biomeasure collection, and a self-adminis-
+tered postinterview or "leave-behind" questionnaire. All
+questionnaires and survey materials were developed in Eng-
+lish and translated into Spanish.
+Development process for the questionnaire.--The re-
+search staff met regularly over the course of several months
+Instrument Development, Study Design Implementation,
+and Survey Conduct for the National Social Life, Health,
+and Aging Project
+Stephen Smith,1 Angela Jaszczak,1 Jessica Graber,3 Katie Lundeen,1 Sara Leitsch,1 Erin Wargo,1
+and Colm O'Muircheartaigh1,2
+1National Opinion Research Center at the University of Chicago, Illinois.
+2The Harris School of Public Policy, University of Chicago, Illinois.
+3Formerly with NORC, now with National Institute of Child Health and Human Development, Bethesda, Maryland.
+The National Opinion Research Center, led by a team of investigators at the University of Chicago, conducted more
+than 3,000 in-person interviews with a nationally representative sample of adults aged 57­85 years. Data collection
+included in-person questionnaire items, an extensive array of biomeasures, and a postinterview self-administered
+questionnaire. The National Social Life, Health, and Aging Project (NSHAP) interview included the collection of 13
+biomeasures: weight, waist circumference, height, blood pressure, smell, saliva collection, taste, a self-administered
+vaginal swab for female respondents, "Get Up and Go," distance vision, touch, oral mucosal transudate (Orasure®)
+human immunodeficiency virus test, and blood spots. This article discusses the development of NSHAP's instruments
+and implementation of the study design. Measures, such as response and cooperation rates, are also provided to
+evaluate the effectiveness of the design and implementation.
+Key Words: NSHAP--Survey--Aging--Health--Biomeasures.
+INSTRUMENT DEVELOPMENT AND IMPLEMENTATION FOR NSHAP i21
+to determine the measurement domains necessary to ad-
+dress the specific aims of the project. Once measurement
+domains were chosen, research staff conducted thorough
+reviews of relevant literature and contacted substantive ex-
+perts to determine if existing instruments could be used,
+how much time the instrument took to administer, and va-
+lidity and reliability of the instrument. If no existing instru-
+ment could be found, questions were developed specifically
+for the project.
+A small pretest of the questionnaire and biomeasures
+procedures was conducted from July to September 2004
+with 53 respondents. Unfortunately, the results of the pre-
+test indicated that the in-home administration was taking
+significantly longer time to complete than the planned 2 hr.
+There were anecdotal reports of some interviews taking in
+excess of 4 hr to complete. Consequently, the questionnaire
+was subjected to a series of cuts, and the remaining ques-
+tionnaire domains were prioritized according to the specific
+aims of the project. Any domain that was considered not
+essential to these aims was either cut completely or modu-
+larized (details of this modularization are provided subse-
+quently). The questionnaire sections and domains for the
+in-home interview are shown in Table 2.
+Although most of the in-person questionnaire sections were
+administered by the field interviewer, a small subset of ques-
+tions was determined to be sensitive enough to warrant self-
+administration (fifth section in Table 2). These questions
+included the number of lifetime sexual partners (both male and
+female), lifetime use of prostitutes, frequency of masturbation,
+frequency of urinary problems, and stool incontinence.
+Development process for the biomeasures.--The integra-
+tion of biomeasures into the NSHAP study design enhanced
+the study's scientific objectives in three major ways. First,
+biomeasures permit estimation of the incidence and preva-
+lence among older adults of certain diseases (e.g., bacterial
+vaginosis [BV], human papilloma virus [HPV]). Second,
+they permit the detection of undiagnosed or subclinical con-
+ditions such as hypertension and diabetes that may have a
+potent effect on sexual function and/or overall well-being.
+Third, they provide objective measures of health status (e.g.,
+height, weight, vision) for use in conjunction with self-
+reported measures.
+Biomeasure collection and shipping procedures were col-
+laboratively developed over several years as part of a unique
+interdisciplinary NSHAP biomeasure working group. Because
+Table 2. NSHAP Wave I Questionnaire Sections and Domains
+Section Domains
+Basic background
+information
+Gender
+Age
+Education
+Race/ethnicity
+Social networks and
+social support
+Roster
+Support from partner
+Support from family and friends
+Children and grandchildren
+Elder mistreatment
+Sex Marriage/cohabitation/sexual partner histories
+Sexual interest
+Current or most recent sexual relationship
+Physical health Self-reported health
+Sensory function
+Surgeries and procedures
+Health care utilization
+Morbidity
+Sexually transmitted infections
+Fertility and menopause
+Functional health
+Medical decision maker
+Health-related behaviors
+Cognition
+Self-administered
+questionnaire
+Sexual practices and attitudes
+Incontinence
+Biomeasures Weight
+Waist
+Height
+Blood pressure
+Smell
+Saliva and medications
+Taste
+Vaginal swabs
+Orasure
+Distance vision
+Get up and go
+Touch
+Blood spots
+Mental health Happiness and life satisfaction
+Depression
+Anxiety
+Stress
+Employment and finances Respondent employment
+Partner's employment
+Household income
+Household assets
+Religion Religion
+Physical contact Physical contact
+Interviewer comments Characteristics and location of interview
+Respondent's functional health and behavior
+Description of respondent
+Description of location
+Respondent's neighborhood and home
+Core leave-behind section Social relationships and activities
+Caregiving
+Sexual attitudes and victimization
+Health
+STI susceptibility
+Patient­physician communication
+Alcohol consumption
+Military service
+Incarceration
+Relative income
+Loneliness
+Neighborhood relationships
+Internet use
+Political affiliation
+Note: NSHAP = National Social Life, Health, and Aging Project.
+Table 1. Overview of NSHAP Wave I Data Collection Timeline
+Project funding start September 2003
+Pretest field period July to September 2004
+Field training dates
+Field Interviewer Training 1 June 2005
+Field Interviewer Training 2 July 2005
+Field Interviewer Training 3 August 2005
+Field data collection period July 2005 to March 2006
+Note: NSHAP = National Social Life, Health, and Aging Project.
+SMITH ET AL.
+i22
+many existing protocols for collecting biomeasures were
+based on clinical or laboratory administration, the working
+group focused on ensuring that the measures were univer-
+sally collectable in the home setting. Primary considerations
+included (a) adaptability to in-home collection and ship-
+ping, (b) adaptability to lay administration, (c) adaptability
+to the target population, (d) choosing portable, reliable,
+valid, and economical equipment, and (e) evaluating the im-
+pact of interviewer and respondent burden (for each mea-
+sure and the sum of all measures in the interview).
+The range of biomeasures collected in NSHAP represents
+a balance between the scientific value of the data, minimally
+invasive techniques accepted by respondents, practical con-
+siderations of implementation, and budget constraints. The
+pretest provided invaluable data and experience that showed
+that the collection of high-quality biomeasure data was pos-
+sible using nonmedically trained interviewers; but it also
+showed that some of the protocols required streamlining or
+exclusion from the main data collection to improve admin-
+istration efficiency and reduce respondent burden. Weigh-
+ing the main aims of the study with the target time of around
+2 hr spent in the home conducting the interview, the NS-
+HAP research team agreed that the assessments of hearing,
+lung function (peak flow), mobility (chair stand), glucose
+test and toxicology (urine collection) should be dropped
+from Wave I administration.
+A total of 13 biomeasures were collected for the first
+wave of the study:
+Weight
+·
+Waist circumference
+·
+Height
+·
+Blood pressure/pulse
+·
+Smell
+·
+Saliva collection (for cotinine, dehydroepiandrosterone
+·
+[DHEA], testosterone, progesterone, and estradiol)
+Taste
+·
+Get Up and Go test of mobility
+·
+Distance vision
+·
+Touch
+·
+OMT test for HIV (using Orasure
+· ®)
+Blood spots (for C-reactive protein [CRP], Epstein­
+·
+Barr virus [EBV], hemoglobin, and hemoglobin A1c)
+Vaginal swab (self-administered) for female respon-
+·
+dents (for BV, yeast vaginitis, and HPV)
+Modularization of the Questionnaire and Biomeasures
+As discussed, the pretest had shown that although the col-
+lection of comprehensive questionnaire items and an exten-
+sive range of biomeasures was feasible, the respondent
+burden and potential financial costs of the fieldwork were
+considered unacceptable. To decrease respondent burden
+and minimize in-home interview time while maximizing
+the analytic content of the interview, the NSHAP interview
+was modularized. All respondents received a set of core
+interview and biomeasure items. Five modules were devel-
+oped: Two modules contained survey questions and three
+modules included the collection of biomeasures. Respon-
+dents were randomly assigned to one of six paths containing
+a set of these modules. Respondents assigned to paths where
+modularized interview questions were not asked were in-
+stead given a mail-in self-administered questionnaire that
+included these items. Figure 1 depicts the content of each
+randomly assigned path (note that this figure does not repre-
+sent the order in which the questions were asked).
+The modularized questions were asked based on which
+one of the six paths the interview had been randomly
+assigned. Modules A and B were questionnaire modules.
+Module A contained items on support from family and
+friends, elder mistreatment, and nonsexual physical contact.
+Module B contained items on children and grandchildren,
+sexual interest, health care utilization, sexually transmitted
+infections, and medical decision makers. If a respondent did
+not receive Module A or B during the in-person interview,
+he or she received these items in the self-administered,
+postinterview questionnaire. Modules C, D, and E were
+biomeasure modules: Module C contained blood spot col-
+lection; Module D contained the Orasure® test (for HIV);
+and Module E contained the vision, touch assessments, and
+the Get Up and Go test of mobility and balance. Question-
+naire items on perceived taste, touch, and smell were asked
+of respondents in Module E during the in-person interview
+but were omitted erroneously from the postinterview ques-
+tionnaire provided to others.
+Questionnaire Administration and Management
+The main portion of the in-home NSHAP interview was
+conducted in English or Spanish using a Computer-Assisted
+Personal Interview (CAPI) questionnaire developed using
+SPSS' mrInterview (Version 2.2). The software accommo-
+dated the complexity of the questionnaire but remained user-
+friendly. The CAPI program controlled which questionnaire
+and biomeasure modules were to be administered and which
+of the postinterview questionnaires was to be given to the
+respondent, so that the whole interview appeared to the in-
+terviewer and the respondent as one continuous smooth pro-
+cess. As described earlier, there were several questions that
+were considered particularly sensitive, so respondents were
+offered the choice of completing this series in one of two
+ways: reading the question text on the laptop computer and
+entering responses directly into the CAPI program or read-
+ing and answering the sensitive questions on a separate pa-
+per-and-pencil questionnaire. To further maintain privacy,
+these paper questionnaires were immediately sealed by the
+interviewer in a separate envelope and returned (still sealed)
+to NORC's production center for processing.
+To decrease the occurrence of interviewer data entry errors,
+both soft and hard range checks were programmed into the
+CAPI instrument. CAPI-programmed range checks alert the
+interviewer that an unlikely (soft check) or impossible (hard
+INSTRUMENT DEVELOPMENT AND IMPLEMENTATION FOR NSHAP i23
+check) response was entered. An impossible response, such
+as entering a weight that is higher than the scale's maximum
+measurable weight, cannot be entered into the CAPI, whereas
+an unlikely response can be entered into CAPI once the inter-
+viewer confirms it is correct. The interviewer instructions and
+the data fields for collecting the in-home biomeasure re-
+sponses were also incorporated into the CAPI interview.
+Data Collection
+Procedures were carefully designed for all aspects of the
+NSHAP data collection including the sample frame and se-
+lection, field staff preparations, informed consent, processes
+to conduct the in-home interviews including the collection
+of biomeasures, and the postinterview questionnaire. The
+complexity of the interview required comprehensive and ef-
+ficient protocols for all data collection tasks.
+Field interviewer recruitment.--Running parallel to the
+sample frame preparation and instrument development, the
+field staff was planning for data collection. As is the case in
+most field or telephone surveys, interviewers are often
+the "face" of the project to respondents and are therefore
+critical to its ultimate success. Consequently, NORC field
+Figure 1. Overview of random path assignment and content in each path. FI = field interviewer.
+SMITH ET AL.
+i24
+interviewers completed a rigorous recruitment process be-
+fore being staffed on NSHAP. Recruitment began several
+months prior to the start of data collection. All NORC field
+interviewers were sent a letter explaining the details of NS-
+HAP in order to let them know when the project would be
+in the field. This letter helped to build enthusiasm for the
+project as well as creating a list of interviewers who were
+interested in working on NSHAP. Experienced interviewers
+were staffed wherever possible and were evaluated on their
+previous work and feedback from the field management
+staff. Experienced interviewers also participated in a proj-
+ect-based telephone interview. It was necessary to hire a
+handful of new-to-NORC interviewers in areas where the
+sampled areas did not overlap with areas in which NORC
+had existing field staff. New hires completed in-person
+mock interviews with field managers to evaluate their inter-
+viewing skills and proficiency with computers.
+All interviewers were evaluated to ensure that they were
+comfortable asking questions about the sensitive issues ad-
+dressed in the NSHAP interview. Because of the biomea-
+sures included in the NSHAP study, the recruitment process
+also focused on the ability and willingness of interviewers
+to learn new skills. Potential interviewers were given fact
+sheets about the biomeasures that they would be collecting
+as well as information about storing and shipping biological
+samples. In addition, they were also shown pictures of the
+biomeasure collection techniques and when possible shown
+the actual equipment used to collect the biomeasures. The
+NSHAP project team wanted to make sure that interviewers
+were comfortable with all the tasks they would be asked to
+complete.
+NSHAP hired both male and female interviewers, al-
+though the majority of the field interviewing staff were fe-
+male. Due to some sensitive questionnaire items and
+biomeasures (e.g., self-administered vaginal swabs), only
+female interviewers were allowed to interview female re-
+spondents. Field management staff selected the most capa-
+ble interviewers in their areas to comprise a national field
+interviewing staff.
+Field interviewer training.--Interviewer training included
+the completion of a home study packet, a four-day in-person
+training in Chicago, and booster trainings throughout data
+collection. Over the summer of 2005, NORC conducted
+three in-person trainings to prepare field interviewers to
+administer the NSHAP questionnaire and biomeasures.
+Having three training sessions allowed for smaller groups
+and more interaction between interviewers and the trainers
+in each of the training rooms. In total, 130 field interviewers
+and 12 field managers completed the NSHAP training.
+Prior to the in-person training, interviewers were required
+to complete a home study packet that included reviewing
+the training manual, watching a video demonstrating
+biomeasure collection, and answering questions about the
+project. Interviewers then attended an in-person training
+that consisted of two project training days, a self-study day,
+and a certification day. The two project trainings days were
+taught through a series of brief lectures, hands-on practice
+drills and mocks, and individual instruction.
+Project training focused on (a) field operations and ad-
+ministering the questionnaire and (b) collecting the biomea-
+sures (Jaszczak, Lundeen, & Smith, 2009). Field operations
+and questionnaire administration training included several
+mock interviews to give the interviewers in-depth experi-
+ence with the questionnaire. Interviewers also completed
+modules addressing confidentiality, case management, gain-
+ing cooperation, and refusal aversion. For biomeasure train-
+ing, a standardized technique was used for each of the 13
+measures: The trainer first would explain the collection pro-
+cedure; the trainer would then demonstrate the collection
+procedure with a "respondent"; and finally, the interviewer
+would practice the collection procedure. The interviewer
+practice step was an essential aspect of the training, and it
+was repeated at multiple times during the in-person training
+to enable the interviewer to become familiar and comfort-
+able with the collection procedures. Individual and small
+group feedback was integrated into this training process to
+ensure correct collection techniques.
+During the self-study day, interviewers rotated through a
+series of modules that provided individual instruction from
+trainers on such topics as blood spot collection and the ship-
+ping of biological samples. The final day of training re-
+quired interviewers to pass a certification interview. NSHAP
+interviewers also had to complete at least one practice inter-
+view after returning home before entering the field. Addi-
+tionally, booster trainings were held by phone during data
+collection to provide help with field efficiency and gaining
+cooperation for the biomeasures. Selected field interviewers
+participated in conference calls to address these issues.
+The data collection began in a staggered format due to the
+timings of the three training sessions. Once all three train-
+ing sessions had been completed, the entire interviewing
+staff was out in the field by mid-August 2005.
+Gaining cooperation.--In an effort to show that the
+project was a serious and scholarly undertaking, a conscious
+decision was made to devote resources to developing a com-
+prehensive set of high-quality project materials that had a
+project logo and a consistent layout and color scheme. All
+materials were tailored to meet the unique aspects of NS-
+HAP. A series of respondent materials were developed to
+introduce the project to the respondent and aid the inter-
+viewers with gaining cooperation. Following standard prac-
+tice in field studies, an advance letter was sent to the
+respondent's home before the interviewer made the first
+contact. The NSHAP pretest protocol included a very de-
+tailed and informative advance letter. However, too much
+information seemed to overwhelm the respondents, making
+them less likely to participate. So a brief letter with limited
+detail to introduce NSHAP was developed that allowed the
+INSTRUMENT DEVELOPMENT AND IMPLEMENTATION FOR NSHAP i25
+interviewer to explain the project in detail and provide ad-
+ditional materials at the door.
+At the first contact, interviewers were provided with an
+array of tailored project materials to use as necessary to
+address respondents' questions and concerns. Depending
+on the respondent's questions or concerns, the interviewer
+could provide any of the following materials: an NSHAP
+brochure, examples of questions asked in NSHAP, a letter
+to community authorities, a dossier that contained letters
+of support and articles about the investigators' research,
+a legitimacy handout, or the health information booklet
+that showed the results they would receive from the
+biomeasures.
+If respondents were hesitant or initially refused, tailored
+advance letters were mailed to them to address their con-
+cerns. NSHAP created letters to address concerns for those
+who were too busy, not interested, did not like surveys, were
+worried about their privacy, did not like the government, did
+not want to participate in the biomeasures, or their child/
+spouse did not want them to participate. The $100 incentive
+to participate in the study was also very beneficial in
+gaining the cooperation of many respondents; although in
+the following, we discuss that the incentive was increased
+in the closing stages of the fieldwork to help boost the re-
+sponse rate. Interviewers also had great success in using
+small "in-kind" gifts such as small potted plants, a pumpkin
+(at Halloween), or gift cards.
+Field managers worked very closely with the interview-
+ers to help develop strategies for each individual case. The
+number and type of contact an interviewer made with a re-
+spondent varied greatly depending on the case. Interviewers
+and field management staff read through call notes from
+previous attempts to determine the best time of day to con-
+tact the respondent, what concerns they had, and any other
+relevant information that would help them make a connec-
+tion with the respondent. Sometimes it helped to send an-
+other interviewer who had more similarities (e.g., race or
+age) with the respondent. Having interviewers travel from
+other regions to attempt the interview also proved to be very
+successful. Respondents were sometimes more willing to
+participate if the interviewer had a different accent or was
+unique in some way.
+Respondents had the right to refuse any of the biomea-
+sures at any time during the interview process. Conse-
+quently, gaining cooperation for each biomeasure was an
+important part of the interviewer's job. The interviewers
+used several gaining cooperation techniques to increase
+biomeasure participation. Interviewers were thoroughly
+trained to explain each biomeasure, address concerns, and
+obtain consent throughout the interview. In addition,
+biomeasures were completed during the latter half of the
+interview when most respondents were engaged in the inter-
+view, had already built a strong rapport with their field
+interviewer, and recognized the importance of the data being
+collected. In the final months of data collection, fieldwork
+largely focused on refusal conversion. To increase the prob-
+ability of converting these refusal cases and reach the goal of
+completing 3,000 interviews, the following steps were taken:
+(a) extend the end of the field period from December 2005
+to March 2006, (b) mail a refusal conversion packet, (c)
+form a refusal conversion team, (d) increase interviewer
+traveling, and (e) increase the monetary incentive.
+In December 2005, a refusal conversion packet was
+mailed to potential respondents who had not completed
+the interview. Anecdotally, the biggest concern respon-
+dents were reporting was a need to verify the legitimacy of
+the study. A one-page handout was developed addressing
+issues of legitimacy and sent via FedEx with a letter signed
+by the principal investigators and an NSHAP pen. It was
+hoped that respondents would be more likely to open the
+envelope by sending it FedEx and with a small trinket that
+they could feel through the packaging. At the same time, a
+group of talented NSHAP interviewers was also assem-
+bled to become part of a national refusal conversion team.
+Team members would contact respondents by telephone
+and use their finely tuned gaining cooperation skills to at-
+tempt to schedule interviews for local field interviewers to
+complete.
+The last refusal conversion effort was focused around in-
+creasing the incentive amount offered to the respondent. To
+ensure that the optimal incentive was offered that would fa-
+cilitate participation in NSHAP, a split-ballot incentive ex-
+periment was conducted (Wargo, Jaszczak, Smith, &
+O'Muircheartaigh, 2007). A letter was sent via FedEx to a
+random sample of finalized refusal cases offering either a
+$200 or a $400 incentive. The letter also explained that the
+respondents would not be contacted again; instead respon-
+dents were provided with a toll-free number to schedule an
+interview. The $200 incentive resulted in an approximately
+2% conversion rate (i.e., approximately 2% of those offered
+the $200 incentive then completed the interview). The $400
+incentive resulted in an approximately 9% conversion rate.
+Based on the results of the experiment, the $400 incentive
+was offered to all remaining pending (i.e., in-scope but not
+interviewed) cases. Ultimately, 221 respondents (7% of
+those interviewed) received an increased incentive.
+Results Notification for the Biomeasures
+In addition to the monetary incentive, it was hoped that
+the in-home collection of the biomeasures and being pro-
+vided with the results would be viewed by the respondent as
+an added benefit to participating in the study. Respondents
+received results in two phases: (a) immediately following
+the interview and (b) three weeks postinterview on a toll-
+free, anonymous call-in system. The biomeasures that were
+either experimental or not clinically validated (e.g., coti-
+nine, DHEA, testosterone, progesterone, and estradiol from
+saliva, and CRP, EBV, hemoglobin, and hemoglobin A1c
+from blood spots) were not reported to respondents.
+SMITH ET AL.
+i26
+At the end of the interview, interviewers provided re-
+spondents with their height; weight; waist circumference;
+blood pressure; pulse; and ratings for smell, taste, mobility,
+vision, and touch. To provide these results, the interviewer
+was instructed to copy the results from the CAPI screen to a
+health information booklet that was left with the respon-
+dent. Interviewers were told not to comment on these results
+because they were not medically qualified to do so, but the
+booklet did provide guidance on several measures, such as
+whether their weight (using their body mass index) was be-
+low, within, or above a healthy weight, and whether their
+blood pressure was normal, prehypertension, or high.
+The interviewers also provided respondents with infor-
+mation on how to obtain results from the anonymous coun-
+seling service for biomeasures that required additional
+processing at a laboratory. Specifically, respondents were
+given an identification number to access their results. To en-
+sure anonymity and security, respondents were asked to cre-
+ate a unique password and answer a verification question to
+be used if they forgot their password. This call-in informa-
+tion was provided only to individuals who were eligible to
+receive laboratory results. To remind respondents to call for
+their results, NORC sent respondents letters to inform them
+that their results were ready.
+NSHAP contracted with the American Social Health As-
+sociation (ASHA) to provide anonymous counseling ser-
+vices.ASHA provided respondents with test results for HIV,
+BV, HPV, and yeast vaginitis; pretest and posttest result
+counseling; materials; and referrals via a toll-free number.
+The NSHAP call protocols used by ASHA counselors were
+collaboratively created by ASHA and NSHAP researchers.
+These protocols served as important tools and guidelines for
+hotline staff to use during NSHAP calls. To protect the con-
+fidentiality of the respondents, laboratory results were com-
+municated to ASHA using de-identified respondent
+identification numbers. A reconciliation system was devel-
+oped to ensure that respondents' identification numbers and
+laboratory results were received and matched accurately.
+Shipping of the Biomeasure Specimens
+Blood spots, OMT, vaginal swab, and saliva samples col-
+lected for NSHAP were analyzed by several outside labora-
+tories: Magee Women's Health Corporation, Northwestern
+University's Department of Anthropology, Salimetrics, and
+the University of Chicago's Institute of Mind and Biology.
+Interviewers were responsible for storing, packing, and
+shipping the samples to the respective laboratories. Each
+interviewer was provided with detailed instructions on stor-
+age and shipping requirements, which existed both for the
+interviewers' safety and to maintain the integrity of the
+sample. In particular, many samples had specific tempera-
+ture requirements that had to be followed to ensure sample
+quality; for example, to limit bacterial growth, the saliva
+samples needed to be frozen as soon as possible after the
+interview and needed to be shipped on dry ice to avoid them
+thawing. All shipping protocols adhered to federal shipping
+guidelines for the proper packing of diagnostic samples.
+Quality Control of the Biomeasure Specimens
+Careful monitoring of the biomeasures was performed to
+ensure the quality of the data collected. Specifically, the
+quality control measures included:
+· Reconciliation. Throughout the data collection period,
+NORC performed weekly reconciliation tasks to com-
+pare laboratory data with questionnaire data indicating
+whether or not a sample was collected. Tracking was
+performed with an interactive reconciliation system that
+allowed for the remote tracking of biological specimens
+from the point of in-home collection through the deliv-
+ery in the final data set. Anomalies were investigated
+and resolved with the assistance of the field and labo-
+ratory staff, field notes, laboratory sample requisition
+forms, and FedEx tracking numbers.
+· Laboratory sample quality. The quality of the samples
+collected and delivered to outside laboratories for anal-
+ysis was monitored throughout the data collection pe-
+riod. NSHAP's laboratory subcontracting partners pro-
+vided ongoing feedback on the quality of the specimens
+received, including how they were collected, stored,
+and shipped, as well as if the results of the analyses
+fell within expected ranges. All four of the laboratories
+that processed NSHAP specimens reported receiving
+high-quality samples that were similar in quality and
+outcomes to other studies.
+Postinterview Questionnaire
+At the end of the in-person interview, respondents were
+given a paper-and-pencil postinterview questionnaire. Re-
+spondents were asked to complete this questionnaire and
+return it via U.S. mail in a provided postage-paid envelope.
+The interviewers were instructed to not stay in the home
+while the respondents completed this portion of the inter-
+view. The self-administered questionnaires were designed
+with simple instructions and few skip patterns and took ap-
+proximately 30 min or less to complete. To encourage
+completion, respondents were told that a portion of their
+incentive payment (25%) was for completing and returning
+the postinterview questionnaire. However, the full incentive
+was paid at the time of the in-person interview, with written
+documentation itemized to note this "prepayment."
+After completing the in-person interview, most respon-
+dents were fully engaged in NSHAP and were willing to
+complete and mail in the postinterview questionnaire. Re-
+spondents who had not returned their questionnaire within
+three weeks of the in-person interview received a telephone
+call from a member of the NSHAP field staff. These calls
+served multiple functions including (a) thanking respondents
+INSTRUMENT DEVELOPMENT AND IMPLEMENTATION FOR NSHAP i27
+for their participation in NSHAP, (b) inquiring if the postint-
+erview questionnaire had been returned, and (c) offering to
+send a new version of the questionnaire if the original had
+been misplaced.
+The postinterview questionnaires were mailed to NORC's
+production center where they were receipted and data cap-
+tured. The receipt control process was specifically designed
+to enable NORC staff to track the receipt of paper docu-
+ments on a flow basis. Detailed specifications for computer-
+assisted data entry were developed to ensure proper range
+edits, skip patterns, and missing data flags, which all served
+to prevent errors and promote data integrity. Ten percent of
+the cases were reentered for verification and quality control
+purposes.
+Institutional Review Board Approval and Informed
+Consent Procedures
+Given the age of the study population, the collection of
+biomeasure data, and the sensitive or personal nature of
+some elements of the questionnaire, it was critical that pro-
+tocols be developed to adequately protect the rights and
+welfare of human subjects in the study.
+Institutional review board approval.--Full approval was
+granted for NSHAP from two institutional review boards
+(IRBs): the Social and Behavioral Sciences Institutional Re-
+view Board at the University of Chicago (the Federal Wide
+Assurance [FWA] No. is FWA00005565) and the NORC
+Institutional Review Board (FWA00000142).
+National Institutes of Health Certificate of
+confidentiality.--The NSHAP in-home interview included
+sensitive information about physical and mental health, his-
+tory of sexual and intimate partnerships, patient­physician
+communication regarding intimacy and sexuality, sexual
+function, behavior, desire, opportunity, and attitudes about
+sexuality. Additionally, disease status was verified during
+the biomeasure collection. For these reasons, the research-
+ers obtained a Certificate of Confidentiality from the Na-
+tional Institute on Aging to further protect the privacy of the
+respondents (National Institutes of Health, 2003). With this
+certificate, researchers cannot be forced to disclose infor-
+mation that may identify respondents, even by a court sub-
+poena, in any federal; state; or local civil, criminal,
+administrative, legislative, or other proceedings.
+Unique human subjects considerations.--The NSHAP
+interview included components that made IRB approval dif-
+ferent compared with most face-to-face interviews. Most
+notably, the integration of biomeasures into the in-home in-
+terview presented the researchers with unique human sub-
+jects considerations.
+Before the NSHAP interview could be conducted, it was
+necessary for the interviewer to obtain informed consent
+from the respondent. To reduce any real or perceived re-
+spondent burden as well as to make the information con-
+tained in the consent documents more salient to the different
+questionnaire paths, the consent documentation process was
+structured to reflect a continuous approach to informed con-
+sent. The specific steps in the consent documentation pro-
+cess were as follows:
+Verification to read consent. At the beginning of the
+interview, respondents were asked whether they would like
+to read the Questionnaire and Physical Measures Consent
+Form or have the interviewer read the form to them. To en-
+sure that respondents did not receive information that did
+not apply to them, separate male and female versions of the
+consent form were used. The respondent was asked to sign
+the consent form (a copy of the form was given to respon-
+dents for their records).
+Blood spot storage. During the results notification, re-
+spondents who had provided a blood spot were given this
+particular form indicating whether they consented to the
+storage of their blood spots and, if so, whether or not they
+would like to be contacted before any potential future anal-
+ysis is conducted. The decision to offer respondents a choice
+as to whether or not they would like to be notified before
+beginning analysis on stored blood specimens was based
+on our interpretation of the guidelines published by the
+National Bioethics Advisory Commission's (1999) Research
+Involving Human Biological Materials: Ethical Issues and
+Policy Guidance, Vol. 1.
+Call-in information. The final step of consent documen-
+tation also occurred during results notification and applied
+to respondents who provided an OMT and/or vaginal swab
+sample during the interview. The purpose of the form was to
+provide respondents with information about calling the toll-
+free number to access their results. In addition, respondents
+were asked to sign the form if they wanted to receive a re-
+sults reminder letter.
+The process of verbal consent continued throughout the
+interview, and the interviewer always confirmed willingness
+to participate in biomeasure collection prior to each assess-
+ment. At any time, the respondent was able to seek and ob-
+tain additional information regarding the questions or
+measures or withdraw their consent.
+To maintain respondent and data confidentiality after the
+interview, the researchers instituted the use of an "honest bro-
+ker" when dealing with the transmission of biological results.
+Specifically, the honest broker was one individual and a small
+number of directly supervised, trained assistants within
+NORC who functioned to protect respondent confidentiality.
+These specially designated individuals de-identified all data
+prior to transferring them to the investigator team.
+To further protect respondent confidentiality, steps were
+taken to maintain the anonymity of the results from biologi-
+cal assays. During the NSHAP interview, blood spots,
+saliva, OMT, and vaginal swab samples collected from con-
+senting respondents were labeled with unique identification
+SMITH ET AL.
+i28
+numbers. These numbers provided no individually identifi-
+able information to the laboratories. Samples were mailed
+by interviewers directly to the appropriate laboratories and
+labeled only with the unique identification number. Once
+analysis of a specimen was completed, laboratories sent re-
+sults with the unique identification number to NORC.
+At the completion of the interview, NORC transmitted
+the respondent's unique identification number, password,
+and verification question to the results notification service
+(ASHA). One laboratory sent HIV, HPV, yeast, and BV test
+results with the unique identification number to the results
+service. No personally identifying information was con-
+tained in any transmittals. These results were then available
+to the respondents on the anonymous call-in system two to
+three weeks after the completion of the interview.
+Results
+The Wave I data collection began on July 6, 2005, and was
+completed on March 31, 2006. Table 3 shows that 4,400 cases
+were sampled for the study, of which 383 were classified af-
+ter extensive field or central office enquiry as out of scope
+(i.e., they did not meet the eligibility requirements for the
+study). The two largest single categories for ineligibility were
+deceased (which was 35% of all out-of-scope cases) and that
+the sampled respondent was found to not be within the age
+range for the study (15% of the out-of-scope cases). Of the
+4,017 eligible cases, 3,005 were successfully interviewed--a
+weighted response rate of 75.5% (using the American Asso-
+ciation of Public Opinion Research [AAPOR], 2006, RR2
+definition for calculating response rates). Field production
+was strong at the start of data collection, and the refusal con-
+version efforts implemented toward the end of data collec-
+tion provided the final increase needed to surpass the original
+response rate goal of 70%. Almost one quarter (24.0%
+weighted) of the eligible cases were ultimately classified as
+final refusals. Identifying the real reason for someone refus-
+ing is sometimes difficult and often based on subjective as-
+sessments by field staff, but the reported reasons for NSHAP
+included that they were not interested in the study, or a gate-
+keeper was blocking access on behalf of the respondent. The
+remainder of the eligible cases (0.5%) had no contact (i.e.,
+the field staff were confident that the respondent still resided
+at the known address but were never able to talk with him/
+her), had moved and field staff were unable to interview him/
+her, or some other reason (e.g., the respondent's health was
+too poor to complete the interview).
+In addition to monitoring NSHAP's overall response rate
+and focusing on refusal conversion, biomeasure coopera-
+tion rates were monitored continuously during the field
+period. As shown in Table 4, the cooperation rates (using
+COOP3; AAPOR, 2006) were generally quite high, with 10
+of the 13 measures achieving cooperation rates in excess of
+90%--8 of the 10 rates were greater than 95%. Not surpris-
+ingly, given the more invasive nature of the vaginal swab
+and the physical challenge for some women to perform the
+test, the request for self-administered vaginal swabs had the
+lowest but still very respectable cooperation rate of 67.5%.
+The other component of the data collection was the
+postinterview paper questionnaire that was left with the re-
+spondent to complete after the interviewer had completed
+the in-home interview. Tracking the returns of these ques-
+tionnaires showed that 64% were being returned. To help
+boost the number of returned questionnaires, the field inter-
+viewers were instructed to prompt respondents by telephone.
+The telephone prompting increased the return rate by 20 per-
+centage points so that the final response rate for the postint-
+erview questionnaire was approximately 84%.
+Table 3. NSHAP Final Sample Dispositions for Wave I
+Disposition No. Cases (N = 4,400)
+Total Sample (%) Eligible Cases (%)
+Unweighted Weighted Unweighted Weighted
+Interviewed 3,005 68.3 69.2 74.8 75.5
+Final refusal 990 22.5 22.0 24.6 24.0
+Unable to contact 9 0.2 0.1 0.2 0.2
+Moved 3 0.1 0.2 0.1 0.1
+Other 10 0.2 0.2 0.2 0.2
+Out of scope 383 8.7 8.3 - -
+Total 4,400 100.0 100.0 100.0 100.0
+Note: NSHAP = National Social Life, Health, and Aging Project.
+Table 4. NSHAP Biomeasure Cooperation Rates
+Measure Cooperation Ratea (%) No. Eligible Respondents
+Height 98.6 2,977
+Touch 98.4 1,505
+Weight 98.4 2,977
+Blood pressure 98.4 3,004
+Smell 98.3 3,004
+Waist 97.2 3,004
+Distance vision 96.0 1,505
+Taste 95.9 3,004
+Get up and go 93.6 1,485
+Saliva 90.8 3,004
+OMT 89.2 972
+Blood spots 85.0 2,494
+Vaginal swabs 67.5 1,550
+Notes: NSHAP = National Social Life, Health, and Aging Project; OMT =
+oral mucosal transudate.
+a Person-level weights are adjusted for nonresponse by age and urbanicity.
+INSTRUMENT DEVELOPMENT AND IMPLEMENTATION FOR NSHAP i29
+Discussion
+NSHAP's design required the administration of a 2-hr
+questionnaire that included several sensitive items and the
+collection of an extensive array of biomeasures by nonmed-
+ical staff. A further challenge was a survey sample aged
+57­85 years that encompassed a wide spectrum of individu-
+als: those actively employed through to those who had been
+retired for many years, and healthy individuals through to
+those in poor health. The combination of these and other
+factors presented many operational and methodological
+challenges. To help ensure successful data outcomes, sig-
+nificant attention was given to all study design elements in-
+cluding human subjects considerations, questionnaire
+design and programming, interviewer recruitment and train-
+ing, and the development of all survey materials. The survey
+response rate, biomeasure cooperation rates, and the postint-
+erview questionnaire return rate appear to suggest that these
+efforts were successful.
+Additionally, NSHAP presented unique field challenges.
+Although the project was challenging for field staff, it also
+proved to be a satisfying experience. In particular, the inclu-
+sion of the biomeasures added a new set of tasks that re-
+quired field staff to learn and master different skills.
+Feedback received from the interviewers immediately after
+they completed training, from team calls throughout the
+field period, and in debriefing sessions after the fieldwork
+ended indicated that they enjoyed the project. Many of the
+interviewers have requested that they would like to be
+staffed on subsequent waves of the study.
+Additional waves of the study (if funded) will be subject
+to the same careful review and implementation of methods
+developed for Wave I. For example, as the sample ages, the
+researchers will consider the impact of attrition between
+waves and options for supplementing the Wave I cohort with
+new sample. Similarly, as advances in technology make the
+collection of once complicated biomeasures suddenly fea-
+sible for in-home collection, there will be a need to balance
+comparability of measures and protocols across waves with
+the implementation of newly available technology.
+NSHAP data and documentation are available to regis-
+tered users through the National Archive of Computerized
+Data on Aging, within the Interuniversity Consortium for
+Political and Social Research. More details on how to gain
+access to the NSHAP data can be found at http://www.icpsr.
+umich.edu/NACDA/news.html#nshap.
+Funding
+The NSHAP is supported by the National Institute on Aging, Office of
+Women's Health Research, Office of AIDS Research, and the Office of
+Behavioral and Social Science Research (5R01AG021487).
+Correspondence
+Address correspondence to Stephen Smith, M.A., NORC Health Care
+Research Department, 55 East Monroe, Suite 3000, Chicago, IL 60603.
+Email: smith-stephen@norc.org
+References
+American Association of Public Opinion Research. (2006). Standard defi-
+nitions: Final dispositions of case codes and outcome rates for sur-
+veys (4th ed.). Lenexa, KS: Author.
+Jaszczak, A., Lundeen, L., & Smith, S. (2009). Using non-medically
+trained interviewers to collect biomeasures in a national in-home
+survey. Field Methods, 21, 26­48.
+Laumann, E. O., Gagnon, J. H., Michael, R. T., & Michaels, S. (1994). The
+social organization of sexuality. Sexual practices in the United States.
+Chicago: University of Chicago Press.
+Laumann, E. O., & Michael, R. T. (2001). Sex, love, and health: Private
+choices and public policies. Chicago: University of Chicago Press.
+Laumann, E. O., Ellingson, S., Mahay, J., Paik, A., & Youm, Y. (2004). The
+sexual organization of the city. Chicago: University of Chicago Press.
+National Bioethics Advisory Commission. (1999). Research involving hu-
+man biological materials: Ethical issues and policy guidance (Vol. 1).
+Rockville, MD: Author.
+National Institutes of Health. (2003). Certificates of confidentiality:
+Background Information. Bethesda, MD: Author. Retrieved March 20,
+2009, from http://grants1.nih.gov/grants/policy/coc/background.htm.
+Wargo, E., Jaszczak, A., Smith, S., & O'Muircheartaigh, C. (2007). A split
+ballot experiment using increased incentives on NSHAP. Paper pre-
+sented at the International Field Director's & Technology Confer-
+ence, Santa Monica, CA.
+Received July 22, 2008
+Accepted October 6, 2008
+Decision Editor: Robert B. Wallace, MD, MSc
+

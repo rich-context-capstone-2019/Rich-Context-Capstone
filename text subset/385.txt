@@ -1,0 +1,891 @@
+Comparisons of percentage body fat, body mass index, waist
+circumference, and waist-stature ratio in adults1­3
+Katherine M Flegal, John A Shepherd, Anne C Looker, Barry I Graubard, Lori G Borrud, Cynthia L Ogden,
+Tamara B Harris, James E Everhart, and Nathaniel Schenker
+ABSTRACT
+Background: Body mass index (BMI), waist circumference (WC),
+and the waist-stature ratio (WSR) are considered to be possible
+proxies for adiposity.
+Objective: The objective was to investigate the relations between
+BMI, WC, WSR, and percentage body fat (measured by dual-energy
+X-ray absorptiometry) in adults in a large nationally representative
+US population sample from the National Health and Nutrition Exami-
+nation Survey (NHANES).
+Design: BMI, WC, and WSR were compared with percentage body
+fat in a sample of 12,901 adults.
+Results: WC, WSR, and BMI were significantly more correlated
+with each other than with percentage body fat (P , 0.0001 for all
+sex-age groups). Percentage body fat tended to be significantly more
+correlated with WC than with BMI in men but significantly more
+correlated with BMI than with WC in women (P , 0.0001 except in
+the oldest age group). WSR tended to be slightly more correlated
+with percentage body fat than was WC. Percentile values of BMI,
+WC, and WSR are shown that correspond to percentiles of percent-
+age body fat increments of 5 percentage points. More than 90% of
+the sample could be categorized to within one category of percent-
+age body fat by each measure.
+Conclusions: BMI, WC, and WSR perform similarly as indicators
+of body fatness and are more closely related to each other than with
+percentage body fat. These variables may be an inaccurate measure
+of percentage body fat for an individual, but they correspond fairly
+well overall with percentage body fat within sex-age groups and
+distinguish categories of percentage body fat. Am J Clin Nutr
+2009;89:500­8
+INTRODUCTION
+Epidemiologic studies commonly use body mass index (BMI),
+calculated from weight and height [weight (kg)/height2 (m)], as
+an indicator of overweight and obesity. US and international
+definitions of overweight and obesity for adults are based on
+BMI (1, 2). Weight and height can be measured relatively
+simply and accurately.
+BMI is a measure of weight adjusted for height and does not
+measure body composition directly. Obesity refers to an excess of
+body fat. The underlying assumption of using BMI to define
+obesity is that at a given height, higher weight is associated with
+increased fatness (3). However, BMI is an imperfect measure of
+body fatness (4, 5), largely because it does not directly measure
+fat mass. Dual-energy X-ray absorptiometry (DXA) is one of the
+most accurate and precise methods available to directly measure
+total body fat and lean soft tissue mass, but it requires special-
+ized DXA systems and X-ray exposure. Partly because of the
+limitations of BMI, the use of other simple measures to evaluate
+adiposity, such as waist circumference (WC) or the waist-stature
+ratio (WSR), has also been suggested (6­8).
+The objective of this study was to investigate the relations
+between BMI, WC, WSR, and percentage body fat (from DXA)
+in adults in a large nationally representative US population sample
+from the National Health and Nutrition Examination Survey
+(NHANES). We compare these measures with each other. We
+also estimate the percentile values of BMI, WC, and WSR that
+approximately correspond to specified values of percentage body
+fat.
+SUBJECTS AND METHODS
+In NHANES, a representative cross-sectional sample of the US
+civilian, noninstitutionalized population was selected by using
+a complex, multistage probability design. Beginning in 1999,
+NHANES is a continuous survey that includes an interview in the
+household followed by an examination in a mobile examination
+center. Adolescents aged 12­19 y, persons aged !60 y, blacks,
+and Mexican Americans were oversampled to produce more
+precise estimates for these groups. Data from NHANES 1999­
+2004 were used. NHANES 1999­2004 underwent institutional
+review board approval and included written informed consent.
+1 From the National Center for Health Statistics, Centers for Disease
+Control and Prevention, Hyattsville MD (KMF, ACL, LGB, CLO, and
+NS); the Department of Radiology, University of California, San Francisco,
+CA (JAS); and the National Cancer Institute, (BIG), the National Institute on
+Aging (TBH), and the National Institute of Diabetes and Digestive and
+Kidney Diseases, (JEE), National Institutes of Health, Bethesda, MD.
+2 The findings and conclusions of this report are those of the authors and
+do not necessarily represent those of abovementioned agencies.
+3 Reprints not available. Address correspondence to KM Flegal, National
+Center for Health Statistics, Centers for Disease Control and Prevention,
+3311 Toledo Road, Room 4201, Hyattsville, MD 20782. E-mail: kmf2@
+cdc.gov.
+Received August 16, 2008. Accepted for publication November 15, 2008.
+First published online December 30, 2008; doi: 10.3945/ajcn.2008.26847.
+500 Am J Clin Nutr 2009;89:500­8. Printed in USA. Ó 2009 American Society for Nutrition
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+Age was calculated in years at the time of the interview and
+was grouped for analysis as 20­39, 40­59, 60­79, and !80 y.
+Race and ethnicity were self-reported, and, for the purposes of
+this study, race-ethnicity groups were classified as non-Hispanic
+white, non-Hispanic black, Mexican American, and ``other''
+race-ethnicity. Weight, height (stature), and WC were measured
+by using standardized techniques and equipment (9). WC was
+measured just above the iliac crest. WSR was calculated as WC
+(cm)/height (m).
+Whole-body percentage body fat was calculated as total body
+fat mass divided by total mass (from DXA) 3 100. Whole-body
+DXA scans were acquired by using a Hologic QDR 4500A fan-
+beam densitometer (Hologic Inc, Bedford, MA) (9). The scan for
+each survey participant was reviewed and analyzed by the
+University of California, San Francisco (UCSF), Department
+of Radiology, using standard radiologic techniques and study-
+specific protocols developed for NHANES. Hologic Discovery
+software, version 12.1, was used to analyze the scans. Beyond
+planned exclusions, a number of participants were missing valid
+DXA data for a variety of reasons. The percentage of partic-
+ipants with valid data decreased with increasing age, primarily
+because of an increase in implants such as pacemakers, stents,
+and hip replacements. These artifacts can affect the accuracy of
+the DXA results. Metal appears as dense bone, and soft tissue
+implants such as breast augmentation appear as additional lean
+soft tissue mass. In addition, the proportion of participants with
+valid data was lower at higher BMI levels, in part because of
+truncal adiposity. The DXA scanner cannot penetrate much
+thicker than 15 cm, after which the accuracy of segmenting the
+bone is limited.
+Our analyses used the 5 NHANES 1999­2004 DXA Multiple
+Imputation Data Files as released by the National Center for
+Health Statistics (10). In part because data were not missing
+completely at random, missing DXA values were imputed in
+these public-use data sets. Because missing DXA data were
+related to age, BMI, weight, and height and possibly to other
+characteristics, participants with missing data could no be
+treated as a random subset of the original sample. Otherwise,
+analytic results could be biased toward participants with the
+least amount of missing data. Multiple imputation (11) was
+carried out to allow analyses to reflect the additional variability
+due to the use of imputed values for the missing data. With
+multiple imputation, M (in this case, M ¼ 5) versions of the
+imputed values are created randomly and independently under
+the imputation model, resulting in M completed data sets. Each
+data set is analyzed using the analysis that would be used with
+complete data, and the M sets of results are combined, with the
+variability across the M analyses measuring the additional var-
+iability due to missing data.
+The characteristics of the missing data and the imputation
+process for the NHANES 1999­2004 DXA Multiple Imputation
+Data Files are both described in detail in the technical docu-
+mentation (12). Briefly, however, a sequential regression mul-
+tivariate imputation procedure (13) was implemented separately
+within 10 age-by-sex groups. A large number of predictors were
+used, including the non-DXA variables analyzed in this article as
+well as body measurements, indicators of health, variables on
+diet and use of medications, blood test results, variables related
+to the design of the NHANES sample, and other demographic,
+socioeconomic, and geographic variables. In addition, the cor-
+relations between DXA measurements for different parts of the
+body were taken into account. Thus, when measurements were
+observed for some parts but not for others, the observed mea-
+surements were used to predict the missing values.
+The information used in the imputation process helps to adjust
+subsequent analyses for the fact that the persons with missing
+DXA data are not a completely random subset of the original
+NHANES sample. The multiple imputations help to reflect un-
+certainty in relations between the missing DXA values and other
+variables that are analyzed with them.
+Analytic sample
+This report uses data for participants aged !20 y. There were
+12,936 nonpregnant participants in this age range who had
+complete weight and height data. Of these participants, 3005
+were missing some or all DXA data and 2970 had some or all
+imputed DXA data for a final analytic sample size of 12,901
+nonpregnant adult participants with both BMI data and per-
+centage body fat data. Of these, 345 were missing data on WC,
+so the analyses based on WC used data on 12,556 participants,
+of whom 2678 had some or all imputed DXA data.
+Statistical methods
+We calculated sample-weighted Pearson correlation coef-
+ficients between each pair of the variables percentage body fat,
+BMI, WC, and WSR within each age-sex group. For purposes of
+statistically testing differences between correlation coefficients,
+these correlations were transformed by using Fisher's z trans-
+formation. For each imputation data set, the within-imputation
+component of variance for a difference between 2 transformed
+correlation coefficients was computed by using a (stratified)
+jackknife method leaving out one primary sample unit (PSU) at
+a time (14). These variances were combined with a between-
+imputation component of variance for the differences in the trans-
+formed correlations over the 5 imputation data sets (11); t tests
+were used to test for equality between 2 transformed correlations,
+and the df was determined according to Barnard and Rubin (15).
+Forty-seven df (number of PSUs 2 the number of sampling
+strata) was used as the complete-data df in this determination.
+Standard BMI categories are well established and widely used.
+However, categories of percentage fat are not well standardized.
+According to a World Health Organization expert committee,
+``there is no agreement about cut-off points for the percentage
+of body fat that constitutes obesity'' (16; p 420). Thus, we calcu-
+lated the weighted prevalence, averaged over the multiply im-
+puted data sets, of arbitrary categories of percentage body fat
+within age and sex groups using arbitrary increments of 5 per-
+centage points. Because the distribution of percentage body fat
+differed considerably between men and women, the ranges
+covered were different for men than for women. For descriptive
+purposes, we estimated the age and sex-specific percentile val-
+ues of BMI, WC, and WSR that would correspond to the per-
+centage fat categories in the sense that they identify the same
+percentiles and proportion of the distribution and thus produce
+approximately the same prevalence estimates as the percentage
+fat categories. We used these levels to create categories of BMI,
+WC, and WSR that were prevalence-matched to the percentage
+fat categories. The overall classification by age- and sex-specific
+PERCENTAGE BODY FAT, BMI, AND WAIST CIRCUMFERENCE 501
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+categories was evaluated by calculating the percentage of
+the population that fell into the corresponding category by any
+2 measures (exact agreement) and using separate logistic
+regression to model the dependence of exact agreement between
+each pair of measures on sex, age group, and race-ethnicity
+group. We also calculated the percentage that agreed to within
+one category. The BMI, WC, and WSR categories were de-
+termined empirically to match the percentage fat categories.
+This empirical determination was not taken into account in the
+estimation of the SEs in our analysis involving the BMI, WC,
+and WSR categories; therefore, these SEs were most likely
+slightly underestimated.
+Analyses were conducted with PC-SAS (version 9.1; SAS
+Institute, Cary, NC) and SUDAAN (version 9.03; Research
+Triangle Institute, Research Triangle Park, NC). All statistical
+analyses used sample weights and accounted for the sample
+design and the multiple imputations. Estimates were averaged
+over the 5 sets of imputations. Statistical significance was de-
+termined based on a P value ,0.05 with Bonferroni adjustment.
+RESULTS
+Basic descriptive information about the analytic sample is
+shown in Table 1. Differences in mean values between men and
+women were tested by using a 2-sample t test for complex
+survey data (14). Pearson correlations between percentage fat,
+BMI, WC, and WSR are shown in Table 2 by sex and age group.
+Correlations by race-ethnicity group within sex and age groups
+were similar to those seen overall (data not shown). All corre-
+lations were significantly greater than zero (P , 0.0001). For
+men, the correlations between percentage fat and BMI ranged
+from 0.789 (20­39 y of age) to 0.716 (!80 y of age). The
+corresponding values for women were 0.839 and 0.724. For
+comparisons between pairs of correlations, statistical signifi-
+cance was based on a P value of 0.00045, which was equivalent
+to a P value of , 0.05 after Bonferroni correction. For men,
+percentage fat was significantly more highly correlated with WC
+or with WSR than with BMI (P , 0.00001, except in the oldest
+age group in which the differences were not statistically sig-
+nificant). For women, percentage fat was significantly more
+highly correlated with BMI than with WC (P , 0.00001), ex-
+cept in the oldest age group in which the difference was not
+statistically significant (P ¼ 0.037). For women, percentage fat
+tended to be more highly correlated with BMI than with WSR
+(P , 0.05), but the difference was statistically significant only
+for women aged 40­59 y (P , 0.00001). WSR tended to be
+slightly more correlated with percentage fat than was WC alone;
+the differences were statistically significant only in the youngest
+age group for both men (P , 0.0001) and women (P , 0.0001).
+For both men and women and within each age group, WC and
+BMI were significantly more highly correlated with each other
+than either was with percentage fat (P , 0.00001 for all sex-age
+groups). Similarly, WSR and BMI were significantly more
+highly correlated with each other than either was with per-
+centage fat (P , 0.00001 for all sex-age groups).
+The distribution of percentage fat categories and the corre-
+sponding values for BMI, WC, and WSR are shown by age group
+in Table 3 for men and in Table 4 for women. We identified
+cutoffs for BMI, WC, and WSR that corresponded to the same
+percentiles of the distribution as did the percentage fat values
+and thus were matched to percentage fat categories in the sense
+that these cutoffs would categorize the same proportion of
+people within each BMI or waist or WSR category as did the
+corresponding percentage fat category, although not necessarily
+the same individuals. For example, 1.9% of men aged 20­39 y
+had percentage fat values !40; the corresponding BMI cutoff
+of 43 shown in Table 3 identified the highest 1.8% of BMI values,
+a WC cutoff of 136 cm or more identified the highest 2.0% of
+WC values, and a WSR cutoff of 75 identified the highest 1.8%
+of WSR values. Although the prevalence estimates could not
+always be matched exactly, the cutoffs shown in Tables 3 and
+4 are the closest rounded values, and generally the prevalences
+matched within 1 percentage point or less. These values suggest
+that, for men in the age group 20­39 y, cutoffs of a BMI of 25,
+a WC of 90 cm, or a WSR of 51 represent approximately the
+same percentile of their respective distributions as a percentage
+fat cutoff of 25%. However, in the oldest age group, a percent-
+age fat cutoff of 25 was equivalent to the same percentile as
+a cutoff of a BMI of 22 or a WC of 89 cm. At higher values
+of percentage fat, the range of BMI values corresponding to a
+5-percentage-point increase in body fat was wider than at lower
+values of percentage fat. For example, for men aged 20­39 y, the
+range of BMIs corresponding to a range in percentage body fat
+from 20 to ,25% was 23 to ,25, but the range of BMI values
+corresponding to a range in percentage body fat from 35% to
+40% was wider, 35 to ,43. Similar results were observed for
+WC and WSR as well.
+We applied the age- and sex-specific cutoffs shown in Tables
+3 and 4 to create BMI, WC, and WSR categories corresponding
+to the prevalence of the percentage fat categories shown in Tables
+3 and 4. Thus, all 4 sets of categories (percentage fat categories,
+BMI categories, WC categories, and WSR categories) represent
+similar estimated prevalences within each age-sex group. We
+then assessed the agreement between percentage fat, BMI, WC,
+and WSR categories by calculating the percentage of the population
+that fell into the corresponding categories by 2 different
+TABLE 1
+Descriptive information (weighted estimates) for the analytic sample
+Men Women
+Unweighted sample size 6477 6424
+Weighted percentage (%) 48.9 51.1
+Age group (% of total)
+20­39 y 41.2 36.4
+40­59 y 38.9 38.9
+60­79 y 17.1 20.0
+!80 y 2.8 4.7
+Race-ethnicity group (% of total)
+Non-Hispanic white 72.0 71.6
+Non-Hispanic black 10.0 11.5
+Mexican American 8.1 6.4
+Other 9.9 10.6
+Percentage body fat (%) 28.1 6 0.101 39.9 6 0.162
+BMI (kg/m2) 27.9 6 0.10 28.2 6 0.142
+Waist circumference (cm) 99.5 6 0.25 93.1 6 0.372
+Waist-stature ratio 56.5 6 0.14 57.5 6 0.232
+1 Mean 6 SE (all such values).
+2 Significantly different from men, P , 0.05 (2-sample t test for com-
+plex survey data).
+502 FLEGAL ET AL
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+measures and also the percentage that agreed to within one
+category by 2 different measures. For example, a woman in the
+age range 20­39 y with an estimated percentage body fat of 35%
+and a BMI of 23 would fall into corresponding categories by
+these 2 measures, as shown in Table 4. However, if the BMI was
+22, the woman would fall into a lower BMI category and thus be
+considered to fall into different categories by these 2 measures,
+but to agree within one category. The results for exact agreement
+and agreement to within one category are presented in Table 5.
+Overall, 46% of men and 49% of women were in the same
+category by percentage fat and by BMI. Results for the agreement
+of WC categories with percentage body fat categories were similar
+tothose for the agreement ofBMI categories withpercentage body
+fat categories, with estimates slightly higher for men (51%
+agreement of WC categories with percentage body fat categories
+compared with 46% agreement of BMI categories with percentage
+body fat categories; P , 0.00002 for the difference) and slightly
+lower for women (42% agreement of WC categories with per-
+centage body fat categories compared with 49% agreement of
+BMI categories with percentage body fat categories; P , 0.00001
+for the difference). Estimates of agreement for WSR with per-
+centage body fat were similar to those for WC and differences
+between estimates of agreement with percentage body fat for WC
+and estimates of agreement with percentage body fat for WSR
+were not statistically significant (P ¼ 0.23 for the difference for
+men and P ¼ 0.43 for women) As was also seen for the correlation
+TABLE 2
+Pearson correlations of percentage body fat, BMI, waist circumference (WC), and waist-stature ratio (WSR)
+by sex and age group1
+Sex and
+age group
+Percentage body
+fat with BMI
+Percentage body
+fat with WC
+Percentage body
+fat with WSR
+BMI
+with WC
+BMI
+with WSR
+WC
+with WSR
+Men
+20­39 y 0.789a 0.855b 0.870c 0.941d 0.944d 0.961e
+40­59 y 0.755a 0.819b 0.823b 0.921c 0.933c 0.947c
+60­79 y 0.738a 0.785b 0.801b 0.927c 0.926c 0.942d
+!80 y 0.716a 0.736a 0.756a 0.904b,c 0.903b 0.933c
+Women
+20­39 y 0.839a 0.804b 0.819a 0.928c 0.936d 0.973e
+40­59 y 0.798a 0.768b 0.780a,b 0.912c 0.922c 0.969d
+60­79 y 0.763a 0.697b 0.700b 0.882c 0.886c 0.959d
+!80 y 0.724a 0.650a 0.657a 0.852b 0.856b 0.955c
+1 Within each sex-age group, values with different superscript letters are significantly different, P ¼ 0.00045 (equiv-
+alent to P , 0.05 after Bonferroni correction). Comparisons were not made between sex-age groups. For the statistical
+testing of differences between correlation coefficients, correlations were transformed by using Fisher's z transformation, and
+t tests were used to test for equality between 2 transformed correlations.
+TABLE 3
+Weighted prevalences of specified percentage body fat categories by age group and corresponding percentiles of BMI, waist circumference (WC), and
+waist-stature ratio (WSR): men
+Percentage body fat
+,15 15 to ,20 20 to ,25 25 to ,30 30 to ,35 35 to ,40 !40
+Prevalence
+20­39 y 3.8 6 0.41 15.7 6 0.8 23.1 6 1.0 30.3 6 1.1 17.9 6 1.0 7.4 6 0.7 1.9 6 0.3
+40­59 y 0.4 6 0.1 5.8 6 0.7 16.9 6 1.0 37.4 6 1.3 27.6 6 1.4 9.9 6 1.0 2.0 6 0.4
+60­79 y 0.3 6 0.1 1.4 6 0.3 10.8 6 0.8 29.9 6 1.4 35.3 6 1.3 17.9 6 1.3 4.3 6 0.6
+!80 y 0.0 6 0.0 2.4 6 0.8 9.7 6 1.3 31.4 6 2.0 35.6 6 2.4 17.7 6 2.0 3.2 6 1.0
+Corresponding BMI percentiles
+20­39 y ,19 19 to ,23 23 to ,25 25 to ,30 30 to ,35 35 to ,43 !43
+40­59 y ,18 18 to ,22 22 to ,25 25 to ,29 29 to ,34 34 to ,43 !43
+60­79 y ,18 18 to ,20 20 to ,23 23 to ,27 27 to ,32 32 to ,38 !38
+!80 y ,19 19 to ,22 22 to ,25 25 to ,29 29 to ,34 !34
+Corresponding WC percentiles
+20­39 y ,73 73 to ,82 82 to ,90 90 to ,102 102 to ,114 114 to ,136 !136
+40­59 y ,71 71 to ,83 83 to ,92 92 to ,104 104 to ,117 117 to ,136 !136
+60­79 y ,74 74 to ,80 80 to ,91 91 to ,102 102 to ,114 114 to ,129 !129
+!80 y -- ,79 79 to ,89 89 to , 98 98 to ,108 108 to ,123 !123
+Corresponding WSR percentiles
+20­39 y ,42 42 to ,47 47 to ,51 51 to ,58 58 to ,65 65 to ,75 !75
+40­59 y ,41 41 to ,47 47 to ,52 52 to ,59 59 to ,66 66 to ,77 !77
+60­79 y ,43 43 to ,47 47 to ,52 52 to ,58 58 to ,65 65 to ,74 !74
+!80 y -- ,46 46 to ,52 52 to ,58 58 to ,64 64 to ,71 !71
+1 Mean 6 SE (all such values).
+PERCENTAGE BODY FAT, BMI, AND WAIST CIRCUMFERENCE 503
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+coefficients, BMI categories and WC categories or WSR catego-
+ries showed better agreement with each other than either did with
+percentage fat categories (P , 0.0001). For men, the percentage
+who agreed in classification to within one category ranged from
+93% to 100% across all measures. For women, the range was
+slightly lower, from 91% to 100%. Approximately 33% of the
+respondents [34.7% of men (95% CI: 33.3, 36.0) and 30.0% of
+women (95% CI: 28.5, 31.5)] fell into the same category by
+3 measures: percentage fat, BMI, and WSR.
+As examples, more detailed information on the distribution of
+agreement, based on the cutoffs in Tables 3 and 4, is shown
+graphically for non-Hispanic white men aged 20­39 y (Figure
+1) and for non-Hispanic white women aged 20­39 y (Figure 2).
+These figures show the proportion of the sample in the indicated
+percentage fat categories; within each percentage fat category,
+they show the proportion of the total sample that are in the same
+BMI category, or one category lower or higher, or 2 or more
+categories lower or higher. Thus, for example, in Figure 1,
+30.6% of the men in this subgroup fell into the percentage fat
+category of 25 to ,30%. Slightly more than 50% of these men
+(17.6% of the men in this subgroup) fell into the corresponding
+BMI category, 5.7% fell into the next higher BMI category,
+0.1% fell into !2 higher BMI categories, 5.3% fell into the next
+lower BMI category, and 1.8% fell into !2 BMI categories
+lower. The corresponding values for WSR categories were
+18.9% (same), 5.9% (one higher), 0.1% (!2 higher), 4.9% (one
+lower), and 0.8% (!2 lower).
+In sex-specific logistic models adjusted for age group and race-
+ethnic group, both the agreement of BMI categories with per-
+centage fat (P ¼ 0.0004 for men, P ¼ 0.0623 for women) and the
+agreement of WC categories with percentage fat (P ¼ 0.0016
+for men, P ¼ 0.0518 for women) tended to vary significantly by
+race-ethnicity categories. For both men and women, the agree-
+ment of BMI categories with percentage fat categories was
+TABLE 4
+Weighted prevalences of specified percentage body fat categories by age group and corresponding percentiles of BMI, waist circumference (WC), and
+waist-stature ratio (WSR): women
+Percentage body fat
+,25 25 to ,30 30 to ,35 35 to ,40 40 to ,45 45 to ,50 !50
+Prevalence
+20­39 y 4.2 6 0.61 10.7 6 1.1 20.6 6 1.1 24.4 6 1.3 22.6 6 1.1 12.5 6 0.9 4.9 6 0.6
+40­59 y 1.6 6 0.4 4.9 6 0.7 12.6 6 1.0 24.3 6 1.1 30.6 6 1.2 19.5 6 1.1 6.6 6 0.7
+60­79 y 0.4 6 0.2 1.4 6 0.3 7.6 6 0.8 19.8 6 1.3 36.6 6 1.4 26.8 6 1.2 7.3 6 0.7
+!80 y 1.8 6 1.1 3.2 6 1.0 13.7 6 1.6 20.9 6 2.1 37.8 6 2.6 19.5 6 2.1 3.1 6 1.1
+Corresponding BMI percentiles
+20­39 y ,19 19 to ,21 21 to ,23 23 to ,27 27 to ,34 34 to ,42 !42
+40­59 y ,18 18 to ,20 20 to ,23 23 to ,26 26 to ,33 33 to ,41 !41
+60­79 y ,17 17 to ,19 19 to ,22 22 to ,25 25 to ,30 30 to ,38 !38
+!80 y ,18 18 to ,19 19 to ,22 22 to ,24 24 to ,29 29 to ,38 !38
+Corresponding WC percentiles
+20­39 y ,69 69 to ,74 74 to ,81 81 to ,90 90 to ,104 104 to ,120 !120
+40­59 y ,69 69 to ,73 73 to ,80 80 to ,90 90 to ,104 104 to ,121 !121
+60­79 y ,66 66 to ,72 72 to ,80 80 to ,89 89 to ,102 102 to ,119 !119
+!80 y ,68 68 to ,72 72 to ,81 81 to ,89 89 to ,103 103 to ,116 !116
+Corresponding WSR percentiles
+20­39 y ,42 42 to ,45 45 to ,49 49 to ,55 55 to ,64 64 to ,74 !74
+40­59 y ,42 42 to ,45 45 to ,49 49 to ,56 56 to ,64 64 to ,74 !74
+60­79 y ,42 42 to ,45 45 to ,50 50 to ,56 56 to ,64 64 to ,74 !74
+!80 y ,43 43 to ,46 46 to ,52 52 to ,58 58 to ,66 66 to ,75 !75
+1 Mean 6 SE (all such values).
+TABLE 5
+Percentage exact agreement between percentage fat categories shown in Tables 3 (men) and 4 (women) and BMI, waist circumference (WC), and
+waist-stature ratio (WSR) categories based on the percentile cutoffs shown in Tables 3 and 41
+Percentage body
+fat with BMI
+Percentage body
+fat with WC
+Percentage body
+fat with WSR
+BMI
+with WC
+BMI
+with WSR
+WC
+with WSR
+Exact
+Men 46 6 0.7a 51 6 0.8b 53 6 0.8b 65 6 0.8c 65 6 0.8c 71 6 0.8d
+Women 49 6 0.9a 42 6 0.9b 43 6 0.8b 59 6 0.8c 60 6 0.8c 73 6 0.9d
+Within one category
+Men 93 6 0.4a 97 6 0.2b 97 6 0.3c 99 6 0.2d 99 6 0.2d 100 6 0.1d
+Women 94 6 0.5a 91 6 0.6b 92 6 0.6c 98 6 0.2d 98 6 0.2d 100 6 0.0e
+1 All values are means 6 SEs. Within each row, values with different superscript letters are significantly different, P ¼ 0.001 (equivalent to P , 0.05 after
+Bonferroni correction); t tests were used to test for equality.
+504 FLEGAL ET AL
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+significantly lower for non-Hispanic black men (odds ratio: 0.76;
+95% CI: 0.65, 0.90) and women (odds ratio: 0.81; 95% CI: 0.70,
+0.94) than for non-Hispanic whites. For WC categories, the
+agreement also tended to be lower for non-Hispanic blacks than
+for non-Hispanic whites, although this was statistically significant
+only for women (odds ratio: 0.84; 95% CI: 0.74, 0.96) and not for
+men (odds ratio: 0.88; 95% CI: 0.75, 1.02). For the WSR cate-
+gories, there were no significant differences between race-
+ethnicity groups for men (odds ratio: 1.01; 95% CI: 0.86, 1.19) or
+for women (odds ratio: 0.92; 95% CI: 0.77, 1.11). Agreement
+for Mexican Americans did not differ significantly from non-
+Hispanic whites in any analyses. Because of the tendency for
+agreement to be significantly lower for non-Hispanic blacks than
+for other race-ethnicity groups, specific cutoffs for BMI and
+WC for non-Hispanic black men and women are shown in Table 6
+and Table 7, respectively. For example, the data in this table show
+that among non-Hispanic black men aged 20­39 y, a BMI of 27
+to ,32 corresponds more closely to the percentage fat category of
+25 to ,30% than does the overall BMI range of 25 to ,30 shown
+in Table 3, which suggests that at a given BMI, percentage fat is
+somewhat lower in non-Hispanic blacks than in the full sample
+or in non-Hispanic whites.
+DISCUSSION
+In this large population-based, nationally representative
+sample, WC, WSR, BMI, and DXA-derived percentage body fat
+were all highly correlated with each other within sex-age groups.
+BMI, WC, and WSR all performed very similarly as indirect
+measures of body fat, and they were more closely related to each
+other than with percentage body fat. Percentage fat tended to be
+slightly but significantly more correlated with WC than with BMI
+among men, but significantly more correlated with BMI than with
+WC among women; the differences were slight. Generally,
+similar correlations of BMI with percentage body fat have been
+found in other studies (17­22). Others (19, 23) have also found
+that WC is slightly more correlated with fat than was BMI
+among men but slightly less so among women.
+We estimated values of BMI, WC, and WSR that identified the
+same percentiles of the distribution as did arbitrary percentage
+body fat categories and thus identified the same proportion of
+the population. Approximately 40­50% of respondents were
+classified into equivalent categories of WC, WSR, or BMI,
+and .90% were classified similarly to within one category. The
+purpose of presenting these values is to describe the distributions
+of these variables and not to propose that these cutoff values be
+used for categorization. Further research is needed to show how
+best to use BMI, WC, or WSR to classify individuals according to
+percentage fat. However, the relatively good agreement between
+these variables suggests that BMI, WC, and WSR may serve well
+in classifying individuals into broad categories corresponding to
+percentage fat categories. Agreement in classification by WC or
+WSR relative to BMI was higher, in the range of 60­70%.
+In .90% of cases, and often in 99% or 100% of cases, classi-
+fications differed by only one category.
+FIGURE 1. Agreement of BMI and waist-stature (WSR) categories
+shown in Table 3 with percentage fat categories for non-Hispanic white
+men aged 20­39 y.
+FIGURE 2. Agreement of BMI and waist-stature (WSR) categories
+shown in Table 4 with percentage fat categories for non-Hispanic white
+women aged 20­39 y.
+PERCENTAGE BODY FAT, BMI, AND WAIST CIRCUMFERENCE 505
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+As shown previously (17, 18), and as would be expected from
+considerations of body composition (24, 25), percentage fat does
+not increase linearly with body weight. Thus, a given difference
+in BMI, WC, or WSR at low levels reflects a larger change in
+percentage fat than does the same difference in BMI, WC, or
+WSR at high levels.
+BMI is widely used in epidemiologic studies to assess the risks
+of health outcomes associated with different levels of body
+weight. Some studies have suggested that WC, either singly or in
+combination with BMI, may have a stronger relation to some
+health outcomes than BMI alone (6, 26­28). In the NHANES
+data, both BMI and WC had a similar relation to percentage body
+fat and both were more highly correlated with each other than
+with percentage body fat. It is not clear whether percentage
+body fat is the most relevant variable in terms of relation of body
+composition with health outcomes; some other aspect of body
+composition such as lean mass or visceral adipose tissue might be
+equally or more important. Bosy-Westphal et al (23) found that,
+for practical purposes at the population level, BMI, WC, and
+percentage fat all predicted metabolic risk factors equally well.
+Similar findings have been reported by Dalton et al (29). Vazquez
+et al (30) found that BMI and WC performed equally well in
+predicting incident diabetes. Shen et al (31) found that WC was
+more highly related to health risk factors than was percentage
+body fat. Although WC has been suggested to be a better
+measure of visceral adipose tissue (32), some evidence suggests
+that it may also primarily be related to total body fat rather than
+to visceral adiposity per se (33). Different health outcomes may
+have different relations to body composition and to these various
+highly correlated measures, so that the results may vary de-
+pending on the outcomes examined and on other characteristics
+of the study samples.
+WSR has been suggested to be a better indicator of adiposity
+than WC alone (7, 8). In the NHANES data, WSR tended to be
+a slightly better indicator of percentage fat than was WC alone,
+although the differences were not large. The cutoff value of 50
+for WSR, suggested by Ashwell and Hsieh (8), is close to the
+percentile that corresponds to percentage of 25% for men or of
+35% for women; differences could arise in part from measuring
+WC at a different anatomic location.
+Other approaches have been taken to finding values of per-
+centage fat comparable with BMI categories from samples with
+both weight and height measures and body fat measures. Norgan
+and Ferro-Luzzi (34) used prediction equations to predict per-
+centage body fat (estimated from underwater weighing) at dif-
+ferent BMI levels for men and found cutoff values of 15%, 22%,
+29%, and 42% corresponding to BMI values of 20, 25, 30, and
+40--roughly similar to our estimates. Several studies have used
+TABLE 6
+Percentile cutoffs for BMI and waist circumference (WC) corresponding to specified percentage body fat categories
+for non-Hispanic black men by age group
+Percentage body fat
+,15 15 to ,20 20 to ,25 25 to ,30 30 to ,35 35 to ,40 !40
+Corresponding BMI percentiles
+20­39 y ,21 21 to ,24 24 to ,27 27 to ,32 32 to ,40 40 to ,50 !50
+40­59 y ,19 19 to ,23 23 to ,26 26 to ,31 31 to ,37 37 to ,48 !48
+60­79 y ,18 18 to ,21 21 to ,24 24 to ,29 29 to ,34 34 to ,39 !39
+!80 y -- --1 ,23 23 to ,26 26 to ,29 29 to ,36 !36
+Corresponding WC percentiles
+20­39 y ,75 75 to ,83 83 to ,91 91 to ,103 103 to ,119 119 to ,140 !140
+40­59 y ,73 73 to ,84 84 to ,93 93 to ,107 107 to ,120 120 to ,148 !148
+60­79 y ,74 74 to ,82 82 to ,93 93 to ,103 103 to ,117 117 to ,131 !131
+!80 y -- --1 ,89 89 to ,100 100 to ,108 108 to ,127 !127
+1 Insufficient data.
+TABLE 7
+Percentile cutoffs for BMI and waist circumference (WC) corresponding to specified percentage body fat categories for
+non-Hispanic black women by age group
+Percentage body fat
+,25 25 to ,30 30 to ,35 35 to ,40 40 to ,45 45 to ,50 !50
+Corresponding BMI percentiles
+20­39 y ,19 19 to ,22 22 to ,25 25 to ,30 30 to ,36 36 to ,46 !46
+40­59 y ,19 19 to ,21 21 to ,24 24 to ,28 28 to ,35 35 to ,43 !43
+60­79 y ,20 20 to ,22 22 to ,24 24 to ,28 28 to ,34 34 to ,41 !41
+!80 y --1 ,21 21 to ,23 23 to ,26 26 to ,33 33 to ,40 !40
+Corresponding WC percentiles
+20­39 y ,67 67 to ,76 76 to ,84 84 to ,93 93 to ,108 108 to ,127 !127
+40­59 y ,67 67 to ,76 76 to ,85 85 to ,93 93 to ,107 107 to ,121 !121
+60­79 y ,74 74 to ,79 79 to ,84 84 to ,96 96 to ,107 107 to ,121 !121
+!80 y --1 ,75 75 to ,82 82 to ,92 92 to ,104 104 to ,122 !122
+1 Insufficient data.
+506 FLEGAL ET AL
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+receiver operating characteristic curves to assess different an-
+thropometric measures relative to percentage body fat (5, 17, 35).
+That approach, however, requires specifying a fixed percentage
+body fat as the outcome; at present, there are no standard or widely
+accepted categories of percentage body fat, as evidenced in part
+by the fact that each of these articles used different cutoffs.
+The relation of BMI to percentage fat varies by sex, age, and
+race-ethnicity group (22, 36), so that the percentage fat that
+a given BMI represents will tend to vary across sex, age, and
+race-ethnicity. Considerable discussion has addressed the public
+health and policy issues of using different BMI cutoffs for dif-
+ferent ethnicity groups that have different relations of BMI to
+body fat and to health risks (36­45). Our findings confirm that
+the same BMI categories are associated with lower levels of
+body fat in non-Hispanic blacks than in other race-ethnic groups
+(36, 46, 47) and indicate that this is also the case for WC. Other
+research has also suggested that the health risks associated with
+a given BMI level may be lower for blacks than for whites (44,
+46, 48­51). In general, the selection of BMI cutoffs is related to
+health outcomes, but the method used to establish exact cutoffs
+has been called ``largely arbitrary'' (16). The BMI, WC, or WSR
+cutoffs that identify similar levels of body fat across age, sex,
+and ethnicity groups may differ from the BMI, WC, or WSR
+cutoffs that identify similar levels of health risk across age, sex,
+and ethnicity groups.
+Our study had some limitations. Percentage fat was based only
+on DXA measurements, not on more complex body-composition
+models such as a 4-compartment model (52­56). WC was mea-
+sured just above the iliac crest, and this may limit the compara-
+bility of our results with WC measured in other anatomic locations
+(57). Multiple imputation methods were used to adjust for missing
+DXA data. As with any method that adjusts analyses for missing
+data, the validity of results depends on the validity of the as-
+sumptions about the missing data.
+The results presented herein show the values of BMI, WC, and
+WSR that will divide the population into categories prevalence-
+matched to those identified by the percentage body fat categories.
+These are presented for descriptive purposes and not as a pro-
+posed approach to use in categorizing these variables. However,
+they may assist in showing the distributions of BMI, WC, and
+WSR relative to the distribution of percentage fat. These values
+vary by age, sex, and to some extent by race-ethnicity group. In
+general, BMI, WC, WSR, and percentage body fat are all closely
+related, and, as percentage body fat increases, BMI, WC, and
+WSR all increase. BMI and WC or WSR showed somewhat
+higher agreement with each other than either did with percentage
+fat. For men, WC and WSR agreed slightly better than did BMI
+with categories of percentage fat. For women, however, BMI
+agreed with categories of percentage fat better than did WC or
+WSR. Although an estimate of body fat based on BMI, WC, or
+WSR for an individual may be inaccurate, overall BMI, WC, and
+WSR values correspond fairly well within groups and distinguish
+categories of body fatness.
+The authors' responsibilities were as follows--KMF: study design and
+writing of the first draft of the manuscript; JAS, LGB, and ACL: acquisition
+and interpretation of data from the DXA scans; NS, LGB, ACL, and KMF:
+multiple imputation of DXA data; and BIG and NS: statistical analysis. All
+authors: analysis and interpretation of the data and critical revision of the
+manuscript for important intellectual content. None of the authors had a per-
+sonal or financial conflict of interest.
+REFERENCES
+1. Expert Panel on the Identification, Evaluation, and Treatment of Over-
+weight in Adults. Clinical guidelines on the identification, evaluation,
+and treatment of overweight and obesity in adults: executive summary.
+Am J Clin Nutr 1998;68:899­917.
+2. WHO. Obesity: preventing and managing the global epidemic: report
+of a WHO consultation. World Health Organ Tech Rep Ser 2000;894:
+1­253.
+3. Benn RT. Some mathematical properties of weight-for-height indices
+used as measures of adiposity. Br J Prev Soc Med 1971;25:42­50.
+4. Roche AF, Sievogel RM, Chumlea WC, Webb P. Grading body fatness
+from limited anthropometric data. Am J Clin Nutr 1981;34:2831­8.
+5. Wellens RI, Roche AF, Khamis HJ, Jackson AS, Pollock ML, Siervogel
+RM. Relationships between the body mass index and body composition.
+Obes Res 1996;4:35­44.
+6. Janssen I, Katzmarzyk PT, Ross R. Waist circumference and not body
+mass index explains obesity-related health risk. Am J Clin Nutr 2004;79:
+379­84.
+7. Ashwell M, Lejeune S, McPherson K. Ratio of waist circumference to
+height may be better indicator of need for weight management. BMJ
+1996;312:377.
+8. Ashwell M, Hsieh SD. Six reasons why the waist-to-height ratio is
+a rapid and effective global indicator for health risks of obesity and how
+its use could simplify the international public health message on obesity.
+Int J Food Sci Nutr 2005;56:303­7.
+9. National Center for Health Statistics. National Health and Nutrition
+Examination Survey: body composition procedures manual. Available
+from: http://www.cdc.gov/nchs/data/nhanes/bc.pdf(cited 8 October 2008).
+10. National Center for Health Statistics. NHANES 1999-2004 DXA Mul-
+tiple Imputation Data Files. Available from: http://www.cdc.gov/nchs/
+about/major/nhanes/dxx/dxa.htm. (cited 8 October 2008).
+11. Rubin DB. Multiple imputation for nonresponse in surveys. New York,
+NY: John Wiley, 1987.
+12. National Center for Health Statistics. National Health and Nutrition
+Examination Survey: technical documentation for the 1999-2004 dual
+energy X-ray absorptiometry (DXA) multiple imputation data files.
+Available from: http://www.cdc.gov/nchs/data/nhanes/dxa/dxa_techdoc.
+pdf(cited 8 October 2008).
+13. Raghunathan TE, Lepkowski JM, Van Hoewyk J, Solenberger P. A
+multivariate technique for multiply imputing missing values using a se-
+quence of regression models. Surv Methodol 2001;27:85­95.
+14. Korn EL, Graubard BI. Analysis of health surveys. New York, NY:
+John Wiley & Sons, Inc, 1999.
+15. Barnard J, Rubin DB. Miscellanea. Small-sample degrees of freedom
+with multiple imputation. Biometrika 1999;86:948­55.
+16. Expert WHO Committee on Physical Status. Physical status: the use and
+interpretation of anthropometry. World Health Organ Tech Rep Ser
+1995;854.
+17. Blew RM, Sardinha LB, Milliken LA, et al. Assessing the validity of
+body mass index standards in early postmenopausal women. Obes Res
+2002;10:799­808.
+18. Gallagher D, Heymsfield SB, Heo M, Jebb SA, Murgatroyd PR, Sakamoto
+Y. Healthy percentage body fat ranges: an approach for developing
+guidelines based on body mass index. Am J Clin Nutr 2000;72:694­701.
+19. Lean ME, Han TS, Deurenberg P. Predicting body composition by
+densitometry from simple anthropometric measurements. Am J Clin
+Nutr 1996;63:4­14.
+20. Piers LS, Soares MJ, Frandsen SL, O'Dea K. Indirect estimates of body
+composition are useful for groups but unreliable in individuals. Int J
+Obes Relat Metab Disord 2000;24:1145­52.
+21. Deurenberg P, Weststrate JA, Seidell JC. Body mass index as a measure
+of body fatness: age- and sex-specific prediction formulas. Br J Nutr
+1991;65:105­14.
+22. Gallagher D, Visser M, Sepulveda D, Pierson RN, Harris T, Heymsfield
+SB. How useful is body mass index for comparison of body fatness
+across age, sex, and ethnic groups? Am J Epidemiol 1996;143:228­39.
+23. Bosy-Westphal A, Geisler C, Onur S, et al. Value of body fat mass vs
+anthropometric obesity indices in the assessment of metabolic risk
+factors. Int J Obes 2006;30:475­83.
+24. Flegal KM. Anthropometric evaluation of obesity in epidemiologic re-
+search on risk factors: blood pressure and obesity in the Health Exam-
+ination Survey. PhD dissertation. Cornell University, Ithaca, NY, 1982.
+25. Garrow JS, Webster J. Quetelet's index (W/H2) as a measure of fatness.
+Int J Obes 1985;9:147­53.
+PERCENTAGE BODY FAT, BMI, AND WAIST CIRCUMFERENCE 507
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+26. Bigaard J, Tjonneland A, Thomsen BL, Overvad K, Heitmann BL,
+Sorensen TI. Waist circumference, BMI, smoking, and mortality in
+middle-aged men and women. Obes Res 2003;11:895­903.
+27. Bigaard J, Frederiksen K, Tjonneland A, et al. Waist circumference and
+body composition in relation to all-cause mortality in middle-aged men
+and women. Int J Obes 2005;29:778­84.
+28. Visscher TL, Seidell JC, Molarius A, van der Kuip D, Hofman A,
+Witteman JC. A comparison of body mass index, waist-hip ratio and
+waist circumference as predictors of all-cause mortality among the el-
+derly: the Rotterdam study. Int J Obes Relat Metab Disord 2001;25:
+1730­5.
+29. Dalton M, Cameron AJ, Zimmet PZ, et al. Waist circumference,
+waist-hip ratio and body mass index and their correlation with cardio-
+vascular disease risk factors in Australian adults. J Intern Med 2003;254:
+555­63.
+30. Vazquez G, Duval S, Jacobs DR Jr, Silventoinen K. Comparison of body
+mass index, waist circumference, and waist/hip ratio in predicting in-
+cident diabetes: a meta-analysis. Epidemiol Rev 2007;29:115­28.
+31. Shen W, Punyanitya M, Chen J, et al. Waist circumference correlates
+with metabolic syndrome indicators better than percentage fat. Obesity
+(Silver Spring) 2006;14:727­36.
+32. Lemieux S, Prud'homme D, Bouchard C, Tremblay A, Despres JP.
+A single threshold value of waist girth identifies normal-weight and
+overweight subjects with excess visceral adipose tissue. Am J Clin Nutr
+1996;64:685­93.
+33. Harris TB, Visser M, Everhart J, et al. Waist circumference and sagittal
+diameter reflect total body fat better than visceral fat in older men and
+women. The Health, Aging and Body Composition Study. Ann N Y
+Acad Sci 2000;904:462­73.
+34. Norgan NG, Ferro-Luzzi A. Weight-height indices as estimators of
+fatness in men. Hum Nutr Clin Nutr 1982;36:363­72.
+35. Curtin F, Morabia A, Pichard C, Slosman DO. Body mass index com-
+pared to dual-energy x-ray absorptiometry: evidence for a spectrum bias.
+J Clin Epidemiol 1997;50:837­43.
+36. Fernandez JR, Heo M, Heymsfield SB, et al. Is percentage body fat
+differentially related to body mass index in Hispanic Americans, African
+Americans, and European Americans? Am J Clin Nutr 2003;77:71­5.
+37. Appropriate body-mass index for Asian populations and its implications
+for policy and intervention strategies. Lancet 2004;363:157­63.
+38. Misra A. Revisions of cutoffs of body mass index to define overweight
+and obesity are needed for the Asian-ethnic groups. Int J Obes Relat
+Metab Disord 2003;27:1294­6.
+39. Pan WH, Flegal KM, Chang HY, Yeh WT, Yeh CJ, Lee WC. Body mass
+index and obesity-related metabolic disorders in Taiwanese and US
+whites and blacks: implications for definitions of overweight and obe-
+sity for Asians. Am J Clin Nutr 2004;79:31­9.
+40. Stevens J. Ethnic-specific revisions of body mass index cutoffs to define
+overweight and obesity in Asians are not warranted. Int J Obes Relat
+Metab Disord 2003;27:1297­9.
+41. Stevens J, Nowicki EM. Body mass index and mortality in asian pop-
+ulations: implications for obesity cut-points. Nutr Rev 2003;61:104­7.
+42. Aloia JF, Vaswani A, Ma R, Flaster E. Body composition in normal
+black women: the four-compartment model. J Clin Endocrinol Metab
+1996;81:2363­9.
+43. Aloia JF, Vaswani A, Ma R, Flaster E. Comparison of body composition
+in black and white premenopausal women. J Lab Clin Med 1997;129:
+294­9.
+44. Stevens J, Plankey MW, Williamson DF, et al. The body mass index-
+mortality relationship in white and African American women. Obes Res
+1998;6:268­77.
+45. Stevens J, Juhaeri, Cai J, Jones DW. The effect of decision rules on the
+choice of a body mass index cutoff for obesity: examples from African
+American and white women. Am J Clin Nutr 2002;75:986­92.
+46. Aloia JF, Vaswani A, Mikhail M, Flaster ER. Body composition by
+dual-energy X-ray absorptiometry in black compared with white
+women. Osteoporos Int 1999;10:114­9.
+47. Evans EM, Rowe DA, Racette SB, Ross KM, McAuley E. Is the current
+BMI obesity classification appropriate for black and white post-
+menopausal women? Int J Obes (Lond) 2006;30:837­43.
+48. Abell JE, Egan BM, Wilson PW, Lipsitz S, Woolson RF, Lackland DT.
+Age and race impact the association between BMI and CVD mortality
+in women. Public Health Rep 2007;122:507­12.
+49. Sanchez AM, Reed DR, Price RA. Reduced mortality associated with
+body mass index (BMI) in African Americans relative to Caucasians.
+Ethn Dis 2000;10:24­30.
+50. Stevens J, Keil JE, Rust PF, Tyroler HA, Davis CE, Gazes PC. Body
+mass index and body girths as predictors of mortality in black and white
+women. Arch Intern Med 1992;152:1257­62.
+51. Wienpahl J, Ragland DR, Sidney S. Body mass index and 15-year
+mortality in a cohort of black men and women. J Clin Epidemiol 1990;
+43:949­60.
+52. Ball SD, Altena TS, Swan PD. Comparison of anthropometry to DXA:
+a new prediction equation for men. Eur J Clin Nutr 2004;58:1525­31.
+53. Salamone LM, Fuerst T, Visser M, et al. Measurement of fat mass using
+DEXA: a validation study in elderly adults. J Appl Physiol 2000;89:
+345­52.
+54. van der Ploeg GE, Withers RT, LaForgia J. Percent body fat via DEXA:
+comparison with a four-compartment model. J Appl Physiol 2003;94:
+499­506.
+55. Withers RT, LaForgia J, Pillans RK, et al. Comparisons of two-, three-,
+and four-compartment models of body composition analysis in men and
+women. J Appl Physiol 1998;85:238­45.
+56. Withers RT, LaForgia J, Heymsfield SB. Critical appraisal of the esti-
+mation of body composition via two-, three-, and four-compartment
+models. Am J Hum Biol 1999;11:175­85.
+57. Wang J, Thornton JC, Bari S, et al. Comparisons of waist circum-
+ferences measured at 4 sites. Am J Clin Nutr 2003;77:379­84.
+508 FLEGAL ET AL
+by guest on March 2, 2015
+ajcn.nutrition.org
+Downloaded from
+

@@ -1,0 +1,538 @@
+Abstract
+Background Antisocial lifestyle includes a range of related
+behaviours which constitute threats to health. Links between
+health outcomes and particular behaviours have been investi-
+gated, but the overall impact on health is largely unknown. In
+part, this reflects lack of longitudinal studies designed to link
+offending and other antisocial behaviour, injury and illness.
+Methods Injury and illness data were collected prospectively
+in the longitudinal Cambridge Study of Delinquent Develop-
+ment (CSDD) for the age ranges 16­18 and 27­32. These
+data were translated into Read clinical codes, version 3.1 and
+categorized. Three hypotheses underpinned this investiga-
+tion: that links between (i) convictions and injury and be-
+tween (ii) childhood predictors of delinquency and injury at
+age 16­18 would be maintained at age 27­32; that (iii) anti-
+social behaviour at age 16­18 would be linked to injury at age
+27­32; and that (iv) observed links between antisocial
+behaviour and decreased illness at age 16­18 would be
+reversed by age 27­32.
+Results Childhood predictors of teenage offending predicted
+injury and cardiovascular and psychological illness at age
+27­32. Delinquency predicted road, home and self injury and
+psychological disorder, but was associated with less illness
+and hospital admission. Measures of antisocial behaviour at
+age 18 which most strongly predicted illness/injury at age 32
+were drunk driving, fighting after drinking, sexual promiscu-
+ity and heavy smoking. Relationships at age 16­18 between
+heavy alcohol consumption and less infection and less
+organic illness remained at age 27­32. Links common to both
+age 16­18 and age 27­32 were those between convictions,
+heavy regular drinking, low job status and injury; and links
+between convictions and less organic illness. Principal differ-
+ences included links between convictions and psychological
+disorders only found at age 27­32.
+Conclusions Antisocial lifestyle was associated with injury
+and psychological disorders up to age 32 but also with less
+organic illness. Alcohol consumption at age 16­18 predicted
+fewer illnesses overall, and fewer infections 15 years later.
+These negative associations are important and deserve further
+study.
+Keywords: antisocial lifestyle, illness, injury, longitudinal
+study
+Introduction
+Although specific behaviours, such as substance misuse, violent
+offending and sexual promiscuity constitute self-evident health
+risks, the overall relationship between antisocial lifestyle and
+health is largely unknown. In part, this reflects absence of longit-
+udinal investigations of links between offending and its pre-
+cursors, and illness and injury.
+Prospective longitudinal data on both offending and morbid-
+ity are available however, from the Cambridge Study of Delin-
+quent Development (CSDD) and have been studied to find out
+how illness and injury relate to concurrent offending, whether
+offending predicts illness and injury or vice versa and whether
+relations persist after adjustment for childhood predictors of
+offending.1 When information about injuries and illnesses
+between ages 16 and 18 was set against information on offend-
+ing and other types of antisocial behaviour, it was found that
+males who were injured, especially in assaults, tended to be
+convicted, to be violent, to have unskilled manual jobs and to
+be generally antisocial. Surprisingly, respiratory tract illnesses
+were negatively related to convictions and antisocial behaviour
+in general. However, illicit drug users were significantly likely to
+be ill. Adult convictions were predicted by childhood trouble-
+some behaviour, daring/hyperactivity, low IQ/attainment, a
+convicted parent, family disruption/poor supervision and
+poverty. Assault injuries and respiratory tract illnesses did not
+predict adult convictions independently of these childhood fac-
+tors. This first longitudinal study of offending and health con-
+cluded that injury is one symptom of an antisocial personality
+which arises in childhood and persists into adulthood and there-
+fore, that measures that lead to a reduction in offending (like
+pre-school education and early family support) should also lead
+to a reduction in concurrent injuries. It was concluded that the
+observed negative relation between a range of antisocial
+behaviours and respiratory tract illness deserved further investi-
+gation.1
+The study reported here was designed to do this by investi-
+gating relations between childhood predictors of delinquency,
+teenage offending and other delinquent behaviour, injury and
+illness at age 16­18; and offending and health measures 14 years
+later, at age 27­32. This second investigation using data from
+the same longitudinal study was driven by four hypotheses: first,
+that the observed association between convictions and more
+injury observed at age 18 would be maintained at age 32;
+Impact of antisocial lifestyle on health
+Jonathan Shepherd, David Farrington and John Potts
+Journal of Public Health Vol. 26, No. 4, pp. 347­352
+doi:10.1093/pubmed/fdh169 Printed in Great Britain
+Journal of Public Health vol. 26 no. 4 © Faculty of Public Health 2004; all rights reserved.
+1Violence and Society Research Group, University of Wales College of Medicine,
+Heath Park, Cardiff CF14 4XY
+2Institute of Criminology, University of Cambridge, 7 West Road, Cambridge
+CB3 9DT
+1Jonathan Shepherd, Professor of Oral and Maxillofacial Surgery
+2David Farrington, Professor of Psychological Criminology
+1John Potts, Senior Lecturer in Pathology
+Address correspondence to Professor Jonathan Shepherd.
+E-mail: shepherdjp@cardiff.ac.uk
+348 JOURNAL OF PUBLIC HEALTH
+secondly, that associations between childhood predictors of
+delinquency and more injury would be maintained at age 32;
+thirdly, that measures of antisocial behaviour at age 18 would
+be linked to more injury at age 32; and fourthly, that the
+observed association between childhood predictors, concurrent
+measures of delinquency and decreased illness observed at age
+18 would be reversed by age 32. In relation to this fourth
+hypothesis, it was considered that although links between heavy
+drinking, heavy smoking and illness were not present at age
+16­18, these threats to health (linked to antisocial behaviour)
+would have begun to take their toll in terms of measurable
+impacts on health by a decade and a half later.
+Methods
+The Cambridge Study of Delinquent Development
+Research methods adopted in this study are described in a
+report of an investigation of links between offending, injuries
+and illness up to the age of 18.1 In summary, the CSDD is a
+prospective longitudinal survey of the development of offending
+and antisocial behaviour in 411 London males. At the time they
+were first contacted in 1961/1962 they were all living in a working
+class city area of South London. The sample was all the boys
+who were then aged 8­9 and on the registers of six state primary
+schools within a 1 mile radius of a research office that had been
+established. Hence, the most common year of birth of these
+males was 1953. In nearly all cases (94 per cent), the family
+breadwinner at that time, usually the father, had a working class
+occupation (skilled, semi-skilled or unskilled manual worker).
+Most of the males were white (97 per cent) and of British origin.
+The original aim of the study was to describe the development
+of delinquent and criminal behaviour in inner city males, to
+investigate how far it could be predicted in advance, and to
+explain why juvenile delinquency began, why it did or did not
+continue into adult crime, and why adult crime usually ended as
+men reached their 20s. A major aim in this study was to measure
+as many factors as possible that might be causes or correlates of
+offending. Reflecting this, in the research reported here, injury
+and illness data were studied 20 years after data collection
+because previously, no hypotheses relating to health outcomes
+had been considered. Recently, prompted by the authors'
+concern that antisocial lifestyle may have unknown effects on
+health, and by the availability of relevant longitudinal data, this
+study was undertaken.
+Interviews and tests
+The males were interviewed and tested in their schools by male
+or female psychologists when they were aged about 8, 10 and 14.
+They were interviewed in a research office at about 16, 18 and 21
+and in their homes at about 25 and 32 by young male social
+science graduates. At all ages, except 21 and 25, the aim was to
+interview the whole sample, and it was always possible to trace
+and interview a high proportion ­ for example, 389 out of 410
+still alive at age 18 (95 per cent) and 378 out of 403 still alive at
+age 32 (94 per cent). The tests in schools measured individual
+characteristics, such as intelligence, attainment, personality and
+psychomotor impulsivity, while information was collected in
+the interviews about such topics as living circumstances,
+employment histories, relationships with females, leisure activ-
+ities such as drinking and fighting and offending behaviour.
+In addition to these interviews and tests, the boys' parents
+were interviewed by female social workers who visited their
+home. This happened about once a year from when the male
+was about 8 until he was aged 14­15 and in his last year of com-
+pulsory education. The primary informant was the mother,
+although many fathers were also seen. The parents provided
+details about such matters as family income, family size, their
+employment histories, their child rearing practices (including
+attitudes, discipline and parental disharmony), their degree of
+supervision of the boy and his temporary or permanent separa-
+tions from them. Teachers completed questionnaires when the
+boys were aged about 8, 10, 12 and 14 to provide information
+about their troublesome and aggressive school behaviour, their
+attention deficits, their school attainments and their truancy.
+Ratings were also obtained from their peers when they were in
+primary school, about such topics as their daring, dishonesty,
+troublesomeness and popularity.2
+For the analyses described in this paper, each predictor vari-
+able was dichotomized as far as possible into the `worst' quarter
+(e.g. the quarter with lowest income or lowest intelligence)
+versus the remainder. This was done in order the compare the
+importance of different variables and also to permit a risk factor
+approach. Because most variables were originally classified into
+a small number of categories and because fine distinctions
+between categories could not be made very accurately, this
+dichotomizing did not usually involve a great loss of informa-
+tion. The one quarter/three quarters split was chosen to match
+the prior expectation that about one quarter of the sample
+would be convicted as juveniles.2
+Searches were also conducted in the central Criminal Record
+Office (National Identification Bureau) in London to try to
+locate findings of guilt of the males, of their parents, of their
+brothers and sisters and later of their wives and cohabitees. The
+minimum age of criminal responsibility in England and Wales is
+10. The Criminal Record Office contains records of all serious
+offences committed in Great Britain or Ireland and also acts as a
+repository for records of minor juvenile offences committed in
+London. Convictions were only counted if they were for
+offences normally recorded in the Criminal Record Office, such
+as thefts, burglaries, violence, vandalism and drug use. In this
+paper, the recorded age of offending is the age at which an
+offence was committed, not the age of conviction.
+Health data
+Injury and illness data were recorded for the 2 year period when
+subjects were aged 16­18 and for the 5 year period when they
+were aged 27­32 in the following manner. Interviewers recorded
+all the illnesses that led to absences from work of a week or more
+IMPACT OF ANTISOCIAL LIFESTYLE ON HEALTH 349
+­ or equivalent if not working, what was wrong, when the illness
+occurred, how it was managed, how many days off work it
+caused and the length of time if any in hospital. Men were also
+asked about operations and treatment that had been required.
+Accounts of these illnesses were amplified by the interviewers in
+free text. Information about injuries was recorded in precisely
+the same way except that men were asked about the circum-
+stances and causes of injury.
+The illnesses and injuries recorded by the interviewers were
+translated into Read clinical codes, version 3.1. On the basis of
+the Read codes, assigned illnesses were grouped into respiratory,
+cardiovascular, musculoskeletal, skin, allergic, gastrointestinal
+and psychological/neurological disorders. Injuries were charac-
+terized by their cause. The main causes of injury were assault,
+motorcycle, home and work accidents and sport. Data were ana-
+lysed by means of the Statistical Package for the Social Sciences.
+Results
+Of 378 men coded, 185 (49 per cent) experienced an illness
+between ages 27 and 32 compared with 258 of 387 (67 per cent)
+who experienced an illness between ages 16 and 18; and 102
+(27 per cent) experienced an injury at age 27­32 compared with
+211 at age 16­18 (55 per cent: Table 1), despite an increase in the
+observation period from 2 to 5 years. The most common type of
+illness was infection ­ mostly respiratory tract disease [such as
+flu and bronchitis; 15 per cent (52 per cent at age 16­18)],
+followed by gastrointestinal disease [such as appendicitis, ulcer,
+gastric flu, food poisoning: 7 per cent (10 per cent at age 16­18)],
+skin disease [for example, acne, boils, dermatitis, shingles:
+2 per cent (9 per cent at age 16­18)], allergic illness [including
+hayfever, allergic reaction, asthma, eczema: 0.5 per cent (5 per
+cent at age 16­18)] and psychological/neurological disorders
+[such as migraine, depression, nervous rash, nervous break-
+down: 3 per cent (5 per cent at age 16­18)]. The most common
+category of injury was work injury [11 per cent (21 per cent at
+age 16­18)], followed by sports injury [6 per cent (12 per cent)],
+assault injury [1 per cent (8 per cent at age 16­18)], and home
+injury [1 per cent (6 per cent at age 16­18)].
+In the following sections, Tables 1­5 present only the signific-
+ant findings among the very large number of correlations studied.
+Illness and injury versus offending (Table 2)
+Men who were injured on the roads between ages 27 and 32 were
+significantly more likely to be convicted at some stage, particu-
+larly between 19 and 32. There were also significant links
+between self and home injury and convictions after age 22.
+There were significant links between psychological disorders
+and convictions at age 27­32, in contrast to age 16­18. There
+was also a link between age of conviction and the chances of
+psychological disorder; the strongest link was between concur-
+rent convictions at 19­40 and psychological disorders. Overall
+however, there were highly significant negative relations between
+illness, particularly organic illness, and convictions.
+Concurrent antisocial behaviour (Table 3)
+There were few significant links between measures of concurrent
+antisocial behaviour, illness and injury. Again, both negative
+and positive correlations were found: negative relations between
+hospital admission and self-reported delinquency (SRD), but
+positive relations between illness overall, psychological illness
+and SRD and drug use.
+Age 16­18 year precursors of illness and injury at age 32
+(Table 4)
+The most striking links were negative associations between
+heavy alcohol consumption at age 16­18 and later infections/
+organic illness. Motoring convictions predicted fewer illnesses
+Table 1 Prevalence of illness and injury at ages 16­18 and 27­32
+Illness/Injury 16­18 years 27­32 years
+No % No %
+Illness 255 66 185 49
+Allergic 22 5 2 0.5
+Gastro-intestinal 39 10 28 7
+Infections 214 52 57 15
+Psychological/ 20 5 11 3
+Neurological
+Respiratory tract 189 46 40 10
+Skin 36 9 8 2
+Cardiovascular ­ ­ 7 2
+Organic 251 67 102 25
+IInjury 211 55 102 27
+Assault 29 8 4 1
+Work 78 20 41 11
+Home 23 6 3 1
+Sport 45 12 24 6
+Note: = none recorded at 16­18 years
+350 JOURNAL OF PUBLIC HEALTH
+and injuries. Low pulse rate in early adulthood predicted less
+cardiovascular illness, but more road injury 15 years later. The
+risk of surgical intervention was more than threefold higher for
+those who committed drunk driving at age 16­18. The risk of
+psychological illness was more than threefold higher for those
+who reported fighting after drinking at age 16­18. The risk of
+skin disease was more than threefold higher for those who
+reported heavy smoking at age 16­18. Sleep disruption at age
+16­18 predicted assault injury.
+Table 2 Illness and Injury at age 27­32 versus offending
+Variable 1 Variable 2 Odds ratio 95% Confidence interval
+Illness Convicted 26­32 0.45 0.23­0.88
+Organic illness Convicted 26­32 0.37 0.15­0.90
+Psychological Convicted 10­18 3.60 1.07­12.1
+Psychological Convicted 19­32 4.87 1.39­17.02
+Psychological Convicted 19­40 6.44 1.68­24.78
+Psychological Convicted 10­40 7.23 1.53­33.98
+Self-injury Convicted 26­32 15.14 1.34­170.6
+Road injury Convicted 22­32 4.32 1.35­13.81
+Road injury Convicted 10­40 4.80 1.27­18.04
+Road injury Convicted 19­21 5.38 1.67­17.30
+Home injury Convicted 22­25 14.78 1.31­166.1
+Table 3 Illness and Injury at age 27­32 versus Concurrent Antisocial Behaviour
+Variable 1 Variable 2 Odds ratio 95% Confidence interval
+Illness Convicted 26­32 0.45 0.23­0.88
+Organic illness Convicted 26­32 0.37 0.15­0.90
+Psychological Convicted 10­18 3.60 1.07­12.1
+Psychological Convicted 19­32 4.87 1.39­17.02
+Psychological Convicted 19­40 6.44 1.68­24.78
+Psychological Convicted 10­40 7.23 1.53­33.98
+Self-injury Convicted 26­32 15.14 1.34­170.6
+Road injury Convicted 22­32 4.32 1.35­13.81
+Road injury Convicted 10­40 4.80 1.27­18.04
+Road injury Convicted 19­21 5.38 1.67­17.30
+Home injury Convicted 22­25 14.78 1.31­166.1
+Table 4 Age 18 precursers of illness and injury at age 32
+Illness/Injury Antisocial behaviour at 18 Odds ratio 95% Confidence interval
+Infections >20 pints beer/week 0.37 0.16­0.84
+Organic illness >20 pints beer/week 0.43 0.23­0.78
+Any illness/injury motoring conviction 0.55 0.31­0.97
+Operation drunk driving 3.67 1.03­12.99
+Injury >13 units/evening 1.74 1.01­3.01
+Injury Tattooed 2.17 1.05­4.45
+Work injury Motoring conviction 2.23 1.03­4.77
+Psychological Fights after drinking 3.64 1.04­12.69
+Skin Disease Smokes >20 cigs/day 6.85 1.31­35.94
+Sports Injury Sex with 2+ girls in last 6 months 2.37 1.01­5.56
+Any illness/Injury Low pulse rate 1.59 1.04­2.43
+Assaults injury Trouble with sleep 14.26 1.45­139.43
+Hospital admission Low status job 2.44 1.25­4.76
+Cardiovascular Low pulse rate 0.95 0.92­0.99
+Road injury Low pulse rate 4.24 1.13­15.96
+IMPACT OF ANTISOCIAL LIFESTYLE ON HEALTH 351
+Childhood precursors (Table 5)
+There is a great deal of previous research in the Cambridge
+Study on the early childhood precursors of offending.2 These
+fall into six major categories ­ antisocial child behaviour, impul-
+sivity, school failure, an antisocial family, poor parenting and
+economic deprivation. Not surprisingly, there were far fewer
+significant links between these precursors, and injury and illness
+at age 27­32 than there were at age 16­18. Negative relations
+were found between childhood hyperactivity/low concentration
+and work injury 15 years later, and the strongest positive corre-
+lations were between high neuroticism at age 14 and skin
+disorders; and between poor parental supervision and cardio-
+vascular disorders.
+Discussion
+Most interestingly perhaps, the results of this and an earlier
+study of links between an antisocial lifestyle, injury and illness at
+age 16­18, both show some striking negative relationships. For
+example, convictions were associated with fewer respiratory
+illnesses at age 16­18 and fewer illnesses overall and fewer
+organic illnesses at age 27­32. Furthermore, concurrent anti-
+social behaviour was inversely related to respiratory infections
+at age 16­18 and also to hospital admission at age 27­32. Child-
+hood precursors linked to lower risk of infections at age 16­18
+were daring and low income. These links had disappeared by
+age 27­32 but new inverse relations had, by then, become
+apparent. For example, at 27­32 lower risk of work injury was
+linked to childhood hyperactivity and low concentration. Further
+inverse relations were found between antisocial behaviour at
+age 18 and health outcomes at age 27­32 ­ principally between
+heavy alcohol consumption, infections and organic illness.
+Overall, there is clearly some stability in these negative
+relationships. Potential explanations relate to the protective
+effect in terms of infection risk of large family size;1 a propensity
+of offenders not to take time off work; and some protective
+effect of infections on offending ­ for example, through limiting
+outdoor activity or physical fitness. One of the most important
+studies of protective factors and resilience was carried out by
+Werner and Smith,3 who followed up over 500 Hawaii children
+from birth to age 32. They identified one-third of the children
+as high-risk because they were born into poverty and experi-
+enced perinatal stress, family discord or divorce, parental
+alcoholism or mental illness. One-third of these high-risk
+children were considered to be resilient, because they had no
+crime record or mental illness by age 18, and most of them grew
+up into competent, successful adults at age 32. However, inter-
+estingly, the resilient children were more likely to have health
+problems at age 32 (e.g. ulcers, chronic back problems, obesity,
+dizziness or fainting spells) than high-risk children who became
+offenders (54.5 per cent compared with 10.3 per cent for males).
+Moderate alcohol consumption is known to be associated
+with decreased risk of respiratory tract infections.4 It is also pos-
+sible that antisocial individuals neglect illness or seek treatment
+less often.5 Whatever the mechanism, this protective effect
+extended to fewer hospital admissions by age 32. Furthermore,
+self-reported delinquency at 32 was also negatively related to
+hospital admission at the same age. On the other hand, by age
+32, earlier antisocial behaviours, like fighting after drinking and
+heavy smoking, had become linked to illness ­ particularly
+psychological and skin disorders; and low job status was posi-
+tively related to hospital admission.
+Therefore, an antisocial lifestyle and its childhood pre-
+cursors seem to be associated with both negative and positive
+health outcomes. Interestingly, one physiological measure, low
+heart rate at age 16­18, was positively associated with injury at
+both age 16­18 and age 27­32 but negatively with cardiovascular
+disorders at age 27­32. This fits with the concept that physical
+fitness ­ one of the causes of low heart rate ­ carries with it both
+the risk of injury and cardiovascular protection.
+Overall, a consistent finding up to age 32, was links between
+convictions, concurrent antisocial behaviour, childhood pre-
+cursors of antisocial behaviour and injury. These links were
+much stronger at age 16­18 when both injury and conviction
+rates were much higher, than at age 27­32. However, against a
+background of work and sport injury at both ages, assault
+injury was much more frequent at 16­18 compared to 27­32
+(only four men reported assault injury at 27­32 compared to 29
+at age 16­18). This fits with the known peak ages for antisocial
+behaviour in boys and also with desistance from offending after
+the age of about 20.
+The other principal differences between relations at the two
+Table 5 Childhood precursors of injury and illness at age 32
+Injury/Illness at 32 Precursor at 8­10 years Odds ratio 95% Confidence interval
+Injury Low school attainment 1.84 1.076­3.15
+Injury Low verbal IQ 1.76 1.05­2.93
+Assault injury Nervous mother 0.96 0.93­0.99
+Work injury Hyperactivity/low concentration 0.41 0.20­0.84
+Work injury Low verbal IQ 2.4 1.2­4.78
+Cardiovascular Poor supervision 6.11 1.33­28.0
+Psychological Low non-verbal IQ 3.66 1.09­12.23
+Skin High neuroticism at 14 5.27 1.23­22.5
+352 JOURNAL OF PUBLIC HEALTH
+ages were significant links between convictions and self-reported
+delinquency and psychological disorders at age 27­32, which
+were not found at age 16­18. There was also an age response
+effect from age 19 up to age 32, with convictions an increasingly
+powerful predictor of psychological disorders.
+Returning to the hypotheses which informed this research,
+these findings indicate that the positive relationship between
+antisocial behaviour and injury observed at age 16­18 was
+maintained up to at least 32 years of age, though the prevalence
+of injury fell markedly. Secondly, whilst, overall negative rela-
+tions between convictions and illness remained, the corrosive
+effect on mental health of convictions was apparent by age 32.
+Interestingly, one childhood predictor of offending, poor
+parental supervision, also predicted cardiovascular disorders.
+Most interestingly perhaps, convictions still had an overall
+significant negative relation with illness at age 32. With regard
+to mental health outcomes, however, this study provides evidence
+of a positive age-related effect of convictions on psychological
+disorders after age 18, in the 2 years prior to which no significant
+associations between offending and psychological disorders
+were found.
+This longitudinal study allows causal inferences to be drawn,
+particularly since the direction of effect was consistently from
+convictions to later psychological disorder. In this context,
+offender treatment programmes are necessary not just to treat
+established psychological problems arising out of substance
+misuse for example, but also the mental health problems which
+appear to be complications either of convictions (proof of guilt)
+or of criminal justice sentences (`remedies') for offending, or a
+combination of both. The link found in this study between
+assault injury and sleep disruption may reflect chronic post-
+traumatic stress disorder, anxiety or depression.6,7
+On the basis of these findings, the principal health impacts of
+an antisocial lifestyle occur most frequently, not surprisingly,
+when antisocial behaviour is at its most frequent. Adverse
+impacts are of two types: short-term impacts ­ such as most
+injuries, and longer term impacts, such as psychological
+disorders and alcohol or other drug dependence. There are
+other long-term impacts, not assessed here, which include those
+associated with teenage pregnancy. This cohort of men reached
+the age of 25 (in 1978) before HIV infection became a significant
+risk. The results of this study are consistent with the association
+between antisocial behaviour and the constellation of impacts
+on health comprising DATES syndrome (Drug Abuse, Assault,
+Trauma and Elective Surgery).8 From a prevention standpoint,
+the obvious implication of this is to limit the chances of long-
+term effects like dependence, and, in view of the links between
+convictions and psychological disorders, chronic involvement
+with the criminal justice system. Reductions in convictions seem
+likely to have substantial benefits for mental health, particularly
+after the age of 20. Given links between convictions and psycho-
+logical disorders, future research should seek to compare the
+impact of traditional criminal justice and of alternative criminal
+justice `remedies' such as restorative justice on the mental health
+of offenders.
+Where risk taking is at its most prevalent, situational preven-
+tion and targeted policing is most effective.9 One implication of
+these findings is that prevention of offending and of childhood
+precursors of offending, for example, by pre-school education
+and early family support, is likely to improve health mainly by
+preventing injury and drug misuse in early adulthood and also
+by preventing psychological disorders and skin disease in sub-
+sequent decades. Another implication is that because an anti-
+social lifestyle is associated with comparatively low rates of illness
+at least up to age 32, research and health promotion effort should
+be invested in trying to identify underlying protective factors,
+events and mechanisms, whilst reducing opportunities and pro-
+pensity to offend. Since alcohol may be at the root of both
+health protective effects and injury, alcohol harm reduction is
+an important priority.10 In this context, making sure that treat-
+ment for injury includes management of alcohol misuse, for
+example, by combining wound care for young males with brief
+alcohol interventions may be particularly cost effective.11
+At present, the prevention of offending and the prevention of
+injury and illness are considered and organized separately. The
+findings of this study, including positive associations between
+risk taking and health, suggest that a more integrated approach
+to prevention ­ in which offender rehabilitation and public health
+practitioners collaborate ­ would pay substantial dividends.
+References
+1 Shepherd JP, Farrington DP, Potts AJC. Relations between
+offending, injury and illness. J R Soc Med 2002; 95: 539­544.
+2 Farrington DP. Childhood origins of teenage antisocial behaviour and
+adult social dysfunction. J R Soc Med 1993; 86: 13­17.
+3 Werner EE, Smith RS. Overcoming the odds: high risk children from
+birth to adulthood. Ithaca, NY: Cornell University Press, 1992.
+4 Cohen J, Tyrrell DAJ, Russell MAH, Jarvis MJ, Smith AP. Smoking,
+alcohol consumption and susceptibility to the common cold. Am J
+Publ Hlth 1993; 83: 1277­1282.
+5 Shepherd JP, Farrington DP, Potts AJC. Relations between offending,
+injury and illness. J Dent Res 2001; 80: 649.
+6 Shepherd JP, Quershi R, Preston MS, Levers BG. Psychological
+distress after assaults and accidents. Br Med J 1990; 301: 849­850.
+7 Bisson JI, Shepherd JP, Dhutia M. Psychological sequelae of facial
+trauma. J Trauma 1997; 43: 496­500.
+8 Shepherd JP, Peak JD, Haria S, Sleeman D. Characteristic illness
+behaviour in assault patients: DATES syndrome. J R Soc Med 1995;
+88: 85­87.
+9 Shepherd JP. Criminal deterrence as a public health strategy. Lancet
+2001; 358: 1717­1720.
+10 Strategy Unit. The National Alcohol Harm Reduction Strategy. London:
+Cabinet Office, 2004.
+11 Smith AJ, Hodgson R, Bridgeman K, Shepherd JP. A randomised
+controlled trial of a brief intervention after alcohol-related facial
+injury. Addiction 2003; 98: 43­52.
+

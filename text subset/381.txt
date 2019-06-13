@@ -1,0 +1,727 @@
+Genetic and environmental in¯uences on waist-
+to-hip ratio and waist circumference in an older
+Swedish twin population
+TL Nelson1*, GP Vogler1, NL Pedersen2,3 and TP Miles4
+1Department of Biobehavioral Health and Center for Developmental and Health Genetics, The Pennsylvania State University, 101 Amy
+Gardner House, University Park, PA 16802, USA; 2Division of Genetic Epidemiology, Institute of Environmental Medicine, Karolinska
+Institute, Box 210, S 171 77 Stockholm, Sweden; 3Department of Psychology, University of Southern California, Los Angeles, CA, USA
+and 4Department of Family Practice, Division of Geriatrics, University of Texas Health Sciences Center-San Antonio, 7703 Floyd Curl
+Drive, San Antonio, TX 78284, USA
+OBJECTIVE: To investigate the genetic and environmental in¯uences on waist-to-hip ratio (WHR) and waist
+circumference (WC) measurements in males and females.
+DESIGN: Measurements taken from 1989 ± 1991 as part of The Swedish AdoptionaTwin Study of Aging (SATSA) were
+used for analysis. The SATSA sample contains both twins reared together as well as twins reared apart.
+SUBJECTS: 322 pairs of twins (50 identical, 82 fraternal male pairs and 67 identical, 123 fraternal female pairs); age
+range: 45 ± 85 y (average age, 65 y).
+MEASUREMENTS: Waist-to-hip ratio (WHR), waist circumference (WC) and body mass index (BMI).
+RESULTS: In males, additive genetic effects were found to account for 28% of the variance in WHR and 46% of the
+variance in WC. In females, additive genetic effects were found to account for 48% of the variance in WHR and 66% of
+the variance in WC. The remaining variance in males was attributed to unique environmental effects (WHR, 72%; WC,
+54%) and in females the remaining variance was attributed to unique environmental effects (WHR, 46%; WC, 34%) and
+age (WHR, 6%). When BMI was added into these models it accounted for a portion of the genetic and environmental
+variance in WHR, and over half of the genetic and environmental variance in WC.
+CONCLUSION: There are both genetic and environmental in¯uences on WHR and WC, independent of BMI in both
+males and females, and the differences between the sexes are signi®cantly different.
+Keywords: genetic; environmental; waist-to-hip ratio; waist circumference
+Introduction
+The adverse metabolic consequences of adipose tissue
+located in the abdominal region has been documented
+extensively. Regional body fat distribution has been
+associated with non insulin-dependent diabetes melli-
+tus (NIDDM), hypercholesterolaemia, hyperinsulinae-
+mia, insulin resistance, hypertriglyceridaemia,
+atherosclerosis and hypertension.1 ± 5
+There are several ways to measure body fat distribu-
+tion including anthropometric measures, computerized
+tomography (CT), magnetic resonance imaging (MRI)
+ordualenergyX-rayabsorptiometry(DEXA).CTscans
+and MRIs and DEXA are the ideal measures of central
+abdominal fat, however, their use in large-scale studies
+is limited due to the expense of these procedures.
+Anthropometric measures are most commonly used in
+such large-scale epidemiological studies, although they
+only provide an indirect estimate of abdominalbody fat.
+The waist-to-hip ratio (WHR) has been the most com-
+monly used anthropometric measure, however, recent
+work suggests that using the waist circumference (WC)
+is more closely associated with measures of abdominal
+visceral fat, that is, the fat most associated with the
+metabolic problems listed above.6 ± 8
+There are known to be both genetic and environ-
+mental in¯uences on regional body fat distribution,
+however, it is still unclear how these in¯uences may
+vary among different age groups and in each gender.
+It is important to obtain estimates for age effects and
+gender effects, because regional body fat distribution
+is known to increase with age and average values tend
+to be quite different for males and females.9,10 Genetic
+in¯uences have been estimated in several studies for
+WHR. In a family study of Mexican Americans,
+genetic in¯uences were found to account for 17.3%
+of the variance in WHR.11 Other estimates have found
+WHR to be 28 ± 50% transmissible; such estimates
+include both genetic and cultural factors (that is,
+shared environment).12,13 There are three twin studies
+we are aware of that estimated WHR andaor WC in
+adults. Selby et al, 14 using The National Heart, Lung
+and Blood Institute's Twin Study (NHLBI) found
+heritability estimates for WHR (h2  0.31, P  0.07)
+and WC (h2  0.46, P  0.02) after controlling for
+*Correspondence: Tracy L. Nelson, Department of
+Epidemiology, Cardiovascular Disease Program, 137 E. Franklin
+St, NationsBank Plaza, Suite 306, The University of North
+Carolina at Chapel Hill, Chapel Hill, NC 27514, USA.
+E-mail: tnelson@sph.unc.edu
+Received 21 April 1998; revised 12 November 1998; accepted
+2 December 1998
+International Journal of Obesity (1999) 23, 449±455
+ß 1999 Stockton Press All rights reserved 0307±0565/99 $12.00
+http://www.stockton-press.co.uk/ijo
+body mass index (BMI) Cardon et al 15 also used the
+NHLBI Twin Study data and found a heritability of
+46% (12% of this variance was shared with BMI) for
+WHR. They used maximum likelihood methods
+which provide more power than the methods used
+by Selby et al.14 Rose et al 16 using the Kaiser
+Permanente Twin Study found a heritability of 61%
+for WHR and 76% for WC in females, after control-
+ling for BMI and age.
+This is the ®rst analysis we are aware of that uses a
+twinaadoption design to estimate the heritability of
+WHR and WC. Family studies, as with twin studies,
+may overestimate genetic effects due to confounding
+genetic and environmental factors, since relatives
+living together share environments and genes. Twin
+studies may overestimate genetic effects if monozy-
+gotic (MZ) twins share more environmental in¯uences
+than dizygotic (DZ) twins. A design that reduces this
+kind of bias is one that combines twin studies with
+adoption studies. The Swedish AdoptionaTwin Study
+of Aging (SATSA) uses this design by comparing MZ
+and DZ twins reared together (MZT and DZT, respec-
+tively) and twins reared apart (MZA and DZA,
+respectively).
+The purpose of this analysis was to determine the
+genetic and environmental components of variance in
+body fat distribution, measured by WHR and WC, in
+Swedish men and Swedish women with an average
+age of 65 y.
+Methods
+Data for this study came from the Swedish Adop-
+tionaTwin Study of Aging (SATSA). The SATSA
+sample was identi®ed through the Swedish Twin
+Registry, which includes almost 25 000 pairs of
+same-sexed twins born in Sweden during 1886 ±
+1958.17 The SATSA subregistry was formed in 1984
+by contacting twin pairs identi®ed in the Swedish
+Twin Registry as having been reared apart, along
+with a matched sample of twins reared together.
+Those pairs reared apart were identi®ed based on
+their responses to the item: `How long did you and
+your twin partner live together in the same home?' All
+pairs in which one or both members indicated that
+they were separated from each other prior to their 11th
+birthday were included for further study. The identi-
+®cation and characterization of the SATSA sample
+has been described in detail elsewhere.18 Measure-
+ments of WHR and WC were obtained from a subset
+of 322 pairs of twins which includes pairs where both
+twins may not have information on WHR and WC,
+who underwent physical examinations between
+1989 ± 1991. The average age of twins used in this
+analysis was 65 y (range 45 ± 85 y) with 60% female
+and 40% male.
+Measures
+WC measurements were obtained at the circumfer-
+ence around the smallest part of the waist, and hip
+measurements as the circumference around the widest
+point between hips and buttocks. WHR was then
+determined by dividing the waist measurement by
+the hip measurement. Age and gender were deter-
+mined by self-reported information during screening
+in 1984. BMI was calculated as weight (kg) divided
+by height squared (m2). Height (m) and weight (kg)
+were obtained from subjects dressed in lightweight
+clothes with their shoes removed.
+Statistical analysis
+Analyses included descriptive statistics and genetic
+analyses. Descriptive analyses were performed using
+SAS,19 and included means and standard deviations as
+well as correlations of WHR, WC and BMI.
+Genetic analyses were performed using Mx20 to
+evaluate quantitative contributions of genetic (addi-
+tive and dominant) and environmental (shared and
+unique) components. The assumptions using this
+model-®tting analysis are that MZ twins share 100%
+of their additive and dominant genetic effects and DZ
+twins share 50% of their additive genetic effects and
+25% of their dominant genetic effects. Twins reared
+together share similar rearing environmental effects
+and those reared apart do not share rearing environ-
+mental effects. This sample allowed us to partition out
+dominant, as well as additive, genetic effects, because
+the SATSA sample contains twins reared together in
+addition to twins reared apart (see Figure 1). In
+traditional twin studies, which only contain twins
+reared together, shared rearing environmental and
+dominant effects confound each other and therefore
+cannot be estimated separately.
+In large multivariate samples, there is often missing
+data. One twin may not have data for the variable
+being studied. To avoid having to discard all data
+from such pairs for analysis, we used Mx,20 a model-
+®tting program that allows missing data to be con-
+sidered in the analysis. Since Mx uses raw data instead
+of variance-covariance matrices, the program does not
+give an actual ®t statistic (that is, w2) for the overall
+model but gives instead a maximum likelihood statis-
+tic (minus two times the log-likelihood), based on the
+multivariate normal function. Relative ®t of nested
+models can be evaluated by ®rst determining the
+maximum likelihood statistic for a general model
+and then comparing to a more constrained model.
+The difference between minus twice the log-likeli-
+hood of each model is distributed as a w2 with degrees
+of freedom being the difference in the number of
+parameters estimated in the two different models. So
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+450
+for example, if shared environmental effects were set
+to zero and compared to the general model (difference
+between minus twice the log-likelihoods), a statisti-
+cally signi®cant w2 would mean shared environmental
+effects were a signi®cant component of the variance
+for the variable under consideration. The relative
+importance of genetic and environmental in¯uences
+on WHR and WC can be calculated by squaring and
+summing the parameter estimates of components of
+variance for each measure and dividing each squared
+parameter estimate by the sum of all the squared
+estimates of components of variance.
+Since both age and gender are known to affect WHR
+and WC, the analyses considered age as a covariate in
+the model and gender differences were assessed. Since
+BMI was highly correlated with both WHR and WC
+(males BMI ± WHR  0.53 P ` 0.0001, BMI ±
+WC  0.84 P ` 0.0001; females BMI ± WHR  0.40
+P ` 0.0001, BMI ± WC  0.87 P ` 0.0001), we also ran
+bivariate analyses with BMI in the model, to determine
+genetic and environmental variance in WHR and WC,
+independent of BMI.
+Results
+Sample characteristics
+Female subjects were aged, on average, 67Æ 9 y and
+male subjects were aged, on average, 63Æ 8 y. Table 1
+lists mean levels of WHR, WC and BMI by gender
+and rearing status. The mean values are about average
+for this age range in the Swedish population.
+Table 2 shows the correlations by gender, zygosity
+and rearing status for WHR, WC and BMI. In general,
+intra-pair correlations for MZ twins were higher than
+those for DZ twins, indicating genetic in¯uences.
+There were differences in correlations between
+males and females indicating possible gender differ-
+ences in heritability for abdominal fatness. The nega-
+tive correlations for WHR in the male DZA and DZT
+and female MZA twins might suggest the twins'
+WHR scores are in opposite directions, however
+these correlations were not signi®cantly different
+from zero. In traditional genetic analysis, such corre-
+lations would limit our ability to assess genetic
+in¯uences, because all the information contained in
+all groups, regarding genetic in¯uences, is not used
+Figure 1 Univariate genetic model. Path diagram shows genetic
+and environmental effects on Trait 1. MZT  monozygotic twins
+reared together; MZA  monozygotic twins reared apart;
+DZT  dizygotic twins reared together; DZA  dizygotic twins
+reared apart; G  genetic factor; D  dominant genetic factor;
+ES  shared environmental factor; E  unique environmental
+factor; Trait 1 indicates trait in twin 1 and trait in twin 2; and
+Age indicates age in years for twin 1 and twin 2.
+Table 1 Mean values and standard deviations (s.d.) for waist-
+to-hip ratio (WHR), waist circumference (WC) and body mass
+index (BMI) in 322 pairs of twins by gender, zygosity and rearing
+status
+Males Females
+Variable Mean s.d. Mean s.d.
+WHR
+MZT 0.93 (27) 0.05 0.81 (43) 0.06
+MZA 0.95 (23) 0.06 0.81 (24) 0.05
+DZT 0.91 (43) 0.05 0.81 (49) 0.06
+DZA 0.93 (39) 0.05 0.81 (74) 0.06
+WC
+MZT 96.28 (27) 9.80 82.20 (43) 10.22
+MZA 98.21 (23) 8.54 83.05 (24) 8.73
+DZT 92.57 (43) 8.23 82.79 (49) 9.00
+DZA 97.03 (39) 8.31 84.46 (74) 12.53
+BMI
+MZT 26.13 (27) 3.38 24.96 (43) 3.72
+MZA 26.07 (23) 3.13 25.05 (24) 3.80
+DZT 24.61 (43) 2.64 25.41 (49) 4.00
+DZA 26.16 (39) 3.10 26.20 (74) 5.34
+The number of pairs are in parenthesis. Note: these are not all
+full pairs (that is, variables are included where we only have
+information for one twin).
+MZT  monozygotic twins reared together; MZA  monozygotic
+twins reared apart; DZT  dizygotic twins reared together;
+DZA  dizygotic twins reared apart.
+Table 2 Intra-pair correlations and 95% con®dence intervals
+(CI) for waist-to-hip ratio (WHR), waist circumference (WC) and
+body mass index (BMI) in males and females by zygosity and
+rearing status
+Variable Males N 95%CI Females N 95%CI
+WHR
+MZT 0.48 27 (0.12, 0.73) 0.65 30 (0.38, 0.82)
+MZA 0.38 19 ( 7 0.09, 0.71) 7 0.002 19 ( 7 0.45, 0.45)
+DZT 7 0.12 36 ( 7 0.43, 0.22) 0.30 37 ( 7 0.03, 0.57)
+DZA 7 0.07 32 ( 7 0.41, 0.28) 0.29 61 0.04, 0.51)
+WC
+MZT 0.52 27 (0.17, 0.75) 0.64 30 (0.35, 0.81)
+MZA 0.64 19 (0.26, 0.84) 0.48 19 (0.03, 0.77)
+DZT 0.06 36 ( 7 0.28, 0.38) 0.43 37 (0.12, 0.66)
+DZA 0.08 32 ( 7 0.27, 0.42) 0.32 61 (0.07, 0.68)
+BMI
+MZT 0.67 27 (0.39, 0.84) 0.63 30 (0.34, 0.80)
+MZA 0.55 19 (0.13, 0.80) 0.65 19 (0.28, 0.86)
+DZT 0.33 36 (0.00, 0.59) 0.50 37 (0.21, 0.70)
+DZA 0.22 32 ( 7 0.14, 0.53) 0.38 61 (0.14, 0.57)
+Note: these are all full pairs (pairs where one twin had missing
+data were deleted to obtain the correlations).
+MZT  monozygotic twins reared together; MZA  monozygotic
+twins reared apart; DZT  dizygotic twins reared together;
+DZA  dizygotic twins reared apart.
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+451
+simultaneously. However, we used model-®tting ana-
+lyses, which permits analysis of groups of twins
+simultaneously. This method is more powerful at
+detecting genetic effects because it uses all of the
+information in all of the groups in a single compre-
+hensive analysis.
+Quantitative genetic analysis
+To assess whether males and females should be
+considered separately in this genetic analysis, a con-
+strained model was tested, where the parameter esti-
+mates were set equal for males and females (see Table
+3 and Table 4). These models were signi®cantly worse
+than the full models (WHR: w2  18.05, df  6,
+P ` 0.01; WC: w2  27.18, df  6, P ` 0.001) indicat-
+ing males and females had signi®cantly different
+parameter estimates for measures of WHR and WC.
+A reduced model, where dominant genetic loadings
+were set to zero in both males and females, had no
+signi®cant loss of ®t compared to the full model, nor
+did setting additive genetic effects to zero or shared
+environmental effects to zero. However, setting domi-
+nant and additive genetic effects and shared rearing
+environmental effects to zero, in males and females,
+resulted in a signi®cantly worse ®t of the model. To
+further test this model, we set only shared rearing
+environmental effects and dominant genetic effects to
+zero, and this did not change the ®t of the model.
+However, setting additive genetic effects and domi-
+nant genetic effects to zero resulted in a signi®cantly
+worse model indicating the importance of genetic
+effects on WHR and WC. To determine which
+model was the most parsimonious, we computed the
+Akaike's Information Criterion (AIC) (w2-2df). The
+model with the lowest value of this index ®ts best,
+according to the AIC. As can be seen in Table 3 and
+Table 4, model 7 was the most parsimonious
+(AIC  7 5.23 and 7 4.59). Model 7 was also the
+most parsimonious for univariate genetic analysis of
+BMI (not presented).
+Table 5 presents the percentage of genetic and
+environmental in¯uences for WHR, WC and BMI.
+In males, additive genetic effects were found to
+account for 28% of the variance in WHR and 46%
+of the variance in WC. In females, additive genetic
+effects were found to account for 48% of the variance
+in WHR and 66% of the variance in WC. The
+remaining variance in males was attributed to
+unique environmental effects (WHR, 72%; WC,
+54%) and in females the remaining variance was
+attributed to unique environment (WHR, 46%; WC,
+34%) and age (WHR, 6%). When BMI was added into
+the WHR and WC models (Figures 2 and 3), it
+accounted for a portion of the genetic and environ-
+mental variance in WHR and over half of the genetic
+and environmental variance in WC.
+To present the nature of the genetic and environ-
+mental covariances in another way, in Table 6, we
+have reported phenotypic correlations for WHR and
+BMI, as well as WC and BMI, in both males and
+females. We then broke down the phenotypic correla-
+tions into a component due to genetic effects and a
+component due to environmental effects. See Appen-
+dix for a description of the phenotypic correlation
+calculations.
+Table 3 Test of models for genetic and environmental
+in¯uences on waist-to-hip ratio (WHR)
+Difference
+7 2Â log-
+WHR likelihood df w2 df P-value AIC
+1. Full model 621.978 895
+2. Constrained model
+(males  females) 640.027 901 18.05 6 0.01 6.05
+3. Constrained model
+(no D) 624.461 897 2.48 2 NS 7 1.52
+4. Constrained model
+(no A) 622.558 897 0.58 2 NS 7 3.42
+5. Constrained model
+(no Es) 622.238 897 0.26 2 NS 7 3.74
+6. Constrained model
+(no D, A or Es) 645.068 901 23.09 6 0.001 11.06
+7. Constrained model
+(no Es or D) 624.744 899 2.77 4 NS 7 5.23
+8. Constrained model
+(no A or D) 634.634 899 12.66 4 0.05 4.66
+AIC  Akaike's information criterion; NS  not statistically
+signi®cant; A  additive genetic effects; D  dominant genetic
+effects; Es  shared environmental effects.
+Table 4 Test of models for genetic and environmental
+in¯uences on waist circumference (WC)
+Difference
+7 2Â log-
+WC likelihood df w2 df P-value AIC
+1. Full model 6570.301 893
+2 Constrained model
+(males  females) 6597.476 899 27.18 6 0.001 15.18
+3. Constrained model
+(no D) 6572.270 895 1.97 2 NS 7 2.03
+4. Constrained model
+(no A) 6573.292 895 2.99 2 NS 7 1.01
+5. Constrained model
+(no Es) 6571.677 895 1.38 2 NS 7 2.62
+6. Constrained model
+(no D, A or Es) 6618.562 899 48.26 6 0.001 36.26
+7. Constrained model
+(no Es or D) 6573.712 897 3.41 4 NS 7 4.59
+8. Constrained model
+(no A or D) 6593.754 897 23.45 4 0.001 15.45
+AIC  Akaike's information criterion; NS  not statistically
+signi®cant; A  additive genetic effects; D  dominant genetic
+effects; Es  shared environmental effects.
+Table 5 Percent genetic and environmental in¯uences for
+waist-to-hip ratio (WHR), waist circumference (WC) and body
+mass index (BMI)
+Males Females
+Genetic Environmental Age Genetic Environmental Age
+WHR 28% 72% - 48% 46% 6%
+WC 46% 54% - 66% 34% -
+BMI 57% 43% - 72% 28% -
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+452
+Overall, there are genetic effects unique to BMI,
+WHR and WC, and there are also genetic effects in
+common to BMI and WHR, as well as BMI and WC.
+In males, 25% of the genetic in¯uence was unique to
+WHR and 3% was contributed from genetic effects in
+common with BMI, while 17% of the genetic
+in¯uence was unique to WC and 29% contributed
+from BMI. In females, 40% of the genetic in¯uence
+was unique to WHR and 8% was contributed from
+genetic effects common to BMI, while 14% of the
+genetic in¯uence was unique to WC and 52% was
+contributed from BMI. These results also suggest
+there are environmental effects unique to WHR, WC
+and BMI, and that both WHR and BMI, as well as WC
+and BMI, also have environmental effects in common.
+Discussion
+The purpose of this study, was to estimate the effects
+of genetic and environmental in¯uences on regional
+body fat distribution, as measured by WHR and WC.
+We found an additive genetic in¯uence on WHR and
+WC, in both males and females. This genetic effect
+was signi®cantly different for males and females, and
+age was a covariate for females. The heritability
+estimates of WHR and WC are hard to compare to
+those found in other studies, because of the different
+methods used. For example, some of the studies used
+families which in most cases meant they could not
+separate out genetic effects from cultural or shared
+environmental effects. The Canadian Fitness Survey
+showed WHR to be about 28% transmittable (this
+estimate included genetic and cultural effects).12 Data
+from the San Antonio Family Heart Study showed
+WHR to be 17.3% heritable, but this was with men
+and women combined,11 and among women in the
+Iowa Women's Health Study13 it was found that the
+WHR was 40 ± 50% transmittable, but once again they
+could not separate genes from the shared environment.
+The NHLBI study by Selby et al 14 suggested a non-
+signi®cant heritability of 0.31 (P  0.07) for WHR,
+but a signi®cant heritability for WC (0.46, P  0.02),
+however they used the classical estimates based on the
+intraclass correlations, which have low power and do
+not use all the information simultaneously. Rose et
+al 16 found among female twins, in the Kaiser Perma-
+nente Twin Study, that WHR was 61% heritable while
+WC was 76% heritable, after adjusting for BMI
+and age. The study by Cardon et al 15 is the most
+comparable to our data, because they used quantita-
+tive genetic analysis, however, they only used males.
+Their results showed that genetic effects explained
+46% of the variance in WHR, while ours showed 28%
+of the variance was explained by genetic effects in
+males. They also looked at what percentage of this
+variance was shared with BMI and found that 12% of
+the 46% genetic variance in WHR was explained by
+BMI, while our study found that 3% of the 28%
+genetic variance was explained by BMI. The differ-
+ences in these ®ndings may be due to the potential for
+shared environmental effects to confound genetic
+effects and thus over-estimate heritabilities when
+quantitative analyses are made with only twins
+reared together. A twin study by Carey et al 21 used
+DEXA scans to measure central abdominal fat and
+Table 6 Genetic (G) and environmental (E) components of
+phenotypic correlations for waist-to-hip ratio (WHR) and body
+mass index (BMI) as well as for waist circumference (WC) and
+BMI in males and females
+Males BMI Females BMI
+WHR 0.49(G  0.13; E  0.36) 0.35(G  0.20; E  0.15)
+WC 0.82(G  0.41; E  0.41) 0.86(G  0.60; E  0.26)
+Figure 3 Multivariate genetic model for waist circumference
+(WC) and body mass index (BMI) in males and females. Path
+diagram shows genetic (G) and environmental (E) effects on WC
+and BMI. G1 is genetic factor 1 which loads on BMI and WHR; G2
+is genetic factor 2 which only loads on WC. E1 is unique
+environmental factor 1 which loads on BMI and WC and E2 is
+unique environmental factor 2 which only loads on WC.
+Figure 2 Multivariate genetic model for waist-to-hip ratio
+(WHR) and body mass index (BMI) in males and females. Path
+diagram shows genetic (G) and environmental (E) effects on
+WHR and BMI. G1 is genetic factor 1 which loads on BMI and
+WHR; G2 is genetic factor 2 which only loads on WHR. E1 is
+unique environmental factor 1 which loads on BMI and WHR and
+E2 is unique environmental factor 2 which only loads on WHR.
+Age indicates age in years for twins 1 and twin 2.
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+453
+they have reported a heritability estimate of 70%
+among females, after controlling for age and total
+body fat. DEXA scans provide a direct measure of
+abdominal fat and this estimate may be the most
+accurate of the above.
+Based on these studies, it is clear there are genetic
+and environmental in¯uences on regional fat distribu-
+tion, independent of overall body fat. The present
+study gives more insight into the genetic effects on
+measures of WHR and WC, as model-®tting analyses
+permit the analysis of groups of twins simultaneously.
+We were able to separate shared environmental effects
+from genetic effects and estimates were obtained for
+males and females separately. This study also pro-
+vides estimates of effects in common with BMI. After
+adding BMI to the model we found some genetic
+effects in common, indicating that some of the same
+genetic effects that are in¯uencing BMI are also
+in¯uencing WHR and WC. Of the genetic variance
+in WHR, ` 25% is in common with BMI in males and
+females, and over half of the genetic variance in WC
+is in common with BMI in males and females. The
+differences may be due to the nature of the measures,
+as we found WC to be more highly correlated to BMI
+than WHR (males, BMI-WC  0.84, P ` 0.0001,
+BMI-WHR  0.53, P ` 0.0001; females, BMI-
+WC  0.87 P ` 0.0001, BMI-WHR  0.40, P `
+0.0001). Other research has found some effects in
+common for abdominal fatness and overall fatness, as
+well as a single genetic effect that may be unique to
+abdominal fatness.15,22,23 There also appears to be a
+percentage of environmental effects in common for
+BMI and WHR, and over half of the environmental
+effects are in common between BMI and WC in males
+and females. Such common environmental in¯uences
+may include overeating, lack of physical activity
+andaor alcohol consumption, as all of these have
+been found to be associated with indicators of abdom-
+inal fat and BMI.24 ± 27
+Conclusion
+Based on these ®ndings, it is important to look at
+genetic and environmental effects of regional body fat
+distribution, in each gender separately, as well as to
+look speci®cally at age effects. Males tend to have
+more abdominal fat than women. However, as women
+become postmenopausal, it is thought that these dif-
+ferences become less pronounced. We did ®nd age
+effects accounted for a small portion of the variance in
+WHR for females, however, we did not have the
+power to observe these age effects by cohort (that
+is, 50 ± 60 y; 60 ± 70 y etc.) nor did we have measures
+of menopausal status. Future studies may wish to look
+at whether the length of time women are postmeno-
+pausal may be used as an indirect way of assessing
+how much visceral or abdominal fat they may have.
+Age is also known to be associated with increases in
+abdominal fat, as people age, body composition
+changes, more fat becomes deposited in the abdominal
+fat deposits and less on the periphery. More work is
+needed to see if genetic effects are different among
+different cohorts (that is, 40 ± 50 y 50 ± 60 y, 70 ± 80 y
+and b 80 y), as well as in each gender among these
+varying cohorts. If there are different genetic effects at
+different ages, there may also be different environ-
+mental in¯uences acting through the adulthood and
+into old age, possibly through gene-environment inter-
+actions. Bouchard et al 23 has found a major gene,
+accounting for 51% of the variance in abdominal fat,
+as measured by CT scans. Once these genes are
+localized, genotyping can occur, and these potential
+genetic and environmental interactions can be studied.
+Acknowledgements
+This project has been supported by grants from the
+National Institute on Aging (AG-04563, AG-10175),
+the National Heart, Lung and Blood Institute (HL-
+55976), the MacArthur Foundation Research Network
+on Successful Aging and the Swedish Council for
+Social Research. T. Nelson has been supported by the
+National Institutes on Aging (AG-10430) and
+National Institute of Child Health and Human Devel-
+opment (HD-07454).
+References
+1 Larsson B, Svardsudd K, Welin L, Wilhelmsen L, Bjo
+Èrntorp P,
+Tibblin G. Abdominal adipose tissue distribution, obesity and
+risk of CVD and death: 13 year follow-up of participants in the
+study of men born in 1913. Br Med J 1984; 288: 1401 ± 1404.
+2 Bjo
+Èrntorp P. Regional fat distribution-implications for type II
+diabetes. Int J Obes 1992; 16 (Suppl. 4): S19 ± S27.
+3 Kissebah A, Peiris A, Evans D. Mechanisms associating body
+fat distribution to glucose intolerance and diabetes mellitus:
+Window with a view. Acta Med Scand 1988; 723 (Suppl):
+S79 ± S89.
+4 Kissebah A, Krawkower G. Regional adiposity and morbidity.
+Physiol Rev 1994; 74: 761 ± 811.
+5 Despre
+Âs J, Lemieux S, Lamarche B, Prud' homme D, Moor-
+jani S, Brun LD, Gagne C, Lupien PJ. The insulin resistance-
+dyslipidemic syndrome: contribution of visceral obesity and
+therapeutic implications. Int J Obes 1995; 19 (Suppl 1):
+S76 ± S86.
+6 Seidell J, Cigolini M, Charzewska J, Ellsinger BM, Deslypere
+J, Cruz A. Fat distribution in European men: A comparison of
+anthropometric measurements in relation to cardiovascular
+risk factors. Int J Obes 1992; 16: 17 ± 22.
+7 Pouliot MC, Despre
+Âs JP, Lemieux S, Moorjani S, Bouchard C,
+Tremblay A, Nadeau A, Lupien P. Waist circumference and
+abdominal sagittal diameter: Best simple anthropometric
+indexes of abdominal visceral adipose tissue accumulation
+and related cardiovascular risk in men and women. Am J
+Cardiol 1994; 73: 460 ± 468.
+8 van der Kooy K, Seidell J. Techniques for the measurement of
+visceral fat: A practical guide. Int J Obes 1993; 17: 187 ± 196.
+9 Schwartz R, Shuman W, Bradbury V, Cain K, Fellingham G,
+Beard J, Kahn S, Stratton J, Cerqueira M, Abrass I. Body fat
+distribution in healthy young and older men. J Gerontol A Bio
+Sci Med Sci 1990; 45: M181 ± M185.
+10 Duncan BB, Chambless LE, Schmidt MI, Szklo M, Folsom
+AR, Carpenter MA, Crouse JR. Correlates of body fat dis-
+tribution: Variation across categories of race, sex, and body
+mass in the atherosclerosis risk in communities study. Ann
+Epidemiol 1995; 5: 192 ± 200.
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+454
+11 Mitchell B, Kammerer M, Mahaney M, Blangero J, Comuzzie
+A, Atwood L, Haffner S, Stern M, MacCluer J. Genetic
+analysis of the IRS: Pleiotropic effects of genes in¯uencing
+insulin levels on lipoprotein and obesity measures, Arterios-
+cler Thromb Vasc Biol 1996; 16: 281 ± 288.
+12 Perusse L, Leblanc C, Bouchard C. Inter-generation transmis-
+sion of physical ®tness in the Canadian population. Can J
+Sport Sci 1988; 13: 8 ± 14.
+13 Sellers T, Drinkard C, Rich S., Potter J., Jeffery R., Hong C.,
+Folsom A. Familial aggregation and heritability of WHR in
+adult women: The Iowa Women's Health study. Int J Obes
+1994; 18: 607 ± 613.
+14 Selby J, Newman B, Quesenberry C, Fabsitz R, Carmelli D,
+Meaney J, Slemenda C. Genetic and behavioral in¯uences on
+body fat distribution. Int J Obes 1990; 14: 593 ± 602.
+15 Cardon L. Carmelli D, Fabsitz R, Reed T. Genetic and
+environmental correlations between obesity and body fat
+distribution in adult male twins. Hum Biol 1994; 66(3):
+465 ± 479.
+16 Rose K, Newman B, Mayer-Davis E, Selby J. Genetic and
+behavioral determinants of waist-hip ratio and waist circum-
+ference in women twins. Obes Res 1998; 6: 383 ± 392.
+17 Cederlof R, Lorich U. The Swedish twin registry. In: Nance
+WE, Allen G, Parisi P (eds). Twin research: part C. Biology
+and Epidemiology. Alan R Liss: New York, 1978, 189 ± 195.
+18 Pedersen NL, McClearn GE, Plomin R, Nesselroade JR, Berg
+S, de Faire U. The Swedish Adoption Twin Study of Aging:
+An update. Acta Genet Med Gemellol (Roma) 1991; 40: 7 ± 20.
+19 SAS Institute, Inc. SASaSTAT, Version 6. Vol. 1. (4th edn).
+SAS Institute, Inc: Cary NC, 1989.
+20 Neale MC. Mx: Statistical Modeling. (3rd edn). Department of
+Psychiatry: Box 710 MCV, Richmond 1995.
+21 Carey DGP, Nguyen TV, Campbell LV, Chisholm DJ, Kelly
+P. Genetic in¯uences on central abdominal fat: A twin study.
+Int J Obes 1996; 20: 722 ± 726.
+22 Perusse L, Despre
+Âs J, Lemieux S, Rice T, Rao D, Bouchard C.
+Familial aggregation of abdominal visceral fat level: Results
+from the Quebec family study. Metabolism 1996; 45:
+378 ± 382.
+23 Bouchard C, Rice T, Lemieux S, Despre
+Âs J, Perusse L, Rao D.
+Major gene for abdominal visceral fat area in the Quebec
+Family Study. Int J Obes 1996; 20: 420 ± 427.
+24 Slattery ML, McDonald A, Bild DE, Caan BJ, Hilner JE,
+Jacobs DR, Liu K. Associations of body fat and its distribution
+with dietary intake, physical activity, alcohol and smoking in
+blacks and whites. Am J Clin Nutr 1992; 55: 943 ± 949.
+25 Miller WC, Lindman AK, Wallace J. Niederpruem M.
+Diet composition, energy intake, and exercise in relation to
+body fat in men and women. Am J Clin Nutr 1990; 52:
+426 ± 430.
+26 Seidell J. Environmental in¯uences on regional fat distribu-
+tion, Int J Obes 1991; 15: 31 ± 35.
+27 Kuczmarski R, Flegal K, Campbell S, Johnson C. Increasing
+prevalence of overweight among US adults: The national
+health and nutrition examination surveys, 1960 ± 1991.
+JAMA 1994; 272: 205 ± 211.
+Appendix
+Calculation of phenotypic, genetic and environmen-
+tal correlations
+The following is the equation used to calculate the
+phenotypic correlations, as well as the genetic and
+environmental components of this phenotypic correla-
+tion.
+rP
+ hx
+hyÃ
+rGxy
+ ex
+eyÃ
+rExy
+Where rP
+ phenotypic correlation between variable x
+and variable y; hx
+is the square root of the heritability
+for variable x, and hy
+is the square root of the
+heritability for variable y; rGxy
+is the genetic correla-
+tion between variables x and y. This is calculated as:
+CovGxGy
+
+VGx
+VGy
+p
+which is the genetic covariance of x and y divided by
+the product of the square root of the genetic variance
+of x and the square root of the genetic variance of y.
+The environmental correlation is calculated the same
+way.
+Genetic in¯uences on WHR and waist circumference
+TL Nelson et al
+455
+

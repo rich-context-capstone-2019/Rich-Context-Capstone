@@ -1,0 +1,1028 @@
+American Journal of Epidemiology
+ª The Author 2009. Published by the Johns Hopkins Bloomberg School of Public Health.
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+Vol. 170, No. 2
+DOI: 10.1093/aje/kwp104
+Advance Access publication May 22, 2009
+Original Contribution
+Psychosocial Stress and Change in Weight Among US Adults
+Jason P. Block, Yulei He, Alan M. Zaslavsky, Lin Ding, and John Z. Ayanian
+Initially submitted December 23, 2008; accepted for publication April 2, 2009.
+The association of psychosocial stress with weight gain may have important implications for clinical practice and
+workplace and public health interventions. To determine whether multiple domains of psychosocial stress were
+associated with weight gain from 1995 to 2004, the authors analyzed a nationally representative longitudinal cohort
+of 1,355 men and women in the United States. Change in body mass index was assessed for multiple domains of
+psychosocial stress related to work, personal relationships, life constraints, and finances, controlling for other
+factors associated with weight gain. All analyses were stratified by sex and weighted to account for the complex
+survey design. Among men with high baseline body mass index, weight gain was associated with increasing levels
+of psychosocial stress related to job-related demands (P < 0.001 for interaction with baseline body mass index),
+lack of skill discretion (P ¼ 0.014), lack of decision authority (P ¼ 0.026), and difficulty paying bills (P ¼ 0.004).
+Among women with high baseline body mass index, weight gain was associated with job-related demands
+(P < 0.001 for interaction with baseline body mass index), perceived constraints in life (P < 0.001), strain in
+relations with family (P ¼ 0.016), and difficulty paying bills (P ¼ 0.010). Interventions to address psychosocial
+stress may limit weight gain among overweight and obese men and women.
+body mass index; longitudinal studies; obesity; overweight; stress, psychological; weight gain
+Abbreviation: MIDUS, Midlife in the United States.
+Psychosocial stress has been implicated as a risk factor
+for high blood pressure, cardiovascular disease, and cancer
+(1­7). The association between stress and long-term weight
+gain is less clear. Stress may contribute to changes in dietary
+behaviors that lead to weight change, with various effects
+related to sex (8­10), baseline body mass index (11), or
+cortisol reactivity in response to stress (12, 13). These fac-
+tors may cause some people to gain more weight under
+stressful circumstances, while others may gain less weight
+or even lose weight when stressed.
+Cross-sectional studies have reported only weak associ-
+ations between psychosocial stress and body mass index
+(14). Three longitudinal cohort studies conducted in popu-
+lations outside the United States have produced mixed re-
+sults. Kivimaki et al. (11) used the Whitehall study,
+a prospective cohort of British civil servants, to analyze
+the prospective association between work stress and weight
+change over 5 years. They found that greater job strain and
+lesser job control at baseline were associated with weight
+gain among men who were overweight or obese at baseline,
+but a similar association was not observed among women.
+Brunner et al. (15) completed an additional analysis of the
+same cohort after further follow-up. They reported that men
+with chronic job strain, coupled with low social support
+among co-workers, were more likely to develop obesity
+(body mass index, !30 kg/m2) and central obesity (waist
+circumference, >102 cm in men and >88 cm in women)
+than those who had no job strain. In a Dutch cohort, Van
+Strien et al. (16) showed that men who were ``emotional
+eaters'' experienced weight gain over the 6 months after
+a negative life event, such as death of a family member,
+divorce or separation from a spouse, or financial difficulties.
+Korkeila et al. (17) found an association between neuroti-
+cism and weight gain among women over 6 years in a cohort
+of Finnish twins, but this effect subsided after 15 years of
+follow-up.
+Correspondence to Dr. John Z. Ayanian, Department of Health Care Policy, Harvard Medical School, 180 Longwood Avenue, Boston, MA 02115
+(e-mail: ayanian@hcp.med.harvard.edu).
+181 Am J Epidemiol 2009;170:181­192
+Based on this prior research, the objective of the current
+study was to assess the association of weight gain with
+numerous types of psychosocial stress related to work, per-
+sonal relationships, life constraints, and finances over ap-
+proximately 9 years in a nationally representative cohort of
+adults in the United States. We hypothesized, on the basis of
+prior research (11), that baseline body mass index would be
+an effect modifier of the relation between psychosocial
+stress and weight gain, and we tested for this effect in all
+statistical models.
+MATERIALS AND METHODS
+Study population
+The Midlife in the United States (MIDUS) study enrolled a
+nationally representative cohort of noninstitutionalized
+adults between the ages of 25 and 74 years in 1995 (www.
+midus.wisc.edu). This study was designed to assess psycho-
+social factors that influence physical and mental health for
+adults in midlife. At enrollment, participants responded to
+a telephone survey and self-administered questionnaire.
+Households with telephones were sampled in the cotermi-
+nous United States by random digit dialing. One English-
+speaking adult was chosen at random in each participating
+household, with oversampling of older adults and men.
+The combined response rate at enrollment to telephone
+and written questionnaires was 60.8% (70.0% of those who
+were contacted and eligible for the telephone survey re-
+sponded, and 86.8% of telephone respondents completed
+the written questionnaire) (18). A similar telephone survey
+and self-administered questionnaire were administered to
+surviving participants in 2004. The study protocol was ap-
+proved by the human studies committees of Harvard Med-
+ical School and the University of Wisconsin, and all subjects
+provided informed consent for participation in this study.
+The analysis was restricted to 2,570 respondents <65
+years of age at baseline because of limited weight change
+in those aged !65 years. In this cohort, the response rate to
+the follow-up survey was 60% (n ¼ 1,552) among surviving
+adults. Nonrespondents to the follow-up survey had a similar
+baseline mean body mass index when compared with re-
+spondents (26.75 vs. 26.80 kg/m2; P ¼ 0.83). They also
+had similar levels of baseline psychosocial stress, though
+nonrespondents had slightly higher levels of perceived con-
+straint in life (scale score, 2.76 vs. 2.64; P ¼ 0.020) and
+strain in relations with spouse/partner (scale score, 2.31
+vs. 2.23; P ¼ 0.009). Nonrespondents also were younger
+(P < 0.001); more likely to be male (P < 0.001), unmar-
+ried (P ¼ 0.015), or nonwhite (P < 0.001); more likely to
+smoke (P < 0.001); and had lower incomes (P < 0.001)
+and worse self-rated health (P < 0.001). All respondents
+undergoing cancer treatment (n ¼ 42) and female respon-
+dents who were pregnant (n ¼ 28) at baseline or follow-up
+were excluded because of fluctuations in weight related to
+these conditions. Another 127 subjects who were missing
+a baseline or follow-up body mass index measurement were
+excluded, yielding a final study cohort of 1,355 adults who
+completed the follow-up survey an average of 9.2 years after
+the baseline survey.
+Study variables
+The change in body mass index from 1995 to 2004 was
+our outcome measure. Body mass index was calculated
+from self-reported height and weight. A subset of 464 sub-
+jects in our sample (34%) also had height and weight mea-
+sured objectively in 2004. The Pearson correlation
+coefficients between the self-reported and measured values
+of body mass index for these subjects in 2004 were 0.93 in
+men and 0.92 in women.
+Our primary predictor variables were psychosocial stress
+scales measured at baseline that assessed stress related to
+work, personal relationships, life constraints, and finances
+(Appendix). Three well-validated stress scales captured
+work experiences related to skill discretion (3 items), de-
+cision authority (6 items), and job-related demands (5 items)
+(19, 20). These scales each had strong internal reliability,
+with a Cronbach coefficient alpha ranging from 0.68 to 0.85
+in our cohort. Other scales captured strain in relations with
+spouse/partner (6 items: Cronbach alpha ¼ 0.81), friends
+(4 items: alpha ¼ 0.79), or family (4 items: alpha ¼ 0.80)
+(21). To evaluate stress from general life experiences, we
+used a scale that evaluated perceived constraints in life (8
+items: alpha ¼ 0.86) (22, 23). Financial stress was assessed
+with a single question about difficulty paying bills.
+Clinical and demographic covariates, selected a priori
+from the baseline survey, included baseline body mass
+index, medical conditions and health status (diabetes,
+smoking, self-rated health, and relative self-rated health
+compared with others the same age), self-reported race/
+ethnicity, income, age, and psychiatric conditions (depres-
+sion, generalized anxiety, and panic disorder as defined ac-
+cording to psychiatric scales derived from the Diagnostic
+and Statistical Manual of Mental Disorders, Third Edition,
+Appendix) (24, 25). Race/ethnicity was included in the anal-
+ysis because of previously described racial and ethnic differ-
+ences in body mass index in the United States (26). An
+indicator variable for quitting smoking during the follow-
+up period controlled for the likely associated weight gain.
+All variables were entered into models as presented in Table
+1 except for baseline body mass index, which was included
+in the models after being centered on sex-specific mean
+body mass index. The covariates had no missing data; psy-
+chosocial stress scales had less than 1% missing except
+for work-related stress scales, which had 6.7% missing.
+Subjects with missing predictors were excluded from the
+models assessing those predictors.
+Statistical analysis
+The psychosocial stress scales were constructed by cal-
+culating the mean for all responses to items in a scale, coded
+so that higher values represented greater psychosocial
+stress. Analyses of work-related stress included only re-
+spondents who were working at baseline. Analysis of
+spouse- or partner-related stress included only respondents
+who were married or living with a partner. All analyses were
+stratified by sex, because of prior studies demonstrating that
+the relation between stress and eating behaviors or weight
+differs between men and women (8­11, 15­17, 27).
+182 Block et al.
+Am J Epidemiol 2009;170:181­192
+Data were weighted to adjust for probabilities of reaching
+households within each telephone exchange, sampling
+subjects within each household, and obtaining completed
+telephone interviews and questionnaires from designated
+subjects (28). Poststratification weights were calculated so
+the cohort that completed both the baseline telephone in-
+terview and written questionnaire approximated the distri-
+bution of US adults aged 25­64 years by region, residence in
+a metropolitan area, sex, race, age, education, and marital
+status from the October 1995 Current Population Survey
+(29).
+Change in body mass index was regressed on each psy-
+chosocial stress variable, controlling for the clinical and
+demographic covariates listed above and for interactions
+between baseline body mass index as a continuous variable
+and the psychosocial stress scales as continuous variables.
+These interactions assessed potential effect modification of
+the association between psychosocial stress and weight gain
+related to baseline body mass index. All beta coefficients are
+unit dependent with units of kg/m2. To graphically present
+the interaction effects for those variables found to have
+significant interactions, trend lines were graphed to repre-
+sent predictions from the fitted model for specified baseline
+body mass index values, set to the mean for the body mass
+index categories of normal weight (<25 kg/m2), overweight
+(25­29.9 kg/m2), and obesity (!30 kg/m2). We report other
+covariates if they were significantly associated with a change
+in body mass index in more than half of the final sex-
+stratified models.
+All analyses were conducted with SAS, version 9.1, sta-
+tistical software (SAS Institute, Inc., Cary, North Carolina)
+to account for the complex survey design. Two-tailed
+P values are reported for all analyses.
+RESULTS
+Weighted descriptive characteristics of the study cohort at
+baseline are presented in Table 1. Women had higher levels
+of baseline psychosocial stress than men in several domains:
+less skill discretion (P ¼ 0.004), less decision authority
+(P < 0.001), more perceived constraints in life (P <
+0.001), and more strain in relationships with family (P <
+0.001) (Table 2). Psychosocial stress levels measured at base-
+line and follow-up were moderately correlated for each
+stress scale (Pearson correlations: 0.43­0.55 for men and
+0.41­0.57 for women). Women had lower mean baseline
+body mass index than men (26.29 vs. 27.49 kg/m2;
+P < 0.001). The change in body mass index over the mean
+follow-up period of 9.2 years was similar in women and men
+(1.57 vs. 1.37 kg/m2; P ¼ 0.33).
+In multivariable models including all covariates and an
+interaction term between baseline body mass index and each
+respective psychosocial stress scale, numerous significant
+associations for psychosocial stress emerged (Table 3).
+When interactions were significant, greater psychosocial
+stress was associated with greater weight gain as baseline
+body mass index increased (P < 0.05 for interaction term).
+This effect was evident for financial stress for both men
+and women, for all work-related stress variables (less skill
+discretion, less decision authority, and higher job-related
+demands) for men, and for job-related demands, perceived
+constraints in life, and strain in relationships with family
+for women. Figures 1­4 portray the significant relations
+between psychosocial stress and change in body mass index
+for selected baseline body mass indexes that correspond to
+Table 1. Baseline Characteristics of the US Study Cohort in 1995a
+Variable
+Percent
+Men
+(N 5 633)
+Women
+(N 5 722)
+Age, years
+<35 23.3 26.7
+35­44 35.3 30.6
+45­54 27.4 23.2
+55­64 14.0 19.5
+Race
+White 87.7 83.1
+Black 5.1 10.3
+Hispanic 3.3 3.9
+Other race 3.9 2.7
+Income, $
+<25,000 15.9 24.8
+25,000­44,999 25.0 32.9
+45,000­69,999 29.9 21.0
+!70,000 29.2 21.4
+Baseline weight classification
+Normal weight 27.4 50.1
+Overweight 49.3 28.9
+Obese 23.3 21.0
+Depressionb 9.7 18.5
+Generalized anxiety disorderb 2.0 6.1
+Panic disorderc 3.5 9.6
+Smoking 23.7 22.7
+Quit smokingd 7.7 6.8
+Diabetes 3.6 2.8
+General health status, % fair/poor 8.6 14.3
+Relative health status, % somewhat
+worse/much worse
+4.6 7.6
+Working 93.9 78.5
+Married or living with partner 81.5 75.2
+a Variables are weighted to account for the complex survey design
+and to approximate the distribution of US adults aged 25­64 years by
+region, residence in a metropolitan area, sex, race, age, education,
+and marital status.
+b Designation based on self-reported responses to the World
+Health Organization's Composite International Diagnostic Interview
+scale (21).
+c Designation based on self-reported responses to a scale derived
+from Diagnostic and Statistical Manual of Mental Disorders, Third
+Edition, criteria (20).
+d Not a baseline measure; defined as someone smoking in 1995
+who was no longer smoking in 2004.
+Psychosocial Stress and Change in Weight Among Adults 183
+Am J Epidemiol 2009;170:181­192
+the mean body mass index of 3 weight categories (normal
+weight, overweight, and obesity).
+Several other covariates also significantly predicted a
+change in body mass index in at least half of the sex-stratified
+models. Men and women who were aged 55­64 years at
+enrollment experienced less weight gain compared with
+the youngest age group. Among women, increasing baseline
+body mass index was associated with less weight gain, and
+quitting smoking was associated with more weight gain.
+Generalized anxiety and an income between $25,000 and
+$44,999 were associated with more weight gain for men.
+Because generalized anxiety was a significant predictor of
+more weight gain for men in the base models, we fitted
+additional models without the psychosocial stress scales
+and included interaction terms between the presence of each
+psychiatric condition and baseline body mass index (in
+3 separate models for depression, generalized anxiety dis-
+order, and panic disorder for both men and women). De-
+pression and generalized anxiety were highly correlated
+within each sex (P < 0.01), and both conditions were sig-
+nificantly associated with more weight gain among women
+and men at higher levels of baseline body mass index. There
+was no significant association of panic disorder with change
+in body mass index for either men or women.
+DISCUSSION
+In this nationally representative cohort of US adults fol-
+lowed longitudinally over 9 years, psychosocial stress was
+associated with greater weight gain among both men and
+women with higher baseline body mass indexes if they ex-
+perienced job-related demands, had difficulty paying bills,
+or had depression or generalized anxiety disorder. Among
+women with higher baseline body mass indexes, perceived
+constraints in life and strain in relations with family also
+were associated with greater weight gain. Among men with
+higher baseline body mass indexes, lack of skill discretion
+or decision authority at work was associated with greater
+weight gain.
+These findings extend prior cross-sectional and longitudi-
+nal research by providing an expanded view of associations
+between psychosocial stress and weight gain in a nationally
+representative cohort of adults in the United States. Several
+studies have demonstrated heterogeneity in eating behaviors
+in response to stress; some people eat more when stressed
+while others eat less (30­32). Laboratory and observational
+studies of stress and eating behavior have shown inconsistent
+results when stratified by baseline weight (27). In our study,
+with a long follow-up period and diverse measures of psy-
+chosocial stress, subjects with higher body mass indexes at
+baseline who reported greater psychosocial stress gained
+more weight, whereas this pattern was not evident for those
+with lower baseline body mass indexes.
+Our results also highlight apparent sex differences in the
+influence of stress on weight gain. Some stressors outside of
+work or finances, including general life constraints and
+strain in relationships with family, were associated with
+weight gain among women but not among men, suggesting
+effects on weight from a broader range of life domains in
+women. Prior cross-sectional studies have shown some dif-
+ferential effects by sex. These studies assessed fewer mea-
+sures of stress than our study evaluated and provided only
+limited information about specific types of stressors that
+might differentially influence weight gain (14, 33, 34).
+Analyses from the 3 prior longitudinal studies were strat-
+ified by sex. In the Whitehall study of British civil servants,
+Table 2. Mean Body Mass Index and Baseline Psychosocial Stress of US Men and Women in
+1995 and Test of Difference Between Men and Womena
+Variable
+Mean (SE)
+P Value
+Men
+(N 5 633)
+Women
+(N 5 722)
+Baseline body mass index, kg/m2 27.49 (0.19) 26.29 (0.27) <0.001
+Follow-up body mass index, kg/m2 b 28.86 (0.22) 27.86 (0.29) 0.007
+Body mass index change, kg/m2 1.37 (0.12) 1.57 (0.17) 0.33
+Lack of skill discretion (scale range, 1­5) 2.38 (0.03) 2.52 (0.04) 0.004
+Lack of decision authority (scale range, 1­5) 2.23 (0.04) 2.45 (0.04) <0.001
+Job-related demands (scale range, 1­5) 3.06 (0.03) 3.07 (0.03) 0.85
+Perceived constraints in life (scale range, 1­7) 2.53 (0.05) 2.79 (0.05) <0.001
+Strain in relations with family (scale range, 1­4) 2.10 (0.03) 2.23 (0.03) <0.001
+Strain in relations with friends (scale range, 1­4) 1.98 (0.02) 1.94 (0.02) 0.24
+Strain in relations with spouse/partner (scale range, 1­4) 2.21 (0.03) 2.28 (0.03) 0.10
+Difficulty paying bills (scale range, 1­4) 2.20 (0.04) 2.26 (0.04) 0.28
+Abbreviation: SE, standard error.
+a Variables are weighted to account for the complex survey design and to approximate the
+distribution of US adults aged 25­64 years by region, residence in a metropolitan area, sex, race,
+age, education, and marital status.
+b Mean follow-up in sample was 9.2 years.
+184 Block et al.
+Am J Epidemiol 2009;170:181­192
+Kivimaki et al. (11) found that men with higher baseline
+body mass indexes gained weight over 5 years if they expe-
+rienced higher levels of work stress, but men with lower
+body mass indexes were more likely to lose weight under
+stressful job circumstances. Among women, weight gain
+was associated with higher job demands in main effect
+Table 3. Adjusted Association of Psychosocial Stress and Psychiatric Conditions in 1995 With
+Change in Body Mass Index From Baseline in 1995 to Follow-up in 2004, by Gender, With
+Interaction Between Baseline Body Mass Index and Stress, United Statesa,b
+Stress Variables and Effects
+Men Women
+b (SE) P Value b (SE) P Value
+Lack of skill discretionc
+Main effect 0.06 (0.16) 0.72 À0.05 (0.23) 0.84
+Interaction 0.08 (0.03) 0.014 À0.02 (0.04) 0.64
+Lack of decision authorityc
+Main effect 0.03 (0.15) 0.83 0.23 (0.22) 0.30
+Interaction 0.07 (0.03) 0.026 0.006 (0.03) 0.83
+Job-related demandsc
+Main effect 0.18 (0.18) 0.30 0.38 (0.26) 0.15
+Interaction 0.16 (0.04) <0.001 0.18 (0.05) <0.001
+Perceived constraint in life
+Main effect 0.18 (0.10) 0.076 0.16 (0.13) 0.21
+Interaction À0.001 (0.02) 0.96 0.06 (0.02) <0.001
+Strain in relations with friends
+Main effect À0.11 (0.22) 0.60 À0.28 (0.28) 0.31
+Interaction 0.02 (0.05) 0.68 À0.06 (0.04) 0.16
+Strain in relations with family
+Main effect 0.15 (0.19) 0.44 0.07 (0.24) 0.77
+Interaction 0.04 (0.04) 0.34 0.08 (0.03) 0.016
+Strain in relations with
+spouse/partnerd
+Main effect À0.02 (0.20) 0.90 0.34 (0.28) 0.22
+Interaction 0.003 (0.04) 0.94 À0.02 (0.05) 0.74
+Difficulty paying bills
+Main effect 0.18 (0.14) 0.18 0.47 (0.17) 0.007
+Interaction 0.08 (0.03) 0.004 0.06 (0.02) 0.010
+Depression
+Main effect À0.04 (0.38) 0.92 0.10 (0.41) 0.81
+Interaction 0.11 (0.06) 0.051 0.12 (0.06) 0.035
+Generalized anxiety
+Main effect 2.65 (0.80) <0.001 0.64 (0.66) 0.33
+Interaction 0.49 (0.13) <0.001 0.32 (0.09) <0.001
+Panic disorder
+Main effect À0.54 (0.59) 0.36 0.80 (0.53) 0.13
+Interaction 0.08 (0.10) 0.42 0.11 (0.08) 0.17
+Abbreviation: SE, standard error.
+a All b coefficients are unit dependent with units of kg/m2.
+b All models were adjusted for baseline body mass index centered on mean body mass index;
+age; race; income; presence of generalized anxiety disorder, panic attack, or depression; smoking
+status; whether quit smoking by 2004; presence of diabetes; self-rated health; and self-rated
+relative health. The main effects presented are from the models that included interaction terms.
+c Includes only respondents who were employed at the initial survey in 1995.
+d Includes only respondents who were married or had a partner at the initial survey in 1995.
+Psychosocial Stress and Change in Weight Among Adults 185
+Am J Epidemiol 2009;170:181­192
+models, but the association was no longer significant when
+an interaction with baseline body mass index was included.
+In the subsequent analysis of the same cohort, men with
+chronically elevated levels of job strain and low social sup-
+port at work were more likely to become obese and to de-
+velop a high waist circumference than those with no job
+strain (15); these associations were not significant among
+women.
+Van Strien et al. (16) prospectively evaluated the influence
+of negative life events in a cohort in the Netherlands. Men
+classified as highly ``emotional eaters'' gained weight for
+up to 2 years after the occurrence of a negative life event.
+No correlation was observed for women. In a large cohort
+study of monozygotic and same-sex dizygotic Finnish
+twins, Korkeila et al. (17) assessed associations of stress
+and personality type at baseline with weight gain of greater
+than 10 kg after follow-up of 6 years and 15 years. The
+only significant adjusted associations were between neurot-
+icism and weight gain after 6 years among older women
+and between extroversion and less weight gain among
+younger men.
+Stress appears to influence eating behaviors differently by
+sex as well. In a study of high school students aged 15­19
+years, caloric consumption increased on days with stressful
+events for girls but not for boys (though boys did increase
+their fat intake) (9). Similarly, among college students,
+women consumed more calories than men when exposed
+to a stressful film (8).
+Our study found an association between baseline depres-
+sion and anxiety and weight gain among men and women
+with higher baseline body mass indexes. Prior evidence has
+linked depression with the development of obesity, specifi-
+cally among children and adolescents (35­38). Investiga-
+tions of the relation between anxiety and weight gain have
+shown mixed results. Some studies have shown associations
+between anxiety at baseline and weight gain among men
+Figure 2. Adjusted change in body mass index from 1995 to 2004
+for difficulty paying bills among US men and women. Increasing diffi-
+culty paying bills was associated with a steeper gradient of weight
+gain among obese men (A) and women (B) than for normal weight
+men and women. Results were adjusted for baseline body mass in-
+dex; age; race; income; presence of generalized anxiety disorder,
+panic attack, or depression; smoking status; quitting smoking; pres-
+ence of diabetes; self-rated health; and self-rated relative health.
+Trend lines represent predictions from the fitted model for specified
+body mass index (BMI) values, set to the body mass index mean for
+each baseline body mass index category. In A, mean body mass
+index values for men are 22.8 (normal weight), 27.1 (overweight),
+and 33.8 (obese) kg/m2. In B, mean body mass index values for
+women are 21.7 (normal weight), 27.3 (overweight), and 35.4 (obese)
+kg/m2.
+Figure 1. Adjusted change in body mass index from 1995 to 2004
+for job-related demands among US men and women. Increasing job-
+related demands were associated with increasing weight gain among
+obese men (A) and women (B) and less weight gain among normal
+weight men and women. Results were adjusted for baseline body
+mass index (BMI); age; race; income; presence of generalized anxiety
+disorder, panic attack, or depression; smoking status; quitting smok-
+ing; presence of diabetes; self-rated health; and self-rated relative
+health. Trend lines represent predictions from the fitted model for
+specified body mass index values, set to the body mass index mean
+for each baseline body mass index category. In A, mean body mass
+index values are 22.8 (normal weight), 27.1 (overweight), and 33.8
+(obese) kg/m2. In B, mean body mass index values are 21.7 (normal
+weight), 27.3 (overweight), and 35.4 (obese) kg/m2.
+186 Block et al.
+Am J Epidemiol 2009;170:181­192
+(39) and women (38), yet another study found a trend to-
+ward decreased likelihood of becoming overweight among
+men and women with anxiety at baseline (40). None of these
+studies of depression and anxiety have assessed the effect
+modification of baseline body mass index.
+Several pathways have been explored in animal models to
+assess how psychosocial stress may influence weight gain.
+Social subordination in several species of primates induces
+chronically elevated cortisol levels, and high cortisol levels
+are associated with abdominal obesity in both nonhuman
+primates and humans (41­43). As a result, social subordi-
+nation has been examined as a model for stress-induced
+eating and weight gain. Female monkeys who are socially
+subordinate have higher levels of abdominal obesity than
+socially dominant females (44). In an observational study
+of macaques, Wilson et al. (45) found that socially subordi-
+nate females consumed more calories and fed more fre-
+quently than socially dominant females. The subordinate
+females also demonstrated more anxious behavior and had
+alternations of the hypothalamic-pituitary axis with less
+negative feedback from elevated glucocorticoid levels. Lab-
+oratory studies in rats have shown that mild stress (e.g., tail
+pinching or restraint) can lead to weight gain if highly palat-
+able foods are provided, but not with regular diets (46­48).
+Based in large part on animal models, a complex interplay
+of hormones such as glucocorticoids and ghrelin (that in-
+crease appetite) and corticotrophin-releasing hormone and
+leptin (that decrease appetite) has been proposed by other
+researchers (48­51) to be involved in the physiologic path-
+ways between stress and weight gain. Endogenous opiates
+induced by eating might also serve a role in limiting the
+dysphoric effects of stress (52). These pathways suggest
+a ``comfort food'' or ``emotional eating'' paradigm that
+has been proposed to explain stress-induced eating and
+weight gain (53, 54). The influence of stress on weight gain,
+therefore, may depend on the intensity and duration of stress
+and the types of food that are available for consumption.
+Few mechanistic studies have assessed hormonal path-
+ways that could link stress and weight in humans. Normal-
+weight women with major depression had more than twice
+the cortisol level and intraabdominal fat as those without
+depression (55). In a laboratory experiment with postmen-
+opausal women subjected to a stress-inducing protocol, Epel
+et al. (56) discovered that women with high waist/hip ratios,
+regardless of body mass index, were more likely to display
+higher stress-induced cortisol levels. Women with high
+waist/hip ratios also felt more threatened under stress, and
+controlling for this high threat appraisal partially attenuated
+Figure 3. Adjusted change in body mass index from 1995 to 2004 for perceived constraint in life and strain in relations with family among US
+women. Increasing perceived constraint in life (A) and increasing strain in relations with family (B) were associated with increasing weight gain
+among obese women and less weight gain among normal weight women. Results were adjusted for baseline body mass index; age; race; income;
+presence of generalized anxiety disorder, panic attack, or depression; smoking status; quitting smoking; presence of diabetes; self-rated health;
+and self-rated relative health. Trend lines represent predictions from the fitted model for specified body mass index (BMI) values, set to the body
+mass index mean for each baseline body mass index category: 21.7 (normal weight), 27.3 (overweight), and 35.4 (obese) kg/m2.
+Psychosocial Stress and Change in Weight Among Adults 187
+Am J Epidemiol 2009;170:181­192
+the association between waist/hip ratio and cortisol. Addi-
+tional studies have documented higher snack food consump-
+tion in women with high stress-induced cortisol levels
+(12, 13).
+Our study had several potential limitations. First, there
+was only 1 follow-up measure of body mass index over
+a mean of 9.2 years. Psychosocial stress could change over
+this time period, though there was a moderately high degree
+of correlation between baseline and follow-up psychosocial
+stress. Second, although our study cohort was representa-
+tive of US adults, the response rate to the follow-up survey
+in our sample was 60%, and nonrespondents differed from
+respondents on several demographic and health character-
+istics. However, models were adjusted for the variables that
+differed between respondents and nonrespondents, and fur-
+ther bias would only arise if the relation of stress and
+weight change also differed for these 2 groups. Third, cer-
+tain medications can be associated with weight gain (57).
+However, the MIDUS survey did not collect specific drug
+names, so we could not control for active use of these
+medications. Nonetheless, in all models, we controlled for
+diabetes, generalized anxiety disorder, and depression, con-
+ditions which are commonly treated with medications that
+are associated with weight gain. The most commonly used
+medications for depression and generalized anxiety disor-
+der, selective serotonin reuptake inhibitors, have mixed ef-
+fects on weight, so the net effect of these medications on
+weight gain may be limited (57). Fourth, causality cannot
+be established in our data despite the temporal ordering of
+baseline stress and subsequent weight gain. Fifth, weight
+and height were self-reported in this study and thus could
+be biased. Other studies have reported a high correlation
+between self-reported weight and height and measured
+body mass index (17, 58­60), and the prevalence of obesity
+and overweight in our sample was consistent with reported
+national estimates (26). Furthermore, in the subset of 464
+subjects in our sample who had height and weight objec-
+tively measured at follow-up, the correlation between self-
+reported and measured body mass index in 2004 exceeded
+0.92 for both men and women. Finally, the number of sig-
+nificant interactions found (12 of 22 tested at the 0.05 level,
+all in the same direction) exceeded what would be expected
+by chance, and the pattern was consistent with prior
+evidence.
+In this nationally representative cohort, several domains
+of psychosocial stress as well as anxiety and depression
+were associated with weight gain among men and women
+with higher body mass indexes. Awareness of these associ-
+ations may enable clinicians to help their overweight and
+obese patients avoid gaining further weight during stressful
+periods. Stress reduction may also be an important compo-
+nent of weight-loss interventions in worksites and in clinical
+and public health programs (61­65).
+ACKNOWLEDGMENTS
+Author affiliations: Harvard Center for Population and
+Development Studies, Harvard School of Public Health,
+Boston, Massachusetts (Jason P. Block); Division of Gen-
+eral Internal Medicine, Brigham and Women's Hospital,
+Boston, Massachusetts (Jason P. Block, John Z. Ayanian);
+and Department of Health Care Policy, Harvard Medical
+School, Boston, Massachusetts (Yulei He, Alan M. Zaslavsky,
+Lin Ding, John Z. Ayanian).
+This research was supported by a grant from the National
+Institute on Aging (P01-AG020166) to conduct a longitudi-
+nal follow-up of the MIDUS investigation. The origi-
+nal study was supported by the John D. and Catherine
+T. MacArthur Foundation Research Network on Successful
+Midlife Development. Dr. Block was supported by the
+Robert Wood Johnson Foundation Health and Society
+Scholars Program.
+The authors are grateful for helpful comments on an ear-
+lier draft of the manuscript provided by Dr. Mark Friedberg
+and Dr. J. Michael McWilliams.
+An abstract of this study was presented at the 31st Annual
+Meeting of the Society of General Internal Medicine in
+Pittsburgh, Pennsylvania, April 11, 2008.
+Conflict of interest: none declared.
+Figure 4. Adjusted change in body mass index from 1995 to 2004
+for lack of skill discretion and lack of decision authority among US
+men. Lower levels of job-related skill discretion (A) and lower levels of
+decision authority (B) were associated with increasing weight gain
+among obese men and less weight gain among normal weight men.
+Results were adjusted for baseline body mass index; age; race; in-
+come; presence of generalized anxiety disorder, panic attack, or de-
+pression; smoking status; quitting smoking; presence of diabetes;
+self-rated health; and self-rated relative health. Trend lines represent
+predictions from the fitted model for specified body mass index (BMI)
+values, set to the body mass index mean for each baseline body mass
+index category: 22.8 (normal weight), 27.1 (overweight), and 33.8
+(obese) kg/m2.
+188 Block et al.
+Am J Epidemiol 2009;170:181­192
+REFERENCES
+1. Landsbergis PA, Schnall PL, Pickering TG, et al. Life-course
+exposure to job strain and ambulatory blood pressure in men.
+Am J Epidemiol. 2003;157(11):998­1006.
+2. Nielsen NR, Kristensen TS, Schnohr P, et al. Perceived stress
+and cause-specific mortality among men and women: results
+from a prospective cohort study. Am J Epidemiol. 2008;168(5):
+481­491; discussion 492­496.
+3. Aboa-Eboule
+´ C, Brisson C, Maunsell E, et al. Job strain and
+risk of acute recurrent coronary heart disease events. JAMA.
+2007;298(14):1652­1660.
+4. Bosma H, Marmot MG, Hemingway H, et al. Low job control
+and risk of coronary heart disease in Whitehall II (prospective
+cohort) study. BMJ. 1997;314(7080):558­565.
+5. De Bacquer D, Pelfrene E, Clays E, et al. Perceived job stress
+and incidence of coronary events: 3-year follow-up of the
+Belgian Job Stress Project cohort. Am J Epidemiol. 2005;
+161(5):434­441.
+6. Lillberg K, Verkasalo PK, Kaprio J, et al. Stressful life events
+and risk of breast cancer in 10,808 women: a cohort study. Am
+J Epidemiol. 2003;157(5):415­423.
+7. Chida Y, Hamer M, Wardle J, et al. Do stress-related psycho-
+social factors contribute to cancer incidence and survival? Nat
+Clin Pract Oncol. 2008;5(8):466­475.
+8. Grunberg NE, Straub RO. The role of gender and taste class in the
+effects of stress on eating. Health Psychol. 1992;11(2):97­100.
+9. Michaud C, Kahn JP, Musse N, et al. Relationships between
+a critical life event and eating behaviour in high-school
+students. Stress Med. 1990;6(1):57­64.
+10. Wardle J, Steptoe A, Oliver G, et al. Stress, dietary restraint
+and food intake. J Psychosom Res. 2000;48(2):195­202.
+11. Kivima
+¨ki M, Head J, Ferrie JE, et al. Work stress, weight gain
+and weight loss: evidence for bidirectional effects of job strain
+on body mass index in the Whitehall II study. Int J Obes
+(Lond). 2006;30(6):982­987.
+12. Epel E, Lapidus R, McEwen B, et al. Stress may add bite to
+appetite in women: a laboratory study of stress-induced cor-
+tisol and eating behavior. Psychoneuroendocrinology. 2001;
+26(1):37­49.
+13. Newman E, O'Connor DB, Conner M. Daily hassles and eat-
+ing behaviour: the role of cortisol reactivity status. Psycho-
+neuroendocrinology. 2007;32(2):125­132.
+14. Overgaard D, Gyntelberg F, Heitmann BL. Psychological
+workload and body weight: is there an association? A review
+of the literature. Occup Med (Lond). 2004;54(1):35­41.
+15. Brunner EJ, Chandola T, Marmot MG. Prospective effect of
+job strain on general and central obesity in the Whitehall II
+study. Am J Epidemiol. 2007;165(7):828­837.
+16. Van Strien T, Rookus MA, Bergers GP, et al. Life events,
+emotional eating and change in body mass index. Int J Obes.
+1986;10(1):29­35.
+17. Korkeila M, Kaprio J, Rissanen A, et al. Predictors of major
+weight gain in adult Finns: stress, life satisfaction and per-
+sonality traits. Int J Obes Relat Metab Disord. 1998;22(10):
+949­957.
+18. The Technical Report on the Methodology of the MIDUS
+Survey. Ann Arbor, MI: Inter-university Consortium for Po-
+litical and Social Research; 1999. (http://midmac.med.
+harvard.edu/tech.html). (Accessed March 30, 2009).
+19. Karasek R, Baker D, Marxer F, et al. Job decision latitude, job
+demands, and cardiovascular disease: a prospective study of
+Swedish men. Am J Public Health. 1981;71(7):694­705.
+20. Schwartz JE, Pieper CF, Karasek RA. A procedure for linking
+psychosocial job characteristics data to health surveys. Am J
+Public Health. 1988;78(8):904­909.
+21. Schuster TL, Kessler RC, Aseltine RH Jr. Supportive interac-
+tions, negative interactions, and depressed mood. Am J Com-
+munity Psychol. 1990;18(3):423­438.
+22. Lachman ME, Weaver SL. The sense of control as a moderator
+of social class differences in health and well-being. J Pers Soc
+Psychol. 1998;74(3):763­773.
+23. Pearlin LI, Schooler C. The structure of coping. J Health Soc
+Behav. 1978;19(1):2­21.
+24. American Psychiatric Association. Diagnostic and Statistical
+Manual of Mental Disorders. 3rd ed. Washington, DC:
+American Psychiatric Association; 1987.
+25. World Health Organization. Composite International Diag-
+nostic Interview, CIDI, Version 10. Geneva, Switzerland:
+World Health Organization; 1990.
+26. Ogden CL, Carroll MD, Curtin LR, et al. Prevalence of over-
+weight and obesity in the United States, 1999­2004. JAMA.
+2006;295(13):1549­1555.
+27. Greeno CG, Wing RR. Stress-induced eating. Psychol Bull.
+1994;115(3):444­464.
+28. Levy PS, Lemeshow S. Sampling of Populations: Methods and
+Applications. New York, NY: John Wiley & Sons, Inc; 1991.
+29. Current Population Survey: Basic Monthly CPS. Washington,
+DC: US Bureau of Labor Statistics and US Bureau of the
+Census; 1995. (http://www.bls.census.gov/cps_ftp.html#4).
+(Accessed March 30, 2009).
+30. Kandiah J, Yake M, Jones J, et al. Stress influences appetite
+and comfort food preferences in college women. Nutr Res.
+2006;26(3):118­123.
+31. Stone A, Brownell K. The stress­eating paradox: multiple
+daily measurements in adult males and females. Psychol
+Health. 1994;9:425­436.
+32. Epel E, Jimenez S, Brownell K, et al. Are stress eaters at risk
+for the metabolic syndrome? Ann N Y Acad Sci. 2004;1032:
+208­210.
+33. Serlachius A, Hamer M, Wardle J. Stress and weight change in
+university students in the United Kingdom. Physiol Behav.
+2007;92(4):548­553.
+34. Thurston RC, Kubzansky LD. Multiple sources of psychoso-
+cial disadvantage and risk of coronary heart disease. Psycho-
+som Med. 2007;69(8):748­755.
+35. Goodman E, Whitaker RC. A prospective study of the role of
+depression in the development and persistence of adolescent
+obesity. Pediatrics. 2002;110(3):497­504.
+36. Pine DS, Goldstein RB, Wolk S, et al. The association between
+childhood depression and adulthood body mass index. Pedi-
+atrics. 2001;107(5):1049­1056.
+37. Richardson LP, Davis R, Poulton R, et al. A longitudinal
+evaluation of adolescent depression and adult obesity. Arch
+Pediatr Adolesc Med. 2003;157(8):739­745.
+38. Anderson SE, Cohen P, Naumova EN, et al. Association of
+depression and anxiety disorders with weight change in a
+prospective community-based study of children followed up
+into adulthood. Arch Pediatr Adolesc Med. 2006;160(3):285­291.
+39. Chiriboga DE, Ma Y, Li W, et al. Gender differences in pre-
+dictors of body weight and body weight change in healthy
+adults. Obesity (Silver Spring). 2008;16(1):137­145.
+40. Hasler G, Pine DS, Gamma A, et al. The associations between
+psychopathology and being overweight: a 20-year prospective
+study. Psychol Med. 2004;34(6):1047­1057.
+41. Abbott DH, Keverne EB, Bercovitch FB, et al. Are subordi-
+nates always stressed? A comparative analysis of rank differ-
+ences in cortisol levels among primates. Horm Behav. 2003;
+43(1):67­82.
+42. Sapolsky RM. The influence of social hierarchy on primate
+health. Science. 2005;308(5722):648­652.
+Psychosocial Stress and Change in Weight Among Adults 189
+Am J Epidemiol 2009;170:181­192
+43. Pasquali R, Vicennati V, Cacciari M, et al. The hypothalamic-
+pituitary-adrenal axis activity in obesity and the metabolic
+syndrome. Ann N Y Acad Sci. 2006;1083:111­128.
+44. Shively CA, Clarkson TB. Regional obesity and coronary ar-
+tery atherosclerosis in females: a non-human primate model.
+Acta Med Scand Suppl. 1988;723:71­78.
+45. Wilson ME, Fisher J, Fischer A, et al. Quantifying food intake
+in socially housed monkeys: social status effects on caloric
+consumption. Physiol Behav. 2008;94(4):586­594.
+46. Levine AS, Morley JE. Stress-induced eating in rats. Am J
+Physiol. 1981;241(1):R72­R76.
+47. Rowland NE, Antelman SM. Stress-induced hyperphagia and
+obesity in rats: a possible model for understanding human
+obesity. Science. 1976;191(4224):310­312.
+48. Michel C, Levin BE, Dunn-Meynell AA. Stress facilitates
+body weight gain in genetically predisposed rats on medium-
+fat diet. Am J Physiol Regul Integr Comp Physiol. 2003;
+285(4):R791­R799.
+49. Lutter M, Sakata I, Osborne-Lawrence S, et al. The orexigenic
+hormone ghrelin defends against depressive symptoms of
+chronic stress. Nat Neurosci. 2008;11(7):752­753.
+50. Levin BE, Richard D, Michel C, et al. Differential stress re-
+sponsivity in diet-induced obese and resistant rats. Am J
+Physiol Regul Integr Comp Physiol. 2000;279(4):R1357­
+R1364.
+51. Torres SJ, Nowson CA. Relationship between stress, eating
+behavior, and obesity. Nutrition. 2007;23(11­12):887­894.
+52. Adam TC, Epel ES. Stress, eating and the reward system.
+Physiol Behav. 2007;91(4):449­458.
+53 Ganley RM. Emotion and eating in obesity: a review of the
+literature. Int J Eat Disord. 1989;8(3):343­361.
+54. Dallman MF, Pecoraro N, Akana SF, et al. Chronic stress and
+obesity: a new view of ``comfort food. Proc Natl Acad Sci
+U S A. 2003;100(20):11696­11701.
+55. Thakore JH, Richards PJ, Reznek RH, et al. Increased intra-
+abdominal fat deposition in patients with major depressive
+illness as measured by computed tomography. Biol Psychiatry.
+1997;41(11):1140­1142.
+56. Epel ES, McEwen B, Seeman T, et al. Stress and body shape:
+stress-induced cortisol secretion is consistently greater among
+women with central fat. Psychosom Med. 2000;62(5):
+623­632.
+57. Malone M. Medications associated with weight gain. Ann
+Pharmacother. 2005;39(12):2046­2055.
+58. Field AE, Aneja P, Rosner B. The validity of self-reported
+weight change among adolescents and young adults. Obesity
+(Silver Spring). 2007;15(9):2357­2364.
+59. Nyholm M, Gullberg B, Merlo J, et al. The validity of obesity
+based on self-reported weight and height: implications for
+population studies. Obesity (Silver Spring). 2007;15(1):
+197­208.
+60. White MA, Masheb RM, Burke-Martindale C, et al. Accuracy
+of self-reported weight among bariatric surgery candidates: the
+influence of race and weight cycling. Obesity (Silver Spring).
+2007;15(11):2761­2768.
+61. Ornish D, Brown SE, Scherwitz LW, et al. Can lifestyle
+changes reverse coronary heart disease? The Lifestyle Heart
+Trial. Lancet. 1990;336(8708):129­133.
+62. Ornish D, Scherwitz LW, Billings JH, et al. Intensive lifestyle
+changes for reversal of coronary heart disease. JAMA. 1998;
+280(23):2001­2007.
+63. Nilsson PM, Klasson EB, Nyberg P. Life-style intervention at
+the worksite--reduction of cardiovascular risk factors in
+a randomized study. Scand J Work Environ Health. 2001;
+27(1):57­62.
+64. Rahe RH, Taylor CB, Tolles RL, et al. A novel stress and
+coping workplace program reduces illness and healthcare
+utilization. Psychosom Med. 2002;64(2):278­286.
+65. Petterson IL, Arnetz BB. Psychosocial stressors and well-
+being in health care workers. The impact of an intervention
+program. Soc Sci Med. 1998;47(11):1763­1772.
+APPENDIX
+Survey Measures of Psychosocial Stress and
+Psychiatric Conditions
+PSYCHOSOCIAL STRESS
+Job characteristics
+``Please indicate how often each of the following is true of
+your job'' or ``how often has each of the following occurred
+at your job.''
+Skill discretion (5 response categories from ``never'' to ``all
+the time'').
+1. ``How often do you learn new things at work?''
+2. ``How often does your work demand a high level of skill
+or expertise?''
+3. ``How often does your job provide you with a variety of
+things that interest you?''
+Decision authority (5 response categories from ``never'' to
+``all the time'').
+1. ``On your job, how often do you have to initiate things--
+such as coming up with your own ideas, or figuring out
+on your own what needs to be done?''
+2. ``How often do you have a choice in deciding how you do
+your tasks at work?''
+3. ``How often do you have a choice in deciding what tasks
+you do at work?''
+4. ``How often do you have a say in decisions about your
+work?''
+5. ``How often do you have a say in planning your work
+environment--that is, how your workplace is arranged or
+how things are organized?''
+6. ``(How often) you control the amount of time you spend
+on tasks.''
+Demands (5 response categories from ``never'' to ``all the
+time'').
+1. ``How often do you have to work very intensively--that
+is, you are very busy trying to get things done?''
+2. ``How often do different people or groups at work de-
+mand things from you that you think are hard to combine?''
+3. ``(How often) you have too many demands made on you.''
+4. ``(How often) you have enough time to get everything
+done.''
+5. ``(How often) you have a lot of interruption.''
+190 Block et al.
+Am J Epidemiol 2009;170:181­192
+Perceived constraints
+``Please indicate how strongly you agree or disagree with
+each of the following statements,'' choosing from among 7
+response categories from ``strongly agree'' to ``strongly
+disagree.''
+1. ``There is little I can do to change the important things in
+my life.''
+2. ``I often feel helpless in dealing with the problems of life.''
+3. ``Other people determine most of what I can and cannot
+do.''
+4. ``What happens in my life is often beyond my control.''
+5. ``There are many things that interfere with what I want to
+do.''
+6. ``I have little control over the things that happen to me.''
+7. ``There is really no way I can solve the problems I have.''
+8. ``I sometimes feel I am being pushed around in my life.''
+Family strain
+Please choose from among 4 response categories from
+``often'' to ``never.''
+1. ``Not including your spouse or partner, how often do
+members of your family make too many demands on
+you?''
+2. ``How often do they criticize you?''
+3. ``How often do they let you down when you are counting
+on them?''
+4. ``How often do they get on your nerves?''
+Friend strain
+Please choose from among 4 response categories from
+``often'' to ``never.''
+1. ``How often do your friends make too many demands on
+you?''
+2. ``How often do they criticize you?''
+3. ``How often do they let you down when you are counting
+on them?''
+4. ``How often do they get on your nerves?''
+Spouse/partner strain
+Please choose from among 4 response categories from
+``often'' to ``never.''
+1. ``How often does your spouse or partner make too many
+demands on you?''
+2. ``How often does he or she argue with you?''
+3. ``How often does he or she make you feel tense?''
+4. ``How often does he or she criticize you?''
+5. ``How often does he or she let you down when you are
+counting on him or her?''
+6. ``How often does he or she get on your nerves?''
+Financial strain
+This was queried as a single question rather than on
+a scale.
+1. ``How difficult is it for you (and your family) to pay your
+monthly bills?''
+a. Very difficult
+b. Somewhat difficult
+c. Not very difficult
+d. Not at all difficult
+DEPRESSION
+A person was considered depressed if he/she reported
+having at least 4 of the listed symptoms under depressed
+mood or anhedonia and indicated that these symptoms were
+present ``all day long'' or ``most of the day'' and if the
+symptoms were present ``every day'' or ``almost every day.''
+Depressed affect
+``During two weeks in past 12 months, when you felt sad,
+blue, or depressed, did you
+1. Lose interest in most things?
+2. Feel more tired out or low on energy than is usual?
+3. Lose your appetite?
+4. Have more trouble falling asleep than usual?
+5. Have a lot more trouble concentrating than usual?
+6. Feel down on yourself, no good, or worthless?
+7. Think a lot about death?''
+Anhedonia
+``During two weeks in past 12 months, when you lost
+interest in most things, did you
+1. Feel more tired out or low on energy than is usual?
+2. Lose your appetite?
+3. Have more trouble falling asleep than usual?
+4. Have a lot more trouble concentrating than usual?
+5. Feel down on yourself, no good, or worthless?
+6. Think a lot about death?''
+GENERALIZED ANXIETY DISORDER
+A person was considered to have generalized anxiety
+disorder if he/she reported having at least 3 of the listed
+symptoms on most days and reported worrying ``a lot more''
+than most people, worrying ``every day, just about every
+day, or most days,'' and worrying about ``more than one
+thing'' or having different worries ``at the same time.''
+``How often--over the past 12 months--you
+1. Were restless because of your worry?
+2. Were keyed up, on edge, or had a lot of nervous energy?
+Psychosocial Stress and Change in Weight Among Adults 191
+Am J Epidemiol 2009;170:181­192
+3. Were irritable because of your worry?
+4. Had trouble falling asleep?
+5. Had trouble staying asleep because of your worry?
+6. Had trouble keeping your mind on what you were do-
+ing?
+7. Had trouble remembering things because of your
+worry?
+8. Were low on energy?
+9. Tired easily because of your worry?
+10. Had sore or arching muscles because of tension?''
+PANIC ATTACK (PANIC DISORDER)
+A person was considered to have panic attack (panic dis-
+order) if he/she reported having at least 3 of the listed symp-
+toms, an ``attack happened when a respondent was not in
+danger or the center of attention,'' and either ``had a spell or
+an attack when they felt frightened'' or ``had a spell or an
+attack for no reason.''
+``When you have attacks
+1. Your heart pounds?
+2. You have tightness, pain, or discomfort in your chest or
+stomach?
+3. You sweat?
+4. You tremble or shake?
+5. You have hot flashes or chills?
+6. You or things around you seem unreal?''
+Documentation of scales for the MIDUS study can
+be found online at http://www.midus.wisc.edu/midus1/
+documentationofscales.pdf.
+192 Block et al.
+Am J Epidemiol 2009;170:181­192
+
