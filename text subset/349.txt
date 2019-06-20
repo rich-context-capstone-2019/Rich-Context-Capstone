@@ -1,0 +1,519 @@
+Weight of the Obesity Epidemic
+Rising Stroke Rates Among Middle-Aged Women in the United States
+Amytis Towfighi, MD; Ling Zheng, PhD; Bruce Ovbiagele, MD
+Background and Purpose--Recent US nationally representative data revealed that among individuals aged 45 to 54 years,
+women's stroke prevalence was double that of men's. The purpose of this study was to determine if the sex disparity
+existed previously.
+Methods--We assessed sex-specific stroke and vascular risk factor prevalence among individuals aged 35 to 64 years who
+participated in the National Health and Nutrition Examination Surveys (NHANES), a cross-sectional, nationally
+representative survey conducted in 2 waves: 1988 to 1994 (n7234) and 1999 to 2004 (n6499).
+Results--Women aged 35 to 54 years who participated in NHANES from 1999 to 2004 were 3 times more likely to have
+experienced a stroke compared with similarly aged women in NHANES 1988 to 1994 (1.8% versus 0.6%, P0.003),
+but stroke prevalence among men did not change (0.9% versus 1.0%, nonsignificant). Among women, the prevalence
+of obesity (15.2% versus 17.9%, P0.08), morbid obesity (12.8% versus 17.5%, P0.003), abdominal obesity (47.4%
+versus 58.9%, P0.0001), hypertriglyceridemia (22.91% versus 26.78%, P0.035), and hypertension (33.04% versus
+37.43%, P0.03) was lower in NHANES 1988 to 1994 compared with the more recent NHANES wave. Higher waist
+circumference was the only independent stroke risk factor for women aged 35 to 54 years in NHANES 1999 to 2004
+(OR per 15-cm increase in waist circumference1.02, 95% CI 1.00 to 1.04).
+Conclusions--Stroke prevalence among women aged 35 to 54 years has tripled over the past 2 decades, at the same time
+remaining stable among men. Prevalence of obesity and 3 metabolic syndrome components increased; they may be key
+factors in the increase in women's stroke prevalence. (Stroke. 2010;41:1371-1375.)
+Key Words: NHANES  middle-aged  sex disparity  stroke  women
+An analysis of US stroke prevalence rates from 1999 to
+2004 revealed that women aged 45 to 54 years were
+more than twice as likely as similarly aged men to report
+having experienced a stroke.1 It is unclear whether this sex
+disparity in stroke prevalence is new or if it existed previ-
+ously. In this study, we aimed to determine whether the
+recently noted sex disparity in midlife stroke prevalence was
+a new phenomenon. If indeed new, we intended to explore
+potential reasons for this recent rise in women's stroke
+prevalence by determining: (1) independent predictors of
+stroke; and (2) temporal trends in vascular risk factors, key
+physical and laboratory measurements, and medication use.
+Methods
+Overall Design and Study Population
+The National Health and Nutrition Examination Surveys (NHANES)
+are cross-sectional samples of the US civilian noninstitutionalized
+population conducted by the National Center for Health Statistics.
+NHANES analyzed were conducted from 1988 to 1994 in 2 phases
+and from 1999 to 2004 in 3 phases; the data from the 2 phases and
+3 phases, respectively, were combined following National Center for
+Health Statistics recommendations.2,3 The National Center for
+Health Statistics Institutional Review Board approved all protocols
+for conduct and informed consent was obtained from all partici-
+pants.4,5 The sampling plan followed a complex, stratified, multi-
+stage, probability cluster design with oversampling of non-Hispanic
+blacks, Mexican Americans, and the elderly to enhance the precision
+of prevalence estimates in those groups.
+Interviews collected demographic, socioeconomic, dietary, and
+health-related information. Mobile examinations consisted of medi-
+cal and dental examinations, physiological measurements, and lab-
+oratory tests. Details of the survey design and examination proce-
+dures have been previously published.4,5
+The respective participation rates for the questionnaire and exam-
+ination components were 86% and 78% for NHANES 1988 to 1994,
+82% and 76% for 1999 to 2000, 84% and 80% for 2001 to 2002, and
+79% and 76% for 2003 to 2004. The numbers examined were 30 818
+persons in NHANES 1988 to 1994 and 29 402 persons in NHANES
+1999 to 2004. Our analysis was limited to individuals aged 35 to 64
+years who answered the question regarding prior physician diagnosis
+of stroke (n7234 for NHANES 1988 to 1994 and n6499 for
+NHANES 1999 to 2004).
+Primary Predictor Variable
+Stroke history was determined by self-reported history of a physician
+diagnosis of stroke.
+Covariates
+Covariates included cardiovascular, hematologic, lifestyle, and so-
+ciodemographic variables known to be associated with stroke.
+Received December 28, 2009; accepted January 28, 2010.
+From the Department of Neurology (A.T., L.Z.), University of Southern California, Los Angeles, Calif; and the Department of Neurology (B.O.),
+University of California at Los Angeles, Los Angeles, Calif.
+Correspondence to Amytis Towfighi, MD, 1510 San Pablo Street, HCC 643, Los Angeles, CA 90033. E-mail towfighi@usc.edu
+© 2010 American Heart Association, Inc.
+Stroke is available at http://stroke.ahajournals.org DOI: 10.1161/STROKEAHA.109.577510
+1371
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+Categorical variables included sex, age, race/ethnicity, hypertension,
+diabetes mellitus, history of smoking, history of myocardial infarc-
+tion, current atrial fibrillation, hypercholesterolemia, elevated low-
+density lipoprotein (LDL) level, hypertriglyceridemia, low high-
+density lipoprotein (HDL) level, abdominal obesity, obesity, history
+of cocaine use, history of oral contraceptive pill use, history of
+hormone replacement therapy, elevated homocysteine level, and
+metabolic syndrome. Continuous covariates included waist circum-
+ference, body mass index (BMI), systolic blood pressure, diastolic
+blood pressure, and levels of total cholesterol, LDL cholesterol,
+triglyceride, HDL cholesterol, luteinizing hormone, follicle-
+stimulating hormone, glycosylated hemoglobin, and homocysteine.
+Information on age, sex, race/ethnicity (categorized as non-
+Hispanic white, non-Hispanic black, Hispanic, or other), medical
+history, and medication use was determined by self-report. Smoking
+was defined by self-reported history of smoking 100 cigarettes.
+History of myocardial infarction was defined by self-reported phy-
+sician diagnosis. Current atrial fibrillation was defined by detection
+of an "irregular pulse" on examination. Hypercholesterolemia was
+defined by a self-reported physician diagnosis, self-reported current
+medical therapy, or total cholesterol level 200 mg/dL. Elevated
+LDL was defined as LDL level 100 mg/dL. BMI was calculated
+from height and weight (kg/m2) measured using standardized exam-
+ination protocols. Overweight was defined as BMI 25 to 29.9 kg/m2,
+obesity was defined as BMI 30.0 to 35.0 kg/m2, and morbid obesity
+was defined as BMI 35 kg/m2. Elevated homocysteine was defined
+as homocysteine level 8.5 mol/L. Metabolic syndrome was
+defined by the presence of 3 factors: (1) abdominal obesity (waist
+circumference 88 cm); (2) hypertriglyceridemia (150 mg/dL or
+use of fibrates or niacin); (3) low HDL (50 mg/dL or use of fibrates
+or niacin); (4) hypertension (mean of first 3 blood pressure readings
+130/85 mm Hg, a self-reported physician diagnosis, or self-
+reported current medical therapy); and (5) insulin resistance (self-
+reported physician diagnosis, self-reported current medical therapy
+[insulin or oral agents], or glycosylated hemoglobin level 6.0%).
+This definition differs from the modified Adult Treatment Panel III
+definition with respect to insulin resistance classification.6 Our sample
+had a large number of missing fasting serum samples precluding use of
+fasting glucose; therefore, we used glycosylated hemoglobin, a better
+index of overall glycemic exposure and risk for long-term complications
+than fasting glucose levels.7 Currently, the recommended glycosylated
+hemoglobin cut point for a diabetes mellitus diagnosis is a level
+6.5%.7 Individuals with a level ranging from 6.0% to 6.5% are
+considered at high risk for developing diabetes mellitus and have been
+found to have evidence of end-organ damage7; therefore, a cutoff of
+6.0% was chosen for insulin resistance.
+Multivariable Models
+Tests based on the correlation matrix were conducted to rule out
+collinearity before running the multivariable logistic regression analysis.
+The following variables were excluded from the model due to the large
+number of missing variables: LDL cholesterol, triglyceride, homocysteine,
+luteinizing hormone, and follicle-stimulating hormone levels. Subjects who
+identified their race as "other" were excluded because none had strokes.
+Statistical Analysis
+Sample weights and the stratification and clustering of the design
+were incorporated into our analyses to get proper estimates and SEs
+of estimates.2,3 Bivariate and multivariable logistic regression anal-
+yses were performed to evaluate predictors of whether the person had
+experienced a stroke. The primary reported statistics are the esti-
+mated ORs. All data analyses were conducted using SAS (Version
+9.1; SAS Institute Inc, Cary, NC). Statistical hypotheses were tested
+using P0.05 as the level of significance.
+Results
+The demographics of the study populations were similar in
+the 2 NHANES waves (Table 1). Table 2 shows age- and
+sex-specific stroke prevalence. During NHANES 1988 to
+1994, there were no sex differences in stroke prevalence
+among individuals aged 35 to 44, 45 to 54, or 55 to 64 years.
+During NHANES 1999 to 2004, however, a sex disparity
+emerged among 45 to 54 year olds (1.04% among men versus
+2.45% among women, P0.0038). Comparing stroke preva-
+lence across NHANES waves revealed that women aged 35
+to 44 years in the latter NHANES wave were 3 times as
+likely as women in the previous wave to report a previous
+stroke (1.16% versus 0.35%, P0.044), and women aged 45
+to 54 were more than twice as likely as those in the previous
+wave to report a previous stroke (2.45% versus 1.08%,
+P0.062). Among men, however, there was no significant
+difference in stroke prevalence for each age group.
+Merging the 35- to 44-year and 45- to 54-year age groups
+revealed that among 35 to 54 year olds, there was no midlife sex
+disparity prevalent stroke in NHANES 1988 to 1994 (0.6% [SE
+0.2%] of 2784 women versus 0.9% [SE 0.2%] of 2328 men,
+P0.35), but in NHANES 1999 to 2004, women were almost
+twice as likely as men to report prevalent stroke (1.8% [SE 0.3]
+of 2360 women versus 1.0% [SE 0.2%] of 2231 men, P0.01).
+The tripling of stroke prevalence among women aged 35 to 54
+years (1.8% versus 0.6%, P0.003), in the setting of stable stroke
+prevalence rates among similarly aged men, thus accounted for the
+observed sex disparity in midlife stroke prevalence.
+Comparison of vascular risk factors across NHANES waves
+revealed that women aged 35 to 54 years in the more recent
+wave were more likely to have hypertension (37.43% versus
+33.04%, P0.03), hypertriglyceridemia (26.78% versus
+22.91%, P0.035), abdominal obesity (58.89% versus 47.36%,
+P0.0001), obesity (17.9% versus 15.2%, P0.08), morbid
+obesity (17.5% versus 12.8%, P0.003), and atrial fibrillation
+(2.0% versus 0.87%, P0.0062) than a decade prior. They were
+more likely to take medications for hypertension (14.8% versus
+8.9%, P0.0001) and dyslipidemia (3.8% versus 1.4%,
+Table 1. Population Characteristics of US Adults Aged 35­54
+Years in NHANES 1988­1994 and NHANES 1999­2004
+NHANES 1988­1994 NHANES 1999­2004
+Total, no. 5112 4594
+Age 35­44 years, no. 3134 2430
+Age 45­54 years, no 1978 2164
+Sex
+Female, no. 2784 2361
+Mean age (SE) 43.06 (0.16) 44.16 (0.20)
+Male, no. 2328 2233
+Mean age (SE) 43.16 (0.15) 44.16 (0.14)
+Women 35­54 years
+Non-Hispanic white, no. 1009 1077
+Non-Hispanic black, no. 902 528
+Hispanic, no. 822 662
+Other, no. 51 94
+Men 35­54 years
+Non-Hispanic white, no. 851 1067
+Non-Hispanic black, no. 701 487
+Hispanic, no. 737 597
+Other, no. 39 82
+1372 Stroke July 2010
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+P0.0014) but were less likely to take hormone replacement
+therapy (23.1% versus 46.5%, P0.0001). Comparison of an-
+thropometric and laboratory values revealed that women in the
+more recent NHANES wave had higher mean waist circumfer-
+ence (93.6 cm versus 89.7 cm, P0.0001), BMI (28.7 kg/m2
+versus 27.2 kg/m2, P0.0001), glycosylated hemoglobin (5.4%
+versus 5.3%, P0.0419), HDL (57.0 mg/dL versus 55.1 mg/dL,
+P0.0123), and luteinizing hormone (17.9 IU/L versus 10.3
+IU/L, P0.0001) levels and lower homocysteine (7.7 mol/L
+versus 8.5 mol/L, P0.0002) levels compared with women
+a decade prior (Table 3). Although the prevalence of meta-
+bolic syndrome did not change, women in the more recent
+study were more likely to have 3 components of metabolic
+syndrome (abdominal obesity, hypertension, and hypertri-
+glyceridemia; Table 3).
+Numerous factors increased the odds of previous stroke on
+bivariate analysis (Supplemental Table I; available at http://
+stroke.ahajournals.org). After adjusting for confounders, in-
+crease in age (per 5-year increase OR 1.16, 95% CI 1.06 to
+1.28), black non-Hispanic race/ethnicity (OR 4.22, 95% CI 1.19
+to 14.94), history of myocardial infarction (OR 7.73, 95% CI
+1.16 to 51.67), history of smoking (OR 5.27, 95% CI 1.36 to
+20.37), and increase in total cholesterol level (per 40-mg/dL
+increase OR 1.02, 95% CI 1.01 to 1.03) were independently
+associated with stroke among women aged 35 to 54 years in the
+first NHANES wave, but waist circumference (per 15-cm
+increase OR 1.02, 95% CI 1.00 to 1.04) was the only indepen-
+dent risk factor for stroke among women aged 35 to 54 years in
+the more recent NHANES wave (Table 4).
+Discussion
+The prevalence of stroke among US women aged 35 to 54 years
+has tripled over the 2 most recent decades, whereas prevalence
+among similarly aged men has remained stable. Women aged 35
+to 54 years are now almost twice as likely to report having had
+a stroke compared with men. Whether comparing women across
+epochs or with their similarly aged male counterparts, it certainly
+appears that the previously reported recent surge in nationwide
+stroke prevalence rates among women in this age group is
+indeed a new phenomenon.1
+Women aged 35 to 54 years are more likely to be obese and
+morbidly obese than in the previous decade. Not surprisingly,
+key components of the metabolic syndrome (abdominal
+obesity, hypertension, and hypertriglyceridemia) have be-
+come more prevalent among women aged 35 to 54 years.
+Blood pressure levels and lipid profiles were better among
+women who participated in the most recent NHANES wave,
+perhaps as a result of increased use of antihypertensive and
+lipid-lowering medications. On the other hand, the lack of any
+changes in use of medications for diabetes mellitus, in the setting
+of an increase in abdominal and general obesity, was associated
+with higher glycosylated hemoglobin levels. In addition, women
+in the most recent NHANES wave had higher luteinizing
+hormone levels, perhaps due to the increase in obesity, which is
+associated with polycystic ovary syndrome.8 The improved
+homocysteine levels may be a consequence of folic acid fortifica-
+tion of enriched grain products, which became mandatory in 1998.
+Although several vascular risk factors were independently
+associated with prevalent stroke among women aged 35 to 54
+years who participated in NHANES 1988 to 1994, higher
+waist circumference was the only risk factor independently
+associated with prevalent stroke among midlife women who
+participated in NHANES 1999 to 2004. This result may lend
+support to our hypothesis that the increase in stroke preva-
+lence among women aged 35 to 54 years may be related to
+worsening national obesity rates differentially and adversely
+affecting women at midlife.1 Of course, one cannot make
+Table 2. Age- and Sex-Specific Stroke Prevalence in NHANES 1988­1994 and NHANES 1999­2004
+Age Group, Years No.
+NHANES 1988­1994 Stroke
+Prevalence, % (SE%) No.
+NHANES 1999­2004 Stroke
+Prevalence, % (SE%) P
+Women
+35­44 1732 0.35 (0.18) 1258 1.16 (0.40) 0.044
+45­54 1052 1.08 (0.41) 1102 2.45 (0.58) 0.062
+55­64 1089 3.02 (0.67) 980 3.38 (0.77) 0.73
+Men
+35­44 1402 0.42 (0.24) 1170 0.96 (0.32) 0.19
+45­54 926 1.68 (0.59) 1061 1.04 (0.29) 0.28
+55­64 1033 3.15 (0.92) 928 3.02 (0.60) 0.88
+Age Group, Years No.
+Stroke Prevalence
+Among Men, % (SE%) No.
+Stroke Prevalence
+Among Women, % (SE%) P
+NHANES 1988­1994
+35­44 1402 0.42 (0.24) 1732 0.35 (0.18) 0.80
+45­54 926 1.68 (0.59) 1052 1.08 (0.41) 0.45
+55­64 1033 3.15 (0.92) 1089 3.02 (0.67) 0.91
+NHANES 1999­2004
+35­44 1170 0.96 (0.32) 1258 1.16 (0.40) 0.78
+45­54 1061 1.04 (0.29) 1102 2.45 (0.58) 0.0038
+55­64 928 3.02 (0.60) 980 3.38 (0.77) 0.68
+Towfighi et al Stroke Among Middle-Aged Women in the United States 1373
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+causal associations in a cross-sectional study and future
+prospective studies are necessary.
+This study has several limitations. First, NHANES relies
+on self-report of medical history, including history of stroke.
+Although NHANES has not validated self-reporting of stroke,
+previous studies have shown a sensitivity ranging from 80%
+to 95% and specificity ranging from 96% to 99%.9,10 Al-
+though enhanced media attention and stroke education may
+have resulted in more women than men reporting strokes, we
+are unaware of such a recent sex disparity in stroke reporting.
+Second, because NHANES does not assess incidence, it is not
+possible to determine if the changes in prevalence were due to
+changes in incidence or survival. However, data from the US
+Centers for Disease Control and Prevention WONDER
+(Wide-ranging Online Data for Epidemiologic Research)
+database revealed that from 1999 to 2003, there were no sex
+differences in stroke mortality in individuals younger than age
+45 years, suggesting that the differences observed in prevalence
+were due to changes in incidence.11 Supporting this theory, the
+Greater Cincinnati­Northern Kentucky Stroke Study found
+that at age 35 years, women had higher stroke incidence
+than men.12 Third, a substantial proportion of stroke survivors
+may have severe disabilities necessitating nursing home place-
+ment, thus precluding their participation in NHANES.13 How-
+ever, it is unlikely that there were significant differences in the
+numbers of individuals discharged to long-term care after
+Table 3. Comparison of Medical History, Biomarkers, and Medication Use Among Women Aged 35­54 Years Who Participated in
+NHANES 1988­1994 Versus NHANES 1999­2004
+Women Aged 35­54 Years
+NHANES 1988­1994 NHANES 1999­2004
+No. Percent (SE) No. Percent (SE) P
+Vascular risk factors
+History of smoking 2784 47.6 (1.5) 2359 46.0 (1.4) 0.4068
+History of myocardial infarction 2583 0.73 (0.20) 2361 1.0 (0.19) 0.3803
+Current atrial fibrillation 2688 0.87 (0.23) 2361 2.0 (0.36) 0.0062
+Metabolic syndrome 2642 23.34 (1.49) 1859 25.00 (1.21) 0.42
+Anthropometric measurements and laboratory values No. Mean (SE) No. Mean (SE) P
+Waist circumference, cm 2658 89.7 (0.54) 2261 93.6 (0.49) 0.0001
+BMI, kg/m2 2779 27.2 (0.25) 2303 28.7 (0.22) 0.0001
+Systolic blood pressure, mm Hg 2698 118.9 (0.37) 2215 118.6 (0.46) 0.5341
+LDL cholesterol level, mg/dL 1185 123.0 (1.8) 989 120.2 (1.5) 0.2256
+Total cholesterol level, mg/dL 2651 203.5 (1.2) 2201 203.6 (1.1) 0.9907
+HDL cholesterol level, mg/dL 2625 55.1 (0.47) 2202 57.0 (0.54) 0.0123
+Triglyceride level, mg/dL 2644 128.0 (4.6) 1046 130.4 (4.6) 0.7214
+Glycosylated hemoglobin, % 2685 5.3 (0.034) 2244 5.4 (0.025) 0.0419
+Homocysteine level, mol/L 1308 8.5 (0.13) 2237 7.7 (0.069) 0.0002
+C-reactive protein level, mg/dL 2635 0.45 (0.019) 2220 0.50 (0.023) 0.0666
+Follicle-stimulating hormone level, IU/L 2579 22.1 (0.91) 1469 24.2 (1.1) 0.3035
+Luteinizing hormone level, IU/L 2578 10.3 (0.35) 1470 17.9 (0.71) 0.0001
+No. Percent (SE) No. Percent (SE) P
+BMI 25 kg/m2, % 2779 46.4 (1.9) 2303 36.8 (1.5) 0.0001
+BMI 25­29 kg/m2, % 2779 25.7 (1.2) 2303 27.9 (1.2) 0.20
+BMI 30­35 kg/m2, % 2779 15.2 (0.98) 2303 17.9 (1.11) 0.08
+BMI 35 kg/m2, % 2779 12.8 (1.2) 2303 17.5 (1.03) 0.003
+Current medications
+Hormone replacement therapy 952 46.5 (2.1) 2132 23.1 (1.4) 0.0001
+Anticoagulant medication 2784 0.41 (0.20) 1612 0.57 (0.16) 0.4922
+Antihypertensive medication 2784 8.9 (0.76) 1612 14.8 (1.1) 0.0001
+Antiplatelet medication 2784 0.18 (0.18) 1612 0.34 (0.15) 0.6400
+Diabetes mellitus medication 2784 2.2 (0.54) 1612 3.3 (0.44) 0.1215
+Lipid-lowering medication 2784 1.4 (0.41) 1612 3.8 (0.44) 0.0014
+Metabolic syndrome components
+Abdominal obesity (waist circumference 88 cm) 2658 47.36 (1.57) 2261 58.89 (1.42) 0.0001
+Hypertriglyceridemia (150 mg/dL) 2644 22.91 (1.49) 1046 26.78 (1.19) 0.035
+Low HDL level (50 mg/dL) 2625 38.9 (1.52) 2202 36.99 (1.46) 0.35
+Hypertension 2720 33.04 (1.42) 2260 37.43 (1.28) 0.03
+Insulin resistance 2784 8.19 (0.90) 2361 8.15 (0.66) 0.97
+1374 Stroke July 2010
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+strokes in the 2 NHANES waves. In addition, women are more
+likely than men to be discharged to nursing homes and long-term
+care14; therefore, women with stroke are less likely to be
+captured by NHANES. Fourth, the prevalence of stroke in this
+age group was low, limiting the precision of estimates. Fifth, this
+study was cross-sectional; because both risk factors and preva-
+lent stroke were assessed simultaneously, it is not possible to
+ascertain whether the risk factors preceded the stroke. Sixth,
+NHANES does not classify ischemic stroke subtype or differ-
+entiate hemorrhagic from ischemic strokes. Given the higher
+prevalence of atrial fibrillation among women aged 35 to 54
+years in the most recent NHANES wave, stroke subtype classi-
+fication would have been helpful. Although ischemic stroke,
+intracerebral hemorrhage, and subarachnoid hemorrhage have
+different risk factors, most strokes are presumably ischemic
+given the epidemiological breakdown of strokes. Finally, there
+were a large number of missing data for certain variables (such
+as LDL cholesterol, homocysteine, follicle-stimulating hormone,
+luteinizing hormone, triglyceride level, and hormone replace-
+ment therapy). Nevertheless, a strength of the study is the
+inclusion of a multitude of covariates (incorporating medical
+history, biomarkers, and medication use) and rigorous standard-
+ized biomarker assessment by trained staff within NHANES.
+This study has several implications. First, it challenges the
+traditional thinking that men aged 35 to 54 years have a similar
+or higher stroke prevalence compared with their female coun-
+terparts. Although there are limited data on sex- and age-specific
+stroke prevalence rates, the REGARDS (REasons for Geo-
+graphic And Racial Differences in Stroke) study,15 which is not
+nationally representative, found that fewer women than men
+have prevalent stroke at age 45 to 54 years.11 Second, it
+corroborates other studies revealing a concerning trend of
+increasing prevalence of obesity among adults, including midlife
+women.16 Finally, it shows that despite improvements in vascu-
+lar risk factor control, stroke prevalence has increased in midlife
+women. Perhaps a key to curbing this trend is to focus on
+mitigating the growing obesity epidemic. Nationally representa-
+tive longitudinal studies are warranted to determine if the
+apparent increase in stroke prevalence among women aged 35 to
+54 years is due to an increase in incident strokes among young
+and middle-aged women.
+Disclosures
+None.
+References
+1. Towfighi A, Saver JL, Engelhardt R, Ovbiagele B. A midlife stroke surge
+among women in the United States. Neurology. 2007;69:1898­1904.
+2. National Center for Health Statistics. National Health and Nutrition Examination
+Survey (NHANES) analytic guidelines. Available at: www.cdcgov/nchs/about/
+major/nhanes/nhanes2003­2004/analytical_guidelineshtm. Accessed December
+19, 2008.
+3. National Center for Health Statistics. Analytic and reporting guidelines:
+The Third National Health and Nutrition Examination Survey, NHANES
+III (1988­94). Available at: www.Cdc.Gov/nchs/data/nhanes/nhanes3/
+nh3gui.pdf. Accessed December 19, 2008.
+4. Plan and operation of the Third National Health and Nutrition Exami-
+nation Survey, 1988­94. Series 1: programs and collection procedures.
+Vital Health Stat 1. 1994;32:1­407.
+5. National Center for Health Statistics. Survey operations manuals, bro-
+chures, and consent documents: 1999--current NHANES. Available at:
+http://www.cdc.gov/nchs/nhanes/currentnhanes. Last accessed on
+December 19, 2008.
+6. Grundy SM, Cleeman JI, Daniels SR, Donato KA, Eckel RH, Franklin
+BA, Gordon DJ, Krauss RM, Savage PJ, Smith SC Jr, Spertus JA, Costa
+F. Diagnosis and management of the metabolic syndrome: an American
+Heart Association/National Heart, Lung, and Blood Institute scientific
+statement. Circulation. 2005;112:2735­2752.
+7. International Expert Committee report on the role of the a1c assay in the
+diagnosis of diabetes. Diabetes Care. 2009;32:1327­1334.
+8. Samy N, Hashim M, Sayed M, Said M. Clinical significance of inflam-
+matory markers in polycystic ovary syndrome: their relationship to
+insulin resistance and body mass index. Dis Markers. 2009;26:163­170.
+9. Engstad T, Bonaa KH, Viitanen M. Validity of self-reported stroke: the
+Tromso study. Stroke. 2000;31:1602­1607.
+10. O'Mahony PG, Dobson R, Rodgers H, James OF, Thomson RG. Vali-
+dation of a population screening questionnaire to assess prevalence of
+stroke. Stroke. 1995;26:1334­1337.
+11. Reeves MJ, Bushnell CD, Howard G, Gargano JW, Duncan PW, Lynch G,
+Khatiwoda A, Lisabeth L. Sex differences in stroke: epidemiology, clinical
+presentation, medical care, and outcomes. Lancet Neurol. 2008;7:915­926.
+12. Kissela B, Schneider A, Kleindorfer D, Khoury J, Miller R, Alwell K,
+Woo D, Szaflarski J, Gebel J, Moomaw C, Pancioli A, Jauch E, Shukla
+R, Broderick J. Stroke in a biracial population: the excess burden of
+stroke among blacks. Stroke. 2004;35:426­431.
+13. Kovar MG, Pokras R, Collins JG. Trends in medical care and survival
+from stroke. Ann Epidemiol. 1993;3:466­470.
+14. Niewada M, Kobayashi A, Sandercock PA, Kaminski B, Czlonkowska A.
+Influence of gender on baseline features and clinical outcomes among
+17,370 patients with confirmed ischaemic stroke in the International
+Stroke Trial. Neuroepidemiology. 2005;24:123­128.
+15. Howard VJ, Cushman M, Pulley L, Gomez CR, Go RC, Prineas RJ, Graham A,
+Moy CS, Howard G. The REasons for Geographic And Racial Differences in
+Stroke study: objectives and design. Neuroepidemiology. 2005;25:135­143.
+16. Flegal KM, Carroll MD, Ogden CL, Johnson CL. Prevalence and trends
+in obesity among US adults, 1999­2000. JAMA. 2002;288:1723­1727.
+Table 4. Multivariable Logistic Regression Model for Stroke Risk Among Women Aged 35­54 Years Who Participated in NHANES
+1988­1994 and NHANES 1999­2004
+NHANES 1988­1994
+(n2293)
+NHANES 1999­2004
+(n2033)
+Variable Unit Change OR 95% CI P OR 95% CI P
+Age 5 years 1.16 1.06­1.28 0.0024 1.07 0.99­1.16 0.1038
+Black non-Hispanic (versus all others) 4.22 1.19­14.94 0.0256 1.46 0.68­3.12 0.3276
+History of myocardial infarction 7.73 1.16­51.67 0.0349 3.13 0.74­13.16 0.1196
+History of smoking 5.27 1.36­20.37 0.0159 2.10 1.00­4.44 0.0512
+Diastolic blood pressure 20 mm Hg 1.02 0.97­1.07 0.4041 1.03 1.00­1.06 0.0813
+Total cholesterol level 40 mg/dL 1.02 1.01­1.03 0.0002 1.00 1.00­1.01 0.3664
+Glycosylated hemoglobin 1% 0.95 0.13­6.79 0.9594 1.03 0.75­1.4 0.8425
+Waist circumference 15 cm 1.03 0.98­1.09 0.2228 1.02 1.00­1.04 0.0104
+Towfighi et al Stroke Among Middle-Aged Women in the United States 1375
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+Amytis Towfighi, Ling Zheng and Bruce Ovbiagele
+United States
+Weight of the Obesity Epidemic: Rising Stroke Rates Among Middle-Aged Women in the
+Print ISSN: 0039-2499. Online ISSN: 1524-4628
+Copyright © 2010 American Heart Association, Inc. All rights reserved.
+is published by the American Heart Association, 7272 Greenville Avenue, Dallas, TX 75231
+Stroke
+doi: 10.1161/STROKEAHA.109.577510
+2010;41:1371-1375; originally published online May 27, 2010;
+Stroke.
+http://stroke.ahajournals.org/content/41/7/1371
+World Wide Web at:
+The online version of this article, along with updated information and services, is located on the
+http://stroke.ahajournals.org//subscriptions/
+is online at:
+Stroke
+Information about subscribing to
+Subscriptions:
+http://www.lww.com/reprints
+Information about reprints can be found online at:
+Reprints:
+document.
+Permissions and Rights Question and Answer
+process is available in the
+Request Permissions in the middle column of the Web page under Services. Further information about this
+Once the online version of the published article for which permission is being requested is located, click
+can be obtained via RightsLink, a service of the Copyright Clearance Center, not the Editorial Office.
+Stroke
+in
+Requests for permissions to reproduce figures, tables, or portions of articles originally published
+Permissions:
+by guest on September 26, 2016
+http://stroke.ahajournals.org/
+Downloaded from
+

@@ -1,0 +1,1421 @@
+12 Twin Research and Human Genetics Volume 11 Number 1 pp. 12­27
+We examine the heritability of psychological
+resilience among US adults aged 25 to 74
+years. Using monozygotic and same sex dizygotic
+twin pairs from the National Survey of Mid-Life
+Development in the United States (MIDUS) we
+show that positive affect is equally heritable among
+men (h2 = .60) and women (h2 = .59). We then esti-
+mate the heritability of positive affect after
+controlling for an exhaustive list of social and inter-
+personal stressors, and we operationalize the
+residual for positive affect as resilience. According
+to this specification, the heritability of resilience is
+higher among men (h2 = .52) compared to women
+(h2 = .38). We show that self-acceptance is one of
+the most important aspects of psychological func-
+tioning that accounts for the heritability of resilience
+among both men and women. However, compared
+to women, men appear to derive additional benefits
+from environmental mastery that may enable other-
+wise sex-neutral resilient tendencies to manifest.
+Two individuals who have experienced comparable
+events throughout most of their lives may respond
+very differently to the same stressful life event such as
+a divorce, loss of a job, or the death of a loved one.
+Those who successfully navigate these adversities and
+report little to no adverse mental health consequences
+are often characterized as resilient. Resiliency is
+understood as a general, rather than domain specific,
+orientation (Rutter, 2003), `implying a relative resis-
+tance to environmental risk experiences, or the
+overcoming of stress or adversity' (Rutter, 2006, p. 1).
+Previous research has identified several sources of
+resiliency with a particular emphasis on psychologi-
+cal, material, and social resources available to
+individuals (Cicchetti & Rogosch, 1997). However,
+more recent findings suggest that genetic factors are
+also important for understanding individual differ-
+ences in resilience (Rutter, 2003; Silberg et al., 2001).
+For example, Caspi et al. (2003) show a strong asso-
+ciation between the number of stressful life events
+that adults have experienced and their subsequent risk
+of major depression. However, among those individu-
+als with two long alleles of a gene responsible for
+serotonin transmission (5-HTT) there is no clear
+association between chronic exposure to stressful life
+events and poor mental health. That is, individuals
+who are homozygous for this allele are particularly
+resilient to stressors that may otherwise lead to a
+major depressive episode.
+Few have examined the possibility that the genetic
+effects on resilience may be different for men and
+women. This is particularly relevant to the study of
+gene­environment interactions because sex may con-
+strain the genetic expression of resiliency among
+women, and it may enable this potential among men
+(Shanahan & Hofer, 2005). In their review of
+gene­environment interaction studies, Shanahan and
+Hofer (2005) argue that environments can `control
+phenotypes despite genetic propensities to the con-
+trary' but they can also `help actualize genetic
+potential' (Shanahan & Hofer, 2005, p. 70). Within
+the gene-environment interaction literature, the `envi-
+ronment' is defined as narrowly as nutritional intake
+(Allen & Farell, 1996) and as broadly as birth cohorts
+(Kendler et al., 2000). And despite the fact men and
+women are socialized differently, engage in different
+roles in life, and have differential access to social and
+material resources, sex is not typically considered as
+an `environmental' moderator within behavioral
+genetic research (for exceptions see Walters, 2002).
+Because of the distinct environments in which men
+and women (on average) are socialized, we argue that
+biological sex, as a proxy for these different environ-
+ments, enables genetically oriented resilience among
+men and restricts these same genetic tendencies
+among women. This understanding may explain why
+others have demonstrated that the heritability of
+depression as a function of prior stressors is roughly
+30% among girls, but nonevident among adolescent
+boys (Silberg et al. 1999). Similar results are also
+reported in a recent study by Kendler and colleagues
+(2006) who, using data on over 15,000 adult twin
+pairs, calculate significantly different heritability
+Sex Differences in the Heritability
+of Resilience
+Jason D. Boardman,1 Casey L. Blalock,1 and Tanya M. M. Button2
+1 Department of Sociology and Institute of Behavioral Science, University of Colorado at Boulder, United States of America
+2 Institute for Behavioral Genetics, University of Colorado at Boulder, United States of America
+Received 2 November, 2007; accepted 4 December, 2007.
+Address for correspondence: Jason D. Boardman, Department of
+Sociology and Institute of Behavioral Science, University of Colorado
+at Boulder, 219 Ketchum Hall, Boulder, CO 80309-0327, United
+States. E-mail: boardman@colorado.edu
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+13
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+estimates for major depression among men (h2 = .29)
+and women (h2 = .42).
+Aspects of psychological functioning that are
+thought to underpin ability to effectively cope are
+often implicated in research of resiliency to childhood
+adversity, and sex differences have been noted. Women
+have been shown to have lower self-confidence, lower
+self-esteem, and lower self-efficacy compared to men
+(Costa et al., 2001; Feingold, 1994; Kling et al., 1999;
+Lynn & Martin, 1997). Pearlin and Schooler (1978)
+evaluated the efficacy of different psychological
+resources and active coping responses in mediating four
+role-based stressors. They find that men are equipped
+with more psychological resources (e.g., self-esteem and
+mastery) than women, concluding that in addition to
+other unmeasured factors, socialization better equips
+men with effective psychological resources, buffering
+them from the otherwise deleterious impact of stressors
+on wellbeing.
+Interestingly, although previous work demonstrates
+significant sex differences in psychological wellbeing,
+there is less evidence that these factors are differentially
+heritable. Kessler et al. (2004) assess six aspects of psy-
+chological wellbeing including autonomy, mastery,
+personal growth, positive social relations, purpose in
+life, and self-acceptance. These authors demonstrate a
+sizable heritable component for each of these factors,
+ranging from .11 to .43, and there is very little evidence
+that these factors are differentially heritable for men
+and women.1 The differential availability of these
+resources as a consequence of gendered experience,
+may translate to other important aspects of mental
+health. That is, if there is a latent orientation toward
+resilience that has genetic underpinnings, then access to
+psychological resources, especially those related to
+sense of mastery, agency, and worth, may provide the
+requisite foundation to enable resilience (Shanahan &
+Hofer, 2005). Thus, sex may indirectly affect the struc-
+ture of the genetic etiology of general resilience through
+the provision of these gendered social psychological
+resources.
+In this article we examine the possibility that
+resilience is a heritable trait among adults, and we
+look for evidence of resilience above and beyond other
+indicators of psychological wellbeing. Further, most
+resilience research has focused on resiliency to child-
+hood stressors and has devoted scant attention to
+resiliency to environmental stressors during adult-
+hood. We build on this literature by including
+life-stressors that are more germane to adult popula-
+tions, including problematic work environments or
+troubled relationships with spouses or children, and
+we examine the possibility that resilience is highly her-
+itable among men, but only weakly among women.
+Methods
+This study makes use of data from the National
+Survey of Midlife Development in the United States
+(MIDUS), 1995­1996 (Brim et al., 1996). MIDUS is a
+nationally representative survey designed to study the
+effects of midlife development on the self-reported
+physical health, psychological wellbeing, and social
+consciousness of adults aged 25 to 75. Data in the
+survey were collected through the use of a telephone
+interview and a questionnaire mailed to nearly 7000
+respondents. The MIDUS Twin Screening Project was
+used to identify 998 adult twin pairs to participate in
+the study. After a screening of roughly 50,000 house-
+holds via a telephone interview, MIDUS interviewers
+contacted the respondent who was then asked to
+contact their twin to participate in the study.
+Of the 998 pairs, we used data from same sex
+pairs with a determined zygosity. There were 367
+pairs of monozygotic (MZ), and 352 pairs of dizygotic
+(DZ) twins included in the MIDUS study. We dropped
+263 pairs of opposite sex DZ twins and 16 pairs of
+undetermined zygosity. Because of the possibility of
+population stratification, we further dropped non-
+white pairs (n = 45) and pairs with missing race data
+(n = 44), leaving 630 white pairs.2 We use only twin
+pairs where both twins are not missing on the positive
+affect measures, and impute missing values of covari-
+ates for 78 pairs (a maximum of two imputations per
+person), using the impute command in STATA 9
+(StataCorps, 2005). In total our sample includes 527
+twin pairs [male: MZ (n =129), DZ (n = 104); female
+MZ (n = 155), DZ (n = 139)].
+Measures
+Resilience
+We operationalize resilience as a positive affect despite
+chronic exposure to stressful life events. We use a pos-
+itive affect scale (Mroczek & Kolarz, 1998) created by
+averaging responses from six items. Respondents were
+asked `During the past 30 days, how much of the time
+did you feel ... Cheerful? In good spirits? Extremely
+happy? Calm and peaceful? Satisfied? Full of life?'
+Responses were coded on a scale of 1 (All the time) to
+5 (None of the time); the items were then standardized
+and summed, such that higher scores indicate better
+mood (Chronbach's alpha [] = .91). Descriptive sta-
+tistics for all variables used in the analyses are
+presented in Table 1.
+Chronic and Acute Stressors
+Role-based stress is measured with three scales
+gauging the strain associated with one's spouse, chil-
+dren, and parents. These scales were constructed from
+a checklist of ten problems experienced by the respon-
+dent in each respective role. The `yes' responses were
+summed to yield possible scale scores between 0 and
+10, with higher scores indicating more strain. We used
+the spousal strain scale to classify married or part-
+nered individuals into high strain and low strain
+categories. Those in the 70th percentile (those with
+two or more strains) were classified as high strain. We
+also coded those without a spouse or partner as either
+never married or widowed/divorced/separated, using a
+set of dummy variables to model spousal strain and
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+14 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+Table 1
+Descriptive Statistics for all Variables Used in the Analyses
+Male Female Male Female
+MZ DZ MZ DZ
+Positive Affect 0.02 0.10 ­0.01 ­0.08
+(.97) (.94) (1.02) (1.05)
+Demographic controls
+High school or less 29.28 39.08 39.18 45.05
+Age 45.24 44.98 42.51 45.04
+(11.29) (11.7) (11.68) (11.62)
+Spousal relationship
+Never married 8.11 5.75 6.72 8.11
+No longer married 8.11 5.17 11.19 11.26
+Low spouse strain 69.37 70.69 61.57 59.01
+High spouse strain 14.41 18.39 20.52 21.62
+Psychological functioning
+Positive relationships 15.80 15.73 17.28 16.93
+(4.14) (4.09) (3.75) (4.03)
+Self-acceptance 16.99 17.34 16.99 16.55
+(3.47) (3.05) (3.68) (3.41)
+Autonomy 16.32 16.33 16.26 16.32
+(3.23) (3.1) (3.47) (3.46)
+Personal Growth 17.89 17.93 18.43 17.98
+(2.93) (2.74) (3.05) (2.80)
+Environmental mastery 16.49 16.90 16.14 16.30
+(3.55) (2.89) (3.6) (3.49)
+Purpose in Life 16.99 16.94 17.06 16.80
+(3.48) (3.30) (3.29) (3.36)
+Measures of stress and strain
+Children strain 0.93 0.73 1.11 1.16
+(1.54) (1.18) (1.70) (1.73)
+Child status
+Has kids 80.63 83.91 83.58 82.43
+Parent strain 0.64 0.63 1.08 0.88
+(1.09) (1.04) (1.57) (1.36)
+Job strain 0.00 ­0.02 0.04 0.08
+(.49) (.54) (.46) (.48)
+Job support ­0.05 ­0.09 0.06 0.05
+(.65) (.63) (.60) (.62)
+Not employed 6.31 10.92 25.75 22.97
+Friend/family strain 1.96 1.92 2.04 2.01
+(.49) (.44) (.46) (.46)
+Friend/family support 2.76 2.81 2.99 2.94
+(.55) (.48) (.44) (.49)
+Financial strain ­0.29 ­0.03 ­0.13 ­0.03
+(.68) (.78) (.83) (.86)
+Negative health status ­0.27 ­0.17 ­0.19 ­0.08
+(.53) (.68) (.64) (.74)
+Neighborhood quality 3.53 3.56 3.39 3.39
+(.47) (.43) (.53) (.56)
+Childhood SES ­0.02 0.07 0.01 ­0.15
+(.68) (.81) (.71) (.72)
+Note: Cell entries represent means and standard deviations (in parentheses) for
+continuous variables and percents for nominal responses. All data come
+from the twin sample of the National Survey of Midlife Development in the
+United States (MIDUS), 1995­1996 (Brim et al. 1996). A total of 527 twin pairs are
+used in these analyses (MZm(129); MZf(155); DZm(104); DZf(139)).
+marriage status. The child strain scale is treated as
+continuous, giving those without children a score of
+zero. We included a dummy variable for whether or
+not respondents have children, to allow for the possi-
+bility that having children can be beneficial to
+wellbeing. Parental strain is treated as continuous;
+those without parents were given a zero on the scale.
+Respondents with a spouse, child, or parent, but
+missing all ten items for the respective scale, were
+given a missing value on the scale. Reliability coeffi-
+cients are not reported for these scales, as the items do
+not reflect an underlying construct; rather, they are
+believed to represent the cumulative effects of inde-
+pendent stressors. Scale questions, response sets, and
+reliability coefficients, when appropriate, appear in
+Appendix A.
+In addition to role-based stressors, we included
+measures of work-related strain (Bosma & Marmot,
+1997; Karasek et al., 1981; Karasek & Theorell,
+1990; Schwartz et al., 1988). The job strain measure
+assesses the skill discretion, work demands, and the
+authority one has over decisions; the job support
+measure reflects the support one receives from
+coworkers and supervisors. Those unemployed or out
+of the labor force are given a zero on the standardized
+scales, and a dummy variable was included to indicate
+whether or not the respondent was employed. We
+included measures of strain from family and friends
+(Schuster et al., 1990; Whalen & Lachman, 2000),
+financial strain, poor health status, perceived neigh-
+borhood quality (Keyes, 1998), childhood SES, and
+two demographic characteristics: age and education,
+which were dummy coded as high school diploma or
+less, and some college or more. To better capture the
+impact of stressful life events, chronic stressors, and
+acute stressors, we also include measures for social
+support including perceived support from friends, and
+support from their place of employment.
+Psychological Functioning
+The literature on life events, stress, and wellbeing indi-
+cates that genetically oriented vulnerability may
+operate through endophenotypic characteristics such
+as self-esteem or sense of mastery (Kessler et al., 1992;
+Kendler et al., 1998; McGuffin et al., 1996; Tennant,
+2002). Support for this perspective is evident in the
+fact that personality traits such as extraversion and
+neuroticism are consistently associated with happi-
+ness, positive affect, and subjective well-being (Costa,
+et al., 1980; DeNeve & Cooper, 1998; Emmons &
+Diener, 1985; Hills & Argyle, 2001; Pavot et al.,
+1990). Accordingly, we define psychological function-
+ing as traits that describe cognitive or behavioral
+dispositions to see oneself in a particular way. We
+posit that these resources condition one's response to
+stressors, and may partially explain resilience to stres-
+sors. We use the following six measures of positive
+psychological functioning : (a) positive relations with
+others ( = .58); (b) self-acceptance ( = .59); (c)
+autonomy ( = .48); (d) personal growth ( = .55); (e)
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+15
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+twins (twin differentiation assumption), can increase
+or decrease concordance among twins as a function of
+zygosity, respectively. Violations of these assumptions
+can yield inaccurate heritability estimates. Others have
+found violations of the equal environment assump-
+tion, but not the twin differentiation assumption,
+using the same data (Kessler et al., 2004). To adjust
+for these concerns, we included statistical controls for
+three questions about the similarity of respondents'
+childhood experiences; these questions assess how
+often twins were dressed alike, placed in the same
+classrooms, and had the same playmates.
+Results
+DeFries-Fulker regression estimates are presented in
+Table 2. According to these estimates (Models 1 and
+3), positive affect is highly heritable, and there are no
+observable differences in this estimate for men (h2 =
+.60) and women (h2 = .59). Models 2 and 4 include
+controls for sociodemographic characteristics, social
+support mechanisms, and an exhaustive list of role
+strains and social stressors. These controls signifi-
+cantly improved model fit for both men and women
+(r2
+men
+= .32; r2
+women
+= .39). Support derived from friends
+and family is strongly associated with positive affect
+and negative health status -- one of the most impor-
+tant stress factors in the current literature (Ensel &
+Lin, 1991), and deleterious for both men and women.
+We operationalize resilience as the change in the heri-
+tability estimate for positive affect with the inclusion
+of these controls. That is, those who report high posi-
+tive affect above and beyond this list of stressors and
+life strains are operationalized as resilient.
+Importantly, the heritability estimate for women
+decreases (h2 = .38), whereas the same estimate for
+men only reduces slightly (h2 = .52).4 Thus, we find
+evidence that resilience is a heritable characteristic,
+but more so among men compared to women.5
+As discussed above, we expect the heritability of
+resilience to be moderated by psychosocial factors that
+facilitate adjustment to psychological stressors, and we
+further anticipate the mediating role of psychological
+functioning to be different for men and women. The
+estimates presented in Tables 3 and 4 present a series of
+DF models in which controls for psychological func-
+tioning are included individually and we pay particular
+attention to changes in the heritability estimate. The
+first entry (model 1) of Table 3 is identical to model 2
+of Table 2, but we only present the quantitative genetic
+estimates to focus on the heritability estimate. Model 2
+of Table 3 includes a control for positive relations with
+others. Among men, this control reduced the heritabil-
+ity estimate from .51 to .48, corresponding to a 6%
+reduction in the estimate. The full array of covariates
+reduced the heritability estimate for resilience for men
+to 27%, and the effect was no longer statistically sig-
+nificant. Table 4 presents the same analysis among
+women, and tests of the mediator effects of psycholog-
+ical resources are summarized in Table 5. Among men,
+environmental mastery ( = .52); and (f) purpose in
+life ( = .36; Ryff, 1989; Ryff & Keyes, 1995).
+Statistical Analysis
+We use a DeFries-Fulker (DF) regression technique to
+estimate the relative contribution of genetic factors to
+the demonstration of resilience (DeFries & Fulker,
+1985). The estimates from this model are used to cal-
+culate the proportion of variance for a particular trait
+due to (1) genetic characteristics (broad sense heri-
+tability); (2) shared environment; and (3) unshared
+environment. In this model the value for the first twin
+of pair j (y
+1j
+) is modeled as a function of their co-
+twin's score on that same attribute (y
+2j
+), a measure of
+zygosity (g
+j
+) coded .5 for MZ twins and 0 for DZ
+twins, and an interaction between their sibling's score
+and their zygosity (g
+j
+y
+2j
+).3 The estimate for b3 is oper-
+ationalized as the proportion of phenotypic variance
+due to genetic factors (broad sense heritability). This
+estimate simply describes the degree of resemblance
+among twins as a function of their zygosity. Because
+the original DF model was designed around a proband
+design, we use a double-entry structure and standard
+errors are adjusted accordingly.
+y
+1j
+= b
+0
++ b
+1
+y
+2j
++ b
+2
+g
+j
++ b
+3
+g
+j
+y
+2j
++ e
+j
+(1)
+This model is particularly useful for our purposes
+because it allows for control variables in addition to
+the three covariates included in model 1. Because we
+are interested in the heritability of resilience, we model
+salutary affect, but also include an exhaustive list of
+chronic and lifetime stressors and social and demo-
+graphic characteristics that are known correlates of
+positive affect. We operationalize the residual variance
+in positive mood -- that is, after adjusting for life
+stressors -- as resilience. Therefore, whereas the esti-
+mate for b3 in equation 1 describes the heritability of
+positive affect, the same estimate in equation 2 --
+after controls for k stress-related or protective factors
+-- denotes the heritability of resilience.
+y
+1j
+= b
+0
++ b
+1
+y
+2j
++ b
+2
+g
+j
++ b
+3
+g
+j
+y
+2j
++
+k
+b
+k
+x
+1kj
++ e
+j
+(2)
+The heritability of resilience can be further decom-
+posed as a function of factors that are theoretically
+linked to resilience. As described above, there are
+established aspects of psychological functioning that
+may bear on an individual's resilience. Therefore, we
+estimate one final set of models in which we include
+an array of controls for psychological functioning. As
+with the transition from equation 1 to equation 2, we
+are primarily concerned with changes in the heritabil-
+ity estimate with the inclusion of these variables.
+Because we hypothesize differential effects by sex, we
+estimate separate models for men and women.
+The logic of quantitative genetic twin analysis
+assumes that MZ and DZ twins experience similar
+shared environments. Violations of this assumption,
+resulting from MZ twins being treated more similarly
+(equal environments assumption), or from MZ twins
+attempting to differentiate themselves more than DZ
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+16 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+the only psychological resource that significantly
+impacted the heritability measure was environmental
+mastery. Although the heritability of resilience among
+men remained statistically significant, this one item
+explained nearly 40 per cent of the effect; this mediat-
+ing effect was statistically significant. Environmental
+Mastery consists of three questions that evaluate one's
+appraisal of their ability to meet external demands and
+responsibilities. Perhaps unsurprisingly, the ability to
+maintain a sense of empowerment and competency, and
+a positive view of oneself in the face of psychosocial
+stressors appears to constitute a substantial portion of
+Table 2
+DeFries-Fulker Regression Estimates Among Same Sex MZ and DZ
+Twin Pairs: The Heritability of Resilience By Sex
+Men Women
+Model 1 Model 2 Model 3 Model 4
+Twin 2 score (T2) 0.08 0.04 0.18+ 0.07
+(0.09) (0.08) (0.10) (0.08)
+Genetic association (G) ­0.24 ­0.30+ ­0.06 0.01
+(0.16) (0.16) (0.13) (0.14)
+T2 * G (H2) 0.60* 0.52* 0.59* 0.38*
+(0.23) (0.21) (0.24) (0.19)
+High spouse strain ­0.19 ­0.35**
+(0.11) (0.10)
+Children strain ­0.05 ­0.04+
+(0.03) (0.02)
+Has a child 0.29* 0.01
+(0.15) (0.13)
+Parent strain 0.00 ­0.06*
+(0.04) (0.02)
+Job strain ­0.04 ­0.19*
+(0.08) (0.08)
+Job support 0.13+ 0.16*
+(0.07) (0.08)
+Friend/family strain ­0.27** ­0.07
+(0.09) (0.10)
+Friend/family support 0.26** 0.37**
+(0.08) (0.09)
+Financial strain ­0.13* ­0.09+
+(0.06) (0.05)
+Negative health ­0.31** ­0.30**
+(0.07) (0.07)
+Childhood SES ­0.11+ 0.00
+(0.06) (0.05)
+Perceived neighborhood quality 0.15+ 0.17*
+(0.09) (0.09)
+Constant 0.40* ­0.94 0.40** ­1.80**
+(0.16) (0.69) (0.14) (0.60)
+R-squared 0.10 0.32 0.16 0.39
+Note: ** p < .01, * p < .05, + p < .10. Cell entries represent unstandardized regression
+coefficients with standard errors in parentheses. Models 2 and 4 include con-
+trols for sociodemographic characteristics (e.g., age, marital status, employment
+status, and education), controls for the equal environment assumption, and a
+dummy variable indicating if any sociodemographic covariates were imputed. All
+data come from the twin sample of the National Survey of Midlife Development
+in the United States (MIDUS), 1995­1996 (Brim et al., 1996). A total of 527 twin
+pairs are used in these analyses (MZm(129); MZf(155); DZm(104); DZf(139)).
+psychological resiliency for men. Further, while this
+reduction was only marginally significant (p < .09),
+controls for self-acceptance reduced the heritability of
+resilience estimate among men by 33%. Taken together,
+these two aspects of psychological wellbeing appear to
+be largely responsible for the realization of genetic ten-
+dencies to be relatively resilient.
+Although the magnitude of the heritability estimate
+is notably smaller, similar analyses were performed for
+women and are presented in Table 4. As with men,
+the full array of psychological resources reduced the
+heritability estimate to nonsignificance for women
+(h2 = .04). Most of this reduction appears to be
+linked with one particular psychological resource,
+self-acceptance. This one control reduced the heri-
+tability estimate by over 70 per cent, and rendered the
+heritability of resilience statistically nonsignificant.
+This was not the case for any of the single measures of
+psychological resources among men.
+Discussion
+The key finding of this article is that resilience, as
+operationalized here, is a heritable feature. More
+importantly, the heritability of resilience is higher
+among men compared to women. Including controls
+for psychological functioning reduced the heritability
+estimates for both men and women. This implies that
+genetic factors -- mediated through more proximate
+measures of psychological functioning -- play an
+important role in heritable resilience to environmental
+stressors. Self-acceptance appears to be an important
+mechanism through which resilience manifests for
+both men and women. While environmental mastery
+emerged as an important factor responsible for the
+heritability of resilience among men, this factor was
+significantly less important among women.
+Though sex may capture physiological differences,
+such as hormonal or sex-linked genetic differences,
+sex also confers different, broadly defined environ-
+ments for men and women. Our findings are
+particularly relevant to gene­environment interaction
+studies because they suggest that sex is an important
+environmental moderator of latent genetic factors
+that contribute to salutary mental health. This point
+is made clear when one considers that the two mea-
+sures of psychological functioning that appear to
+underlie the heritability of resilience (self-acceptance
+and environmental mastery) are themselves highly
+heritable, but they are not differentially heritable for
+men and women. According to Kessler et al. (2004),
+the heritability of self-acceptance and environmental
+mastery are .41 and .33, respectively. When these
+models were modified to allow a sex-specific esti-
+mate, the inclusion of this additional parameter
+estimate did not improve the overall model fit. Thus,
+there is no evidence that either self-acceptance or
+environmental mastery is differentially heritable
+among men and women.
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+17
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+to stressors involving friends and family due to their
+social roles as caregivers. For example, Kendler et al.,
+(2001) show that, compared to men, women are no
+more susceptible to stressful life events in general.
+However, they show clear differences in sensitivity to
+specific life events including divorce, housing prob-
+lems, and relationship conflicts. Many of the strains
+and supports included in our models were interper-
+sonal in nature, assessing one's role as a spouse,
+parent, child, or employee; the relationship-oriented
+variables witnessed the most differences among men
+and women. Further, the relationship strains only con-
+sider problems experienced by a spouse, child, parent
+or interpersonal relationships among friends and
+family. If women are more sensitive to the problems of
+friends, these models may not specify these sources of
+stress, acting to make female twins more discordant
+and reducing heritability estimates for women.
+A second possibility is that women use different
+coping strategies than men. Our analysis considers
+psychological functioning, but not repertoires of
+coping strategies. A number of studies document dif-
+ferences in the coping styles of men and women, with
+many noting a more active style among men compared
+to women (Pearlin & Schooler, 1978; Nolen-
+Hoeksema, 1987). Notably, active styles have been
+found to be more protective against the ill-effects of
+stressors (Pearlin & Schooler, 1978). Nolen-Hoeksema
+This is important because it suggests that the medi-
+ating role of psychological functioning -- as a
+determinant of sex differences in the genetic effects of
+resilience -- is social rather than biological in origin.
+That is, it appears as though men are better able to
+`cash in' on this genetically oriented resource.
+Accounting for this phenomenon goes beyond the
+scope of this paper, but it is likely that men have
+greater opportunity to express resilience and are more
+likely to be rewarded for exhibiting traditional signs
+of resilience. In other words, gender socialization may
+interact with genetic factors to either diminish
+resilience for women, or help men to actualize some
+genetic potential that confers resilience. We cannot
+establish which of these two possibilities may be the
+case. Genes only influence phenotypes within an envi-
+ronment; to determine whether resilience is suppressed
+or actualized would require us to assume that some
+are socialized without clear gender roles, and this is a
+difficult assumption to justify.
+One explanation for the better prediction of a
+female's positive affect may be that women are social-
+ized to be relationship-oriented, while men are
+socialized to be independent. Under the `cost of
+caring' hypothesis, women are thought to be more
+sensitive to the problems faced by their friends and
+family (Kessler & McLeod, 1984; Maciejewski et al.,
+2001). If this is this case, women may be less resilient
+Table 3
+DeFries-Fulker Regression Estimates Among Same-Sex MZ and DZ Male Twin Pairs: Psychological Functioning Mediators
+1 2 3 4 5 6 7 8
+Twin 2 score (T2) 0.04 0.01 0.00 0.05 0.03 0.00 0.04 ­0.00
+(0.08) (0.08) (0.07) (0.07) (0.08) (0.07) (0.08) (0.07)
+Genetic association (G) ­0.30+ -0.29+ ­0.16 ­0.26 ­0.25 ­0.12 ­0.30+ ­0.11
+(0.16) (0.16) (0.16) (0.16) (0.16) (0.15) (0.16) (0.15)
+T2 * G(H2) 0.51* 0.48* 0.34+ 0.43* 0.47* 0.31+ 0.52* 0.27
+(0.21) (0.20) (0.19) (0.19) (0.20) (0.18) (0.21) (0.17)
+Positive relations w/others 0.05** 0.02**
+(0.01) (0.01)
+Self-acceptance 0.12** 0.07**
+(0.01) (0.01)
+Autonomy 0.06** 0.03*
+(0.01) (0.01)
+Personal growth 0.06** 0.01
+(0.02) (0.02)
+Environmental mastery 0.11** 0.06**
+(0.01) (0.01)
+Purpose in life ­0.00 ­0.03**
+(0.01) (0.01)
+Constant ­0.97 ­1.38* ­2.73** ­1.86** ­2.08** ­3.12** ­0.94 ­3.56**
+(0.69) (0.69) (0.67) (0.71) (0.74) (0.62) (0.70) (0.64)
+R-squared 0.32 0.36 0.44 0.36 0.35 0.43 0.32 0.49
+Note: ** p <.01, * p < .05, + p < .10. Cell entries represent unstandardized regression coefficients with standard errors in parentheses obtained from a series of regression models in
+which each psychosocial resource and measure of personality are included individually. The first entry is the same as model 2 of Table 2.These models include controls for
+sociodemographic characteristics (e.g., age, marital status, employment status, and education), controls for the equal environment assumption, and a dummy variable indi-
+cating if any sociodemographic covariates were imputed. All data come from the twin sample of the National Survey of Midlife Development in the United States (MIDUS),
+1995­1996 (Brim et al. 1996). A total of 527 twin pairs are used in these analyses (MZm(129); MZf(155); DZm(104); DZf(139)).
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+18 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+(1987) proposes that women are more likely than men
+to ruminate over problems, whereas men typically dis-
+tract themselves physically or instrumentally.
+Importantly, ruminative coping styles have been shown
+to lengthen depressive episodes (Kuehner &Weber,
+1999; Nolen-Hoeksema, 1991). Nolen-Hoeksema
+et al. (1999) also propose that women experience more
+chronic strains, often have a weaker sense of mastery
+than men, and tend to ruminate over problems. As
+rumination has been shown to mediate the effect of
+chronic strains and mastery on depression, women are
+subsequently more vulnerable because of these differ-
+ent coping strategies. The finding that the sex
+difference in depression is mediated by a more dys-
+functional repertoire of coping styles among women
+has been replicated (Hanninen & Aro, 1996). Twin
+analyses have demonstrated sex differences in the heri-
+tability and shared environmental impact of coping
+strategies (Kato & Pedersen, 2004). Thus, one expla-
+nation for the sex difference in heritability of resilience
+Table 4
+DeFries-Fulker Regression Estimates Among Same-Sex MZ and DZ Female Twin Pairs: Psychological Functioning Mediators.
+1 2 3 4 5 6 7 8
+Twin 2 Score (T2) 0.07 0.07 0.09 0.07 0.07 0.08 0.08 0.10
+(0.08) (0.08) (0.07) (0.08) (0.08) (0.08) (0.08) (0.07)
+Genetic association (G) 0.01 0.00 0.02 0.01 0.04 0.04 0.00 0.03
+(0.14) (0.14) (0.14) (0.14) (0.14) (0.13) (0.14) (0.13)
+T2 * G (H2) 0.38* 0.33+ 0.11 0.38* 0.30 0.28 0.37+ 0.04
+(0.19) (0.19) (0.17) (0.19) (0.19) (0.18) (0.19) (0.16)
+Positive relations w/others 0.04** 0.01
+(0.01) (0.01)
+Self-acceptance 0.11** 0.09**
+(0.01) (0.01)
+Autonomy 0.03** ­0.01
+(0.01) (0.01)
+Personal growth 0.06** 0.03*
+(0.01) (0.01)
+Environmental mastery 0.08** 0.04**
+(0.01) (0.01)
+Purpose in life ­0.02 ­0.03**
+(0.01) (0.01)
+Constant ­1.80** ­2.25** ­3.21** ­2.19** ­2.75** ­2.66** ­1.60** ­3.49**
+(0.60) (0.59) (0.59) (0.59) (0.59) (0.59) (0.60) (0.58)
+R-squared 0.39 0.41 0.49 0.40 0.41 0.44 0.39 0.51
+Note: ** p <.01, * p < .05, + p < .10. Cell entries represent unstandardized regression coefficients with standard errors in parentheses obtained from a series of regression models in
+which each psychosocial resource and measure of personality are included individually. The first entry is the same as model 4 of Table 2. Models include controls for
+sociodemographic characteristics (e.g., age, marital status, employment status, and education), the equal environment assumption, and a dummy variable indicating if any
+sociodemographic covariates were imputed. All data come from the twin sample of the National Survey of Midlife Development in the United States (MIDUS), 1995­1996
+(Brim et al. 1996). A total of 527 twin pairs are used in these analyses (MZm(129); MZf(155); DZm(104); DZf(139).
+Table 5
+Summary of Psychological Functioning Mediators by Sex
+Men Women
+b
+2
+­b
+1
+s
+b2
+­
+b1
+p < % b
+2
+­b
+1
+s
+b2
+­
+b1
+p < %
+Positive relationships ­0.03 0.15 n.s. 6 ­0.05 0.1 n.s. 14
+Self-acceptance ­0.17 0.13 0.09 33 ­0.27 0.08 0.00 72
+Autonomy ­0.08 0.14 n.s. 16 0.00 0.11 n.s. 0
+Personal growth ­0.04 0.15 n.s. 9 ­0.08 0.1 n.s 22
+Environmental mastery ­0.20 0.12 0.05 39 ­0.10 0.09 n.s. 26
+Purpose in life 0.00 0.16 n.s. 0 ­0.01 0.11 n.s. 2
+Note: Cell entries summarize Tables 3 and 4. Standard errors are calculated using second-order Taylor series and exact variance estimating procedures (Goodman 1960). The
+column labeled `%' describes the percent reduction in the heritability of resilience estimate presented in models 2 and 4 of Table 2. All data come from the twin sample of the
+National Survey of Midlife Development in the United States (MIDUS), 1995­1996 (Brim et al., 1996). A total of 527 twin pairs are used in these analyses (MZm(129); MZf(155);
+DZm(104); DZf(139).
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+19
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+University of Colorado Population Center (CUPC),
+the MIDUS Pilot Grant Competition (for more
+information about this program see:
+http://www.rci.rutgers.edu/~carrds/midus/midus_rfp200
+7.doc), and NIH training grant 2-T32-AA007464-31.
+Endnotes
+1 The genetic contribution is only moderately different
+for men and women for two of these six factors; per-
+sonal growth (h2
+women
+= .43; h2
+men
+= .33) and purpose in
+life (h2
+women
+= .39; h2
+men
+= .19) are both shown to be sig-
+nificantly higher among women compared to men.
+2 We imputed race for 115 individuals by using the
+twin's identified race. We further set 13 pairs to
+missing because the twins were discordant on reported
+race. The following pairs were dropped: Missing (44),
+Black (36), Native American (4), Other (5).
+3 It is common to use zygosity values of 1 for MZ pairs
+and .5 for DZ pairs because MZ pairs share 100
+percent and, on average, DZ pairs share 50 percent of
+their genes. However, the use of 0 for DZ makes the
+interpretation of the intercept more meaningful as it
+pertains to DZ pairs rather than pairs who share 0
+percent of their genes.
+4 While the reduction in the heritability estimate is not
+statistically significant among men, this same reduc-
+tion was significant among women (p < .10, one-tail).
+5 We also use a bivariate Cholesky decomposition
+model to the data to demonstrate whether comparable
+results are demonstrated using a variance components
+model as with the DF analyses. The results of these
+analyses are presented in the appendix and confirm
+the finding that the heritability of resilience is stronger
+among men compared to women.
+References
+Allen, D. B., & Farell, P. M. (1996). Newborn screening:
+Principles and practice. Advances in Pediatrics, 43,
+231­270.
+Bosma, H., & Marmot, M. G. (1997). Low job control
+and risk of coronary heart disease in Whitehall II
+(prospective cohort) study. British Medical Journal,
+314, 7090.
+Brim, O. G., Baltes, P. B., Bumpass, L. L., Cleary, P. D.,
+Featherman, D. L., Hazzard, W. R., Kessler, R. C.,
+Lachman, M. E., Markus, H. R., Marmot, M. G.,
+Rossi, A. S., Ryff, C.D., & Shweder, R. A. (1996).
+National Survey of Midlife Development in the United
+State (MIDUS), 1995­1996 [Computer file]. 2nd
+ICPSR version. Ann Arbor, MI: DataStat, Inc./Boston,
+MA: Harvard Medical School, Dept. of Health Care
+Policy [producers], 1996. Ann Arbor, MI: Inter-univer-
+sity Consortium for Political and Social Research
+[distributor], 2003.
+Carey, J. R., Liedo, P., Orozco, D., & Vaupel, J. W.
+(1992). Slowing of mortality rates at older ages in
+large medfly cohorts. Science, 258, 457­461.
+while controlling for psychological functioning is the
+possibility that women experience normative pressure
+to cope with stressors in a maladaptive manner.
+There are important limitations that should be
+considered when interpreting these results. First,
+although we adjust for the nonlinear association with
+age, there is a wide range of ages in the study. This is
+important because of differential genetic effects across
+the life course (Vaupel et al., 1998) but also because of
+clear cohort differences in genetic associations (Carey
+et al., 1992). For example, Kendler et al. (2000) esti-
+mate the heritability of tobacco use by comparing
+regular tobacco use among twin pairs raised together
+and those raised apart across the following three
+cohorts: 1910­1924, 1925­1939, or 1940­1958.
+They present a consistent estimate for men across
+birth cohorts (h2 ~ .55), but they show that the esti-
+mate for women increases over time; the heritability
+for the first cohort was zero, but increased to 21%,
+and peaked at 64% in the third cohort. Thus, by the
+third cohort, there were no sex differences in the heri-
+tability of regular tobacco use. The authors argue that
+the social restrictions on women's tobacco use have
+relaxed significantly across these three cohorts, which
+made it possible for genetic tendencies for tobacco use
+to manifest. With respect to our study, we are not able
+to differentiate between age, period, or cohort effects,
+and our results should be considered generalizable to
+this adult population only. Second, our focus is on the
+parameter estimate for heritability, and we do not
+explore sex differences in environmental factors in
+further detail. For example, shared environmental influ-
+ences are indicated by the coefficients for the twin's
+score (t2) in the models of Table 3. There appears to be
+a shared environmental effect for women, but not men.
+This shared environment may reflect the degree to
+which female twins grow up in traditional versus non-
+traditional households. Again, given that the sample
+ranges in age from 25 to 74, the significant coefficient
+for shared environment in model 6 is noteworthy.
+Despite these limitations, this paper makes an impor-
+tant contribution because we position biological sex as
+an environmental moderator. This perspective is impor-
+tant because behavioral genetic studies often report sex
+differences in heritability, linkage, or associations, but do
+not anticipate these differences with a priori hypotheses
+about the presence or direction of these differences.
+Given the long standing work in the social sciences
+regarding the role of sex in terms of identity, structure,
+and agency (Collins, 2000), in conjunction with consis-
+tent differences in heritability for men and women across
+a wide range of different outcomes (Read et al., 2006),
+efforts should be made to develop a testable and general-
+izable theory regarding the role of sex in behavioral
+genetic studies among humans.
+Acknowledgment
+Funding for this research was provided in part from
+a developmental grant from the NICHD-funded
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+20 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+Caspi, A., Sugden, K., Moffitt, T., Taylor, A., Craig, I.W.,
+Harrington, H.L., McClay, J., Mill, J., Martin, J.,
+Braithwaite, A., & Poulton, R. (2003). Influence of
+life stress on depression: Moderation by a polymor-
+phism in the 5-htt gene. Science, 301, 386­389.
+Cicchetti, D., & Rogosch, F. A. (1997). The role of self-orga-
+nization in the promotion of resilience in maltreated
+children. Development and Psychopathology, 9,
+797­815.
+Collins, P. H. (2000). Gender, black feminism, and black
+political economy. Annals of the American Academy
+of Political and Social Science, 568, 41­53.
+Costa, P. T., Jr., McCrae, R. R., & Zonderman, A. B.
+(1980). Environmental and dispositional influences on
+wellbeing: Longitudinal follow-up of an American
+sample. British Journal of Psychology, 78, 299­306.
+Costa, P. T., Terracciano A., & McCrae, R. R. (2001).
+Gender differences in personality traits across cultures:
+Robust and surprising findings. Journal of Personality
+and Social Psychology, 81, 322­331.
+DeFries, J. C., & Fulker, D. W. (1985). Multiple regres-
+sion analysis of twin data. Behavior Genetics, 15,
+467­473.
+DeNeve, K. M., & Cooper, H. (1998). The happy person-
+ality: A meta-analysis of 137 personality traits and
+subjective well-being. Psychological Bulletin, 124,
+197­229.
+Emmons, R. A., & Diener, E. (1985). Personality corre-
+lates of subjective well-being. Personality and Social
+Psychology Bulletin, 11, 89­97.
+Ensel, W.M., & Lin, N. (1991.) The life stress paradigm
+and psychological distress. Journal of Health and
+Social Behavior, 32, 321­341.
+Feingold, A. (1994). Gender differences in personality: A
+meta-analysis. Psychological Bulletin, 116, 429­456.
+Goodman, L. A. (1960). On the exact variance of prod-
+ucts. Journal of the American Statistical Association,
+55, 708­713.
+Hanninen, V., & Aro, H. (1996). Sex differences in
+coping and depression among young adults. Social
+Science and Medicine, 43, 1453­1460.
+Hills, P., & Argyle, M. (2001). Emotional stability as a
+major dimension of happiness. Personality &
+Individual Differences, 31, 1357­1364.
+Karasek, R. A., & Theorell, T. (1990). Healthy work:
+Stress, productivity, and the reconstruction of working
+life. New York: Basic Books.
+Karasek, R. A., Baker, D., Marxer, F., Albom, A., &
+Theorell, T. (1981). Job decision latitude, job demands
+and cardiovascular disease: A prospective study of
+Swedish men. American Journal of Public Health, 78,
+694­705.
+Kato, K., & Pedersen, N. L. (2004). Personality and
+coping: A study of twins reared apart and twins reared
+together. Behavior Genetics, 35, 147­157.
+Kendler, K. S., Gatz, M., Gardener, C. O., & Pederson, N.
+L. (2006). A Swedish national twin study of lifetime
+major depression. American Journal of Psychiatry,
+163, 109­114.
+Kendler, K. S, Gardner, C. O., & Prescott, C. (1998). A
+population-based twin study of self-esteem and
+gender. Psychological Medicine, 28, 1403­1409.
+Kendler, K. S., Thornton, L. M., & Pedersen, N. L.
+(2000). Tobacco consumption in Swedish twins reared
+apart and reared together. Archive of General
+Psychiatry, 57, 886­892.
+Kendler, K. S., Thornton, L. M., & Prescott, C. (2001).
+Gender differences in the rates of exposure to stressful
+life events and sensitivity to their depressogenic
+effects. American Journal of Psychiatry, 158,
+587­593.
+Kessler, R. C., Gilman, S. E., Thornton, L. M., & Kendler,
+K. S. (2004). Health, well-being, and social responsi-
+bility in the MIDUS twin and sibling subsamples. In
+O. G. Brim, C. D. Ryff, & R. C. Kessler (Eds.), How
+healthy are we?: A national study of well-being at
+midlife (pp. 124­152). University of Chicago Press.
+Kessler, R. C., Kendler, K. S., Heath, A., Neale, M. C., &
+Eaves, L. J. (1992). Social support, depressed mood,
+and adjustment to stress: A genetic epidemiologic
+investigation. Journal of Personality and Social
+Psychology, 62, 257­272.
+Kessler, R. C. & McLeod, J. D. (1984). Sex differences in
+vulnerability to undesirable life events. American
+Sociological Review, 49, 620­631.
+Keyes, C. L. M. (1998). Social well-being. Social
+Psychology Quarterly, 61, 121­137.
+Kling, K. C., Hyde, J. S., Showers, C. J., & Buswell, B. N.
+(1999). Gender differences in self-esteem: A meta-
+analysis. Psychological Bulletin, 125, 470­500.
+Kuehner, C., & Weber, I. (1999). Responses to depression
+in unipolar depressed patients: An investigation of
+Nolen-Hoeksema's response styles theory.
+Psychological Medicine, 29, 1323­1333.
+Lynn, R. & Martin, T. (1997). Gender differences in
+extraversion, neuroticism, and psychoticism, in 37
+nations. Journal of Social Psychology, 137, 369­373.
+Maciejewski, P. K., Prigerson, H. G, & Mazure, C. M.
+(2001). Sex differences in event-related risk for major
+depression. Psychological Medicine, 31, 593­604.
+Mroczek, D. K., & Kolarz, C. M. (1998). The effect of
+age on positive and negative affect: A developmental
+perspective on happiness. Journal of Personality and
+Social Psychology, 75, 1333­1349.
+Nolen-Hoeksema, S. (1987). Sex differences in unipolar
+depression: Evidence and theory. Psychological
+Bulletin, 101, 259­282.
+Nolen-Hoeksema, S. (1991). Responses to depression and
+their effects on the duration of depressive episodes.
+Journal of Abnormal Psychology, 100, 569­582.
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+21
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+Schwartz, J., Pieper, C., & Karasek, R. A. (1988). A pro-
+cedure for linking job characteristics to health surveys.
+American Journal of Public Health, 78, 904­909.
+Shanahan, M. J., & Hofer, S. M. (2005). Social context in
+gene­environment interactions: Retrospect and
+prospect. Journals of Gerontology: SERIES B, 60B
+(Special Issue), 65­76.
+Silberg, J., Pickles, A., Rutter, M., Hewitt, J., Simonoff,
+E., Maes, H., Carbonneau, R., Murrelle, L., Foley, D.,
+& Eaves, L. (1999). The influence of genetic factors
+and life stress on depression among adolescent girls.
+Archive of General Psychiatry, 56, 225­232.
+Silberg, J., Rutter, M., Neale, M., & Eaves, L. (2001).
+Genetic moderation of environmental risk for depres-
+sion and anxiety in adolescent girls. British Journal of
+Psychiatry, 179, 116­121.
+StataCorp. 2005. Stata Statistical Software: Release 9.
+College Station, TX: StataCorp LP.
+Tennant, C. (2002). Life events, stress, and depression: A
+review of recent findings. Australian and New
+Zealand Journal of Psychiatry, 36, 173­182.
+Vaupel, J. W., Carey, J. R., Christensen, K., Johnson, T.
+E., Yashin, A. I., Holm, N.V., Iachine, I. A., Kannisto,
+V., Khazaeli, A. A., Liedo, P., Longo, V. D., Zeng, Y.,
+Manton, K. G., & Curtsinger, J. W. (1998).
+Biodemographic trajectories of longevity. Science, 280,
+855­860.
+Walters, G. D. (2002). The heritability of alcohol abuse
+and dependence: A meta-analysis of behavior genetic
+research. American Journal of Drug and Alcohol
+Abuse, 28, 557­584.
+Whalen, H. R., & Lachman, M. E. (2000). Social support
+and strain from partner, family, and friends: Costs and
+benefits for men and women in adulthood. Journal of
+Social and Personal Relationships, 17, 5­30.
+Nolen-Hoeksema, S., Larson, J., & Grayson, C. (1999).
+Explaining the gender difference in depressive symp-
+toms. Journal of Personality and Social Psychology,
+77, 1061­1072.
+Pavot, W. U., Diener, E., & Fujita, F. (1990). Extraversion
+and happiness. Personality and Individual Differences,
+11, 1299­1306.
+Pearlin, L. I., & Schooler, C. (1978). The structure of
+coping. Journal of Health and Social Behavior, 19,
+2­21.
+Read, S., Pedersen N. L., Gatz, M., Berg, S., Vuoksimaa,
+E., Malmberg, B., Johansson, B., & McClearn, G. E.
+(2006). Sex differences after all those years?
+Heritability of cognitive abilities in old age. Journal of
+Gerontology: Psychological Sciences, 61B, 137­144.
+Rutter, M. (2003). Genetic influences on risk and protec-
+tion: Implications for understanding resilience. In S. S.
+Luthar (Ed.), Resilience and vulnerability: Adaptation
+in the context of childhood adversities. Cambridge
+University Press.
+Rutter, M. (2006). Implications of resilience concepts for
+scientific understanding. Annals of the New York
+Academy of Science, 1094, 1­12.
+Ryff, C. D. (1989). Happiness is everything, or is it?
+Explorations on the meaning of psychological well-
+being. Journal of Personality and Social Psychology,
+57, 1069­1081.
+Ryff, C.D. & Keyes C.L. (1995). The structure of psycho-
+logical well-being revisited. Journal of Personality and
+Social Psychology, 69, 719­727.
+Schuster, T. L., & Lachman, M. E. (2000). Supportive
+interactions, negative interactions, and depressive
+mood. American Journal of Community Pscyhology,
+18, 423­438.
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+22 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+Measure -- Alpha
+Item(s) Question Range
+Spousal Strain
+In the past 12 months has your spouse had:
+SM21A_1 A chronic disease or disability Yes / No
+SM21B_1 A frequent minor illness Yes / No
+SM21C_1 Emotional problems Yes / No
+SM21D_1 Alcohol or substance abuse problems Yes / No
+SM21E_1 Financial problems Yes / No
+SM21F_1 Problems at work or school Yes / No
+SM21G_1 A problem finding or keeping a job Yes / No
+SM21H_1 Marital or partner relationship problems Yes / No
+SM21I_1 Legal problems Yes / No
+SM21J_1 Difficulty getting along with people Yes / No
+Child strain
+In the past 12 months has any of your children had:
+SM21A_3 A chronic disease or disability Yes / No
+SM21B_3 A frequent minor illness Yes / No
+SM21C_3 Emotional problems Yes / No
+SM21D_3 Alcohol or substance abuse problems Yes / No
+SM21E_3 Financial problems Yes / No
+SM21F_3 Problems at work or school Yes / No
+SM21G_3 A problem finding or keeping a job Yes / No
+SM21H_3 Marital or partner relationship problems Yes / No
+SM21I_3 Legal problems Yes / No
+SM21J_3 Difficulty getting along with people Yes / No
+Parent Strain
+In the past 12 months have your parents or the people who raised you had:
+SM21A_2 A chronic disease or disability Yes / No
+SM21B_2 A frequent minor illness Yes / No
+SM21C_2 Emotional problems Yes / No
+SM21D_2 Alcohol or substance abuse problems Yes / No
+SM21E_2 Financial problems Yes / No
+SM21F_2 Problems at work or school Yes / No
+SM21G_2 A problem finding or keeping a job Yes / No
+SM21H_2 Marital or partner relationship problems Yes / No
+Appendix A
+Description of Scales Used as Predictors in the Resilience Models
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+23
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+Measure -- Alpha (CONTINUED)
+Item(s) Question Range
+Parent Strain
+SM21I_2 Legal problems Yes / No
+SM21J_2 Difficulty getting along with people Yes / No
+SC2C Mother died in 1994 or 1995 Yes / No
+SD4C Father died in 1994 or 1995 Yes / No
+Friend/family strain -- alpha = .82
+Questions were asked of both friends and family members (excluding spouse)
+SM15/SM6 How often do [they] make too many demands on you? 1 (Often)­4 (Never)
+SM16/SM7 How often do they criticize you? 1 (Often)­4 (Never)
+SM17/SM8 How often do they let you down when you are counting on them? " 1 (Often)­4 (Never)
+SM18/SM9 How often do they get on your nerves? 1 (Often)­4 (Never)
+Friend/family support -- alpha = .85
+Questions were asked of both friends and family members (excluding spouse)
+SM11/SM2 How much do [they] really care about you? 1 (A lot)­4 (Not at all)
+SM12/SM3 How much do they understand the way you feel about things? 1 (A lot)­4 (Not at all
+SM13/SM4 How much can you rely on them for help if you have a serious problem? 1 (A lot)­4 (Not at all
+SM14/SM5 How much can you open up to them if you need to talk about your worries? 1 (A lot)­4 (Not at all
+Job strain -- alpha = .82
+SI28B How often do you learn new things at work? 1 (All the time)­5 (Never)
+SI28C How often does your work demand a high level of skill or expertise? 1 (All the time)­5 (Neverl
+SI28I How often does your job provide you with a variety of things that interest you? 1 (All the time)­5 (Neverl
+SI28D On your job, how often do you have to initiate things -- such as coming up with your own ideas,or figuring out on your
+own what needs to be done? 1 (All the time)­5 (Never)
+SI28E How often do you have a choice in deciding how you do your tasks at work? 1 (All the time)­5 (Never)
+SI28F How often do you have a choice in deciding what tasks you do at work? 1 (All the time)­5 (Never)
+SI28G How often do you have a say in decisions about your work? 1 (All the time)­5 (Never)
+SI28H How often do you have a say in planning your work environment -- that is, how your workplace is arranged or how things are organized? 1 (All the time)­5 (Never)
+SI29B How often you control the amount of time you spend on tasks? 1 (All the time)­5 (Never)
+SI28A How often do you have to work very intensively -- that is, you are very busy trying to get things done? 1 (All the time)­5 (Never)
+SI28J How often do different people or groups at work demand things from you that you thinkare hard to combine? 1 (All the time)­5 (Never)
+SI29A How often you have too many demands made on you? 1 (All the time)­5 (Never)
+SI29C How often you have enough time to get everything done? 1 (All the time)­5 (Never)
+SI29D How often you have a lot of interruption? 1 (All the time)­5 (Never)
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+24 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+Measure -- Alpha (CONTINUED)
+Item(s) Question Range
+Job Support -- alpha = .83
+SI30A How often do you get help and support from your coworkers? 1 (All the time)­5 (Never)
+SI30C How often do you get the information you need from your supervisor or superiors? 1 (All the time)­5 (Never)
+SI30D How often do you get help and support from your immediate supervisor? 1 (All the time)­5 (Never)
+SI30E How often is your immediate supervisor willing to listen to your work-related problems? 1 (All the time)­5 (Never)
+Negative health status -- alpha = .76
+BADL Basic Activity of Daily Living -- Scale based on SA17B & SA17G. (Number: Mean Response Missing)
+How much does your health limit you in doing: Bathing or dressing yourself? 1 (A lot)­4 (Not at all)
+How much does your health limit you in doing: Walking one block 1 (A lot)­4 (Not at all)
+IADL Intermediate activity of daily living. Mean response of SA17A, SA17C, SA17D, SA17E, SA17F, SA17H, SA17I 1 (A lot)­4 (Not at all)
+How much does your health limit you in doing:
+Lifting or carrying groceries 1 (A lot)­4 (Not at all)
+Climbing several flights of stairs 1 (A lot)­4 (Not at all)
+Bending, kneeling, or stooping 1 (A lot)­4 (Not at all)
+Walking more than a mile 1 (A lot)­4 (Not at all)
+Walking several blocks 1 (A lot)­4 (Not at all)
+Vigorous activity (e.g., running, lifting heavy objects) 1 (A lot)­4 (Not at all)
+Moderate activity (e.g., bowling, vacuuming) 1 (A lot)­4 (Not at all)
+QA4 Overall rating of physical health 1 (Poor)­5 (Excellent)
+CHRONIC Number of chronic conditions reported in SA9A-SA9CC: In the past 12 months have you experienced or treated for any of the following?
+Asthma, bronchitis, or emphysema; ulcer; Tuberculosis; Hernia or rupture; Other lung problems; Piles or hemorrhoids; Arthritis,rheumatism,
+or other bone or joint diseases; Sciatica, lumbago, or recurring backache; Persistent skin trouble (e.g., eczema); thyroid disease; hayfever;
+recurring stomach trouble, indigestion or diarrhea; urinary or bladder problems; being constipated all or most of the time;gallbladder trouble;
+persistent foot trouble (e.g., bunions, ingrown toenails); trouble with varicose veins requiring medical treatment; AIDS or HIV infection; lupus or
+other autoimmunedisorders; persistent trouble with your gums or mouth; persistent trouble with your teeth; high blood pressure or hypertension;
+anxiety, depression, or some other emotional disorder; alcohol or drug problems; migraine headaches; chronic sleeping problems; diabetes or
+high blood sugar; multiple sclerosis, epilepsy, or other neurological disorders; stroke Yes / No
+Financial strain -- alpha = .83
+SJ1 How would you rate your financial situation these days? 0 (Worst)­10 (Best)
+SJ6 In general, would you say you and your family living with you have more many than you need, just enough
+money for your needs or not enough money for your needs? 1 (More money); 2 (Just enough); 3 (Not enough)
+SJ7 How difficult is it for you (and your family) to pay your monthly expenses? 1 (Very difficult)­4 (Not at all difficult)
+Perceived neighborhood quality -- alpha = .68
+Please indicate how much each of the following statements describe your situation.
+SL5A `I feel safe being out alone in my neighborhood during the daytime.' 1 (A lot)­4 (Not at all)
+SL5B `I feel safe being out alone in my neighborhood at night.' 1 (A lot)­4 (Not at all)
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+25
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+Measure -- Alpha (CONTINUED)
+Item(s) Question Range
+Perceived neighborhood quality -- alpha = .68
+SL5E I could call on a neighbor for help if I needed it. 1 (A lot)­4 (Not at all)
+SL5G People in my neighborhood trust each other. 1 (A lot)­4 (Not at all)
+Childhood SES -- alpha = .79
+SE9 When you were growing up, was your family better off or worse off financially than the average family was at that time? 1 (A lot better off)­7 (A lot worse off)
+M_TSEI80 Mother occupation sei
+D_TSEI80 Father occupation sei
+QC2 Father educational attainment: 1 (No school / Some grade school), 2 (8th grade/ Junior high school), 1 (No school / Some grade school)
+3 (Some high school), 4 (GED),5 (Graduated from high school), 6 (1­2 years college­no degree yet), 12(PhD or other professional degrees)
+7 (3+ years college­No degree yet), 8 (Associate/vocational degree),9 (Bachelor degree), 10 (Some graduate school),
+11 (Masters degree), 12 (PhD or other professional degrees)
+QC8 Mother educational attainment 1 (No school / Some grade school )
+12(PhD or other professional degrees)
+Positive relations with others -- alpha = .58
+SF1F `Maintaining close relationships has been difficult for me.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1M `People would describe me as a giving person, willing to share my time with others.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1P `I have not experienced many warm and trusting relationships with others.' 1 (Strongly agree)­7 (Strongly disagree)
+Self-acceptance -- alpha = .59
+SF1A `I like most parts of my personality.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1B `When I look at the story of my life, I am pleased with how things have turned out so far.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1E `In many way I feel disappointed about my achievements in life.' 1 (Strongly agree)­7 (Strongly disagree)
+Autonomy -- alpha = .48
+SF1O `I tend to be influenced by people with strong opinions.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1Q `I have confidence in my own opinions, even if they are different from the way most other people think.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1R `I judge myself by what I think is important, not by the values of what others think is important.' 1 (Strongly agree)­7 (Strongly disagree)
+Personal has growth -- alpha = .55
+SF1K `For me, life been a continuous process of learning, changing, and growth.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1L `I think it is important to have new experiences that challenge how I think about myself and the world.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1N `I gave up trying to make big improvements or changes in my life a long time ago.' 1 (Strongly agree)­7 (Strongly disagree)
+Environmental mastery -- alpha = .52
+SF1D `The demands of everyday life often get me down.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1H `In general, I feel I am in charge of the situation in which I live.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1I `I am good at managing the responsibilities of daily life.' 1 (Strongly agree)­7 (Strongly disagree)
+Purpose in life -- alpha = .36
+SF1C `Some people wander aimlessly through life, but I am not one of them.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1G `I live life one day at a time and don't really think about the future.' 1 (Strongly agree)­7 (Strongly disagree)
+SF1J `I sometimes feel as if I've done all there is to do in life.' 1 (Strongly agree)­7 (Strongly disagree)
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+26 Twin Research and Human Genetics February 2008
+Jason D. Boardman, Casey L. Blalock, and Tanya M. M. Button
+Appendix B
+The bivariate Cholesky Decomposition model partitions the variance of both phenotypes (we use a continuous
+measure of strain using principle components analysis with STATA 9.0. A 1-factor solution was calculated for men
+and women separately (r
+men
+= .14; r
+women
+= .16) into that due to genetic, shared environmental, and nonshared environ-
+mental (with error) variance. Furthermore, the model enables us to decompose the covariance between the two
+variables into the same variance components.
+Consequently, it is also possible to determine the extent to which the genetic and environmental variance of
+resilience is shared in common with the strain variable, and the extent to which they are unique to resilience. This is a
+similar analysis to that shown in the DF analysis. For instance, if the genetic influence on resilience decreases after
+inclusion of the risk variables, it implies that some of the genetic risk for resilience is accounted for by its association
+with the included variables. However, if such a reduction does not occur, we would assume that the genetic risk for
+resilience is not shared with the risk variables.
+The fit of the full model was compared with that obtained from saturated model in which there are no constraints
+and all possible parameters (means, variances, and covariances) are estimated. These descriptive models fit the data
+perfectly, serving as a comparative model for nested models. We determine how well the full model explains the
+observed data by comparing minus twice the log-likelihood (­2ll) fit and degrees of freedom (df) of the full model
+with the saturated model produces a 2 statistic. A low, nonsignificant 2 statistic indicates that the bivariate Cholesky
+Decomposition model explains the observed data well and does not violate the assumptions of model fitting (e.g.,
+MZ and DZ variances do not differ significantly).
+Comparison of the full bivariate (­2ll = 5444.984, df = 2086) and the saturated model (­2ll = 5399.352, df = 2052)
+resulted in a 2 fit of the full bivariate model of 45.632, and difference in df of 34; therefore, p = .088, the 2 is non-
+significant and out bivariate Cholesky decomposition model fits the observed data well. The resulting standardized
+path coefficients for males and females are presented in Figure 1 and Figure 2 respectively. Using the rules of path
+analysis, the contribution of each variance component to each of the 2 variables was estimated by squaring the path
+coefficients. For males, A
+1
+(the genetic variance shared in common with the strain variable) contributes 5% of the
+total variance of resilience, and A
+2
+(the genetic variance unique to resilience) contributes 27% of the total variance of
+resilience. Thus, of the total genetic variance for resilience (.32), 84% is unique to resilience. This is similar to the
+results from the DF analyses for females, in which we demonstrated that inclusion of the risk variables decreased the
+genetic effect on resilience, because some of the genetic risk was accounted for by the risks. Therefore, the results of
+fitting variance components demonstrate comparable findings to those of the DF model.
+Male
+Strain
+Male
+Resilience
+A
+1
+A
+2
+C
+1
+C
+2
+E
+1
+e
+2
+.52
+-.22
+.52
+-.29 -.17
+.80
+.00
+.73
+-.35
+Figure 1
+Male standardized path coefficients for the bivariate Cholesky. Decomposition between strain and resilience.
+Note: A
+1
+= Genetic variance common to Strain and Resilience; C
+1
+= Shared environment variance common to Strain and Resilience; E
+1
+= Non-shared environment variance common
+to Strain and Resilience; A
+2
+= Genetic variance unique to Resilience; C
+2
+= Shared environment variance unique to Resilience; E
+2
+= Non-shared environment
+variance unique to Resilience.
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+27
+Twin Research and Human Genetics February 2008
+Sex Differences in the Heritability of Resilience
+Female
+Strain
+Female
+Resilience
+A
+1
+A
+2
+C
+1
+C
+2
+E
+1
+e
+2
+.74
+-.47
+.46
+.16 -.12
+.65
+.00
+.69
+-.27
+Figure 2
+Female standardized path coefficients for the bivariate Cholesky. Decomposition between strain and resilience.
+Note: A
+1
+= Genetic variance common to Strain and Resilience; C
+1
+= Shared environment variance common to Strain and Resilience; E
+1
+= Non-shared environment variance common
+to Strain and Resilience; A
+2
+= Genetic variance unique to Resilience; C
+2
+= Shared environment variance unique to Resilience; E
+2
+= Non-shared environment
+variance unique to Resilience.
+http://dx.doi.org/10.1375/twin.11.1.12
+Downloaded from http:/www.cambridge.org/core. ReadCube, on 12 Sep 2016 at 01:38:05, subject to the Cambridge Core terms of use, available at http:/www.cambridge.org/core/terms.
+

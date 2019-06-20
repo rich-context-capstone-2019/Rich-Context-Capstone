@@ -1,0 +1,1048 @@
+Drum, M.L., Shiovitz-Ezra, S., Gaumer, E., & Lindau, S.T. (2009). Assessment of smoking behaviors and alcohol use in the national social life, health, and aging project.
+Journal of Gerontology: Social Sciences, 64B(S1), i119­i130, doi:10.1093/geronb/gbn017.
+© The Author 2009. Published by Oxford University Press on behalf of The Gerontological Society of America.
+All rights reserved. For permissions, please e-mail: journals.permissions@oxfordjournals.org.
+i119
+THE National Social Life, Health, and Aging Project
+(NSHAP) assessed health-related behaviors as factors
+directly related both to physical health and well-being and
+to social relationships. Two key health-related behaviors in-
+cluded in the NSHAP survey are smoking and alcohol use.
+The impact of these behaviors on health is well established.
+In NSHAP, one of the primary interests is in how the degree
+to which individuals engage in these behaviors mediates the
+relationship between social relationships and health. Higher
+quality social relationships, for instance, are associated with
+lower risk of problem drinking (Grzywacz & Marks, 2000).
+Both close and distant ties in social networks influence
+smoking behavior, and conversely, smoking influences the
+quality of social relationships, with smokers having more
+peripheral positions in their social networks than nonsmok-
+ers (Christakis & Fowler, 2008).
+In this paper, we describe the measures of smoking behav-
+iors and alcohol use collected in the first wave of NSHAP,
+including their distributions by gender and age. We describe
+construction of widely used derived measures that are readily
+obtained from the NSHAP core variables, discuss key prop-
+erties of these variables, and present examples of associations
+among them. In addition to self-report of tobacco use, NS-
+HAP provides a biological marker of this activity, cotinine,
+which we describe in detail, with examination of its relation-
+ship to selected self-reported smoking behaviors. Other
+health-related behaviors assessed by NSHAP, but not consid-
+ered here, include physical exercise, sleep, elements of sexual
+behavior, and certain aspects of health care utilization.
+The remainder of the article is organized as follows. A
+Methods section briefly summarizes relevant aspects of the
+survey design, data collection methods, biomeasure pro-
+cessing, and the data analytic approach, followed by sepa-
+rate sections for alcohol consumption, self-reported smoking
+behaviors, and the biological marker of tobacco exposure,
+cotinine. Each of the domain-specific sections includes a
+description of the measures and their properties, their distri-
+butions by age group and gender, selected associations
+among the measures, response rates, and a brief discussion.
+Methods
+Study Design and Data Collection
+NSHAP Wave 1 data were collected during in-home
+interviews, conducted in 2005­2006 with a probability
+sample of 3,005 community-dwelling U.S. residents,
+aged 57­85 years. The NSHAP study design is described
+in detail in O'Muircheartaigh and colleagues (this issue)
+and Smith and colleagues (this issue). We briefly reiterate
+Assessment of Smoking Behaviors and Alcohol Use in the
+National Social Life, Health, and Aging Project
+Melinda L. Drum,1 Sharon Shiovitz-Ezra,2 Elyzabeth Gaumer,3 and Stacy T. Lindau4,5
+1Department of Health Studies, University of Chicago, Illinois.
+2Paul Baerwald School of Social Work and Social Welfare, Hebrew University of Jerusalem, Jerusalem, Israel.
+3Department of Sociology, University of Chicago, Illinois.
+4Departments of Obstetrics and Gynecology and Medicine (Geriatrics), University of Chicago, Illinois.
+5Center on Demography and Economics of Aging Core on Biomarkers in Population-Based Health and Aging Research, NORC and
+University of Chicago, Illinois.
+Objectives. The National Social Life, Health, and Aging Project (NSHAP) assessed smoking behaviors and alcohol use
+as factors directly related to physical health, well-being, and social relationships. We describe self-report measures of tobacco
+and alcohol use, as well as an established biological marker of tobacco exposure, cotinine, collected in Wave 1 of NSHAP.
+Methods. We compare smoking behaviors and alcohol use by gender and age group. We report on derived measures
+of alcohol consumption and tobacco exposure widely used in medical and substance use literature, compare current and
+past users, and describe associations between self-reported smoking status and cotinine.
+Results. Men are more likely than women to report alcohol use, potential problem drinking, and ever smoking. Alco-
+hol use and smoking are lower among older age groups. Although current smoking is less prevalent than in the general
+U.S. adult population, 50% of current and 29% of past smokers have lifetime exposure of 40 pack-years or more. Cotinine
+is directly related to number of cigarettes per day but with considerable unexplained variation. Cotinine levels contradict
+self-report in fewer than 4% of nonsmokers.
+Conclusion. NSHAP provides data useful for investigation of smoking and alcohol use and their association with
+health and social factors.
+Key Words: Smoking behavior--Tobacco--Alcoholuse--Cotinine--Older adult.
+DRUM ET AL.
+i120
+features of the design and data collection methods that
+apply to measures of smoking behaviors and alcohol use.
+In addition to self-report measures of these domains, re-
+spondents provided a saliva specimen, which was assayed
+for cotinine, a biological measure of tobacco exposure.
+The NSHAP sample was constructed to make compari-
+sons by gender and age group (ages 57­64, 65­74, and
+75­85 years) and was stratified accordingly.
+Self-report measures were collected primarily through
+computer-assisted in-person interviews, supplemented by a
+leave-behind questionnaire. In order to obtain as much in-
+formation as possible within the time constraints of the in-
+home interview, certain sections were modularized to apply
+to a subset of respondents or to be administered partly or
+wholly through the leave-behind questionnaire, or both.
+Biomeasures were modularized as well. Respondents were
+randomized to paths that determined which modules they
+received and the mode of administration. All measures of
+smoking behaviors and alcohol use, including the biomarker
+of tobacco exposure, were in the core set of measures, which
+NSHAP sought to obtain from all respondents. Moreover,
+all these measures were collected in the home, with one
+exception: A screening instrument for problem drinking be-
+havior was administered to all respondents in the leave-
+behind instrument.
+Biomeasure Processing
+NSHAP obtained cotinine levels through collection of
+salivary specimens, a stable and noninvasive method that is
+well accepted by respondents (Binnie et al., 2004). Saliva
+specimen collection and processing are described by
+Gavrilova and colleagues (this issue). Salivary enzyme im-
+munoassay for cotinine concentration was conducted at
+Salimetrics, LLC. Details of the assay, as well as additional
+information about processing and properties of the measure,
+are described in Iqbal, Mendoza, Curran, and Lindau (2007).
+Data Analysis
+Smoking behaviors and alcohol use are compared by gen-
+der and age group, overall and within each gender group.
+Prevalences with 95% confidence intervals (CIs) are given
+for levels of categorical and ordinal variables, with associa-
+tions tested using the Pearson chi-square statistic, corrected
+for survey design with the second-order correction of Rao
+and Scott (1987). CIs are based on a logit transform to ensure
+that the confidence limits fall between zero and one. Means,
+standard deviations, and quartiles are provided for continu-
+ous variables, with associations evaluated through linear re-
+gression. For variables with skewed distributions, square root
+or logarithmic transformations were applied before analysis
+to achieve approximate normality. Linear, logistic, ordinal
+logistic (McCullagh & Nelder, 1989), and generalized or-
+dered logit regression (Williams, 2006), which includes par-
+tial proportional odds models as a special case, were used to
+further evaluate associations and estimate adjusted effects.
+All analyses accounted for the survey sampling design
+through incorporation of sampling strata and clusters as well
+as weights that adjusted for differential probability of selec-
+tion and differential nonresponse. Standard errors were com-
+puted using the Taylor linearization method (Binder, 1983).
+Weighted estimates are presented unless otherwise noted.
+Results are not adjusted for multiple testing. Analyses were
+conducted using Stata 10.0 (StataCorp, 2007).
+Alcohol Consumption
+Among many available instruments, NSHAP adopted two
+well-established approaches to assessment of alcohol con-
+sumption behavior that were also used in the Health and
+Retirement Survey (HRS) 2002 (National Center for Health
+Statistics, 2002). The first utilizes the quantity-frequency
+(QF) approach (Room, 1990) and the second assesses poten-
+tial problem drinking behavior through a four-item screening
+instrument, the CAGE (Cut back, Annoyed, Guilt, Eye-
+opener) assessment (Ewing, 1984). The QF approach incor-
+porates two domains: (a) quantity of alcohol intake within a
+reference period and (b) frequency of alcohol consumption
+within a reference period, as well as an additional question
+on frequency of consuming four or more drinks on one occa-
+sion as an indicator of high-risk drinking behavior (Dawson,
+2003). The QF approach is recommended, albeit with limita-
+tions, when a quick and easy measure is needed due to time
+constraints (Sobell & Sobell, 2003).
+Measures
+All respondents were asked whether they ever drank alco-
+holic beverages such as beer, wine, or liquor. Respondents
+who stated "no" or "don't know" or who refused to answer
+were then asked if they had ever drunk alcohol. Those who
+responded "yes" on this item were asked, "Have you drunk
+alcohol in the last three months?" Only respondents who
+indicated that they drank currently or within the past three
+months were then asked the three QF questions: "In the last
+three months (the reference period), on average, how many
+days per week have you had any alcohol to drink?" with
+response options 0 (none or less than one day a week), 1,
+2, ... , 7 (the frequency component). Next, respondents were
+asked to indicate how many drinks they had on those days
+(the quantity component). The quantity and the frequency
+components allow measurement of the volume consumed
+by multiplying the number of drinks per day by the number
+of drinking days per week. Finally, respondents were asked
+to indicate on how many days in the same reference period
+they had four or more drinks on one occasion.
+The CAGE, a widely used clinical screening instrument
+that has been used effectively with older adults (Beullens &
+Aertgeerts, 2004; Friedmann et al., 1999), was used to
+screen for problematic drinking. It is a brief, four-question
+instrument, which Mayfield, Mcleod, and Hall (1974) found
+NSHAP SMOKING BEHAVIORS AND ALCOHOL USE i121
+easy to administer and less intimidating than the full or
+shortened version of the Michigan Alcoholism Screening
+Test (Pokorny, Miller, & Kaplan, 1972; Seltzer, 1971). Re-
+spondents were asked whether they had ever felt that they
+should cut down on drinking, whether people had ever
+annoyed them by criticizing their drinking, whether they
+had ever felt bad or guilty about drinking, and whether they
+had ever had a drink first thing in the morning (eye opener)
+to steady their nerves or get rid of a hangover. A total of two
+or more positive responses have long been used to indicate
+alcohol abuse and dependence, with the cutpoint based
+on a sensitivity analysis (Fiellin, Reid, & O'Connor, 2000;
+Mayfield et al., 1974). The National Institute on Alcohol
+Abuse and Alcoholism (NIAAA), in contrast, recommends
+a screening cutpoint of one positive response for clinical use
+(Bradley,Kivlahan,Bush,McDonell,&Fihn,2001;NIAAA,
+2005), and Friedmann and colleagues (1999) found this cut-
+point more suitable for screening elderly hospital emergency
+department patients. In our survey, the CAGE instrument
+was self-administered in the leave-behind instrument.
+Results
+The main descriptive findings for drinking behavior are
+summarized in Table 1. The results are presented for men
+and women separately stratified by three age groups. The
+first distribution shown in Table 1 describes the drinking
+status variable that was constructed from the first three
+questions on drinking behavior included in the interview. Its
+values are "current drinker," "former drinker," and "never
+drinker." Current alcohol consumption differs substantially,
+comparing men with women across all age groups included
+in the NSHAP survey. For example, 55% of women versus
+72% of men in the youngest age group indicated current
+alcohol use. Additionally, women were significantly more
+likely than men to report never consuming alcohol. Re-
+ported alcohol use also declines across age groups among
+both women and men.
+Figure 1 presents the distribution of volume of alcohol
+consumed, calculated by multiplying the two components
+(quantity × frequency), and also presents the frequency com-
+ponent of this measure for men and women separately. As
+seen in the top panel of Figure 1, frequency of drinking was
+significantly higher among men than among women. Women
+were more likely than men to drink one or fewer days per
+week (58% vs. 43%) and less likely to drink daily (14% vs.
+19%). Frequency of drinking also was significantly higher
+among older compared with younger men but did not differ
+by age among women (not shown). Quantity, in terms of the
+number of drinks consumed on days the respondent drank,
+was also significantly higher among men and decreased
+across age group for both men and women (not shown).
+A number of characteristics of the composite volume
+measure are illustrated in the parallel boxplots in the lower
+panel of Figure 1. Most notably, consumption was higher
+among men than among women at all frequencies of drink-
+ing, and variability of consumption increased with fre-
+quency, particularly among men. By definition, minimum
+volume consumed is the number of days per week the per-
+son drinks, which is realized when the number of drinks per
+day equals one. For women, this is also the median value
+among those who drink five or more days a week. For men,
+in contrast, the median is two drinks per day, except at the
+lowest frequency. Note that volume consumed is zero when
+the respondent drinks on average less than one day a week,
+no matter how heavily. The overwhelming majority for
+whom volume consumed was zero reported drinking three
+or fewer drinks on the occasional days when they drank, but
+15 (2.4%) respondents with this score reported an average
+of four or more drinks per occasion.
+The last question included in the in-person interview
+deals with risk behavior; the respondents were asked about
+consumption of four or more alcoholic drinks on one occa-
+sion during the prior three months. The response to this
+question was an open-ended count, but due to its skewed
+distribution, we generated an ordinal scale with four catego-
+ries as shown in Table 1, with cutpoints chosen to corre-
+spond roughly to once a month and once a week. The
+majority (77.2%) did not engage in heavy drinking behav-
+ior, but men were significantly more likely than women at
+all ages to report doing so. This risk behavior decreased
+across age groups, particularly for men.
+As for the CAGE, a consistent and significant gender dif-
+ference was observed across all four items, similar to what
+was found among the in-person interview questions (Table
+1). For example, only 12% of women as compared with 36%
+of men aged 57­64 years had ever felt that they should cut
+down on drinking. Among men and women, positive re-
+sponses to all CAGE items declined with age, although this
+trend does not reach statistical significance among women
+due to their low overall frequency of positive response. The
+four self-administered CAGE items were summed and then
+dichotomized at two alternative cutpoints that are used to
+indicate potential alcohol abuse and dependence: two or
+more positive answers (Fiellin et al., 2000) and one or more
+positive answers (Friedmann et al., 1999). These variables
+are also described in Table 1. Consistent with the other alco-
+hol consumption measures, we found a significant gender
+difference for both. There is also evidence for a significant
+inverse relationship between age and potential alcohol abuse.
+When comparing CAGE responses with self-reported drink-
+ing status, 4.3% of individuals who reported never drinking
+in the face-to-face interview responded positively to at least
+one CAGE item, and 1.2% met the two or more positive re-
+sponse criterion for potential alcohol abuse.
+Response rates were 98%­99% for drinking items asked in
+the in-person interview. Response rates for the CAGE screen-
+ing items, which were self-administered in the leave-behind
+questionnaire for all respondents, ranged from 88% to 93%
+on returned surveys and 76% to 80% overall. In regard to
+DRUM ET AL.
+i122
+Table 1. Drinking Behavior by Gender and Age Group in NSHAP Wave 1a
+Significant Factorsb Total
+Women Men
+57­64 Years 65­74 Years 75­85 Years 57­64 Years 65­74 Years 75­85 Years
+Drinking status
+Never drinker G, A, A (F), A (M) 15.1 (12.8­17.7) 17.7 (13.0­23.6) 22.0 (17.5­27.2) 31.4 (25.7­37.8) 5.0 (3.6­7.0) 8.1 (6.4­10.2) 8.7 (6.1­12.1)
+Former drinker 26.8 (24.6­29.1) 27.3 (21.1­34.4) 25.1 (21.5­29.1) 28.9 (24.6­33.6) 23.0 (19.4­27.0) 27.0 (22.7­31.8) 33.5 (28.2­39.2)
+Current drinker 58.2 (55.0­61.3) 55.0 (47.4­62.4) 52.9 (47.3­58.5) 39.6 (33.9­45.7) 72.0 (67.6­76.1) 64.9 (60.2­69.3) 57.9 (51.2­64.3)
+How many days in past 3 months did you have four or more drinks?
+None G, A, A (M) 76.5 (74.1­78.7) 83.5 (78.9­87.3) 88.9 (84.2­92.3) 91.3 (85.2­95.0) 61.0 (56.2­65.6) 70.3 (65.1­75.0) 81.0 (72.9­87.0)
+1­3 12.2 (10.7­13.9) 12.6 (9.8­16.2) 5.5 (3.1­9.5) 6.6 (3.3­12.7) 17.5 (13.0­23.1) 13.8 (10.4­18.1) 11.3 (6.7­18.4)
+4­12 7.6 (6.2­9.4) 3.3 (1.4­7.4) 5.2 (2.7­9.6) 1.6 (0.5­5.4) 14.6 (10.6­19.7) 9.6 (6.5­13.9) 3.8 (2.0­7.1)
+>12 3.6 (2.5­5.3) 0.6 (0.1­2.8) 0.5 (0.1­3.3) 0.6 (0.1­4.0) 6.9 (3.4­13.7) 6.3 (4.3­9.3) 3.9 (1.8­8.3)
+CAGE problem drinking screen
+Ever felt that you should
+cut down on drinking?
+G, A, A (M) 19.8 (18.0­21.7) 12.2 (8.2­17.8) 9.5 (6.9­13.1) 5.6 (3.9­8.2) 35.6 (30.9­40.5) 27.1 (23.3­31.2) 24.8 (19.4­31.1)
+Anyone ever annoyed
+you by criticizing
+your drinking?
+G, A, A (M) 8.3 (6.8­10.1) 5.7 (3.1­10.1) 4.3 (2.2­8.3) 1.5 (0.6­4.0) 15.8 (10.7­22.7) 11.0 (7.8­15.4) 8.7 (6.0­12.5)
+Ever felt bad or guilty
+about drinking?
+G, A, A (M) 12.6 (11.0­14.5) 8.8 (5.2­14.5) 6.1 (3.6­10.3) 5.6 (3.8­8.3) 22.4 (19.3­26.0) 16.3 (12.9­20.3) 13.3 (9.3­18.6)
+Ever drink in the
+morning to steady
+nerves or end
+hangover?
+G, A, A (M) 3.8 (3.0­4.8) 2.4 (1.0­5.8) 1.8 (0.8­3.7) 1.0 (0.3­3.2) 8.2 (5.5­12.1) 3.9 (2.2­6.6) 4.4 (2.5­7.4)
+One or more positive
+responses
+G, A, A(F),A (M) 22.8 (20.9­24.9) 15.3 (10.5­21.9) 12.1 (8.7­16.7) 7.4 (5.4­10.1) 39.8 (35.3­44.4) 31.4 (27.0­36.2) 27.4 (21.9­33.7)
+Two or more positive
+responses
+G, A, A (M) 12.8 (11.2­14.7) 7.6 (4.9­11.4) 5.5 (3.4­8.7) 3.7 (2.4­5.6) 25.8 (21.1­31.1) 17.8 (14.5­21.6) 13.4 (9.3­19.1)
+Notes: NSHAP = National Social Life, Health, and Aging Project. Estimates are percent (95% confidence intervals).
+a Estimates are weighted to account for differential probabilities of selection and differential nonresponse. All estimates account for survey sampling design through incorporation of sampling strata and clusters.
+b Notation for significant factors (p  .05): G = gender; A = age group; A (F) = age group among females; A (M) = age group among males.
+NSHAP SMOKING BEHAVIORS AND ALCOHOL USE i123
+missing values, nondrinkers were most likely to leave all
+items blank (never drinker, 17%; past drinker, 11%; and cur-
+rent drinker, 2%), which would be expected if nondrinkers
+considered the questions to be irrelevant. However, a small
+but non-negligible proportion of respondents (6.3%) an-
+swered some but not all the items, most often with some "no"
+responses co-occurring with skipped items, which argues
+against regarding lack of response as a "no."
+Discussion: Alcohol Consumption
+The most consistent finding concerning alcohol consum-
+ption was the difference across gender. Women in all age
+groups consumed less alcohol than men in terms of quan-
+tity, frequency, volume of alcohol use, and alcohol abuse.
+The evidence found in NSHAP for a gender difference in
+alcohol intake is consistent with findings from recent re-
+search using data from The Health and Retirement Survey
+(United States) and the English Longitudinal Study of
+Aging (Lang, Guralnik, Wallace, & Melzer, 2007).
+Attention should be paid to the volume consumed mea-
+sure that takes into account the average frequency and quan-
+tity of alcohol consumption. Although volume consumed is
+a commonly used indicator, interpretation of its value can
+be misleading. Very different patterns of drinking can yield
+identical values (Dawson, 2003; Sobell & Sobell, 2003).
+For example, data for a person who drinks one drink every
+day will generate the same volume of alcohol intake as data
+for a person who drinks seven drinks only one day a week.
+Therefore, evaluation of a drinking pattern should be based
+on the frequency and quantity components with supplemen-
+tal information from the risk behavior measure.
+Cigarette Smoking and Other Tobacco Use
+Smoking assessment for adults typically includes informa-
+tion on smoking status (never, current, or ex-smoker), initia-
+tion, cessation, and intensity, which in turn yield measures of
+duration, cumulative exposure, and elapsed time since cessa-
+tion (Leffondré, Abrahamowicz, Siemiatycki, & Rachet,
+2002)--all of which have been linked to disease risk.
+Measures
+NSHAP assessed cigarette smoking status and history and
+current use of other tobacco products (pipe, cigars, snuff, and
+chewing tobacco). Smoking status was ascertained through
+two survey items. Respondents were first asked, "Do you
+smoke cigarettes now?" Those who answered "yes" were
+classified as current smokers. All others were asked, "Did
+you ever smoke cigarettes regularly?" and were classified as
+past or never smokers according to their response. Respon-
+dents who identified themselves as current cigarette smokers
+were asked the age when they began smoking regularly and
+the average number of cigarettes per day they usually smoke.
+Similarly, past smokers were asked the age when they began,
+0
+20
+40
+<1 1 2 3 4 5 6 daily <1 1 2 3 4 5 6 daily
+Male Female
+Percent
+How many days per week do you drink?
+0
+7
+14
+21
+28
+35
+42
+49
+<1 1 2 5 daily
+Male Female
+Drinks per Week
+Volume Consumed (weighted) by Days per Week Respondent Drinks
+3 4 6 <1 1 2 5 daily
+3 4 6
+Boxplots exclude 4 male outliers who reported drinks per week: 75, 84, 90, 140.
+Volume consumed = drinks per week = days per week respondent drinks x drinks per day.
+Reference period: past 3 months.
+Figure 1. Alcohol consumption over the past three months--frequency and volume consumed by gender. The horizontal line in the box represents the median
+value, and the edges of the box are the first and third quartiles. The lines extending from the edges of the box end at the last value within 1.5 times the interquartile
+range (third minus first quartile) from the edge of the box. Any values beyond this distance are considered outliers and are plotted individually. Note that in many
+cases, the median corresponds to the first or third quartile.
+DRUM ET AL.
+i124
+the age when they quit, and, on average, how many cigarettes
+per day they had usually smoked. Current use of other forms
+of tobacco was assessed by asking respondents, "Do you use
+any of the other following tobacco products regularly now?
+pipe, cigar, snuff, chewing tobacco, none," with instructions
+to choose all that apply. Note that for the variable assessing
+the age of initiation of regular smoking, responses from
+smokers and nonsmokers are in separate variables, which
+were merged to apply to both groups before analysis or sub-
+sequent variable derivation. The same is true for the variable
+assessing the number of cigarettes per day.All items concern-
+ing cigarette smoking are drawn from Established Popula-
+tions for Epidemiologic Studies of the Elderly (Taylor,
+Wallace, Ostfeld, & Blazer, 1998). The other tobacco items
+were newly developed for NSHAP.
+Combining responses to the smoking history items yields
+a number of variables useful for describing and evaluating
+smoking behavior, including smoking duration in years,
+elapsed time since quitting for past smokers, and pack-
+years. For current smokers, smoking duration is calculated
+as current age minus age when first smoked regularly, and,
+for past smokers, as the difference between age last smoked
+and age first smoked. Pack-years is calculated as the num-
+ber of years smoked times the average number of packs per
+day (20 cigarettes = 1 pack) (National Cancer Institute,
+2007). Pack-years is often categorized for analysis, with 20
+and 40 pack-years as commonly used risk thresholds (e.g.,
+Cruickshanks et al., 1998; Straus, McAlister, Sackett, &
+Deeks, 2002; Sturmer, Glynn, Lee, Christen, & Hennekens,
+2000), whereas the Centers for Disease Control and Preven-
+tion (CDC) designates 25 pack-years as "heavy smoking"
+in its report "Cigarette Smoking Among Adults--United
+States, 2004" (CDC, 2005).
+Results
+The main descriptive findings for smoking are summa-
+rized in Table 2. A minority of respondents (15%) reported
+current smoking, 44% claimed to be past smokers, and 41%
+responded that they had never smoked regularly. Overall,
+smoking status differed significantly by gender, age group,
+and age group within gender. Prevalence of current smoking
+was similar for men and women and decreased with age for
+both--from 17% in women and 20% in men at ages 57­64
+years to 8% and 9%, respectively, at ages 75­85 years.
+Among men, there was a complementary increase in the pro-
+portion who reported past smoking, whereas the prevalence
+of never smoking was similar across age groups. In contrast,
+women in the oldest age group were significantly less likely
+to be past smokers and more likely to have never smoked
+than their younger counterparts.
+Fifty percent of current smokers and 29% of past smok-
+ers met or exceeded the widely used high-risk threshold of
+40 pack-years. Men had higher cumulative exposure to cig-
+arettes by this measure than did women. For current smok-
+ers, this gender difference was a consequence of longer
+duration and higher intensity (cigarettes per day) among
+men, whereas for past smokers, only intensity differed by
+gender. On average, men started smoking regularly at a
+younger age than women (age 17 among men vs. ages 19­
+21 years among women, across age groups), but men who
+had quit smoking also did so at a younger age than women
+(42.5 vs. 44.7 years) and had correspondingly longer elapsed
+time since quitting.
+Current smokers had smoked an average of 47.6 years
+and past smokers an average of 25 years. Smoking duration
+increased significantly with age for both men and women
+among past smokers and, as would be expected, among cur-
+rent smokers. Smoking intensity (cigarettes per day), in
+contrast, varied by age only among current male smokers--
+exhibiting a decreasing trend with age. The net effect for
+this subgroup was a significant association between age and
+cumulative exposure, with the youngest most likely to have
+reached 40 pack-years and the oldest most likely to be be-
+low 20 pack-years. Past smokers reported significantly
+higher smoking intensity than current smokers (on average,
+22 vs. 16.7 cigarettes per day), which may be due in part to
+different reference periods and changes in smoking patterns
+over a lifetime. Nevertheless, current smokers had higher
+cumulative exposure whether pack-years was treated con-
+tinuously or categorized. Note that among current smokers,
+smoking duration confounds with age due to the longer du-
+ration of opportunity for older respondents to smoke. This
+confounding does not occur with pack-years.
+Current use of other tobacco products was reported by
+4.7% (95% CI 3.8%­5.9%) of respondents--cigars 2.2%
+(1.6%­2.8%), chewing tobacco 1.6% (1.1%­2.5%), pipe
+1.1% (0.7%­1.6%), and snuff 0.9% (0.5%­1.5%). Use of
+these products was more prevalent among men than among
+women (8.4% [6.7%­10.4%] vs. 1.3% [0.7%­2.6%]) but
+did not differ significantly by age group and was only mod-
+erately associated with cigarette smoking, being more prev-
+alent among past smokers (never smokers 3.4%
+[2.3%­5.1%], past smokers 5.9% [4.6%­7.6%], and current
+smokers 4.7% [2.6%­8.2%]). A very small proportion of
+respondents (0.7% [0.4%­1.2%]) reported current use of
+two or more of these tobacco products. Response rates for
+all self-report smoking items were 98%­99%.
+Discussion: Smoking
+Self-reported rates of current smoking were lower and
+prevalence of past smoking higher in the NSHAP popula-
+tion than in the general U.S. adult population, based on es-
+timates from 2004 National Health Interview Survey (NHIS)
+data (CDC, 2005). In NSHAP, 16% of men and 14% of
+women were current smokers; 53% of men and 36% of
+women were past smokers. In the general adult population,
+however, 21% were current and 22% past smokers. In the
+general population, adults 65 years or older had the lowest
+NSHAP SMOKING BEHAVIORS AND ALCOHOL USE i125
+Table 2. Smoking Behavior by Gender and Age Group in NSHAP Wave 1a
+Significant
+Factorsb Total
+Women Men
+57­64 Years 65­74 Years 75­85 Years 57­64 Years 65­74 Years 75­85 Years
+Lifetime smoking status by self-report, % (95% CI)
+Never smoked
+regularly
+G, A, A
+(F), A (M)
+40.6 (38.3­43.0) 46.0 (40.8­51.2) 47.2 (42.0­52.5) 59.9 (55.4­64.3) 32.3 (28.0­36.8) 27.5 (23.7­31.7) 32.5 (26.7­38.9)
+Former smoker 44.1 (41.6­46.8) 37.1 (31.3­43.3) 37.2 (32.7­41.9) 31.9 (27.6­36.5) 47.8 (40.6­55.0) 56.5 (50.6­62.3) 58.2 (53.7­62.6)
+Current smoker 15.2 (13.3­17.2) 17.0 (13.1­21.6) 15.6 (12.5­19.3) 8.3 (6.0­11.4) 20.0 (15.7­25.0) 16.0 (11.9­21.0) 9.3 (5.8­14.6)
+Current smoking status based on salivary cotinine, % (95% CI)
+Nonsmoker G, A, A (M) 79.8 (76.9­82.4) 80.1 (74.3­84.9) 82.9 (78.5­86.6) 91.3 (86.8­94.4) 70.7 (64.2­76.5) 76.2 (69.3­82.0) 86.8 (80.0­91.5)
+Passive smoker 0.7 (0.4­1.2) 0.5 (0.2­1.6) 0.6 (0.1­4.6) 0 1.4 (0.6­3.0) 0.7 (0.2­2.3) 0.3 (0.03­1.9)
+Occasional smoker 1.8 (1.3­2.5) 2.1 (1.1­4.2) 1.5 (0.5­4.3) 1.1 (0.3­4.7) 2.2 (1.1­4.3) 2.1 (1.0­4.4) 1.4 (0.4­4.4)
+Regular smoker 17.7 (15.1­20.7) 17.3 (12.5­23.4) 15.0 (11.8­19.0) 7.6 (4.8­11.9) 25.7 (19.9­32.6) 21.0 (15.3­28.2) 11.6 (7.1­18.3)
+Smoking history, M (SE), first quartile, median, third quartile
+Age when first smoked
+regularlyc
+G, A (F) 18.4 (0.2), 15, 18, 20 19.0 (0.4), 16, 18, 20 20.1 (0.5), 16, 18, 21 20.8 (0.5), 17, 19, 22 17.3 (0.3), 14, 17, 20 17.3 (0.3), 15, 17, 19 17.4 (0.4), 15, 17, 19
+Cigarettes per day (20 per pack)c,d
+Among current
+smokers
+G, A, A (M) 16.6 (0.59), 10, 18, 20 16.5 (1.6), 8, 15, 20 13.6 (1.1), 5, 10, 20 11.5 (1.0), 6, 10, 18 20.5 (1.2), 15, 20, 25 16.9 (1.5), 10, 15, 20 14.7 (2.1), 4, 15, 20
+Among past smokers G 22.0 (0.63), 10, 20, 30 18.1 (1.3), 6, 20, 20 19.1 (1.5), 5, 15, 30 16.2 (1.5), 5, 10, 20 26.4 (1.4), 10, 20, 40 24.3 (1.1), 15, 20, 30 23.5 (1.6), 10, 20, 30
+Years smokedd
+Among current
+smokers
+G, A, A
+(F), A (M)
+47.6 (0.49), 42, 47, 53 40.8 (0.91), 40, 42, 45 48.2 (1.0), 46, 50, 53 56.5 (1.3), 54, 58, 62 43.8 (0.46), 41, 44, 47 52.6 (0.73), 49, 53, 56 62.7 (0.81), 60, 62, 66
+Among past smokers A, A (F),
+A (M)
+25.0 (0.62), 14, 24, 37 22.9 (1.1), 10, 22, 35 24.9 (1.1), 15, 26, 36 29.6 (1.8), 15, 31, 43 21.0 (0.82), 10, 20, 30 26.3 (1.2), 16, 24, 39 29.0 (1.2), 18, 29, 40
+Age when last smoked
+regularly
+G, A, A (F),
+A (M)
+43.4 (0.61), 32, 42, 55 41.5 (0.99), 30, 43, 53 44.9 (0.97), 35, 45, 55 49.9 (1.8), 37, 54, 62 38.7 (0.81), 30, 40, 47 44.0 (1.1), 33, 42, 56 46.6 (1.1), 35, 46, 56
+Years since last smoked G, A, A (F),
+A (M)
+24.7 (0.53), 14, 24, 35 19.3 (0.98), 8, 20, 30 23.8 (0.90), 13, 23, 34 29.4 (2.0), 16, 27, 41 21.9 (0.86), 13, 22, 31 25.5 (1.2), 15, 26, 37 32.4 (1.1), 21, 33, 44
+Cumulative exposure: Pack-years
+Continuous value,d,e M (SE), first quartile, median, third quartile
+Among current
+smokers
+G 39.6 (1.3), 20, 40, 50 34.7 (3.8), 16, 33, 45 33.8 (3.0), 13, 29, 50 33.3 (3.0), 17, 30, 43 45.0 (2.7), 31, 44, 50 43.4 (3.7), 23, 41, 52 46.4 (6.9), 12, 56, 63
+Among past smokers G 30.7 (1.3), 7, 21, 44 24.4 (2.4), 4, 15, 35 27.8 (3.0), 5, 15, 41 29.1 (4.3), 3, 18, 42 30.5 (2.3), 8, 20, 42 34.4 (2.3), 10, 24, 48 37.6 (3.5), 12, 26, 52
+Categorical levels,d % (95% CI)
+Among current smokers
+<20 G, A (M) 25.0 (19.8­31.0) 29.0 (19.0­41.6) 34.3 (22.8­47.9) 30.8 (13.2­56.7) 15.2 (10.2­22.2) 19.4 (11.0­32.0) 36.2 (20.2­56.0)
+20­39 25.1 (21.3­29.3) 26.2 (15.8­40.2) 28.9 (18.4­42.1) 42.8 (22.6­65.7) 17.8 (10.5­28.5) 29.8 (20.8­40.6) 9.5 (2.5­29.8)
+40 49.9 (43.2­56.6) 44.8 (28.5­62.2) 36.9 (26.5­48.7) 26.4 (16.4­39.5) 67.0 (55.6­76.7) 50.8 (36.8­64.7) 54.3 (36.4­71.1)
+(Table 2 continues)
+DRUM ET AL.
+i126
+rate of smoking (8.8%), which was realized in NSHAP only
+at ages 75­85 years. Although these rates are not directly
+comparable, the fact that the NHIS interval includes all ages
+>85, and thus spans the NSHAP age interval, suggests con-
+sistency between NSHAP and NHIS estimates.
+Based on a review of approaches used in 40 articles pub-
+lished in epidemiological and clinical journals in 2000,
+Leffondré and associates (2002) used data from a case-
+control study of lung cancer to investigate how modeling
+smoking history impacts estimated effects of cigarette
+smoking. Variations included criteria used to distinguish be-
+tween current and ex-smokers, whether never smokers were
+included when modeling continuous smoking exposure, re-
+placing intensity and duration by a single measure (e.g.,
+pack-years), and simultaneous modeling of several time-
+related smoking variables. They found that estimated effects
+may depend substantially upon modeling strategies and
+make specific recommendations for use of smoking history
+variables in analysis. Although NSHAP differs in design
+and focus from the Leffondré study, these issues are still
+pertinent and worthy of consideration in working with
+smoking data from the NSHAP study.
+Salivary Cotinine
+Salivary cotinine provides an objective measure of tobacco
+exposure that can be used to detect and quantify second-hand
+exposure, validate self-reported nonsmoking status, and clas-
+sify smokers as occasional or regular. Cotinine is a primary
+metabolite of nicotine that has a half-life of 16­18 hr and can
+be detected in urine, saliva, or serum; it provides a reliable
+means of determining tobacco use or exposure over the prior
+two or three days (Iqbal et al., 2007; Montalto &Wells, 2007).
+A number of factors, including body mass index (BMI) and
+recent food consumption, are known to affect nicotine me-
+tabolism and cotinine concentrations (Hukkanen, Jacob, &
+Benowitz, 2005) and may contribute to what is often wide
+variation in cotinine at the same nominal exposure level--for
+example, among smokers who report smoking one pack of
+cigarettes per day.
+Measures
+In the NSHAP core data set, salivary cotinine concentra-
+tions are reported in nanograms per milliliter (ng/ml) for
+each of two duplicate assays performed on the individual
+saliva samples. Iqbal and associates (2007) provide infor-
+mation on details of the assay. The core data set also in-
+cludes gender-specific derived variables, described in the
+following, that classify respondents as nonsmokers, passive
+smokers, occasional smokers, and regular smokers, based
+on their mean cotinine concentrations. NSHAP recorded the
+time of cotinine measurement and queried respondents about
+the elapsed time since last food or drink consumption other
+than water, which enables incorporation of these potential
+modifying factors in analysis. In addition, a series of variables
+Significant
+Factorsb Total
+Women Men
+57­64 Years 65­74 Years 75­85 Years 57­64 Years 65­74 Years 75­85 Years
+Among past smokers
+<20 G 47.7 (43.7­51.7) 54.4 (45.9­62.7) 54.0 (44.9­62.7) 52.8 (41.8­63.6) 48.3 (42.4­54.2) 42.7 (36.5­49.1) 35.8 (29.8­42.4)
+20­39 23.3 (20.3­26.5) 24.8 (17.6­33.8) 20.8 (14.4­28.9) 14.9 (8.6­24.5) 23.1 (18.3­28.6) 23.6 (18.9­29.1) 29.6 (22.6­37.8)
+40 29.1 (25.8­32.5) 20.7 (14.4­29.0) 25.3 (18.1­34.2) 32.3 (23.7­42.2) 28.7 (23.0­35.0) 33.7 (27.1­41.0) 34.6 (26.4­43.7)
+Recent exposure: Salivary cotinine (ng/ml),d M (SE), first quartile, median, third quartile
+Among current
+smokere
+A, A (F) 346 (14), 186, 309, 474 375 (34), 179, 364, 573 345 (34), 232, 318, 454 232 (28), 152, 200, 295 353 (26), 194, 324, 470 361 (39), 202, 309, 460 264 (27), 142, 262, 348
+Among respondents
+who report no
+current tobacco usef,g
+None,
+significant
+5.6 (1.0), .02, .12, .36 4.6 (1.7), .01, .11, .30 4.5 (2.0), .02, .11, .33 3.3 (1.9), 0.0, .12, .32 6.2 (1.9), .04, .15, .44 10.2 (4.2), .02, .13, .38 3.4 (2.7), .01, .13, .40
+Notes: CI = confidence intervals; SE = standard error; NSHAP = National Social Life, Health, and Aging Project.
+a Estimates are weighted to account for differential probabilities of selection and differential nonresponse. All estimates (except median and quartiles) account for survey sampling design through incorporation of
+sampling strata and clusters.
+b Notation for significant factors (p  .05): G = gender; A = age group; A (F) = age group among females; and A (M) = age group among males.
+c Tested on logarithmic scale.
+d Significant difference (p  .05) between current and past smokers.
+e Tested on square root scale.
+f None of cigarettes, pipe, cigars, snuff, and chewing tobacco.
+g Tested as categorical variable due to extreme skewness and large mass at zero. Categories defined by quartiles of distribution for subpopulation reporting no tobacco use.
+Table 2. Smoking Behavior by Gender and Age Group in NSHAP Wave 1a (Continued)
+NSHAP SMOKING BEHAVIORS AND ALCOHOL USE i127
+mark the status of the saliva sample and assay results (Iqbal
+et al., 2007). In particular, flags for each of the duplicate as-
+says identify (a) values below the lower limit of sensitivity
+of the assay (0.05 ng/ml), which have been recoded as 0; (b)
+values that are a "lower bound" on the true value; and (c)
+values missing due to insufficient sample quantity or a tech-
+nical problem with the sample. The lower bound flag indi-
+cates that the cotinine concentration remained above the
+upper assay limit of 200 ng/ml after final dilution to 1:20.
+Values flagged as lower bounds have all been set to the fixed
+value, 200 ng/ml, and thus are not approximations of the
+true cotinine concentration. To place this in context, note
+that the maximum cotinine concentration in the NSHAP
+sample is over 2,400 ng/ml. Additionally, a variable that re-
+ports the status of the saliva sample identifies 20 samples
+that were not continuously frozen during transport. Calcula-
+tion of mean cotinine concentration from the duplicate as-
+says is left to individual users, who may choose different
+options for dealing with these special cases.
+Imputed smoking status is derived from respondents'
+mean cotinine concentrations, based on the Wells­Stewart
+method described in a 1992 Environmental Protection
+Agency (EPA) report on passive smoking (U.S. EPA, 1992,
+p. 453). Under this method, cutoffs that divide smoking cat-
+egories are calculated separately for men and women as
+percentages of the observed mean for self-reported smokers
+in the sample. Individuals with cotinine concentrations at or
+above 30% of this mean value are classified as regular
+smokers; those with concentrations between 10% and 30%
+of it are classified as occasional smokers. The EPA report
+does not address the boundary between passive exposure
+and nonexposed nonsmokers. Empirically determined lower
+bounds for passive smoking in the literature have ranged
+from 7 to 44 ng/ml and higher (e.g., Binnie et al., 2004;
+Etter, Vu Due, & Pernegen, 2000; Etzel, 1990), with 10 ng/
+ml generally recognized as sensitive and specific for delin-
+eating nonsmokers from current smokers (Ogden, Morgan,
+Heavner, Davis, & Steichen, 1997). In NSHAP, the value
+that best separates nonsmokers and passive smokers is
+15 ng/ml for both men and women, providing 91.4% sensi-
+tivity and 96.4% specificity for self-reported nonsmoking in
+men, and 95.9% sensitivity and 96.6% specificity in women.
+Cotinine values with the lower bound flag, aforementioned,
+were excluded from these calculations.
+Results
+Figure 2 displays the distribution of salivary cotinine con-
+centrations among women on the logarithmic scale. Vertical
+lines separate imputed smoking categories and mark the
+mean concentration for self-reported smokers. Notable fea-
+tures of the distribution include its clear delineation as a mix-
+ture of three distinct components. The single bar on the far
+left corresponds to cotinine concentrations below the level of
+sensitivity of the assay (19% of women). Moving to the right,
+the majority of women (65%) are seen to have detectable
+concentrations below the level of passive exposure, with values
+thatfollowaunimodal,mildlyright-skeweddistribution.These
+two components comprise nonsmokers with, at most, mini-
+mal passive exposure to tobacco. The third component cor-
+responds to the continuum of exposure from passive through
+occasional and regular smoking (16% of women) and exhibits
+15 ng 34 ng
+10% M
+103 ng
+30% M
+344 ng
+M
+Nonsmoker Passive
+Smoker
+Occasional
+Smoker
+Regular
+Smoker
+.05
+.0
+.1
+.15
+.2
+Fraction
+-4 -2 0 2 4 6 8
+log(cotinine)
+M = mean cotinine among females who report current smoking.
+Bar on left corresponds to cotinine below level of detection.
+Figure 2. Distribution of salivary cotinine and imputed smoking status in women.
+DRUM ET AL.
+i128
+a unimodal distribution, moderately skewed to the left. The
+distribution for men is similar to that of women.
+Table 2 presents the main descriptive results for cotinine,
+first in terms of imputed smoking status and then as a measure
+of the magnitude of recent exposure among self-reported cur-
+rent smokers. Cotinine concentrations indicate regular smok-
+ing in 17.7% and occasional smoking in 1.8% of respondents,
+whereas concentrations consistent with passive exposure
+were observed in fewer than 1%. Age and gender trends were
+analogous to those for self-reported smoking status, although
+the age trend among women did not reach statistical signifi-
+cance (p = .11). Moreover, cotinine classification was consis-
+tentwithself-reportedsmokingstatusanduseofothertobacco
+products for the vast majority of respondents. Of particular
+interest, cotinine concentrations were below levels indicative
+of smoking, occasional or regular, for 97.9% (95% CI 97.2%­
+98.4%) of respondents who reported no current cigarette or
+other tobacco use. Breaking this down further, self-report of
+no tobacco use was validated for 99.8% (99.0%­99.9%) of
+never smokers and 96.2% (94.8%­97.2%) of past smokers.
+Among current smokers, mean cotinine concentration was
+346 ng/ml (median 309 ng/ml) overall and decreased with age
+in both men and women. For comparison, the mean concen-
+tration among respondents reporting no tobacco use was 5.6
+ng/ml, and the 75th percentile of the distribution was less than
+0.4 ng/ml across age groups for both men and women.
+Figure 3 illustrates several features of the relationship
+between cotinine and smoking behavior. Salivary cotinine
+increased significantly with both current smoking intensity
+(cigarettes per day) and cumulative lifetime exposure
+(pack-years), although cotinine concentrations exhibited
+considerable variation at any given level of either variable
+(cigarettes per day: adjusted R2 =.18, pack-years: adjusted
+R2 =.16). In contrast, pack-years was a very strong predic-
+tor of current smoking intensity, explaining over 90% of the
+variation in number of cigarettes per day (R2 =.93), thus
+Regular Smoker
+Occasional Smoker
+0
+100
+400
+900
+1600
+Cotinine (ng/ml)
+0 10 20 40 60
+Cotinine versus Cigarettes per Day
+Regular Smoker
+Occasional Smoker
+0
+100
+400
+900
+1600
+Cotinine (ng/ml)
+0 10 20 40 80 160
+Cotinine versus Pack-Years
+0
+10
+20
+40
+60
+Cigarettes per Day
+0 10 20 40 80 160
+Cigarettes per Day versus Pack-Years
+Fitted lines from regression of square root transformed variables.
+Figure 3. Salivary cotinine, smoking intensity, and cumulative exposure among current smokers.
+NSHAP SMOKING BEHAVIORS AND ALCOHOL USE i129
+suggesting a mechanism for the significant association be-
+tween short-term and cumulative lifetime exposure.
+Although the mixture distribution for cotinine is most
+evident on the logarithmic scale, the square root transfor-
+mation yields better symmetry within each smoking group
+(albeit with multiple high outliers among nonsmokers) and
+is more suitable for analysis.
+Explanation of Missing Data
+Cotinine values are provided for 2,260 (75.7%) respondents.
+Missing data resulted primarily from failure to obtain a saliva
+specimen (respondent refused: 9.2%, respondent tried but was
+unable to do: 2.2%) or insufficient sample for assay (11.4%).
+Cotinine was the last of five assays conducted on each salivary
+specimen, and adequacy rates declined with each successive
+assay (Gavrilova et al., this issue); overall, 86.9% of saliva
+specimens processed for analysis were sufficient for cotinine
+assay. Values were missing for an additional 1.4% of respon-
+dents due to equipment problems during saliva collection (n =
+7), loss of specimens in transit (n = 25, 1.0%), inability to iden-
+tify the sample (n = 6), and a technical problem with the sam-
+ple (n = 1). Cooperation rates during saliva collection did not
+differ significantly by gender, age group, or smoking status;
+cooperation is discussed in detail by Gavrilova and associates
+(this issue).Among respondents who were willing to provide a
+sample, women and those in the oldest age group were most
+likely to be unable to do so. Likewise, a larger proportion of
+processed samples were insufficient for assay among women
+(17.9% vs. 8.1%, p < .0001). None of these sources of miss-
+ingness differed significantly by smoking status.
+It should also be noted that among the values of cotinine
+obtained, 16.8% were below the limit of sensitivity of the
+assay for both duplicates and have been assigned the value
+of 0. These nondetectable concentrations were more com-
+mon in women and with increasing age. The gender differ-
+ence remained after controlling for smoking status.
+Consistent with the nature of the measurement, nondetect-
+able concentrations occurred almost entirely among self-
+reported nonsmokers (never or past).
+Discussion: Cotinine and Self-Reported Smoking Behavior
+Self-reported nonsmoking was validated by cotinine levels
+for the vast majority of past and never smokers, taking into
+account use of other tobacco products. This high level of
+agreement speaks not only to the validity of self-reported
+smoking status among NSHAP respondents but also to the
+success of the EPA-recommended method for deriving cut-
+points from cotinine concentrations to determine smoking, or
+exposure, categories. NSHAP provides these gender-specific
+cotinine-based classification variables in its core data set.
+Molander, Hansson, and Lunell (2001) found that older adults,
+aged 65­76 years, had significantly decreased clearance of
+cotinine compared with adults aged 22­43 years, but the dif-
+ference was not clinically important. When investigating coti-
+nine concentrations, factors such as body habitus and timing
+of the most recent meal should be considered as potential
+modifiers. NSHAP reports BMI, which can be used for this
+purpose, as well as elapsed time since last food or beverage.
+It is striking that cotinine concentrations, which measure
+tobacco exposure within the past two or three days, exhibit a
+significant positive association with pack-years, a measure of
+cumulative lifetime exposure--apparently due to a strong as-
+sociation between lifetime exposure and current smoking in-
+tensity. In contrast, less variation in cotinine is explained by
+current smoking intensity than might be expected. Several as-
+pects of smoking behavior, in addition to factors that affect
+nicotine metabolism and cotinine clearance, may account for
+this unexplained variation. The manner in which a person
+smokes, or smoking topography (e.g., number and frequency
+of puffs, portion of cigarette smoked, depth of inhalation), af-
+fects the amount of nicotine absorbed (Strasser, Pickworth,
+Patterson, & Lerman, 2004), so that persons who smoke the
+same number of cigarettes per day may have very different
+cotinine levels. In addition, patterns of smoking (e.g., continu-
+ously vs. at fixed periods during the day) could lead to differ-
+ences in the elapsed time since the last cigarette was smoked at
+the time of cotinine measurement (Campuzano et al., 2004).
+Conclusions
+NSHAP successfully acquired a range of measures of
+smoking behaviors and alcohol use. These variables will serve
+as important modifying or explanatory factors when examin-
+ing key questions concerning social relationships, health, and
+sexuality. The measures are well established and have been
+used extensively in medical, social science, and other fields of
+research. The data are of high quality, with response rates that
+generally meet, or exceed, those of other comparable studies.
+Prevalences for selected measures were compared with those
+from other large national surveys and found to be similar.
+Funding
+The NSHAP is supported by the National Institutes of Health--the Na-
+tional Institute on Aging, the Office of Women's Health Research, the Of-
+fice of AIDS Research, and the Office of Behavioral and Social Science
+Research (5R01AG021487).
+Correspondence
+Address correspondence to Melinda L. Drum, PhD, Department of
+Health Studies, The University of Chicago, 5841 South Maryland Avenue,
+MC 2007, Chicago, IL 60637. Email: mdrum@uchicago.edu
+References
+Beullens, J., & Aertgeerts, B. (2004). Screening for alcohol abuse and de-
+pendence in older people using DSM criteria: A review. Aging &
+Mental Health, 8, 76­82.
+Binder, D. A. (1983). On the variances of asymptotically normal estimators
+from complex surveys. International Statistical Review, 51, 279­292.
+Binnie, V., McHugh, S., Macpherson, L., Borland, B., Moir, K., & Malik,
+K. (2004).The validation of self-reported smoking status by analysing
+cotinine levels in stimulated and unstimulated saliva, serum and
+urine. Oral Diseases, 10, 282­293.
+DRUM ET AL.
+i130
+Bradley, K. A., Kivlahan, D. R., Bush, K. R., McDonell, M. B., & Fihn, S.
+D. (2001). Variations on the CAGE alcohol screening questionnaire:
+Strengths and limitations in VA general medical patients. Alcohol-
+ism: Clinical and Experimental Research, 25, 1472­1478.
+Campuzano, J. C., Hernandez-Avila, M., Jaakkola, M. S., Ponce, E. L.,
+Morales, P. K., Bautista, P., Benowitz, N. L., Ceraso, M., Blackford,A., &
+Samet, J. M. (2004). Determinants of salivary cotinine levels among cur-
+rent smokers in Mexico. Nicotine & Tobacco Research, 6, 997­1008.
+Centers for Disease Control and Prevention. (2005). Cigarette smoking
+among adults--United States, 2004. MMWR: Morbidity and Mortal-
+ity Weekly Report, 54, 1121­1124.
+Christakis, N. A., & Fowler, J. H. (2008). The collective dynamics of
+smoking in a large social network. New England Journal of Medi-
+cine, 358, 2249­2258.
+Cruickshanks, K. J., Klein, R., Klein, B. E. K., Wiley, T. L., Nondahl, D.
+M., & Tweed, T. S. (1998). Cigarette smoking and hearing loss: The
+epidemiology of hearing loss study. Journal of the American Medical
+Association, 279, 1715­1719.
+Dawson, D. A. (2003). Methodological issues in measuring alcohol use.
+Alcohol Research and Health, 27, 18­29.
+Etter, J.,Vu Due,T., & Pernegen,T.V. (2000). Saliva cotinine levels in smokers
+and non-smokers. American Journal of Epidemiology, 151, 251­258.
+Etzel, R. A. (1990). A review of the use of salivary cotinine as a marker of
+tobacco smoke exposure. Preventive Medicine, 19, 190­197.
+Ewing, J. A. (1984). Detecting alcoholism: The CAGE questionnaire.
+Journal of the American Medical Association, 252, 1905­1907.
+Fiellin, D. A., Reid, M. C., & O'Connor, P. G. (2000). Screening for alco-
+hol problems in primary care. A systematic review. Archives of Inter-
+nal Medicine, 160, 1977­1989.
+Friedmann, P. D., Jin, L., Karrison, T., Nerney, M., Hayley, D. C., Mulliken,
+R., Walter, J., Miller, A., & Chin, M. H. (1999). The effect of alcohol
+abuse on the health status of older adults seen in the emergency depart-
+ment. American Journal of Drug and Alcohol Abuse, 25, 529­542.
+Gavrilova, N., & Lindau, S.T. (2009) "Salivary Sex Hormone Measurement
+in a National, Population-Based Study of Older Adults" Journal of
+Gerontology: Social Sciences.
+Grzywacz, J. G., & Marks, N. F. (2000). Family, work, work-family spill-
+over, and problem drinking during midlife. Journal of Marriage and
+the Family, 62, 336­348.
+Hukkanen, J., Jacob, P., & Benowitz, N. L. (2005). Metabolism and dispo-
+sition kinetics of nicotine. Pharmacological Reviews, 57, 79­115.
+Iqbal, S. S., Mendoza, K., Curran, M. J., & Lindau, S. T. (2007). Cotinine
+measurement in Wave 1 of the Social Life Health & Aging Project.
+The National Social Life & Aging Project. Chocago: Chicago Core
+on Biomarkers in Population-Based Aging Research. Available online
+at http://biomarkers.uchicago.edu/pdfs/TR-Continine.pdf
+Lang, I., Guralnik, J., Wallace, R. B., & Melzer, D. (2007). What level of
+alcohol consumption is hazardous for older people? Functioning and
+mortality in U.S. and English national cohorts. Journal of American
+Geriatric Society, 55, 49­57.
+Leffondré, K., Abrahamowicz, M., Siemiatycki, J., & Rachet, B. (2002).
+Modeling smoking history: A comparison of different approaches.
+American Journal of Epidemiology, 156, 813­823.
+Mayfield, D., Mcleod, G., & Hall, P. (1974). The CAGE questionnaire:
+Validation of a new alcoholism screening instrument. American
+Journal of Psychiatry, 131, 1121­1123.
+McCullagh, P., & Nelder, J. A. (1989). Generalized linear models (2nd ed.)
+London: Chapman and Hall.
+Molander, L., Hansson, A., & Lunell, E. (2001). Pharmokinetics of nico-
+tine in healthy elderly people. Clinical Pharmacology and Therapeu-
+tics, 69, 57­65.
+Montalto, N. J., & Wells, W. O. (2007). Validation of self-reported smoking
+status using saliva cotinine: A rapid semiquantitative dipstick method.
+Cancer Epidemiology Biomarkers & Prevention, 16, 1858­1862.
+National Cancer Institute. (2007). Dictionary of cancer terms. Retrieved
+October 18, 2007 from http://www.cancer.gov/dictionary
+National Center for Health Statistics. (2002). 2002 National Health Inter-
+view Survey (NHIS) public use data release: NHIS survey description.
+Retrieved November 20, 2007 from ftp://ftp.cdc.gov/pub/Health_
+Statistics/NCHS/Dataset_Documentation/NHIS/2000/srvydesc.pdf.
+National Institute on Alcohol Abuse and Alcoholism. (1995). The physi-
+cian's guide to helping patients with alcohol problems (NIH Publica-
+tion 95-3769). Bethesda, MD: Author. U.S. Department of Health.
+Ogden, M. W., Morgan, W. T., Heavner, D. L., Davis, R. A., & Steichen,
+T. J. (1997). National incidence of smoking and misclassification
+among the U.S. married female population. Journal of Clinical Epi-
+demiology, 50, 253­263.
+O'Muircheartaigh, C., Eckman, S., & Smith, S. (2009). Statistical Design
+and Estimation for the National Social Life, Health and Aging Proj-
+ect. Journal of Gerontology: Social Sciences.
+Pokorny, A. D., Miller, B. A., & Kaplan, H. B. (1972). The brief MAST: A
+shortened version of the Michigan Alcoholism Screening Test. Amer-
+ican Journal of Psychiatry, 129, 342­345.
+Rao, J. N. K., & Scott, A. J. (1987). On simple adjustments to chi-square
+tests with sample survey data. Annals of Statistics, 15, 385­397.
+Room, R. (1990). Measuring alcohol consumption in the United States:
+Methods and rationales. In L. T. Kozlowski, H. M. Annis, H. D.
+Cappell, F. B. Glaser, M. S. Goodstadt, Y. Israel, H. Kalant, E. M.
+Sellers, & E. R. Vingilis (Eds.), Research advances in alcohol and
+drug problems (Vol. 10, pp. 39­80). New York: Plenum Press.
+Seltzer, M. L. (1971). The Michigan Alcoholism Screening Test: The quest
+for a new diagnostic instrument. American Journal of Psychiatry,
+127, 1653­1658.
+Sobell, L. C., & Sobell, M. B. (2003). Alcohol consumption measures. In
+J. P. Allen & V. B. Wilson (Eds.), Assessing alcohol problems: A
+guide for clinicians and researchers (2nd ed., pp. 75­99). Bethesda,
+MD: National Institute on Alcohol Abuse and Alcoholism.
+Smith, S., Jasczak, A., Grabar, J., Lundeen, K., Leitsch, S., Wargo, E., &
+O'Murcheartaigh, C. (2009). Instrument Development, Study Design
+Implementation, and Survey Conduct for the National Social Life,
+Health and Aging Project. Journal of Gerontology: Social Sciences.
+StataCorp. (2007). Stata Statistical Software: Release 10. College Station,
+TX: StataCorp LP.
+Strasser, A. A., Pickworth, W. R., Patterson, F., & Lerman, C. (2004).
+Smoking topography predicts abstinence following treatment with
+nicotine replacement therapy. Cancer Epidemiology, Biomarkers &
+Prevention, 13, 1800­1804.
+Straus, S. E., McAlister, F. A., Sackett, D. L., & Deeks, J. J. (2002). Ac-
+curacy of history, wheezing and forced expiratory time in the diagno-
+sis of chronic obstructive pulmonary disease. Journal of General
+Internal Medicine, 17, 684­688.
+Sturmer, T., Glynn, R. J., Lee, I.-M., Christen, W. G., & Hennekens, C. H.
+(2000). Lifetime cigarette smoking and colorectal cancer incidence
+in the Physicians Health Study I. Journal of the National Cancer In-
+stitute, 92, 1178­1181.
+Taylor, J. O., Wallace, R. B., Ostfeld, A. M., & Blazer, D. G. (1998). Estab-
+lished Populations for Epidemiologic Studies of the Elderly, 1981­
+1993: [East Boston, Massachessets, Iowa and Washington Counties,
+Iowa, New Haven, Connecticut, and North Central North Carolina]
+ICPSR09915-v3. Bethesda, MD: National Institute on Aging [pro-
+ducer]; 1997. Ann Arbor, MI: Inter-university Consortium for Politi-
+cal and Social Research [distributor].
+U.S. Environmental Protection Agency. (1992). Respiratory health effects
+of passive smoking: Lung cancer and other disorders (EPA publica-
+tion no. EPA/600/6-90/006F). Washington, DC: Office of Research
+and Development, Author. U.S. Environmental Protection Agency.
+Williams, R. (2006). Generalized ordered logit/partial proportional odds
+models for ordinal dependent variables. Stata Journal, 6, 58­82.
+Received 8/1/08
+Accepted 10/06/08
+Decision Editor: Robert B. Wallace, MD, MSc
+

@@ -1,0 +1,477 @@
+Folate­vitamin B-12 interaction in relation to cognitive impairment,
+anemia, and biochemical indicators of vitamin B-12 deficiency1­5
+Jacob Selhub, Martha Savaria Morris, Paul F Jacques, and Irwin H Rosenberg
+ABSTRACT
+Previous reports on pernicious anemia treatment suggested that high
+folic acid intake adversely influences the natural history of vitamin
+B-12 deficiency, which affects many elderly individuals. However,
+experimental investigation of this hypothesis is unethical, and the
+few existing observational data are inconclusive. With the use of data
+from the 1999­2002 National Health and Nutrition Examination Sur-
+vey (NHANES), we evaluated the interaction between high serum
+folate and low vitamin B-12 status [ie, plasma vitamin B-12 ,
+148 pmol/L or methylmalonic acid (MMA) . 210 nmol/L] with re-
+spect to anemia and cognitive impairment. With subjects having both
+plasma folate 59 nmol/L and normal vitamin B-12 status as the
+referent category, odds ratios for the prevalence of anemia compared
+with normal hemoglobin concentration and impaired compared with
+unimpaired cognitive function were 2.1 (95% CI: 1.1, 3.7) and 1.7
+(95% CI: 1.01, 2.9), respectively, for those with low vitamin B-12
+status but normal serum folate and 4.9 (95% CI: 2.3, 10.6) and
+5.0 (95% CI: 2.7, 9.5), respectively, for those with low vitamin
+B-12 status and plasma folate .59 nmol/L. Among subjects
+with low vitamin B-12 status, mean circulating vitamin B-12 was
+228 pmol/L for the normal-folate subgroup and 354 pmol/L for
+the high-folate subgroup. We subsequently showed increases in cir-
+culating homocysteine and MMA concentrations with increasing se-
+rum folate among NHANES participants with serum vitamin B-12 ,
+148 pmol/L, whereas the opposite trends occurred among subjects
+with serum vitamin B-12 ! 148 pmol/L. These interactions, which
+were not seen in NHANES III before fortification, imply that, in
+vitamin B-12 deficiency, high folate status is associated with im-
+paired activity of the 2 vitamin B-12­dependent enzymes, methionine
+synthase and MMA­coenzyme A mutase. Am J Clin Nutr 2009;
+89(suppl):702S­6S.
+INTRODUCTION
+Folate and vitamin B-12 interrelation
+The vitamins folic acid and B-12 serve as coenzymes in one-
+carbon metabolism. Specifically, a carbon unit from serine or
+glycine reacts with tetrahydrofolate (THF) to form methylene-
+THF. This may be used for the synthesis of thymidylate, a DNA
+nucleotide, or for purine synthesis. Folate deficiency-related
+macrocytic anemia is due to failure of precursor blood cells to
+divide because of a lack of DNA. The adverse effect of vitamin
+B-12 deficiency on DNA synthesis is explained by the ``meth-
+ylfolate trap hypothesis'' (1). Vitamin B-12 acts as a cofactor for
+methionine synthase (MS), which catalyzes the remethylation of
+homocysteine to methionine. The methyl group is donated by
+methyl-THF, which is derived by the irreversible reduction of
+methylene-THF to methyl-THF by methylene-THF reductase.
+If MS is inactivated by a lack of vitamin B-12, the result is
+a functional folate deficiency (ie, a lack of the nonmethylated
+folates needed for serine-glycine interconversion and the syn-
+thesis of purines and pyrimidines) as folate becomes in-
+creasingly ``trapped'' as methyl-THF.
+Hyperhomocysteinemia is another consequence of deficiencies
+of either folate or vitamin B-12 (2). This effect is due, in part, to
+the requirement by MS for both folate and vitamin B-12. Fur-
+thermore, a considerable proportion of the methionine that
+results from homocysteine remethylation is converted to
+S-adenosylmethionine, which regulates the one-carbon pathway
+by inhibiting methylene-THF reductase and activating the
+homocysteine-disposing enzyme, cystathionine-b synthase.
+S-adenosylmethionine also serves as the sole methyl donor for
+the central nervous system, which may explain associations
+between folate deficiency and vitamin B-12 deficiency and
+cognitive impairment and mental illness (3, 4). One of the most
+devastating consequences of vitamin B-12 deficiency is a classic
+neuropathy called combined degeneration of the spinal cord (5).
+The mechanism by which vitamin B-12 deficiency leads to this
+fatal demyelinating illness is unknown, but its specific link to
+vitamin B-12 deficiency, but not folate deficiency, may provide
+a clue to the causal pathway.
+Another unique consequence of vitamin B-12 deficiency
+relates to its role in the isomerization of L-methylmalonyl­
+1 From the Jean Mayer US Department of Agriculture Human Nutrition
+Research Center on Aging at Tufts University, Boston, MA.
+2 Presented at the symposium ``Is It Time for Mandatory Vitamin B-12
+Fortification in Flour?'' held at Experimental Biology 2008, San Diego, CA,
+8 April 2008.
+3 Any opinions, findings, conclusions, or recommendations expressed in
+this publication are those of the authors and do not necessarily reflect the
+view of the US Department of Agriculture.
+4 Supported by the USDA (agreements 1950-51520-008-00D and 58-1950-
+9-001 and grant 2006-35200-17198) and by the NIH (R03 AG021536-01).
+5 Reprints not available. Address correspondence to J Selhub, Jean Mayer
+USDA Human Nutrition Research Center on Aging, Tufts University, 711
+Washington Street, 8th Floor, Boston, MA 02111. E-mail jacob.selhub@
+tufts.edu.
+First published online January 13, 2009; doi: 10.3945/ajcn.2008.26947C.
+702S Am J Clin Nutr 2009;89(suppl):702S­6S. Printed in USA. Ó 2009 American Society for Nutrition
+coenzyme A (CoA) to succinyl-CoA--a reaction that, unlike the
+remethylation of homocysteine, occurs in the mitochondria and
+does not involve folate. Thus, vitamin B-12 deficiency specifi-
+cally results in increased methylmalonic acid (MMA) concen-
+trations in both plasma and urine.
+Pernicious anemia and excessive intake of folic acid
+After studying malnourished pregnant women in India in the
+late 1920s, Lucy Wills described a macrocytic anemia that shared
+some features with the blood abnormalities of elderly Europeans
+with pernicious anemia (6). For example, the cytologic proper-
+ties of the 2 anemias were identical, and both types responded
+well to crude liver extract. However, only the tropical illness
+responded to yeast extract. Furthermore, although purified liver
+extract had proved effective in the treatment of pernicious
+anemia, it did not cure the tropical form (6). This difference in
+response between the 2 anemias led to the suggestion that the
+``Wills factor'' in the yeast extract was distinct from the ``ex-
+trinsic factor'' in the purified liver extract. This hypothesis was
+subsequently verified. However, the identification of vitamin
+B-12 as the anti­pernicious anemia factor in liver (7) followed
+the isolation of folic acid from yeast (8) by several years, during
+which time folic acid was administered in large doses to patients
+with pernicious anemia (9). Because the inappropriateness of
+this treatment quickly became apparent, reports of cases thus
+treated in the late 1940s and early 1950s comprise the entire
+body of literature on the effect of folic acid administration on
+persons deficient for vitamin B-12 (10­12).
+Reviews of the historic case reports allude to rapid neurologic
+deterioration after improvement of anemia (10, 11). Conse-
+quently, the idea has developed that excessive intake of folic
+acid can obscure or mask vitamin B-12 deficiency and poten-
+tially delay its diagnosis until neurologic consequences become
+irreversible (13). Although some have questioned the connection
+between masking and either the diagnosis of vitamin B-12 de-
+ficiency or neurologic damage (14­18), Chodos and Ross (10)
+described the neurologic deterioration that occurred after folic
+acid administration as ``explosive'' and suggested that folic acid
+might actually exert a detrimental effect on the central nervous
+system. Furthermore, Israels and Wilkinson (11) wrote that
+``some patients who had not previously shown signs of nervous
+system disturbances developed such signs, often very acutely,
+after being treated with folic acid for variable periods'' (p 1072).
+Food folic acid fortification and the debate on folic acid
+safety
+The move by the United States and other governments to
+fortify staple food products with folic acid for the prevention of
+neural tube defects rekindled the debate over the safety of folic
+acid for the elderly, who are at high risk of vitamin B-12 de-
+ficiency. On the basis of the historic case reports, as well as the
+known metabolic interaction between folate and vitamin B-12,
+and animal data showing a link between folate supplementation
+and rapid development of neuropathology in animal deficient for
+vitamin B-12, the Food and Nutrition Board of the Institute of
+Medicine called the evidence for precipitation or exacerbation
+of the neurologic damage of vitamin B-12 deficiency by excess
+supplemental folate intake ``suggestive'' and selected that end-
+point, which was associated with intakes ! 5 mg/d, as the critical
+endpoint for the development of a tolerable upper intake for folate
+(13). Division of 5 mg/d by an uncertainty factor of 5 resulted in
+an upper intake of 1 mg/d. The high degree of uncertainty led
+some to question the safety of fortification (19, 20) and inspired
+others to criticize the upper intake as too conservative (21, 22).
+Particularly in light of continued demands for a higher level of
+fortification (23, 24), clearly defining the benefits and risks of
+high folic acid intake assumes vital importance. Writing about
+this challenge, Moore (25) observed that the current fortification
+program provides the perfect opportunity for epidemiologic
+study of the unanswered questions, including those related to the
+interaction between folate and vitamin B-12.
+Folate status and intake in the era of folic acid fortification
+Mandatory folic acid fortification of enriched cereal grain
+products sold in the United States officially took effect in January
+1998 (26). Not surprisingly, the first report on the program's
+effect showed that fortification resulted in a marked increase in
+folate status (27, 28). Specifically, mean plasma folate increased
+from 4.6 ng/mL (11 nmol/L) before fortification to 10.0 ng/mL
+(23 nmol/L) after fortification (P , 0.001). Furthermore, the
+prevalence of folate deficiency decreased from 22.0% to 1.7%.
+Although the mandated fortification of 140 lg folic acid/100 g
+flour was estimated to increase folic acid intake by '100 lg/d (26),
+our estimates (29) and those of others (30) suggest that the ac-
+tual increase in intake from fortification was about twice that
+high. Furthermore, because of the combined intake of fortified
+cereal grain products, vitamin supplements, and voluntarily
+fortified breakfast cereals, a substantial proportion of Framing-
+ham Offspring Cohort members consumed .1 mg folic acid/d.
+Indeed, 11% of supplement-using cohort members and '0.3%
+of nonusers exceeded the upper intake amount (29).
+To test the hypothesis that the high folate status achievable in
+the era of mandatory folic acid fortification affects the con-
+sequences of vitamin B-12 deficiency, either by a masking
+phenomenon or by exacerbating neurologic effects, we used data
+collected in recent versions of the National Health and Nutrition
+Examination Survey (NHANES) to evaluate the interaction be-
+tween high serum folate and low vitamin B-12 status in relation to
+several outcomes linked to vitamin B-12 deficiency; namely,
+anemia, macrocytosis, cognitive impairment, elevated homo-
+cysteine concentrations, and elevated MMA concentrations (31,
+32). We review and discuss the results of these studies here.
+METHODS
+We used data collected in the NHANES conducted during the
+postfortification years 1999­2002. Senior survey participants (ie,
+those aged !60 y), the only group whose cognitive function was
+assessed, numbered 3706. Of the 1684 subjects who met eligi-
+bility requirements, complete data for analyses pertaining to
+anemia were available for 1458 subjects, and complete data for
+analyses pertaining to cognitive function were available for 1302
+subjects. Demographic and health data were collected by in-
+terview, and cognitive function was assessed by using a version of
+the Digit Symbol-Substitution subtest of the Wechsler Adult
+Intelligence Scale III--a screening test designed to detect cog-
+nitive impairment in adults and children (33). Blood samples
+FOLATE­VITAMIN B-12 INTERACTION 703S
+were drawn and analyzed for biochemical markers, and a com-
+plete blood count was performed.
+We defined low vitamin B-12 status as serum vitamin B-12 ,
+148 pmol/L or serum MMA . 210 nmol/L [ie, above the pub-
+lished reference range for serum vitamin B-12­replete survey
+participants with normal serum creatinine concentrations (34)].
+We defined anemia according to criteria from the World Health
+Organization[ie,hemoglobin,12g/dLforwomenand,13g/dL
+for men (35)], and macrocytosis as a mean cell volume . 99 fL.
+Finally, we used distribution-based cutoffs to define high serum
+folate (ie, !59 nmol/L, the 80th percentile) and cognitive im-
+pairment (ie, Digit Symbol-Substitution subtest score , 34/133,
+the 20th percentile).
+RESULTS AND DISCUSSION
+Interaction between vitamin B-12 status and serum folate
+in relation to anemia and cognition in NHANES 1999­2002
+Data displayed in Table 1 summarize the interaction between
+serum folate and vitamin B-12 status in relation to anemia and
+cognitive impairment as seen in NHANES 1999­2002 (31) and
+address the potential role of homocysteine in the associations.
+The tabulated data show that having low vitamin B-12 status,
+regardless of serum folate, was associated with a significantly
+increased prevalence of both anemia and cognitive impairment.
+Furthermore, compared with having normal status for both vi-
+tamins, having high serum folate but normal vitamin B-12 status
+was associated with a reduced prevalence of anemia and a sig-
+nificantly reduced prevalence of cognitive impairment. The
+worst combination was low vitamin B-12 status and high serum
+folate. Specifically, anemia and cognitive impairment were ob-
+served '5 times as often in the group with that combination as
+in the group with normal vitamin B-12 status and normal serum
+folate. That the odds ratios were only modestly affected by
+controlling for homocysteine concentrations suggests that the
+hematologic and cognitive risks and benefits were not directly
+affected by homocysteine increases or decreases.
+These data represent important epidemiologic evidence of an
+adverse interaction between high folate status and low vitamin
+B-12 status. Consequently, they seem to support the idea that the
+neuropsychiatric consequences of vitamin B-12 deficiency are
+exacerbated by high folate status. We also noted with interest that,
+in the Nurses' Health Study, although multivitamin users in the
+highest plasma vitamin B-12 quartile category preformed some-
+what better on cognitive function tests than did subjects who did
+not use supplements and were in the lowest quartile category for
+plasma vitamin B-12 (mean difference in global cognitive
+score: 20.18; 95% CI: 2043, 0.07), multivitamin users who
+were, nevertheless, in the lowest vitamin B-12 quartile category
+performed worse than the comparison subjects (mean difference
+in global cognitive score: 0.19; 95% CI: 2043, 0.07) (21). Be-
+cause folic acid is a normal constituent of multivitamin pills,
+these findings may also reflect the adverse interaction between
+high folate status and low vitamin B-12 status in relation to
+cognition.
+Our observation of a higher prevalence of not only cognitive
+impairment but also anemia in association with high folate status
+among American seniors deficient for vitamin B-12 suggests that
+the interaction is a general biological phenomenon (ie, that it
+affects all health consequences of vitamin B-12 deficiency). This
+finding also seems to be supported by a report from Pune, India,
+of a higher prevalence of hyperglycemia (which was associated
+with maternal vitamin B-12 deficiency) among children born to
+mothers deficient for vitamin B-12 with high folate status than
+among children born to mothers deficient for vitamin B-12 with
+lower folate status (20).
+Interaction between circulating vitamin B-12 and folate
+concentrations in relation to circulating concentrations
+of the 2 indicators of vitamin B-12 function, homocysteine
+and MMA
+In this study of the general US population in the age of folic
+acid fortification (32), we found that homocysteine does not
+generally decrease with increasing folate status among people
+with low serum concentrations of vitamin B-12 (Table 2).
+Specifically, although geometric mean homocysteine and geo-
+metric mean MMA decreased significantly across increasing
+serum folate categories among survey participants with serum
+vitamin B-12 ! 148 pmol/L (P , 0.001), the opposite trends
+were observed for subjects with serum vitamin B-12 , 148
+pmol/L. Furthermore, geometric mean homocysteine for sub-
+jects with low serum vitamin B-12 and serum folate , 19.3
+TABLE 1
+Interaction between vitamin B-12 status and serum folate in relation to anemia and cognitive impairment among nonexcluded senior participants in the
+National Health and Nutrition Examination Survey (1999­2002) (31)
+Vitamin status
+Outcome B-121 Folate2
+No. of
+Subjects
+Percentage
+with outcome OR (95% CI) OR (95% CI) OR (95% CI)
+Anemia Normal Normal 913 3.5 1.0 1.0 1.0
+Normal High 198 2.5 0.5 (0.2, 1.8) 0.6 (0.2, 2.5) 0.7 (0.2, 2.5)
+Low Normal 297 6.9 1.6 (1.02, 2.6) 2.1 (1.1, 3.8) 1.9 (0.99, 3.7)
+Low High 49 15 5.1 (2.1, 8.0) 5.2 (2.5, 11.0) 5.0 (2.4, 10.6)
+Cognitive impairment Normal Normal 826 18 1.0 1.0 1.0
+Normal High 180 11 0.4 (0.2, 0.7) 0.4 (0.2, 0.9) 0.5 (0.2, 0.96)
+Low Normal 253 25 1.6 (0.99, 2.4) 1.7 (1.01, 2.9) 1.5 (0.9, 2.5)
+Low High 42 45 4.3 (2.3, 8.0) 5.1 (2.7, 9.5) 4.7 (2.5, 8.7)
+1 Low serum vitamin B-12 , 148 pmol/L or serum methylmalonic acid above reference range (ie, 60­210 nmol/L) for vitamin B-12­replete participants
+with normal serum creatinine.
+2 High serum folate . 59 nmol/L (80th percentile).
+704S SELHUB ET AL
+nmol/L was in the normal range and close to that of subjects in
+the same serum folate category with higher serum vitamin B-12.
+However, the mean for the group with low serum vitamin B-12
+and serum folate . 32.6 nmol/L was nearly 12 lmol/L, a com-
+monly used cutoff for hyperhomocystinemia, and serum MMA
+was extremely elevated.
+In vitamin B-12 deficiency, high homocysteine reflects im-
+paired MS activity, whereas high MMA indicates impaired
+methylmalonyl-CoA mutase activity. Consequently, our findings
+suggest that both pathways of vitamin B-12 metabolism are
+adversely affected by high serum folate despite the direct in-
+volvement of folate only in MS activity. Simultaneous impair-
+ment of both pathways is normally caused by insufficient intake
+of vitamin B-12 or by the disruption of early steps in vitamin
+B-12 processing (1, 23). The latter include intrinsic factor-
+mediated intestinal absorption, formation of the vitamin B-12­
+transcobalamin II complex in plasma, transport of the complex
+into peripheral tissue by a receptor-mediated endocytosis, in-
+corporation of the complex into lysosomes, dissociation of the
+complex and exit of vitamin B-12 as acquocob(III)alamin into
+the cytosol, and reduction to cob(II)alamin for subsequent dis-
+tribution to MS in the cytosol or to the mitochondria. The event
+that effects the simultaneous disruption of both pathways could
+also occur after the distribution of vitamin B-12 to the respective
+compartments in the course of rendering the vitamin available
+for interaction with the respective enzyme proteins or during
+catalysis.
+We found no adverse interactions between high serum folate
+and low vitamin B-12 status among participants of the NHANES
+III, which took place in 1991­1994, before mandatory food folate
+fortification took effect (19). Although most of the seniors with
+serum folate concentrations . 59 nmol/L who participated in
+the 1999­2002 NHANES achieved their high folate status
+through the combined intake of enriched cereal grain products,
+fortified breakfast cereals, and multivitamins, the influence of
+fortification is indicated by the 40% prevalence of serum
+folate . 59 nmol/L among supplement-using seniors who par-
+ticipated in the 1999­2002 NHANES, compared with a 10%
+prevalence among comparable participants in the NHANES III.
+Note that most subjects with high folate status consumed sup-
+plemental vitamin B-12 and absorbed it. Indeed, mean vitamin
+B-12 concentration (95% CI) for senior 1999­2002 NHANES
+participants with low vitamin B-12 status and high serum folate
+was 354 pmol/L (95% CI: 309, 406 pmol/L) compared with 242
+pmol/L (95% CI: 228, 257 pmol/L) for the subgroup with low
+vitamin B-12 status and normal serum folate. Although un-
+published results of our analyses of Framingham Study data
+showed that 80% of the folate ingested by people with circu-
+lating folate concentrations . 50 nmol/L was in the form of
+folic acid, it remains to be determined whether the interaction we
+observed is a unique consequence of circulating unmetabolized
+folic acid or merely the result of a high total (ie, both reduced and
+oxidized) mass of body folate (Other articles in this supplement to
+the Journal include references 36­39).
+The authors' responsibilities were as follows--JS: originated the idea and
+reviewed the manuscript; MSM: performed statistical analyses and prepared
+the manuscript; PFJ: reviewed statistical results and contributed to the man-
+uscript; and IHR: discussed ideas and reviewed the manuscript. None of the
+authors had a conflict of interest.
+REFERENCES
+1. Das KC, Herbert V. Vitamin B12­folate interrelations. Clin Haematol
+1976;5:697­745.
+2. Selhub J, Jacques PF, Wilson PW, Rush D, Rosenberg IH. Vitamin status
+and intake as primary determinants of homocysteinemia in an elderly
+population. JAMA 1993;270:2693­8.
+3. Rosenberg IH, Miller JW. Nutritional factors in physical and cognitive
+functions of elderly people. Am J Clin Nutr 1992;55(suppl):1237S­43S.
+4. Hutto BR. Folate and cobalamin in psychiatric illness. Compr Psychiatry
+1997;38:305­14.
+5. Markle HV. Cobalamin. Crit Rev Clin Lab Sci 1996;33:247­356.
+6. Wills L, Clutterbuck PW, Evans BD. A new factor in the production and
+cure of macrocytic anaemias and its relation to other haemopoietic
+principles curative in pernicious anaemia. Biochem J 1937;31:2136­47.
+7. Smith EL. Purification of anti-pernicious anaemia factors from liver.
+Nature 1948;161:638­9.
+8. Pfiffner JJ, Calkins DG, O'Dell BL, et al. Isolation of antianemia factor
+(vitamin Bc conjugate) in crystalline form from yeast. Science 1945;
+102:228­30.
+9. Lindenbaum J, Healton EB, Savage DG, et al. Neuropsychiatric dis-
+orders caused by cobalamin deficiency in the absence of anemia or
+macrocytosis. N Engl J Med 1988;318:1720­8.
+10. Chodos RB, Ross JF. The effects of combined folic acid and liver extract
+therapy. Blood 1951;6:1213­33.
+11. Israels MC, Wilkinson JF. Risk of neurological complications in per-
+nicious anaemia treated with folic acid. BMJ 1949;2:1072.
+12. Reynolds E. Vitamin B12, folic acid, and the nervous system. Lancet
+Neurol 2006;5:949­60.
+13. Food and Nutrition Board, Institute of Medicine. Dietary reference in-
+takes for thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,
+TABLE 2
+Least-square geometric mean (95% CI) homocysteine and methylmalonic acid concentrations by serum vitamin B-12 and
+serum folate category, National Health and Nutrition Examination Survey 1999­20021
+Homocysteine Methylmalonic acid
+Serum vitamin B-12 Serum vitamin B-12
+Serum folate
+(nmol/L)2 ,148 pmol/L !148 pmol/L P ,148 pmol/L !148 pmol/L P
+16 9.9 (8.8, 11.1) 9.2 (9.0, 9.4) 0.222 174 (149, 204) 138 (133, 145) 0.005
+23 10.8 (9.4, 12.4) 8.0 (7.8, 8.2) ,0.001 265 (218, 322) 137 (132, 142) ,0.001
+30 10.5 (9.1, 12. 0) 7.5 (7.4, 7.7) 0.001 265 (194, 363) 132 (127, 137) ,0.001
+44 11.8 (10.1, 13.8) 7.1 (7.0, 7.2) ,0.001 314 (234, 421) 128 (125, 130) ,0.001
+1 Values were generated with the use of SUDAAN PROC REGRESS (Research Triangle Institute, Research Triangle
+Park, NC) after controlling for age, race-ethnicity, sex, cigarette smoking, alcohol intake, BMI, self-reported diabetes status,
+and serum concentrations of creatinine and alanine aminotransferase.
+2 Values in this column are category medians.
+FOLATE­VITAMIN B-12 INTERACTION 705S
+pantothenic acid, biotin and choline. Washington, DC: National Acad-
+emy Press, 1998.
+14. Dickinson CJ. Does folic acid harm people with vitamin B12 deficiency?
+QJM 1995;88:357­64.
+15. Dickinson CJ. No reliable evidence that folate is harmful in B-12 de-
+ficiency. BMJ 1995;311:949 (letter).
+16. Herbert V. Vitamin B-12 and folic acid supplementation. Am J Clin Nutr
+1997;66:1479­80 (letter).
+17. Wald NJ, Law MR, Morris JK, Wald DS. Quantifying the effect of folic
+acid. Lancet 2001;358:2069­73.
+18. Oakley GP Jr. Let's increase folic acid fortification and include vitamin
+B-12. Am J Clin Nutr 1997;65:1889­90 (letter).
+19. Mills JL. Fortification of foods with folic acid­how much is enough?
+N Engl J Med 2000;342:1442­5.
+20. Wharton B, Booth I. Fortification of flour with folic acid. BMJ 2001;
+323:1198­9.
+21. Wald NJ, Law M, Jordan R. Folic acid food fortification to prevent
+neural tube defects. Lancet 1998;351:834 (letter; author reply 834­5).
+22. Schorah CJ. Folic acid food fortification to prevent neural tube defects.
+Lancet 1998;351:834 (letter; author reply 834­5).
+23. Brent RL, Oakley GP Jr. The Food and Drug Administration must re-
+quire the addition of more folic acid in ``enriched'' flour and other
+grains. Pediatrics 2005;116:753­5.
+24. Brent RL, Oakley GP Jr, Mattison DR. The unnecessary epidemic of
+folic acid-preventable spina bifida and anencephaly. Pediatrics 2000;
+106:825­7.
+25. Moore LL. Is the jury still out on folic acid and congenital anomalies?
+Epidemiology 2001;12:141­4.
+26. US Food and Drug Administration, HHS. Food standards: amendment of
+standards of identity for enriched grain products to require addition of
+folic acid (Final Rule­21 CFR Part 101). Fed Regist 1996;61:8781­97.
+27. Choumenkovitch SF, Jacques PF, Nadeau MR, Wilson PW, Rosenberg
+IH, Selhub J. Folic acid fortification increases red blood cell folate
+concentrations in the Framingham study. J Nutr 2001;131:3277­80.
+28. Jacques PF, Selhub J, Bostom AG, Wilson PW, Rosenberg IH. The effect
+of folic acid fortification on plasma folate and total homocysteine
+concentrations. N Engl J Med 1999;340:1449­54.
+29. Choumenkovitch SF, Selhub J, Wilson PW, Rader JI, Rosenberg IH,
+Jacques PF. Folic acid intake from fortification in United States exceeds
+predictions. J Nutr 2002;132:2792­8.
+30. Quinlivan EP, Gregory JF III. Effect of food fortification on folic acid
+intake in the United States. Am J Clin Nutr 2003;77:221­5.
+31. Morris MS, Jacques PF, Rosenberg I, Selhub J. Folate and vitamin B-12
+status in relation to anemia, macrocytosis, and cognitive impairment in
+older Americans in the age of folic acid fortification. Am J Clin Nutr
+2007;85:193­200.
+32. Selhub J, Morris MS, Jacques PF. In vitamin B12 deficiency, higher
+serum folate is associated with increased total homocysteine and
+methylmalonic acid concentrations. Proc Natl Acad Sci U S A 2007;
+104:19995­20000.
+33. Wechsler D. Wechsler Adult Intelligence Scale-III. San Antonio, TX:
+The Psychological Corporation, 1997.
+34. Pfeiffer CM, Caudill SP, Gunter EW, Osterloh J, Sampson EJ. Bio-
+chemical indicators of B vitamin status in the US population after folic
+acid fortification: results from the National Health and Nutrition Ex-
+amination Survey 1999­2000. Am J Clin Nutr 2005;82:442­50.
+35. WHO/UNICEF/UNU, ed. Iron deficiency anaemia assessment, pre-
+vention, and control. A guide for programme managers. Geneva, Swit-
+zerland: World Health Organization, 2001.
+36. Allen LH. How common is vitamin B-12 deficiency? Am J Clin Nutr
+2009;89(suppl):693S­6S.
+37. Thompson MD, Cole DEC, Ray JG. Vitamin B-12 and neural tube defects:
+the Canadian experience. Am J Clin Nutr 2009;89(suppl):697S­701S.
+38. Green R. Is it time for vitamin B-12 fortification? What are the ques-
+tions? Am J Clin Nutr 2009;89(suppl):712S­6S.
+39. Smith AD, Refsum H. Vitamin B-12 and cognition in the elderly. Am J
+Clin Nutr 2009;89(suppl):707S­11S.
+706S SELHUB ET AL
+

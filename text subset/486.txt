@@ -1,0 +1,959 @@
+ORIGINAL ARTICLE
+Population variability of phthalate metabolites and
+bisphenol A concentrations in spot urine samples versus 24- or
+48-h collections
+Krista L. Yorita Christensen1, Matthew Lorber1, Holger M. Koch2, Marike Kolossa-Gehring3 and Marsha K. Morgan4
+Human exposure to phthalates and bisphenol A (BPA) can be assessed through urinary biomonitoring, but methods to infer
+daily intakes assume that spot sample concentrations are comparable to daily average concentrations. We evaluate this
+assumption using human biomonitoring data from Germany and the United States (US). The German data comprised three
+regional studies with spot samples and one with full-day samples analyzed for phthalate metabolites. The US data included: a
+study on DEHP metabolites and BPA involving eight persons supplying all urine voids (from which 24-h samples were
+constructed) for seven consecutive days; NHANES spot sample data on DEHP metabolites and BPA; and a regional study of
+children with 48-h samples analyzed for BPA. In the German data, measures of central tendency differed, but spot and 24-h
+samples showed generally comparable variance including 95th percentiles and maxima equidistant from central tendency
+measures. In contrast, the US adult data from the eight-person study showed similar central tendencies for phthalate
+metabolites and BPA, but generally greater variability for the spot samples, including higher 95th percentiles and maxima.
+When comparing children's BPA concentrations in NHANES spot and 48-h samples, distributions showed similar central
+tendency and variability. Overall, spot urinary concentrations of DEHP metabolites and BPA have variability roughly comparable
+with corresponding 24-h average concentrations obtained from a comparable population, suggesting that spot samples can be
+used to characterize population distributions of intakes. However, the analysis also suggests that caution should be exercised
+when interpreting the high end of spot sample data sets.
+Journal of Exposure Science and Environmental Epidemiology (2012) 22, 632--640; doi:10.1038/jes.2012.52; published online 6 June 2012
+Keywords: phthalate; bisphenol A; metabolite; urine; variability
+INTRODUCTION
+The emergence of biomonitoring has ushered in a new era in the
+characterization of human exposure to chemicals in the environ-
+ment. Prior to the 1990s, the study of human exposure to chemicals
+in the environment mainly focused on understanding intakes of
+different chemicals through characterization of exposure media
+concentrations and exposure contact rates.1 Regional and national
+population surveys to determine the presence of chemicals in
+the body gave exposure assessors another, arguably more
+powerful, measure of exposure and internal dose. In these
+general population surveys, chemicals measured in blood tend
+to be those which are persistent in the environment and in the
+body, and the measurements typically represent the accumula-
+tion of the chemical over many years of exposure. Other
+chemicals are measured in urine, and they represent a different
+pattern both in persistence and exposure. These contaminants
+tend not to persist in the body, with half-lives on the order of
+days and hours, and are primarily excreted in urine. Exposure
+might be associated with identifiable events, as might be the
+case with the detection of pesticide metabolites in urine after
+pesticide application, or exposure might be ubiquitous and less
+understood. Such is the case with phthalates and bisphenol
+A (BPA).
+Although detection of phthalate metabolites and BPA in urine
+prove that exposure occurs, the measurement of urinary
+metabolites does not provide information on route of exposure,
+or the rate of overall intake which resulted in the measured
+concentrations. However, many studies have developed estimates
+of daily intakes from the urinary concentrations of phthalate
+metabolites and BPA in spot samples, mainly using what is termed
+the ``creatinine-correction'' approach. This method takes advan-
+tage of the common practice of measuring creatinine, along with
+the target compounds, in a spot sample. Although measurement
+of creatinine is primarily done to normalize concentrations across
+individuals (i.e., to avoid issues which occur because urine
+volumes are a function of hydration and can result in high or
+low concentrations not reflective of chemical excretion), a
+creatinine-adjusted concentration in urine (mass of chemical
+divided by mass of creatinine) is also used to estimate daily intake.
+This simple back-calculation method takes advantage of relation-
+ships between a spot sample excretion of creatinine and total
+daily creatinine excretions. Assuming consistent daily intakes of a
+Received 16 November 2011; accepted 19 March 2012; published online 6 June 2012
+1United States Environmental Protection Agency, National Center for Environmental Assessment, Office of Research and Development, Washington, District of Columbia, USA;
+2Institute for Prevention and Occupational Medicine of the German Social Accident Insurance, Institute of the Ruhr-University Bochum (IPA), Bochum, Germany;
+3Umweltbundesamt (Federal Environment Agency), Berlin, Germany; 4National Exposure Research Laboratory, Office of Research and Development, United States Environmental
+Protection Agency, Research Triangle Park, North Carolina, USA. 1. Correspondence to: Dr. Krista Yorita Christensen, United States Environmental Protection Agency, National
+Center for Environmental Assessment, Office of Research and Development, Mailstop 8623P, 1200 Pennsylvania Ave NW, Washington, DC 20460, USA.
+Tel.: þ 703 347 0185. Fax: þ 1 703 347 8692.
+E-mail: Christensen.Krista@epa.gov
+Journal of Exposure Science and Environmental Epidemiology (2012) 22, 632 -- 640
+& 2012 Nature America, Inc. All rights reserved 1559-0631/12
+www.nature.com/jes
+contaminant, a urine sample excretion can be related to a daily
+excretion of that contaminant based on the fraction of total daily
+creatinine excretion in that urine sample. A critical assumption in
+this approach is that the creatinine-adjusted concentration of a
+contaminant in a spot urine sample is equal to the contaminant
+daily average concentration in urine. However, given their
+first-order kinetics with half-lives in the order of hours (B5 h to
+12 h2--4), peak concentrations of DEHP metabolites and BPA occur
+in urine shortly after exposure, with decreasing concentrations
+several hours after exposure.2,5,6 These peak concentrations could
+be mistaken to imply high daily exposures when using the
+creatinine-correction approach, and conversely, the lower con-
+centrations could be mistaken for low daily exposures. Ideally, one
+would like full day (24 h) average concentrations to use in a
+creatinine-correction model, but such data are rarely available for
+large population surveys.
+For compounds with short half-lives (on the order of hours), the
+variability in concentrations seen in a population of 24-h samples
+from a specific group of individuals will inevitably be less than the
+variability seen in a population comprised of all the individual urine
+samples from that same population. However, most surveys only
+take a single sample during a day, and consequently may miss
+some of the high concentrations that would be seen in their
+sample population if they sampled all urine events over the course
+of a day (or longer) from those individuals. The purpose of this
+study is to evaluate the comparability of spot urinary concentra-
+tions of phthalate metabolites and/or BPA obtained from a specific
+population, with the 24-h average urinary concentrations of these
+compounds obtained from a comparable population. If the two
+distributions are reasonably comparable, then one can use the
+creatinine approach for studying the distribution of intakes within
+a population with an acceptable degree of certainty, at least with
+regard to the urine-concentration term. Spot and long-term (24-h
+and 48-h) sample sets analyzed for phthalate metabolites and BPA
+were retrieved for this examination. Measures of central tendency
+and spread were examined within these populations. Additionally,
+statistical tests were applied to paired spot and long-term data sets
+to determine whether the two data sets could have come from the
+same distribution.
+MATERIALS AND METHODS
+Study Descriptions
+Characteristics of the data sets used in this study are summarized in
+Table 1, with further details provided in the Supplementary Material. Three
+German data sets using spot urine samples included surveys of 45 adults in
+2007 in Bochum,7 85 adults in 2002 in Erlangen,8,9 and 102 adults in 2005
+in Bavaria (the latter data have not been published, but a description of the
+larger study of measurements from 1005 individuals from which a subset
+of 102 were analyzed for phthalate metabolites can be found in Kutting
+et al.)10 To compare with these data sets was a set of 712 students, aged
+20--29, who provided 24-h urine samples between 1988 and 2003 to the
+Environmental Specimen Bank of the Federal Environmental Agency of
+Germany. A description of this database and a summary of partial results
+can be found in Wittassek et al.11 and the website for the Environmental
+Specimen Bank: http://www.umweltprobenbank.de/en/documents. All
+urine samples from these German data sets were analyzed for di-2-
+ethylhexyl phthalate (DEHP) metabolites: mono-(2-ethylhexyl) phthalate
+(MEHP), mono-(2-ethyl-5-hydroxyhexyl) phthalate (MEHHP), and mono-
+(2-ethyl-5-oxohexyl) phthalate (MEOHP); for the mono-ester metabolite
+of di-n-butyl phthalate (DnBP), mono-n-butyl phthalate (MnBP); for the
+mono-ester metabolite of di-isobutyl phthalate (DiBP), mono-isobutyl
+phthalate (MiBP); and for the mono-ester metabolite of butylbenzyl
+phthalate (BBzP), mono-benzyl phthalate (MBzP). In the spot sample data
+sets from Bochum and Erlangen, values below the limit of detection
+(LOD) were substituted with zero. In the spot sample data set from
+Bavaria and the 24-h urine data set from the Environmental Specimen
+Bank, values below the limit of quantification (LOQ) were substituted
+with LOQ/O2.
+A data set from Atlanta, Georgia in the United States included eight
+adults, four women, and four men aged 25--59 years of age, who provided
+a complete set of urine spot samples (n ¼ 427) over a consecutive 7-day
+period in 2005.12 Each sample was analyzed for the DEHP metabolites,
+MEHP and MEHHP as well as for BPA, and 24-h concentrations were
+constructed from the spot sample concentrations. First morning voids,
+defined as the first urination event after 0500 hours, were culled from the
+full set of spot samples. To compare with the urinary concentrations of all
+spot samples, first morning void spot samples, and 24-h samples from the
+Atlanta data set, we used the 2005--2006 National Health and Nutrition
+Examination Survey (NHANES) data on these metabolites for adults
+(418 years). This cycle (2005--2006) was chosen for comparability to the
+timing of the Atlanta study. NHANES participants provided urine samples
+throughout the day (rather than first morning voids), and phthalate
+metabolite concentrations are available for a random 1/3 sample of
+participants. In both the Atlanta data set and the NHANES, values below
+the LOD were substituted with LOD/O2.
+BPA urinary concentrations in 48-h samples were determined as part of
+the Children's Total (Aggregate) Exposure to Persistent Pesticides and
+Other Persistent Organic Pollutants (CTEPP) study.13 For the present study,
+we used a subset of CTEPP 48-h urine samples collected during a 2-day
+period in 2000--2001 from 110 children, ages 23 to 64 months, including 81
+children from Ohio and 29 from North Carolina. The 48-h samples (one per
+child), constructed by pooling six spot samples (3 each day, from the
+morning, afternoon, and evening), were analyzed for total (free plus
+conjugated) BPA. To compare with this BPA data set, we retrieved the
+2003--2004 NHANES BPA results for children, aged 6--11 years. This cycle
+and age range were chosen for comparability to the CTEPP study, given
+that 2003--2004 was the first cycle in which BPA was measured, and that
+measurements are only available for participants aged Z6 years. Values
+below the LOD were substituted with LOD/O2.
+All studies contained concentrations reported either on a volume basis
+(ng/ml) or a creatinine-adjusted basis (ng contaminant/mg creatinine). We
+conducted all of our analyses on volume-based concentrations. Although
+hydration certainly affects dilution and volume-based concentrations, and
+creatinine-based concentrations are thought to address issues with
+hydration, creatinine-based concentrations themselves may not account
+for differences in race and nationality. The Supplementary Material
+contains an exercise showing that the variability in volume-based
+concentrations is similar to that of creatinine-based concentrations, using
+the DEHP-metabolite data from the Atlanta and NHANES data sets.
+Protocols for these studies were reviewed for human subject
+considerations within the institutions, which conducted the studies, and
+all raw data used in this study were deidentified.
+Statistical Methods
+All statistical analyses were performed using SAS/STAT software, Version
+9.2. The distributions of all of these population data sets were characterized
+by calculating measures of central tendency (geometric mean (GM),
+median) as well as spread (geometric standard deviation (GSD), inter-
+quartile range) and extreme values (95th percentile, maximum). For
+NHANES only, weighted statistics were derived using weights supplied by
+the National Center for Health Statistics. For the CTEPP data, there was one
+outlier, a child with a BPA-urine concentration 4200ng/ml. Because this
+value was many times greater than the next highest value (39ng/ml), we
+treated this result as an outlier and did not use it in the statistical analyses.
+Further statistical tests were used to evaluate the comparability
+between concentrations derived from a population of spot samples and
+concentrations derived from a comparable population of 24-h samples (i.e.,
+those that might be obtained from the same population). It should be
+noted that such testing is most appropriate for the Atlanta data set,
+because the spot samples and the 24-h samples came from the same
+participants, over the same time period. In contrast, it is less meaningful to
+compare any of the concentrations derived from the German spot sample
+data sets with the concentrations derived from the German 24-h samples,
+Variability of phthalate, BPA concentrations
+Christensen et al
+633
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640
+& 2012 Nature America, Inc.
+because they represent different people: the general adult population
+versus 20- to 29-year-old students, from different parts of Germany,
+different collection years, different time of day for sampling, and most
+importantly, different exposure patterns. Despite these limitations, these
+tests give additional insight as to whether the distributions are similarly
+shaped, so we compared the results using German 24-h samples with each
+of the German spot samples, the Atlanta 24-h samples with the Atlanta
+spot samples, and the CTEPP BPA 48-h data set with NHANES data on BPA.
+Urine concentrations for each metabolite were log base 10 transformed
+before performing these tests, in order to more closely approximate
+normality; we also include results from these tests with no transformation
+applied, in the Supplementary Material. As the distributions of phthalate
+metabolite concentrations in urine may not meet normality assumptions
+(especially given limited sample sizes) even after appropriate transforma-
+tion, we compared distributions using non-parametric methods. The
+equality of the distributions was compared using the Cramer-von Mises
+criterion, and the variances of the distributions were compared using
+Levene's test. The Cramer-von Mises criterion compares two empirical
+distributions by ranking the values in the two distributions separately, then
+in combination, and comparing the resulting rank orders --- subsequently,
+values closer to zero indicate less difference (more similarly shaped
+distributions). It is considered more robust than other methods (such as
+the Kolmogorov--Smirnov test), when differences in location are expected.
+Levene's test assesses equality of variance between two sample sets, using
+the squared deviation of values from the group means. As Levene's test
+gives information about the equality of the spread of the distribution
+without assuming similar central tendencies, it is likely the most
+informative and appropriate test for use in comparing the German 24-h
+samples with the German spot samples and the BPA data sets. As noted
+above, the differences in the populations and exposure patterns in the
+German data may lead to differences in measures of central tendency, but
+it is possible to assess whether the distributions from each population have
+a similar degree of variability.
+For the Atlanta data set, we also created a series of bootstrap data sets
+from the Atlanta spot sample data. This was done by randomly selecting
+one spot sample per person per day, for a total of 56 values; this process
+was repeated 1000 times to generate 1000 data sets, each with one spot
+sample per person per day (i.e. 56 samples in each). To characterize the
+overall results from this bootstrap sample, the median values of the
+statistical measures calculated for each of the 1000 data sets were
+calculated and presented. The purpose of constructing the bootstrapped
+data sets is primarily to assess the right tail (high-end) of a distribution of
+spot samples when one obtains only one sample per person per day. If one
+samples all daily urine events for a given population, such as the 427 spot
+samples of the Atlanta data set, one sees the full extent of the right tail. On
+the other hand, if each individual provided one sample per day at random
+times, the shape of the distribution and in particular, the characterization
+of the right tail is unknown, but likely would be different than the right tail
+of the full sample set of 427 spot samples. The bootstrap attempts to
+characterize this difference between all samples versus one sample taken
+at random times during a day. However, given the limited sample size and
+skewed nature of the data, the estimation of upper percentiles (such as the
+95th) is challenging.14 In looking at urinary metabolite concentrations in
+the general population, there is generally a long right tail --- that is, most of
+the data are clustered in the lower range and there are a few persons with
+much larger values --- which may lead to bias in bootstrap estimation of
+the upper percentiles. To address this issue, we estimate the 95th
+percentile in the bootstrapped samples using both the empirical
+distribution function with averaging (the most widely used method, and
+the default option in SAS) and the weighted average (i.e. linear
+interpolation between ranked values).15 This weighted average approach
+should provide a more robust estimate for comparison.
+Table 1. Summary of studies used for analysis.
+Study name Country/year Metabolites Number of subjects Sample type Collection method
+Bochum Germany/2007 DEHP metabolites
+MEHP, MEHHP, and
+MEOHP; MnBP; MiBP;
+MBzP
+45 Adults Spot First morning voids
+Erlangen Germany/2002 DEHP metabolites
+MEHP, MEHHP, and
+MEOHP; MnBP; MBzP
+85 Adults Spot First morning voids
+Bavaria Germany/2003 DEHP metabolites
+MEHP, MEHHP, and
+MEOHP; MnBP; MiBP;
+MBzP
+102 Children and adults Spot Spot sample taken at
+varying points in the day
+German
+Environmental
+Specimen
+Bank
+Germany/1988--
+2003
+DEHP metabolites
+MEHP, MEHHP, and
+MEOHP; MnBP; MiBP;
+MBzP
+712 Young adults 24-h 24-h collection
+Atlanta USA/2005 DEHP metabolites
+MEHP and MEHHP,
+and BPA
+8 Adults 24-h; spot;
+bootstrap spot
+data set created
+All spot samples fully
+collected over 7-day
+period; 24-h samples
+constructed from spot
+samples
+NHANES USA/2005--2006 DEHP metabolites
+MEHP and MEHHP
+(Weighted) 212,597,057
+(SD ¼ 14,598,953) adults
+Spot Spot samples taken at
+varying points in the day
+CTEPP USA/2000--2001 BPA 110 Children 48-hr Composite of six samples
+(morning, afternoon,
+and evening samples
+over 48-h)
+NHANES USA/2003--2004 BPA (Weighted) 24,091,436
+(SD ¼ 2,158,589) children
+Spot Spot samples taken at
+varying points in the day
+Abbreviations: BPA, bisphenol A; CTEPP, Children's Total (Aggregate) Exposure to Persistent Pesticides and Other Persistent Organic Pollutants;
+DEHP, di-2-ethylhexyl phthalate; MBzP, monobenzyl phthalate; MEHHP, mono-(2-ethyl-5-hydroxyhexyl) phthalate; MEHP, mono-(2-ethylhexyl) phthalate;
+MEOHP, mono-(2-ethyl-5-oxohexyl) phthalate; MiBP, mono-isobutyl phthalate; MnBP, mono-n-butyl phthalate; NHANES, National Health and Nutrition
+Examination Survey.
+Variability of phthalate, BPA concentrations
+Christensen et al
+634
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640 & 2012 Nature America, Inc.
+RESULTS
+The results are described in four sections: the German data on
+phthalate metabolites, the US data on phthalate metabolites, the
+US data on BPA -- Adults, and the US data on BPA - Children.
+Figures 1--5 are box and whisker plots showing the median, the
+interquartile range, and the 95th percentile, of a given distribu-
+tion. The results of the statistical tests comparing pairs of studies
+are displayed in Table 2. Additional results are included in tables in
+the Supplementary Materials.
+German Data on Phthalate Metabolites
+Figures 1 and 2 depict the distribution of the measured phthalate
+metabolite concentrations for the four German populations (three
+spot sample and one 24-h data set). Adults from the Bochum
+study showed the lowest concentrations and those from Erlangen,
+the highest. The difference in central tendency measurements of
+the six phthalate metabolites between these two populations
+ranged from a factor of about 5 to almost 20. However, although
+the results show different central tendencies, and correspondingly
+higher 95th percentile and maximum values, the GSDs for all
+populations and metabolites seem to vary narrowly from less than
+the GM to well within a factor of 2 above the GM. The 25th
+percentile of all four data sets was about half the median and the
+75th percentile was about twice the median. The 95th percentile
+was B3 to 6 times the median. The 24-h concentration data for the
+DEHP metabolites had spread comparable to the spot samples, but
+the 24-h concentration data had the most spread for MnBP, MiBP,
+and MBzP, including the highest maxima. For example, the
+maximum 24-h measurement of MnBP (2090 ng/ml) was about
+twice as high as the highest maximum value found in the spot
+samples: 1256 ng/ml from the Erlangen samples. We believe it's
+possible that a contributing factor to 24-h samples showing equal
+and maybe higher spread than the spot samples is the much larger
+sample size (n ¼ 712) of the 24-h data set compared with the spot
+sample data sets (all n o100). Another contributing factor would
+be the longer time frame for the 24-h samples (1988 to 2003) when
+phthalate use would change and contribute to their variable
+exposure patterns. The spot samples, in contrast, all took place in a
+narrower time frame of 2002 to 2006.
+Table 2 shows the statistical measures comparing the distribu-
+tion of concentrations from 24-h samples to the distribution of
+concentrations from the three sets of spot samples. In nearly all
+cases, the Cramer-von Mises criterion was quite close to zero
+(ranging from 0.0003 to 0.016), indicating a similar overall shape of
+the distributions. When comparing variance, there were a few
+groups for which Levene's test indicated significantly different
+variance: between the 24-h samples and the Bavaria spot samples
+(all but MBzP) and between the 24-h samples and the Erlangen
+spot samples for two DEHP metabolites (MEOHP, MEHHP). These
+patterns are reflected in the descriptive statistics --- for example,
+the maximum concentrations for MEOHP and MEHHP were much
+higher in the Erlangen data compared with the 24-h data.
+US Data on DEHP Metabolites
+Figure 3 depicts the distribution of the two measured DEHP-
+metabolite concentrations for the NHANES and four permutations
+of the Atlanta data set. The central tendency measures of median
+and GM for these data sets were very similar, unlike the German
+data. Four of the data sets are permutations from the same study,
+and thus it is expected that their measures of central tendency
+would be similar, but the similarity with the national NHANES data
+does suggest that this focused data set characterized exposures
+that, at least for their central tendency, were similar to national
+tendencies. However, unlike the German data, there was generally
+a greater amount of variability when comparing the concentra-
+tions from all spot samples, to the 24-h averages.
+The rank order from most to least variable is as follows: NHANES
+4all spot samples 4bootstrap spot samples 4first morning voids
+424-h samples. NHANES had the highest maximum, about 4 to 10
+times higher than the maximum from the Atlanta spot samples.
+At least one reason for this disparity between NHANES and the
+Atlanta data sets is sample size: over 1600 adults each supplying a
+Figure 1. Box plots of DEHP metabolites from four German surveys (median and 95th percentiles displayed on graphs).
+Variability of phthalate, BPA concentrations
+Christensen et al
+635
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640
+& 2012 Nature America, Inc.
+spot sample for NHANES, compared with only eight individuals in
+the Atlanta data. Although these eight individuals supplied 427
+spot samples, they still represent lifestyles and exposure patterns
+of only eight individuals, all living in one city.
+Within the four groupings of the Atlanta data set, the variability
+in concentrations from the 24-h samples and the first morning
+void spot samples were comparable, and both lower than the
+variability in the other two groupings (all spot samples and
+bootstrap spot samples). The maximum for the 24-h and first
+morning voids were 2 to 4 times lower than the maxima for the
+other two permutations.
+It is interesting that although the 95th percentile values for the
+24-h and NHANES data sets were virtually identical, the maximum
+for NHANES was over an order of magnitude higher than the
+maximum of the 24-h samples. Again, this is likely owing to the
+much larger sample size of NHANES, as well as different
+distribution of sampling times (and fasting protocols) in the
+NHANES. But it does highlight an intuitive expectation: a 24-h
+sample will dampen the high as well as low concentrations that
+arise from spot samples from phthalates and related contaminants
+for which exposure is frequent and almost a daily event, and
+elimination of metabolites in urine is in the order of hours. The
+highest concentrations are near the time of exposure and low
+concentrations are found many hours after exposure. But when
+assessors have a large database such as NHANES, with which to
+study exposures, the important question remains: do adults at the
+high end of the concentration distribution in NHANES experience
+a much higher daily exposure than might be implied had all of
+them supplied 24-h instead of spot samples?
+Possibly the best comparison we can make to answer this
+question is the comparison between bootstrapped spot samples
+and 24-h samples from the Atlanta cohort. Here the comparison is
+between a 24-h sample and a random sample taken from the
+same person on same day. Proportionately, the ratio of the GSD
+to the GM is about twice as high for the bootstrapped as
+compared with the 24-h samples. The 95th percentile for the
+bootstrapped sample metabolite concentrations is about 15--20%
+higher than the 95th percentile for the 24-h samples (using a
+weighted average to estimate the 95th percentile in the
+bootstrapped samples), and the maxima are about twice as high
+for the bootstraps as compared with the 24-h samples. All of these
+measures suggest that the high-end of a population of spot
+samples tends to be higher than that of a population of 24-h
+samples.
+Figure 2. Box plots of MBzP, MnBP, and MiBP from four German surveys (median and 95th percentiles displayed on graphs).
+Figure 3. Box plots of DEHP-metabolites, MEHP and MEHHP, from US surveys including four from the Atlanta survey (all spot, bootstrapped
+spot, first morning void, and constructed 24 h) and NHANES (median and 95th percentiles displayed on graphs).
+Variability of phthalate, BPA concentrations
+Christensen et al
+636
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640 & 2012 Nature America, Inc.
+A comparison between the bootstrapped data and all 427 spot
+samples from Atlanta also show trends of note. In general, the
+measures of central tendency (GM, median) and spread (GSD,
+interquartile range) of the bootstrapped samples were similar to
+the full set of 427, from which the bootstrap was derived, but the
+maximum was much lower. This finding is logical --- when
+randomly selecting from each day, invariably all of the 1000
+bootstrap data sets of 56 daily spot samples will miss several of
+the high concentrations that are incorporated into the analysis of
+all 427 samples.
+For the statistical tests of distribution comparability, similar
+results to the comparison of German 24-h and spot samples were
+found for the Atlanta data (Table 2). Of all the data sets used, the
+Atlanta data set is the only one with 24-h and spot samples from
+the same individuals; thus, it is more appropriate to test whether
+the spot samples are from the same distribution as the 24-h
+values. The Cramer-von Mises criterion was close to zero for all
+comparisons (ranging from 0.002 to 0.005), indicating similar
+overall shape of the distributions. Levene's test indicated different
+variance for MEHHP 24-h and spot samples (P-value ¼ 0.008), but
+borderline similarity in variance for MEHP (P-value ¼ 0.06).
+We also evaluated the distribution of MEHHP and MEHP urinary
+concentrations on a creatinine-corrected basis (results in Supple-
+mentary Material). The results were quite similar to those found
+using a volume basis in magnitude and variability, so that the
+overall patterns were preserved when comparing across data sets.
+For example, the GM for MEHP ranged from 2.96 (NHANES) to 6.44
+(Atlanta 24-h) mg/g creatinine; the GM for the spot and boot-
+strapped spot samples was intermediate (4.73 and 4.39 mg/g
+creatinine, respectively) and for each data set the GSD was
+similar in magnitude to the GM. Also, similar to results using a
+Figure 4. Box plots of BPA from US surveys including four from the
+Atlanta survey (all spot, bootstrapped spot, first morning void, and
+constructed 24 h) and NHANES (median and 95th percentiles dis-
+played on graphs).
+Table 2. Statistical comparisonsa for estimated log10
+-urinary
+concentration (ng/ml) of phthalate metabolites and BPA.
+Metabolite Comparison groups Cramer-von Mises
+criterion
+Levene's test
+P-value
+Germany
+MEOHP 24-h versus Bavaria 0.0019 o0.0001
+24-h versus Bochum 0.0060 0.9120
+24-h versus Erlangen 0.0073 0.0006
+MEHHP 24-h versus Bavaria 0.0024 o0.0001
+24-h versus Bochum 0.0020 0.6423
+24-h versus Erlangen 0.0073 o0.0001
+MEHP 24-h versus Bavaria 0.0032 0.0021
+24-h versus Bochum 0.0072 0.6964
+24-h versus Erlangen 0.0019 0.1096
+MnBP 24-h versus Bavaria 0.0056 0.0420
+24-h versus Bochum 0.0155 0.9914
+24-h versus Erlangen 0.0039 0.4012
+MiBP 24-h versus Bavaria 0.0003 0.0019
+24-h versus Bochum 0.0015 0.8939
+24-h versus Erlangen --- ---
+MBzP 24-h versus Bavaria 0.0008 0.3942
+24-h versus Bochum 0.0006 0.8841
+24-h versus Erlangen 0.0101 0.9919
+Atlanta
+MEHHP 24-h versus spots 0.0016 0.0075
+24-h versus first
+morning void
+0.0021 0.0506
+MEHP 24-h versus spots 0.0050 0.0629
+24-h versus first
+morning void
+0.0043 0.7376
+BPA 24-h versus spots 0.0020 0.0028
+24-h versus first
+morning void
+0.0002 0.0207
+North Carolina and Ohio, NHANES
+BPA 48-h (NC) versus
+spots
+0 0.5029
+48-h (OH) versus
+spots
+0 0.0971
+Abbreviations: BPA, bisphenol A; MBzP, monobenzyl phthalate; MEHHP,
+mono-(2-ethyl-5-hydroxyhexyl) phthalate; MEHP, mono-(2-ethylhexyl)
+phthalate; MEOHP, mono-(2-ethyl-5-oxohexyl) phthalate; MiBP, mono-
+isobutyl phthalate; MnBP, mono-n-butyl phthalate; NHANES, National
+Health and Nutrition Examination Survey.
+aGermany -- comparisons are between 24-h data from 1988--2003, and
+three studies relying on spot samples collected from Bavaria (2003),
+Bochum (2007), and Erlangen (2002). Atlanta -- comparisons are between
+24-h and spot sample data from eight individuals collecting all urine for
+seven consecutive days (2005). North Carolina and Ohio -- comparisons are
+between each state's 48-h data (CTEPP Study) and NHANES spot urine data
+from 2003--2004. For the Cramer-von Mises criterion, values close to zero
+indicate more similarity between groups. For Levene's test, P-values
+represent a test for difference; that is, a smaller P-value is evidence of
+greater difference between the two data samples.
+Figure 5. Box plots of BPA from the CTEPP study (48-h samples from
+NC and OH) and NHANES (medians and 95th percentiles displayed
+on graphs).
+Variability of phthalate, BPA concentrations
+Christensen et al
+637
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640
+& 2012 Nature America, Inc.
+volume basis, the maximum values were lowest in the Atlanta
+24-h samples (76.6 mg/g creatinine) and highest in the NHANES
+data set (707.23 mg/g creatinine).
+US Data on BPA -- Adults
+Figure 4 depicts the distribution of BPA concentrations for the
+NHANES and four permutations of the Atlanta data set. Many of
+the trends noted above for the US data on DEHP metabolites are
+seen here as well. The central tendency measures of median and GM
+for these data sets were very similar, rounding off to 2 or 3ng/ml.
+NHANES data showed the most spread in concentrations, but this
+spread showed up mostly above the 95th percentile. For NHANES,
+the 95th percentile was about 11 ng/ml compared with the range
+from 7 to 10 ng/ml for the four groupings of the Atlanta data set.
+However, the maximum was 383ng/ml compared with the
+maximums between 12 and 50 ng/ml for the four groupings of
+the Atlanta data set. Unlike the DEHP-metabolite data discussed
+above, the first morning void concentrations of BPA showed a
+variability that better matched other spot sample groupings than the
+24-h samples. The interquartile range of the 24-h samples was the
+narrowest at 1.5--3.2ng/ml, whereas it was wider for first morning
+voids at 1.3--5.0ng/ml. The 95th percentile for the 24-h samples was
+7.0 ng/ml, whereas it was 9.1 ng/ml for the first morning voids,
+similar to the other spot-sample groups, 8.6ng/ml for all spot
+samples and 9.9ng/ml for the bootstrap samples.
+When using statistical tests to evaluate the comparability of
+24-h and spot samples in the Atlanta BPA data, the pattern of
+results was similar to those found for the phthalate metabolites in
+this data set (Table 2). The first morning void spot samples were
+more similar to the 24-h samples than were the group of all spot
+samples in terms of shape (Cramer-von Mises criterion values of
+0.0002 and 0.002, respectively). The variability was also more
+similar between the first morning void and 24-h samples (Levene's
+P-values of 0.02 and 0.003, respectively).
+US Data on BPA -- Children
+Figure 5 depicts the distribution of BPA concentrations for the
+NHANES and the CTEPP 48-h data sets from NC and OH. The
+CTEPP data showed very similar distributions between urine
+samples collected from children in NC and OH. When comparing
+the urinary BPA concentrations in the NHANES data with those
+from the CTEPP data, the measures of central tendency were quite
+similar, although the GMs and medians were slightly higher
+among CTEPP children compared with the NHANES data (children
+aged 6--11 years). The interquartile range and 95th percentile
+values were also similar among the three groups. The CTEPP data
+show a shift to the right compared with NHANES: all of these
+measures are about 1--2 ng/ml higher than their NHANES
+counterparts. This could be the result of the demographic
+differences in the two data sets -- the NHANES captured a
+national sample of 6--11 year olds whereas the CTEPP study
+targeted a non-random selection of 2--5 year-olds in NC and OH.
+The 48-h samples had a very similar GSD compared with the
+NHANES data, with values ranging from 2.40 to 2.68 ng/ml.
+The NHANES data had a somewhat higher maximum value
+(46.1 ng/ml) compared with the 48-h data (maxima of 37.4 and
+38.6 ng/ml for NC and OH, respectively).
+Summary
+Some dissimilar trends emerged from the US and German data
+sets and their long-term and spot samples. The 24-h DEHP data
+from the Atlanta data set show a narrower spread than the
+corresponding spot samples. There, the spot samples showed
+variability that was dampened when averaging over 24-h periods.
+In contrast, the German 24-h phthalate metabolite concentrations
+showed a much wider range and variability as compared with the
+German spot samples from different individuals and locations. The
+US BPA data are more similar to the German data, in that they
+show a spread and variability that appears quite comparable with
+the spot samples. Reflecting the similarity in the amount of spread
+and measures of central tendency for these BPA data sets,
+statistical tests indicated no significant differences between the
+CTEPP data and the NHANES data when comparing distributions
+in terms of overall shape, or variance (Table 2).
+DISCUSSION AND CONCLUSIONS
+Researchers have used spot sample surveys to infer daily intakes
+of key contaminants. As discussed earlier, simple methods to
+backcalculate daily intakes from spot samples rely on the
+assumption that the spot sample concentration is a good
+surrogate for the 24-h average concentration. The ideal data set
+to examine this question would be one which includes a large
+number of individuals who provided a 24-h sample as well as a
+spot sample randomly taken on the day of the 24-h sample. We
+found one data set that had this feature, but it included only eight
+individuals, so any generalizations or conclusions from these data
+must be made cautiously. We believe a sample size much larger
+than eight would be necessary to capture different patterns of
+exposure. How ``large'' such a sample size is obviously an issue of
+debate; 100 individuals would be better than eight, but 1000
+would be even better. If each of the 712 individuals in the German
+data set provided a spot sample during the day in which the 24-h
+sample was provided, then a fairly rigorous analysis could be
+done. Without this luxury, we sought several diverse individual
+data sets including spot samples and 24- or 48-h samples
+including different contaminants (phthalates and BPA) and
+different age groups (children to adults).
+Besides our analysis, there are three published studies that
+looked at the differences between urinary concentrations of
+phthalates and other non-persistent contaminants in spot and
+24-h samples. Frederiksen et al.16 examined the volume-based
+(not creatinine-based) concentrations of phthalate metabolites in
+1st and 2nd morning samples as well as 24-h samples from 129
+healthy Danish children (n ¼ 103, 6--16 years of age) and young
+adults (n ¼ 26, 17--21 years of age). They measured metabolites of
+DEP, DBP, BBzP, DEHP, and DiNP. The highest concentrations of all
+phthalate metabolites were in the 1st morning urine sample, and
+on a mass basis, between 40% and 48% of daily excretions were
+found in this first morning sample. The 2nd morning voids were
+also higher than the 24-h averages, but by a lesser amount than
+the 1st morning voids. Although not obtaining other spot sample
+data, it can be surmised that, for this population, the morning
+samples captured the daily high concentrations for phthalates.
+Li et al.17 evaluated the variability in urinary concentrations of
+mono-hydroxy polycyclic aromatic hydrocarbons (OH-PAHs) on
+the same group of eight persons and 427 samples from the
+Atlanta data set studied here for BPA and DEHP metabolites.
+Among the 427 samples, they looked at the concentration of OH-
+PAHs in the population of first morning voids (n ¼ 56), constructed
+24-h voids (n ¼ 56) and over all samples (n ¼ 427). They found that
+the first morning voids had the highest concentrations, with GMs
+and medians roughly 1.2 and 1.5 times higher than analogous
+metrics for constructed 24-h samples. Interestingly, however, the
+GMs and medians were similar or slightly lower over the
+population of 427 samples as compared with the constructed
+24-h samples for the different OH-PAHs. This might suggest that
+for OH-PAHs, spot sample concentrations taken at random times
+of the day would yield information on the central tendencies that
+is comparable with the central tendencies derived from a
+distribution of 24-h samples.
+In the third study, Scher et al.18 collected first morning voids and
+24-h samples from farmers and their children potentially exposed
+to chlorpyrifos. They measured 3,5,6-trichloro-2-pyridinol (TCP),
+Variability of phthalate, BPA concentrations
+Christensen et al
+638
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640 & 2012 Nature America, Inc.
+a chlorpyrifos metabolite, in the first morning void the day
+following application of chlorpyrifos to a nearby agricultural field,
+and in the corresponding 24-h void for the day following
+application. This strategy was employed because toxicokinetics
+suggested that a peak concentration in urine would appear
+roughly 24 h following an exposure. As expected, the first morning
+void concentrations of TCP were higher than those estimated from
+the 24-h samples.
+All of these studies showed evidence that the first morning void
+might be higher than a 24-h average, whereas the study on PAH
+metabolites additionally showed that random samples taken
+throughout the day might show similar central tendencies as
+compared with 24-h samples. The study on chlorpyrifos was
+targeted based on a likelihood of recent exposure, and an
+expectation that the peak concentration in urine might occur 24 h
+after this exposure, about the time of the first morning void. For
+this reason, it is not unexpected that the first morning void had
+higher concentrations than the 24-h samples. For the study on
+phthalates and children/young adults, one consideration perhaps
+is that these younger individuals do not wake up and urinate at
+night as frequently as older adults and often not at all, such that
+the first morning voids include all phthalate metabolites that
+would have migrated to the bladder overnight, and as a result,
+their first morning void might well have higher concentrations as
+compared with the first morning voids of adults.
+Two other studies have also looked at the relationship between
+urinary concentrations of BPA and phthalates over time, although in
+a somewhat different way. Mahalingaiah et al.19 examined the
+urinary concentration of BPA in spot samples taken from 82 subjects
+seeking infertility evaluation and treatment, and had multiple spot
+samples from a subset of individuals. Although the authors did not
+examine correlation of BPA concentrations in spot samples taken
+during the same day, they did look at how well a single spot sample
+characterized long-term trends in the full set of spot samples. They
+concluded that a single spot sample had good ability to identify
+individuals in the highest tertile of exposure, and that predictive
+power improved when two samples from the same day were used.
+Similarly, Teitelbaum et al.20 evaluated urinary concentrations of
+phthalate metabolites, phytoestrogens and phenols among 35min-
+ority children over a 6-month period, to determine how well a single
+spot sample characterized long-term trends. They also concluded
+that a single spot sample was reliable in ranking subjects according
+to tertile of all the analytes studied. These studies addressing a
+different aspect of the question, on the variability in spot versus
+long-term sampling, also provide confidence that a single spot
+sample may recapitulate trends in exposure.
+In our study, we found that first morning voids of the two DEHP
+metabolites and BPA in the Atlanta cohort of adults showed a
+narrow range of variability, comparable with the 24-h samples,
+and lower than the variability of all spot samples. The central
+tendencies of the first morning voids were comparable with 24-h
+and other spot samples, including NHANES samples, although the
+first morning void of MEHHP was a bit higher. This is also what
+Preau et al.12 found for MEHHP in the same data set.
+Aylward et al.21 studied the issue of extrapolating spot versus
+24-h concentrations of DEHP to daily intakes directly using the Atlanta
+cohort. They determined daily intakes in two ways: from concen-
+trations in spot samples using a creatinine-correction approach
+and from concentrations in 24-h constructed averages on a
+volume-basis approach. They found that intakes determined from
+concentrations in spot samples ranged from 20--300% of intakes
+determined from 24-h average concentrations. From their analysis,
+it is clear that application of the creatinine-correction approach
+can underestimate as well as overestimate daily intakes for a given
+individual. But what is the expectation of over or under estimation
+over a full population? As mentioned often, this Atlanta cohort
+contains only eight adults in one city, so one must be cautious
+about drawing any conclusions from an analysis of their data.
+This issue is not only a matter of general interest, but it takes on
+additional importance when the extrapolation is used to comment
+on population health risk. Health and/or regulatory benchmarks
+for phthalates and BPA are expressed on an intake basis. Intakes
+have been derived from concentrations in spot samples using the
+creatinine-correction approach, and the upper ends of the
+population distributions have been examined for their relationship
+to these intake-based benchmarks. Koch et al.,22 for example,
+measured spot urine concentrations of metabolites of six
+phthalates in 111 German children aged 5--6 years during a
+mandatory health examination for entrance into the education
+system, and determined each child's intake of each phthalate
+using the creatinine-correction approach. They compared the
+intakes of each phthalate with the Tolerable Daily Intake (TDI) for
+that phthalate, and also developed a cumulative TDI (TDICUM
+), by
+adding the ratio of the individual child's intake divided by the TDI
+for each phthalate, that is, the sum of (intakePH
+/TDIPH
+) over the six
+phthalates. They found that about 2% of the children (2 of 111)
+exceeded the TDI for DnBP, 1% approached the TDI for DEHP, and
+24% exceeded the TDICUM
+for the sum of DEHP, DnBP, and DiBP. In
+a general population study entailing 85 German individuals, Koch
+et al.8 measured four metabolites of DEHP and, from these,
+determined daily intakes using the creatinine approach. They
+found that 10 of 85 individuals had intakes that exceeded the
+European Union TDI value (at the time of publication in 2003) of
+37 mg/kg per day, and that 26 of 85 individuals had intakes higher
+than the US Reference Dose (RfD) of 20 mg/kg per day. One can
+question whether the individuals identified in these studies
+actually had an intake on the day of sampling that exceeded
+the TDI or RfD for the given phthalate. However, if the
+distributions of spot and full-day urinary concentrations are
+similar, one may infer that B2% of children in the region of
+Germany studied, would experience an exposure to DnBP greater
+than the TDI on any given day.
+It should be noted that health benchmarks including the RfD
+and the TDI are often developed assuming a long-term, and not a
+single day, of exposure. The studies summarized above made
+observations based on a surveys of single-day samples. As well,
+the analysis in this paper looked only at inferences made from
+single spot samples taken during one day. As noted earlier, there
+has been some work on longitudinal variability --- whether a
+high concentration on a single day from an individual suggests
+ongoing elevations for that individual, a rare occasion, or
+something in between.19,20 Preau et al.,12 for example, did examine
+day-to-day variability in DEHP metabolites from the Atlanta cohort
+and found substantial variability from this perspective.
+For short-lived compounds such as phthalates and BPA, it is
+expected that the variability in concentrations seen in a population
+of 24-h samples from a specific group of individuals will, by
+definition, be less than the variability seen in a population
+comprised of all the individual urine samples from that same
+population. We saw this when we were comparing the 427
+samples in the Atlanta cohort with their 24-h samples. However,
+one does not take all the urine samples in exposure surveys such
+as the NHANES; one takes only a single sample during a day. Given
+this fact, it is easy to envision that a spot sample survey will miss
+some of the high concentrations that would be seen in their
+sample population, if they sampled all urine events over the course
+of a day (or from several days), from those individuals rather than
+just one sample. In the same way, a population of 24-h samples
+might very well characterize some of the days with high exposures
+that are not captured in spot samples (e.g., if the individual who
+had high exposure had given a spot sample before the exposure
+occurred). These are the issues we attempted to investigate.
+We recognize that an optimal data set is simply unavailable to
+address this question fully. The Atlanta data set best meets the
+criteria, and perhaps the most direct analysis is that comparing the
+56 person-days of 24-h samples to the bootstrapped data sets of
+Variability of phthalate, BPA concentrations
+Christensen et al
+639
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640
+& 2012 Nature America, Inc.
+56 person-days of individual spot samples. Generally, we found
+that the 24-h samples had less variability than the bootstrapped
+samples, as measured by spread around the central tendency, a
+lower 95th percentile, and a lower maximum concentration. When
+studying this question with less ideal data sets (i.e., non-matching
+24-h and random spot samples), we did find variability in long-
+term samples that more closely matched the variability in spot
+samples. Specifically, the spread of the interquartile range, and
+the location of the 95th percentile and maximum concentration
+in relation to the median, were similar in the German data on
+phthalates and in the BPA data in children. This is probably
+the extent of the observations one can make, given that the
+long-term samples and spot samples came from different
+populations.
+In conclusion, the analysis here suggests that given the limited
+data available to support such comparisons, concentrations of
+phthalate metabolites and BPA in spot urine samples on a
+population basis have variability reasonably comparable with 24-h
+urine concentrations of the same compounds on a population
+basis. This lends credibility to the use of spot sample surveys of
+phthalates and BPA to infer roughly approximate distributions of
+daily intakes within a population, and then to examine those
+distributions for trends. The caveat we offer to this generality is
+that caution should be exercised when using the high-end of spot
+sample surveys to characterize a high-end of daily intakes,
+particularly when the high-end of intakes appears close to health
+and regulatory intake-based benchmarks.
+CONFLICT OF INTEREST
+The authors declare no conflict of interest.
+ACKNOWLEDGEMENTS
+We would like to acknowledge Antonia M. Calafat (Centers for Disease Control and
+Prevention) for provision of the Atlanta data and input during manuscript
+preparation.
+Disclaimer: This manuscript has been reviewed by the US
+Environmental Protection Agency and approved for publication.
+The views expressed in this manuscript are those of the authors
+and do not necessarily reflect the views or policies of the US
+Environmental Protection Agency.
+REFERENCES
+1 USEPA.. Guidelines for Exposure Assessment. U.S. Environmental Protection Agency,
+Risk Assessment Forum, Washington, DC, 1992. Available at http://cfpub.epa.gov/
+ncea/cfm/recordisplay.cfm?deid ¼ 1526EPA/600/Z-92/001.
+2 Koch H.M., Bolt H.M., Preuss R., and Angerer J. New metabolites of di(2-
+ethylhexyl)phthalate (DEHP) in human urine and serum after single oral doses of
+deuterium-labelled DEHP. Arch Toxicol 2005: 79: 367--376.
+3 Volkel W., Colnot T., Csanady G.A., Filser J.G., and Dekant W. Metabolism and
+kinetics of bisphenol A in humans at low doses following oral administration.
+Chem Res Toxicol 2002: 15: 1281--1287.
+4 Volkel W., Bittner N., and Dekant W. Quantitation of bisphenol A and bisphenol A
+glucuronide in biological samples by high performance liquid chromatography-
+tandem mass spectrometry. Drug Metab Dispos 2005: 33: 1748--1757.
+5 Kluwe W.M. Overview of phthalate ester pharmacokinetics in Mammalian-species.
+Environ Health Perspect 1982: 45: 3--10.
+6 Taylor J.A., vom Saal F.S., Welshons W.V., Drury B., Rottinghaus G., and Hunt P.A.,
+et al. Similarity of bisphenol a pharmacokinetics in rhesus monkeys and mice:
+relevance for human exposure. Environ Health Perspect 2011: 119: 422--430.
+7 Koch H.M., and Calafat A.M. Human body burdens of chemicals used in plastic
+manufacture. Philos Trans R Soc Lond B Biol Sci 2009: 364: 2063--2078.
+8 Koch H.M., Drexler H., and Angerer J. An estimation of the daily intake of di(2-
+ethylhexyl)phthalate (DEHP) and other phthalates in the general population. Int J
+Hyg Environ Health 2003: 206: 77--83.
+9 Koch H.M., Rossbach B., Drexler H., and Angerer J. Internal exposure of the general
+population to DEHP and other phthalates - determination of secondary and
+primary phthalate monoester metabolites in urine. Environ Res 2003: 93: 177--185.
+10 Kutting B., Schettgen T., Schwegler U., Fromme H., Uter W.D., and Angerer J., et al.
+Acrylamide as environmental noxious agent. A health risk assessment for the
+general population based on the internal acrylamide burden. Int J Hyg Environ
+Health 2009: 212: 470--480.
+11 Wittassek M., Wiesmuller G.A., Koch H.M., Eckard R., Dobler L., and Muller J., et al.
+Internal phthalate exposure over the last two decades - A retrospective human
+biomonitoring study. Int J Hyg Environ Health 2007: 210: 319--333.
+12 Preau J.L., Wong L.Y., Silva M.J., Needham L.L., and Calafat A.M. Variability over 1
+week in the urinary concentrations of metabolites of diethyl phthalate and Di(2-
+Ethylhexyl) phthalate among eight adults: an observational study. Environ Health
+Perspect 2010: 118: 1748--1754.
+13 Morgan M.K., Jones P.A., Calafat A.M., Ye X.Y., Croghan C.W., and Chuang J.C., et al.
+Assessing the quantitative relationships between preschool children's exposures
+to bisphenol A by route and urinary biomonitoring. Environ Sci Technol 2011: 45:
+5309--5316.
+14 Davison A.C., and Hinkley D.V. Bootstrap Methods and their Application. Cambridge
+University Press: Cambridge, 1997.
+15 SAS.. SAS/STATs 9.2 User's Guide. SAS Institute, Inc: Cary, NC, USA, 2008.
+16 Frederiksen H., Aksglaede L., Sorensen K., Skakkebaek N., Juul A., and Andersson
+A.M. Urinary excretion of phthalate metabolites in 129 healthy Danish children
+and adolescents: estimation of daily phthalate intake. Environ Res 2011: 111: 656--663.
+17 Li Z., Romanoff L.C., Lewin M.D., Porter E.N., Trinidad D.A., and Needham L.L., et al.
+Variability of urinary concentrations of polycyclic aromatic hydrocarbon
+metabolite in general population and comparison of spot, first-morning, and
+24-h void sampling. J Expo Sci Environ Epidemiol 2010: 20: 526--535.
+18 Scher D.P., Alexander B.H., Adgate J.L., Eberly L.E., Mandel J.S., and Acquavella J.F.,
+et al. Agreement of pesticide biomarkers between morning void and 24-h urine
+samples from farmers and their children. J Expo Sci Environ Epidemiol 2007: 17:
+350--357.
+19 Mahalingaiah S., Meeker J.D., Pearson K.R., Calafat A.M., Ye X., and Petrozza J., et al.
+Temporal variability and predictors of urinary bisphenol a concentrations in men
+and women. Environ Health Perspect 2008: 116: 173--178.
+20 Teitelbaum S.L., Britton J.A., Calafat A.M., Ye X., Silva M.J., and Reidy J.A., et al.
+Temporal variability in urinary concentrations of phthalate metabolites,
+phytoestrogens and phenols among minority children in the United States.
+Environ Res 2008: 106: 257--269.
+21 Aylward L.L., Hays S.M., and Kirman C.P., Intra-Individual Variability in Phthalate
+Spot Samples: Impact of Daily Dose Estimation. March 25, 2011. Prepared for,
+Phthlate Esters Panel, American Chemistry Council, 700 Second St, NE,
+Washington, DC 20002, available for download at http://www.cpsc.gov/about/
+cpsia/chap0311.html1974.
+22 Koch H.M., Wittassek M., Bruning T., Angerer J., and Heudorf U. Exposure to
+phthalates in 5--6 years old primary school starters in Germany --- a human
+biomonitoring study and a cumulative risk assessment. Article in press. Intern J
+Hyg Environ Health 2011: 214: 188--195.
+Supplementary Information accompanies the paper on the Journal of Exposure Science and Environmental Epidemiology website (http://
+www.nature.com/jes)
+Variability of phthalate, BPA concentrations
+Christensen et al
+640
+Journal of Exposure Science and Environmental Epidemiology (2012), 632 -- 640 & 2012 Nature America, Inc.
+

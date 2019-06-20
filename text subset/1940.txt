@@ -1,0 +1,1108 @@
+IJOMEH 2010;23(3) 239
+O R I G I N A L P A P E R S
+International Journal of Occupational Medicine and Environmental Health 2010;23(3):239
+­
+253
+DOI 10.2478/v10001-010-0029-0
+PSYCHOSOCIAL WORKING CONDITIONS
+AND ACTIVE LEISURE-TIME PHYSICAL ACTIVITY
+IN MIDDLE-AGED US WORKERS
+BONGKYOO CHOI1, PETER L. SCHNALL1, HAIOU YANG1, MARNIE DOBSON1, PAUL LANDSBERGIS2,
+LESLIE ISRAEL1, ROBERT KARASEK3,4, and DEAN BAKER1
+1 University of California Irvine, Irvine, USA
+Center for Occupational and Environmental Health
+2 The State University of New York Downstate School of Public Health, Brooklyn, USA
+Department of Environmental and Occupational Health Sciences
+3 University of Massachusetts Lowell, Lowell, USA
+Department of Work Environment
+4 Copenhagen University, Copenhagen, Denmark
+Department of Psychology
+Abstract
+Objectives: This study was to examine whether psychosocial work characteristics such as job control, psychological job
+demands, and their combinations are associated with leisure-time physical activity (LTPA) in US workers. Materials and
+Methods: 2019 workers (age range: 32 to 69) from the National Survey of Midlife Development in the United States
+(MIDUS) II study (2004­2006) were chosen for this cross-sectional study. Job control and job demands were measured by
+standard questionnaire items. Active LTPA was defined as "moderate or vigorous" level of physical activity. Results: After
+controlling for covariates (e.g., age, race, education, income, physical effort at work, obesity, and alcohol consumption),
+high job control was associated with active LTPA. Active jobs (high control and low demands) and low-strain jobs (high
+control and high demands), compared to passive jobs (low control and low demands), increased the odds for active LTPA.
+The associations varied by sex and education level. Job demands alone were not associated with active LTPA. Conclusions:
+Having on-the-job learning opportunities and decision authority on their tasks may be conducive to active LTPA in middle-
+aged US workers.
+Key words:
+Job control, Job demands, Education, Obesity, MIDUS
+Grant Sponsor: Center for Social Epidemiology, Marina Del Rey, California. Grant Number: Proposal # 48004, Office of Research Administration, University of
+California Irvine.
+Address reprint requests to B. Choi, Center for Occupational and Environmental Health, University of California Irvine, 5201 California Avenue, Suite 100, Irvine,
+CA, 92617, USA (e-mail: b.choi@uci.edu).
+INTRODUCTION
+Regular physical activity reduces the risk of all-cause
+mortality, coronary heart disease, high blood pressure,
+stroke, type 2 diabetes, metabolic syndrome, colon can-
+cer, breast cancer, and depression [1,2]. Thus it has been
+widely recommended as a key public health policy [1,3,4]
+in the United States (US): for instance, adults should en-
+gage in at least 30 minutes of moderate-intensity physical
+activity (e.g., brisk walking) on five days of the week.
+However, according to the recent statistics from the Be-
+havioral Risk Factor Surveillance System (BRFSS) [5],
+only half of US adults meet the recommended level
+of physical activity and about 25% of adults do not en-
+gage in any physical activity during their leisure time.
+More importantly, the proportions have not changed
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+240
+(e.g., reading books, sports activities, social participation,
+and political activities), but in contrast, those who have
+a "passive job" (a combination of low control and low
+demands), would undergo a process of "skill atrophy and
+unlearning" [10, p. 94]. This group would be least active
+in the leisure activities. In addition, those who had "low
+strain" jobs (a combination of high control and low de-
+mands) or "high strain" jobs (a combination of low con-
+trol and high demands) would have intermediate levels
+of the leisure activities. In a national Swedish study [6],
+sports activities during leisure time were more prevalent
+in those who had high control, high demands, and an ac-
+tive job (vs. passive job).
+Other theories have focused on the internal process of how
+people change behavior [11­13]. These theories posit that
+for successful adoption of healthy behaviors, a person
+needs to be highly motivated and also to have skill and
+ability to actualize a well-conceived plan for the behavior
+against barriers in reality.
+In sum, the above theories imply that job control, psycho-
+logical job demands, and an active job (vs. passive job)
+would be associated with LTPA in a working population.
+Empirical evidence:
+psychosocial working conditions and active LTPA
+Empirical evidence for these associations has been in-
+conclusive. Some studies have supported the associations
+for high job control [6,14­18], high psychological job
+demands [6] and an active job [6,15,19]. But other stud-
+ies have not supported the associations for high job con-
+trol [12,20], high psychological job demands [12,14­18,20]
+and an active job [14,21,22]. In addition, only a few stud-
+ies [15,16,19,20,22] examined the associations after con-
+trolling for possible confounders such as socioeconomic
+status, physical effort at work, and working hours. Further-
+more, to our knowledge, few studies [15] have examined
+the associations in US workers from diverse occupations
+and industries.
+The aim of this study is to examine whether psychosocial
+work characteristics are associated with active (moderate
+or vigorous level) LTPA in middle-aged US workers, using
+a recent US national dataset.
+much during the last fifteen years. The reasons for this
+situation are not well understood and there may well be
+important unidentified social and environmental deter-
+minants of leisure-time physical activity (LTPA). This
+study explores the role of psychosocial work character-
+istics such as job control, psychological job demands,
+and their combinations as occupational determinants
+of LTPA in US workers.
+Theories: the relationship between work and LTPA
+A number of sociologists [6­9] have postulated that work
+characteristics could affect leisure-time activities of work-
+ers and, generally, there would be a similarity rather
+than an antithesis between work and non-work activities
+(called "spill-over hypothesis" vs. "compensation hy-
+pothesis"). Meissner [7] suggested, in a study on manual
+workers at a Canadian wood-product manufacturing fac-
+tory, that "the design of industrial work creates or pre-
+vents opportunities for the development or maintenance
+of discretionary and social skills. When choice of action is
+suppressed by the spatial, temporal, and functional con-
+straints of the work process, worker capacity for meeting
+the demands of spare-time activities which require discre-
+tion is reduced. They engage less in those activities which
+necessitated planning, coordination, and purposeful ac-
+tion" (p. 260). In the study, Meissner [7] reported that
+those who had high job discretion engaged more frequent-
+ly in sports activities during their leisure time, in contrast,
+those who had low job discretion engaged more frequently
+in sedentary activities at home (e.g., going for a drive, TV
+watching) during their leisure time.
+Karasek [6] also proposed a similar, but more sophisti-
+cated hypothesis based on the two concepts -- job con-
+trol (opportunities at work for learning and decision
+making) and psychological job demands (degree of men-
+tal work demands). According to the active-passive hy-
+pothesis of the demand-control (DC) model [6,10], those
+who have an "active job" (a combination of high control
+and high demands) would develop "more skills through
+the trial/failure/success learning process" [10, p. 93] and
+an active personality ("feeling of mastery or confidence",
+p. 98). Thus, they would be most active in leisure activities
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 241
+gender. However, in the follow-up, less-educated per-
+sons and non-whites were relatively more likely to have
+dropped out of the study. For the MIDUS II study, 4963
+persons (males, 47% and females, 53%) completed a tele-
+phone interview only (N = 931) and both the interview
+and mailed questionnaires (N = 4032). For this analysis,
+we first restricted study subjects to those (N = 2292) who
+completed both the interview and mailed questionnaires
+(N = 4032), were not pregnant (N = 4954), were work-
+ing a paid-job (at least one hour per week at a main job)
+in the MIDUS II survey (N = 2469), and were aged less
+than70years(N=4177).Finally2019workers(1001males
+and 1018 females) who had valid information on the expo-
+sure and outcome variables (see below) were chosen for
+this analysis.
+Main exposures -- job control, psychological job
+demands, and their combinations
+Both job control and psychological job demands were as-
+sessed by self-administered questionnaire items, similar
+to the ones of the Job Content Questionnaire (JCQ) [24].
+Job control was measured with five items about skill dis-
+cretion (2 items; e.g., "How often do you learn new things
+at work?") and decision authority (3 items; e.g., "How of-
+ten do you have a choice in deciding how you do your tasks
+at work?"). Psychological job demands were measured
+with three items about work intensity, workload, and time
+pressure (e.g., "How often do you have enough time to
+get everything done?" -- reverse scored). More detailed
+information about the items is available elsewhere [25].
+The items had a five-point Likert type of response set: all
+of the time (1) to never (5) and were summed up for scal-
+ing-scoring. The Cronbach alphas of job control and psy-
+chological job demands were 0.81 and 0.68, respectively.
+For analysis, the two scale scores were divided into four
+groups based on their quartiles. The lowest groups of job
+control and psychological job demands scale scores were
+chosen as the reference for analysis (see below).
+The four quadrants of the DC model -- active, low strain,
+high strain, and passive jobs -- were created by two differ-
+ent methods: a) based on the medians of job control and
+psychological job demands (hereafter called "four-group
+METHODS
+Study population
+Data from the National Survey of Midlife Development
+in the United States (MIDUS) II study [23] were used
+for this study. Information on physical effort at work
+and leisure-time physical activity was not available in
+the MIDUS I study, so it was not possible to perform
+a longitudinal analysis. From 1995 to 1996, the MacAr-
+thur Midlife Research Network carried out a nation-
+al survey (i.e., MIDUS I study) to investigate the role
+of behavioral, psychological, and social factors in un-
+derstanding age-related differences in physical and
+mental health [23]. In the MIDUS I study, 7108 persons
+(males, 48% and females, 52%) completed a telephone
+interview only (N = 783) or both the interview and
+mailed questionnaires (N = 6325). All of the participants
+were non-institutionalized, English-speaking adults,
+aged 25­74, in the US. They were drawn from four sub-
+samples: (a) a national random-digit-dial (RDD) sample
+(N = 3487); (b) oversamples from five metropolitan ar-
+eas (N = 757); (c) siblings of individuals from the RDD
+sample (N = 950); and (d) a national RDD sample
+of twin pairs (N = 1914). The response rates of the four
+subsamples ranged from 60% to 70%. The four subsam-
+ples were very similar to one another in terms of the dis-
+tributions of age, education, and gender [23]. The socio-
+demographic characteristics of the RDD subsample were
+comparable to those of a US population representative
+sample, the October 1995 Current Population Survey
+(http://www.census.gov/cps). However, the RDD sub-
+sample relatively underrepresented those who were
+black, young (e.g., aged 25 to 34), or had less education
+(i.e., 12 or less than 12 years of formal education) [23].
+A follow-up survey of the participants of the
+MIDUS I study respondents was conducted from 2004
+to 2006. The average follow-up interval was approximate-
+ly 9 years later and ranged from 7.8 to 10.4 years. The lon-
+gitudinal retention rates among the four subsamples
+ranged from 65% to 78% (on average, 70%). There were
+no significant (p < 0.01) differences between the follow-
+up participants and non-participants in terms of age and
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+242
+Covariates
+Various potential covariates were considered in the analy-
+sis: data sources, socio-demographic measures [4,27­31],
+other working conditions [6,16,17,22,27,32,33], health
+conditions [28,34], and health behaviors [28­30]. Spe-
+cifically, four data sources: city; siblings; and twin sub-
+samples (vs. the national random subsample), age (< 40;
+40 to 49; 50 to 59; and  60 years old), sex, marital status
+(married and non-married), race (whites vs. others), an-
+nual household income (< $ 60 000; $ 60 000 to $ 99 999;
+and  $100 000), and education (high -- university/gradu-
+ate school graduate; middle -- some college education,
+but unfinished; and low -- high school graduate and lower
+education). Working conditions were measured by ques-
+tionnaire items: physical effort at work (1 item), coworker
+(2 items) and immediate supervisor (2 items) support,
+and no coworkers (2 items) and immediate supervisors
+(2 items). More detailed information about the items is
+available elsewhere [25]. In addition, hours of work per
+week at a main job ( 40 hrs and > 40 hrs per week) and
+other paid jobs (yes vs. no) were also self-reported.
+The following health conditions and health behaviors were
+measured: major depression assessed by the telephone in-
+terview, based on the Diagnostic and Statistical Manual
+of Mental Disorders III-R [35]; chronic diseases (those
+who have experienced or been treated for any of the fol-
+lowing during the past 12 months: arthritis, sciatica, recur-
+ring stomach trouble or diarrhea, persistent foot troubles,
+trouble with varicose veins, multiple sclerosis, stroke, and
+hernia; or those who have ever had heart problems or ever
+had cancer); obesity (body mass indexes based on self-re-
+ported height and weight information,  30 kg/m2) [36];
+smoking (current smokers vs. non-smokers); alcohol con-
+sumption (moderate drinking -- up to two drinks per day
+for men and one drink per day for women [37] during
+the past month and heavy drinking -- more than mod-
+erate drinking vs. no drinking); and stress-induced over-
+eating (those who endorsed either of the following two
+items about "how you respond when you are confronted
+with difficult or stressful events in your life": "I eat more
+than I usually do" and "I eat more of my favorite foods to
+make myself feel better").
+definition"); and b) based on the quartiles of job control
+and psychological job demands (resulting in 16 possible
+cells) [26, see Figure 2-e, p. 195] for avoiding potential
+misclassification of the four quadrants of the DC model
+around the medians of job control and psychological job
+demands. The 4 cells in the middle were labeled as "mid-
+dle group" and the other 12 cells (3 corner cells for each)
+were labeled as active, low strain, high strain, and passive
+jobs (hereafter called "five-group definition").
+Outcome -- active LTPA
+Active LTPA was defined by moderate or vigorous level
+of LTPA which is long enough to work up a sweat, several
+times a week, during the summer or the winter. It is quite
+consistent with the contemporary minimum recommenda-
+tion of physical activity for US adults [1,3,4]: at least 5 days
+of week for moderate physical activity and at least 3 days
+per week for vigorous physical activity. In detail, vigorous
+andmoderateLTPAwereeachassessedwithoneitem[23]:
+"during your leisure time or free time, how often do you
+engage in vigorous physical activity that causes your heart
+to beat so rapidly that you can feel it in your chest and you
+perform the activity long enough to work up a good sweat
+and are breathing heavily?"; and "during your leisure time
+or free time, how often do you engage in moderate physi-
+cal activity, that is not physically exhausting, but it causes
+your heart rate to increase slightly and you typically work
+up a sweat?", respectively.
+The items were specified further for the summer and
+the winter, considering a possible seasonable variation
+of LTPA. They had a 6-frequency based response set (sev-
+eral times a week, once a week, several times a month,
+once a month, less than once a month, and never). A pre-
+liminary analysis revealed little seasonal (summer vs. win-
+ter) variation in responses to the vigorous and moderate
+physical activity items: Spearman correlations were 0.90
+and 0.87, respectively. Nonetheless, in this study, we
+still retained seasonal specificity in the definition of ac-
+tive LTPA (i.e., during the summer or the winter) to mini-
+mize potential misclassification of the LTPA outcome
+variable (essentially equivalent to controlling for potential
+confounding by season).
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 243
+conditions; Model 3 -- additionally with other working
+conditions, data sources, and socio-demographic variables;
+and Model 4 -- additionally with other working conditions,
+data sources, socio-demographic variables, health condi-
+tions, and health behavior variables. In addition, the above
+multivariate analyses were replicated with stratification
+of the data by sex and education (Table 5) in consider-
+ation of potential interactions between sex, education, and
+the psychosocial work characteristics on active LTPA.
+Statistical analyses
+Descriptive statistics of vigorous and moderate levels
+of LTPA are presented in Table 1. The bivariate associations
+of the study variables with active LTPA were examined by
+chi square tests (Table 2). The associations were then inves-
+tigated through a series of multivariate logistic regression
+models (Tables 3 and 4): Model 1 -- only two variables (job
+control and job demands) or the four quadrants of the DC
+model; Model 2 -- additionally with other working
+Table 1. Prevalence of vigorous and moderate leisure-time physical activity (LTPA) in 2019 US male and female workers
+Level of LTPA
+Men
+N = 1001
+(%)
+Women
+N = 1018
+(%)
+Total
+N = 2019
+(%)
+Vigorous 30.8 28.3 29.5
+Moderate 38.2 39.8 39.0
+Vigorous or moderate 44.8 44.4 44.6
+Table 2. Active leisure-time physical activity prevalence in relation to study variables in 2019 US workers
+Major variable
+category
+Minor variable
+category
+Subcategory
+Frequency
+(%)
+Active LTPA
+(%)
+Data source Subsamples National random 41.9 45.8
+City 9.2 47.8
+Siblings 16.3 43.2
+Twin 32.6 42.8
+Socio-demographic Sex Men 49.6 44.8
+Women 50.4 44.4
+Age (years) < 40 11.7 49.8b
+40­49 34.8 45.9b
+50­59 36.5 45.4b
+ 60 17.0 36.6b
+Marital status Married 73.8 44.6
+Non-married 26.2 44.5
+Race White 92.7 45.8c
+Others 7.3 29.3c
+Education High school or less 25.4 31.4c
+Some college 28.8 40.2c
+University or more 45.8 54.6c
+Annual household income ($) < 60 000 32.7 37.0c
+60 000­99 999 33.1 43.3c
+ 100 000 34.2 53.1c
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+244
+Major variable
+category
+Minor variable
+category
+Subcategory
+Frequency
+(%)
+Active LTPA
+(%)
+Working conditions Job control Lowest group 21.5 36.2c
+2nd lowest group 28.2 42.5c
+2nd highest group 24.6 45.4c
+Highest group 25.8 53.1c
+Quantitative job demands Lowest group 23.9 44.2
+2nd lowest group 18.9 43.6
+2nd highest group 35.7 43.8
+Highest group 21.6 47.2
+Four groups of the DC Passive 21.7 39.5c
+combinations High strain 28.0 40.0c
+Low strain 21.1 48.5c
+Active 29.3 49.9c
+Five groups of the DC Passive 16.5 36.9c
+combinations High strain 17.5 39.5c
+Middle 29.2 42.8c
+Low strain 15.9 51.4c
+Active 20.9 52.1c
+Supervisor support Low 41.6 42.8
+High 42.8 45.3
+No immediate supervisors 15.6 47.3
+Coworker support Low 47.3 43.3
+High 43.1 46.4
+No coworkers 9.6 42.8
+Hours of work per week 40 or less 62.8 43.6
+at a main job > 40 37.2 46.1
+Any other (second) paid jobs No 84.8 43.8a
+Yes 15.2 49.0a
+Physical effort at work Low 56.4 47.6b
+Middle 23.6 40.7b
+High 20.0 40.7b
+Health conditions Any chronic diseases No 48.5 46.5a
+Yes 51.5 42.7a
+Major depression No 92.2 45.0
+Yes 7.8 39.9
+Obesity (BMI  30 kg/m2) No 72.3 48.1c
+Yes 27.7 35.4c
+Health behaviors Stress-induced overeating No 70.9 45.0
+Yes 29.1 43.5
+Current smoker No 84.4 48.4c
+Yes 15.6 24.1c
+Alcohol consumption No 33.5 36.1c
+Moderate 64.2 49.2c
+Heavy 2.3 38.3c
+DC -- demand-control, BMI -- body mass index.
+a p < 0.10, b p < 0.01, c p < 0.001 at chi-square tests.
+Table 2. Active leisure-time physical activity prevalence in relation to study variables in 2019 US workers -- cont.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 245
+Table 3. Odds ratios and their 95% confidence intervals of the study variables (including job control and high psychological job
+demands) for active leisure-time physical activity in US workers (N = 2019)
+Variables Model 1 Model 2 Model 3 Model 4
+Job control
+Lowest 1.00 1.00 1.00 1.00
+2nd lowest 1.32 (1.02­1.71) 1.25 (0.96­1.63) 1.14 (0.87­1.13) 1.09 (0.83­1.44)
+2nd highest 1.48 (1.13­1.92) 1.39 (1.06­1.83) 1.20 (0.90­1.60) 1.18 (0.88­1.57)
+Highest 2.01 (1.55­2.61) 1.93 (1.46­2.57) 1.55 (1.16­2.08) 1.60 (1.18­2.16)
+Job demands
+Lowest 1.00 1.00 1.00 1.00
+2nd lowest 0.93 (0.70­1.22) 0.95 (0.72­1.25) 0.85 (0.64­1.13) 0.84 (0.63­1.13)
+2nd highest 0.95 (0.75­1.20) 0.98 (0.77­1.24) 0.89 (0.69­1.14) 0.87 (0.70­1.12)
+Hhighest 1.10 (0.85­1.43) 1.13 (0.85­1.49) 0.99 (0.72­1.28) 0.92 (0.68­1.24)
+Supervisor support
+Low 0.96 (0.78­1.18) 0.91 (0.73­1.12) 0.92 (0.74­1.14)
+No immediate supervisor 1.05 (0.75­1.45) 1.03 (0.73­1.45) 0.98 (0.69­1.38)
+Coworker support
+Low 0.96 (0.79­1.17) 0.99 (0.81­1.21) 1.02 (0.83­1.25)
+No coworkers 0.78 (0.53­1.15) 0.92 (0.61­1.37) 0.95 (0.63­1.43)
+Working hours (> 40) 1.01 (0.83­1.22) 0.91 (0.74­1.12) 0.94 (0.76­1.16)
+Any other (second) paid jobs 1.27 (0.99­1.62) 1.23 (0.95­1.58) 1.20 (0.93­1.56)
+Physical effort at work
+Middle 0.76 (0.61­0.95) 0.94 (0.74­1.18) 0.96 (0.76­1.21)
+High 0.77 (0.61­0.98) 1.07 (0.83­1.39) 1.12 (0.86­1.46)
+Women (vs. men) 1.05 (0.86­1.27) 1.06 (0.86­1.30)
+Subsample
+Siblings 0.85 (0.65­1.11) 0.84 (0.64­1.10)
+Twin 0.90 (0.72­1.11) 0.88 (0.71­1.10)
+City 1.03 (0.74­1.44) 1.03 (0.73­1.45)
+Age (years)
+40­49 0.88 (0.64­1.19) 0.85 (0.62­1.17)
+50­59 0.83 (0.61­1.13) 0.80 (0.59­1.10)
+ 60 0.63 (0.44­0.90) 0.60 (0.41­0.87)
+Non-married 1.30 (1.03­1.64) 1.39 (1.09­1.76)
+Race (non-white) 0.47 (0.32­0.69) 0.51 (0.35­0.76)
+Education
+Middle 0.63 (0.51­0.79) 0.72 (0.57­0.90)
+Low 0.46 (0.36­0.59) 0.56 (0.44­0.73)
+Annual household income
+Low 0.61 (0.47­0.79) 0.69 (0.53­0.90)
+Middle 0.80 (0.64­1.01) 0.86 (0.68­1.09)
+Stress-induced overeating 1.01 (0.81­1.26)
+Smoking 0.38 (0.29­0.51)
+Alcohol consumption
+Moderate 1.42 (1.16­1.75)
+Heavy 0.97 (0.51­1.86)
+Any chronic diseases 1.02 (0.84­1.24)
+Major depression 0.87 (0.61­1.26)
+Obesity 0.64 (0.51­0.80)
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+246
+The difference in prevalence of active LTPA between ac-
+tive and passive jobs became slightly larger when the five-
+group definition of the DC model was used than when
+the four-group definition was used.
+Age (younger workers), race (whites), high levels of edu-
+cation and annual household income, low physical effort
+at work, being non-obese, non-smokers, and moderate
+level of alcohol consumption were strongly (p < 0.01) as-
+sociated with active LTPA. Data-source subsamples, sex,
+marital status, supervisor support at work, hours of work
+per week, major depression, and stress-related overeating
+were not associated with active LTPA. Having a chronic
+disease and a second job were marginally (p < 0.10) as-
+sociated with active LTPA.
+Multivariate associations with active LTPA
+Controlling for other working conditions such as social
+supportatwork,hoursofwork,secondjob,andphysicalef-
+fort at work had little effect on the association between job
+control and active LTPA (Table 3). However, the associa-
+tion was attenuated to some extent by socio-demographic
+variables (particularly education and annual household
+income). Nonetheless, the highest level (vs. the lowest
+level) of job control was still significantly associated with
+RESULTS
+Descriptive statistics of active LTPA
+The prevalence of vigorous and moderate levels of LTPA
+was 29.5% and 39.0%, respectively in the study sam-
+ple. Twenty four per cent (24.0%) of the study sample
+engaged in both vigorous and moderate LTPA; 15.1%
+only in moderate LTPA; and 5.5% only in vigorous LTPA.
+Thus, 44.6 % of the study sample engaged in active LTPA
+(i.e., moderate or vigorous LTPA). There was little differ-
+ence in LTPA between men and women (Table 1).
+Bivariate associations with active LTPA
+In bivariate analyses, higher levels of job control were
+significantly (p < 0.001) associated with active LTPA
+(Table 2) in US male and female workers. Active LTPA
+was also slightly higher among workers in the highest
+quartile of psychological job demands; however, this as-
+sociation was not statistically significant. Active LTPA was
+most prevalent in active jobs, while it was least prevalent
+in passive jobs, although the differences were small be-
+tween passive and high strain jobs and between active and
+low strain jobs, reflecting the lack of a significant associa-
+tion between psychological job demands and active LTPA.
+Table 4. Odds ratios (OR) and their 95% confidence intervals (CI) of the combinations of job control and psychological job demands
+for active leisure-time physical activity in US workers (N = 2019)
+Number
+of groups
+Variables
+Model 1
+OR (95% CI)
+Model 2a
+OR (95% CI)
+Model 3b
+OR (95% CI)
+Model 4c
+OR (95% CI)
+4 Passive job 1.00 1.00 1.00 1.00
+High strain 1.02 (0.79­1.32) 1.05 (0.81­1.36) 0.95 (0.73­1.25) 0.94 (0.71­1.24)
+Low strain 1.44 (1.10­1.89) 1.39 (1.06­1.84) 1.18 (0.89­1.57) 1.23 (0.92­1.65)
+Active job 1.53 (1.19­1.96) 1.50 (1.16­1.95) 1.22 (0.93­1.60) 1.22 (0.93­1.61)
+5 Passive job 1.00 1.00 1.00 1.00
+High strain 1.12 (0.82­1.52) 1.17 (0.85­1.61) 1.06 (0.77­1.47) 1.07 (0.77­1.50)
+Middle 1.28 (0.97­1.68) 1.27 (0.96­1.68) 1.09 (0.81­1.45) 1.27 (0.96­1.68)
+Low strain 1.81 (1.32­2.47) 1.78 (1.29­2.45) 1.50 (1.08­2.09) 1.60 (1.14­2.25)
+Active job 1.86 (1.39­2.49) 1.86 (1.37­2.53) 1.43 (1.04­1.97) 1.46 (1.06­2.03)
+a Other working conditions (supervisor and coworker support, hours of work per week at a major job, any other paid jobs, and physical effort at work)
+were controlled for.
+b Covariates in Model 2 plus sources of subsamples and socio-demographic variables (age, sex, marital status, race, education, and annual household
+income) were controlled for.
+c Covariates in Model 3 plus health behaviors (stress-induced overeating, current smoker, and alcohol consumption) and health conditions (any
+chronic diseases, major depression, and obesity) were controlled for.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 247
+Table 5. Odds ratios and their 95% confidence intervals of the combinations of job control and psychological job demands for active leisure-time physical activity
+in US workers by gender and education
+Variables
+Men Women
+model 1 model 2a model 3b model 4c model 1 model 2a model 3b model 4c
+high education (N = 761) high education (N = 746)
+Job control
+Lowest 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+2nd lowest 1.20 (0.76­1.90) 1.12 (0.70­1.80) 1.08 (0.66­1.75) 1.08 (0.65­1.77) 1.35 (0.88-2.06) 1.35 (0.87­2.07) 1.39 (0.89­2.18) 1.25 (0.79­1.98)
+2nd highest 1.56 (0.99­2.45) 1.47 (0.91­2.36) 1.43 (0.88­2.33) 1.44 (0.87­2.38) 1.27 (0.82­1.96) 1.26 (0.80­1.98) 1.15 (0.72­1.84) 1.05 (0.65­1.70)
+Highest 2.11 (1.35­3.30) 2.08 (1.26­3.44) 1.89 (1.13­3.16) 1.88 (1.10­3.21) 2.06 (1.31­3.22) 1.97 (1.23­3.18) 1.76 (1.08­2.89) 1.76 (1.06­2.92)
+Passive 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Strain
+High 1.63 (0.93­2.86) 1.62 (0.92­2.87) 1.38 (0.77­2.49) 1.55 (0.84­2.86) 0.84 (0.51­1.39) 0.84 (0.50­1.41) 0.75 (0.44­1.30) 0.80 (0.46­1.39)
+Middle 1.59 (0.96­2.62) 1.51 (0.90­2.52) 1.37 (0.81­2.32) 1.53 (0.89­2.63) 0.98 (0.63­1.51) 0.97 (0.62­1.51) 0.89 (0.57­1.41) 0.88 (0.55­1.40)
+Low 2.73 (1.59­4.69) 2.75 (1.55­4.86) 2.54 (1.42­4.55) 2.81 (1.54­5.15) 1.16 (0.70­1.93) 1.12 (0.67­1.88) 0.98 (0.57­1.68) 1.03 (0.59­1.78)
+Active job 2.42 (1.45­4.05) 2.31 (1.34­4.00) 1.95 (1.10­3.44) 2.08 (1.16­3.74) 1.58 (0.98­2.55) 1.53 (0.93­2.52) 1.24 (0.74­2.07) 1.26 (0.74­2.13)
+low education (N = 240) low education (N = 272)
+Job control
+Lowest 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+2nd lowest 1.10 (0.54­2.63) 1.09 (0.51­2.30) 1.00 (0.45­2.24) 1.13 (0.48­2.62) 1.25 (0.64­2.46) 1.14 (0.56­2.32) 1.25 (0.59­2.68) 1.19 (0.55­2.59)
+2nd highest 1.20 (0.55­2.63) 1.21 (0.52­2.82) 1.01 (0.41­2.51) 1.14 (0.43­3.05) 1.04 (0.48­2.27) 1.00 (0.44­2.27) 1.12 (0.46­2.71) 1.15 (0.46­2.87)
+Highest 0.58 (0.26­1.28) 0.57 (0.24­1.37) 0.40 (0.16­1.02) 0.43 (0.16­1.13) 2.67 (1.27­5.64) 2.77 (1.26­6.10) 2.60 (1.09­6.21) 2.67 (1.09­6.55)
+Passive 1.00 1.00 1.00 1.00 1.00 1.00 1.00 1.00
+Strain
+High 0.87 (0.37­2.02) 1.01 (0.41­2.48) 1.10 (0.42­2.87) 0.90 (0.33­2.46) 1.32 (0.61­2.83) 1.37 (0.59­3.15) 1.35 (0.56­3.28) 1.38 (0.55­3.41)
+Middle 1.14 (0.51­2.56) 1.30 (0.56­3.03) 1.24 (0.51­3.03) 1.27 (0.50­3.24) 1.19 (0.55­2.53) 1.13 (0.51­2.49) 1.06 (0.46­2.48) 0.96 (0.40­2.31)
+Low 0.79 (0.29­2.14) 0.88 (0.30­2.55) 0.65 (0.21­2.02) 0.53 (0.16­1.76) 2.49 (1.06­5.86) 2.63 (1.10­6.31) 3.17 (1.18­8.51) 3.69 (1.27­10.71)
+Active job 0.64 (0.26­1.59) 0.73 (0.28­1.91) 0.61 (0.22­1.65) 0.58 (0.20­1.63) 2.30 (0.95­5.54) 2.49 (0.97­6.38) 2.27 (0.84­6.16) 2.06 (0.72­5.87)
+a Other working conditions (supervisor and coworker support, hours of work per week at a major job, any other paid jobs, and physical effort at work) were controlled for. b Covariates in Model 2 plus sources
+of subsamples and socio-demographic variables (age, marital status, race, education, and annual household income) were controlled for. c Covariates in Model 3 plus health behaviors (stress-induced overeat-
+ing, current smoker, and alcohol consumption) and health conditions (any chronic diseases, major depression, and obesity) were controlled for.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+248
+The associations of active job and low strain job (vs. pas-
+sive job) and LTPA based on the five-group defini-
+tion in two subsamples (male higher education and
+female low education groups) were similar to those in
+the whole sample. However, the combinations of job
+control and psychological job demands were not as-
+sociated with active LTPA in the other two subsam-
+ples: male low education and female higher education
+groups. In the male low education group, longer work
+hours (> 40 hours/week) and the low and middle lev-
+els of annual household income were associated with
+less active LTPA: OR (95% CI) = 0.46 (0.23­0.92);
+0.20 (0.08­0.54); and 0.38 (0.16­0.89), respectively,
+in Model 4. On the other hand, in the female higher
+education group, high physical effort at work was mar-
+ginally (p = 0.06) associated with active LTPA: OR
+(95% CI) = 1.57 (0.98­2.50) in Model 4.
+DISCUSSION
+This study examined the associations between psychoso-
+cial work characteristics and leisure-time physical activity
+in middle-aged US workers, using a recent US national
+(MIDUS II) dataset. In this study, high job control and
+its combinations with psychological job demands (active
+jobs) were identified as possible facilitators of active LTPA
+in the US workers. However, some discrepancies in this
+pattern of results were observed in stratified analyses
+by sex and education level. Particularly, in a subsample
+of male workers with only high school or lower education,
+work hours greater than 40 hours per week and annual
+household income less than $100 000 were associated with
+less active LTPA, while psychosocial work characteristics
+were not associated with active LTPA. Psychological job
+demands alone were not associated with active LTPA.
+These results, if confirmed in prospective analyses, would
+indicate a new avenue for promoting active LTPA in mid-
+dle-aged US workers, i.e., increasing workers' on-the-job
+learning opportunities and workers authority on their
+tasks. However, the lack of a beneficial effect of high job
+control on men with lower levels of education needs to be
+explored further.
+active LTPA in the final model in which health conditions
+and health behaviors were also controlled for (Table 3),
+with an odds ratio (OR) (95% confidence interval (CI))
+of 1.60 (1.18­2.16). Psychological job demands were not
+associated with active LTPA, as in the bivariate analysis.
+Active job (vs. passive job) based on the four group
+definition was significantly associated with active LTPA,
+after controlling for other working conditions:
+OR (95% CI) = 1.50 (1.16­1.95). However, the associa-
+tion was non-significant when additionally controlling
+for socio-demographic variables (particularly education
+and annual household income) (Table 4). However, ac-
+tive job (vs. passive job) based on the five-group defi-
+nition, was significantly associated with active LTPA,
+even after controlling for all of the covariates (Table 4),
+OR (95% CI) = 1.46 (1.06­2.03). Low strain job
+(vs. passive job) was also associated with active LTPA:
+OR (95% CI) = 1.60 (1.14­2.25).
+As in the bivariate analysis, age (younger workers), race
+(whites), high levels of education and annual household
+income, being non-obese, non-smokers, and moderate
+level of alcohol consumption were associated with ac-
+tive LTPA in the multivariate analyses. The one exception
+was low physical effort at work. It was not a significant con-
+tributor when controlling for socio-demographic variables
+(particularly education and annual household income)
+(Model 3 in Table 3).
+Multivariate associations with active LTPA
+by gender and education
+We replicated the above multivariate analyses after strati-
+fying the data by sex and education. For a simpler analy-
+sis, we combined together the high and middle education
+groups (called higher education group). So four sub-sam-
+ples were created for the higher/low education groups
+in each of men and women (see Table 5).
+There were no statistically significant interactions between
+sex, education, and psychological job demands on ac-
+tive LTPA (data not shown here). The highest level of job
+controlwasassociatedwithactiveLTPAinthreeofthefour
+subsamples. However, this was not the case in a subsample
+of male workers with low education (N = 240).
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 249
+low LTPA in men, but not in women. However, the study
+did not provide information about any variation in LTPA
+among the three non-active jobs (active, high strain, and
+low strain), which would be useful for more fully explor-
+ing the active-passive hypothesis of the DC model for
+active LTPA.
+Implications for theories and policies
+Strictly speaking, this study did not support the active-
+passive hypothesis in that the prevalence of active LTPA
+was greater in low strain jobs than in active jobs, which
+is a deviation from the predicted gradient of LTPA along
+the active-passive axis. In other studies, LTPA was also
+most prevalent in low strain jobs among the four quad-
+rants of the DC model [14,18,22], although this was not
+always the case [15,21].
+These findings indicate that not only the active-passive
+hypothesis, but also the "strain" hypothesis (a low strain
+job would be least stressful while a high strain job would
+be most stressful to workers) of the DC model may play
+a role in active LTPA of workers. That is, the accumula-
+tion of strain in a high strain job could inhibit workers
+from engaging in LTPA. Landsbergis et al. [40, Figure 1]
+illustrated how the two distinct hypotheses could explain
+the same health behavior via different mechanisms (work
+strain vs. learned passivity) in workers. If the two mecha-
+nisms work together in reality and the relative importance
+of each mechanism could be determined in context, it
+might be difficult to expect a clear gradient of LTPA along
+the active-passive axis of the DC model in empirical stud-
+ies. Future longitudinal epidemiological studies in which
+qualitative methods [41] are also employed to investigate
+the two mechanisms in detail would be needed for testing
+the above speculation.
+On the other hand, this study implies that other work-
+related factors such as longer work hours and low annual
+household income are important occupational determi-
+nants of LTPA and may be more important than the psy-
+chosocial work characteristics in less-educated male work-
+ers. The importance of time and money [8] as material
+resources for off-the-job participation should not be ig-
+nored. Overtime, along with shift work and second job,
+Comparisons with other studies
+The results of this study were similar to those of the only
+other previous US study [15] from 32 worksites in Min-
+nesota, that is job control and active jobs were associated
+with LTPA, but psychological job demands were not as-
+sociated with LTPA. Our study has some advantages over
+the previous study. First, this study was based on a na-
+tional US survey, thus its results could be more generaliz-
+able to the US working population. Second, this study ad-
+dressed as its main outcome specifically the contemporary
+recommended minimum level of physical activity for US
+adults [3,4]. In addition, this study revealed that associa-
+tions could be gender- and social status-specific. Thus its
+results would be more informative in evaluating and estab-
+lishing public health policies for US adults.
+The results of this study for job control and psychologi-
+cal job demands and LTPA are also consistent with those
+of the majority of non-US studies. Five studies [6,14­18]
+supported the association between job control and LTPA
+at least in either men or women. Although one Japanese
+study [20] in 12 rural communities generally did not sup-
+port the association, it also reported a significant associa-
+tion between job control and LTPA in a subsample with
+female workers (farming and forestry, and fisheries). One
+study [12] from the United Kingdom did not support
+the association, but limited variation in job control existed
+among its study subjects, which might make it harder to
+detect an association. Only one study [6] reported a bivari-
+ate association between high psychological job demands
+and LTPA. However, none of the other studies [12,14,
+16­18,20] supported such an association. Even one Swed-
+ish study [16] reported that a high level of psychological
+job demands (hectic job and psychologically demanding
+job) was a risk factor for sedentary LTPA in women.
+In this study, although the association between active
+jobs (vs. passive jobs) and active LTPA was supported
+in the whole sample, it was not supported in two out
+of the four subsamples. Similarly, the association has been
+inconsistent across the other studies or between men and
+women [6,14,15,21,22,38]. A recent prospective analy-
+sis [39] from the Whitehall II study reported that "pas-
+sive jobs" (vs. all non­passive jobs) is a risk factor for
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+250
+represents certain racial and ethnic groups (e.g., blacks)
+and people with low level of education. Thus, interpreta-
+tions of the study results should be made in consideration
+of the "selective" characteristics of study subjects. Third,
+self-reported measures of psychosocial work character-
+istics and active LTPA could be vulnerable to self-report
+bias. However, the measures of job control and psycho-
+logical job demands in this study were quite similar to
+those of the JCQ, which has been extensively validated
+in several working populations including the US [49].
+Although the meanings of some items of the JCQ psy-
+chological job demands scale (work fast and work hard
+items) [49,50] could be interpreted differently by social
+status (white collar vs. blue collar), our psychological job
+demands measure did not include such items. In addi-
+tion, we minimized this possibility via a stratified analy-
+sis by education level and adjustment for physical effort
+at work. In addition, the information from single items
+based on either a sweat episode or heart rate/breath-
+ing [30,51,52], very similar to the physical activity items
+in this study, were validated against the information from
+long physical activity questionnaires or a physical activity
+monitor in US adults. So we do not believe that such self-
+report bias, if any, would significantly bias our results.
+ACKNOWLEDGEMENTS
+This work was supported by a grant from the Center for So-
+cial Epidemiology (Marina Del Rey, California): Proposal
+No. 48004, University of California Irvine.
+REFERENCES
+1.
+Pate RR, Pratt M, Blair SN, Haskell WL, Macera CA,
+Bouchard C, et al. Physical activity and public health. A recom-
+mendation from the Centers for Disease Control and Prevention
+and the American College of Sports Medicine. J Am Med As-
+soc 1995;273(5):402­7.
+2.
+Physical Activity Guidelines Advisory Committee (US).
+Physical Activity Guidelines Advisory Committee Report, 2008.
+Washington: Department of Health and Human Servic-
+es; 2008.
+was reported by blue-collar workers as a main barrier to
+their participation in a workplace health promotion pro-
+gram [42]. Low income has been a well-documented risk
+factor for LTPA [31]. It may have additional meanings for
+less-educated male workers for LTPA, although we cannot
+rule out the possibility of a residual socioeconomic status
+effect of income.
+This study suggests that job control may be an important
+occupational determinant of active LTPA in middle-aged
+US workers. Jaffee and Rex [43] noted one common fea-
+ture of female workers who were not actively engaged
+in physical activity: "it is possible that women who were
+not active have never been active and don't know how
+to start or how to implement an exercise plan" (p. 27).
+Having on-the-job learning opportunities and decision
+authority on their tasks, known to be beneficial to pre-
+venting common mental disorders [44] and cardiovascu-
+lar diseases [45], could be also conductive to active LTPA
+in US workers. However, unfortunately, psychosocial
+work characteristics have been disregarded in recent lit-
+erature reviews [31,46] on social and environmental de-
+terminants of LTPA. In order to promote LTPA in US
+workers, we need to seriously take into consideration
+psychosocial work characteristics as a new avenue, which
+is philosophically consistent with an ecological health
+promotion model [47].
+Limitations
+This study has several limitations. First, despite the con-
+sistency with other studies, we cannot draw causal in-
+ferences about the association between psychosocial
+work characteristics on active LTPA in US workers
+based on this secondary analysis of cross-sectional data.
+Although we cannot rule out the possibility of reverse
+causation, we believe that the directionality of the asso-
+ciation would be likely to be forward rather than back-
+ward since most people cannot choose or change working
+conditions as easily as they can do LTPA [48]. Second,
+although the MIDUS II was a national study, with par-
+ticipants recruited from diverse occupations and indus-
+tries across the US, it is not necessarily representative
+of the entire US working population. The dataset under-
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 251
+3.
+Haskell WL, Lee IM, Pate RR, Powell KE, Blair SN, Frank-
+lin BA, et al. Physical activity and public health: updated rec-
+ommendation for adults from the American College of Sports
+Medicine and the American Heart Association. Circula-
+tion 2007;116(9):1081­93.
+4.
+U.S. Department of Health and Human Services. Healthy
+People 2010: Understanding and Improving health. 2nd ed.
+Washington: Government Printing Office; 2000.
+5.
+Centers for Disease Control and Prevention (CDC).
+Behavioral risk factor surveillance system survey data. Atlanta:
+Department of Health and Human Services, Centers for
+Disease Control and Prevention; 2010.
+6.
+Karasek RA. The impact of the work environment on life out-
+side the job [dissertation]. Boston: Massachusetts Institute
+of Technology; 1976.
+7.
+Meissner M. The long arm of the job: a study of work and
+leisure. Ind Relat 1971;10:239­60.
+8.
+Staines GL, Pagnucco D. Work and non-work: part II --
+an empirical study. In: Survey Research Center. Effectiveness
+in Work Roles: Employee Responses to Work Environments.
+Vol. 1. Springfield: National Technical Information Ser-
+vice; 1977. p. 729­815.
+9.
+Wilensky HL. Orderly careers and social participation: the im-
+pact of work history on social integration in the middle mass.
+Am Sociol Rev 1961;26:521­39.
+10.
+Karasek RA, Theorell T. Healthy work: stress, productiv-
+ity, and the reconstruction of working life. New York: Basic
+Books; 1990.
+11.
+Ajzen I. The theory of planned behavior. Organ Behav Hum
+Decis Process 1991;50:179­211.
+12.
+Payne N, Jones F, Harris P. The impact of working life
+on health behavior: the effect of job strain on the cognitive
+predictors of exercise. J Occup Health Psychol 2002;7(4):
+342­53.
+13.
+Prochaska JO, DiClemente CC, Norcross JC. In search
+of how people change. Applications to addictive behaviors. Am
+Psychol 1992;47(9):1102­14.
+14.
+Brisson C, Larocque B, Moisan J, Vézina M, Dagenais GR.
+Psychosocial factors at work, smoking, sedentary behavior, and
+body mass index: a prevalence study among 6995 white collar
+workers. J Occup Environ Med 2000;42(1):40­6.
+15.
+Hellerstedt WL, Jeffery RW. The association of job strain
+and health behaviours in men and women. Int J Epidemi-
+ol 1997;26(3):575­83.
+16.
+Johansson G, Johnson JV, Hall EM. Smoking and sed-
+entary behavior as related to work organization. Soc Sci
+Med 1991;32(7):837­46.
+17.
+Jönsson D, Rosengren A, Dotevall A, Lappas G, Wilhelm-
+sen L. Job control, job demands and social support at work
+in relation to cardiovascular risk factors in MONICA 1995,
+Göteborg. J Cardiovasc Risk 1999;6(6):379­85.
+18.
+Kouvonen A, Kivimäki M, Elovainio M, Virtanen M,
+Linna A, Vahtera J. Job strain and leisure-time physical
+activity in female and male public sector employees. Prev
+Med 2005;41(2):532­9.
+19.
+Lallukka T, Sarlio-Lähteenkorva S, Roos E, Laaksonen M,
+Rahkonen O, Lahelma E. Working conditions and health
+behaviours among employed women and men: the Helsinki
+Health Study. Prev Med 2004;38(1):48­56.
+20.
+Tsutsumi A, Kayaba K, Yoshimura M, Sawada M, Ishika-
+wa S, Sakai K, et al. Association between job characteristics
+and health behaviors in Japanese rural workers. Int J Behav
+Med 2003;10(2):125­42.
+21.
+Ali SM, Lindström M. Psychosocial work conditions, un-
+employment, and leisure-time physical activity: a population-
+based study. Scand J Public Health 2006;34(2):209­16.
+22.
+Wemme KM, Rosvall M. Work related and non-work re-
+lated stress in relation to low leisure time physical activ-
+ity in a Swedish population. J Epidemiol Community
+Health 2005;59(5):377­9.
+23.
+Ryff C, Almeida DM, Ayanian JS, Carr DS, Cleary PD,
+Coe C, et al. Midlife Development in the United States
+(MIDUS II), 2004­2006 [computer file]. ICPSR04652-v1.
+Ann Arbor (MI): Inter-university Consortium for Political
+and Social Research [distributor], 2007-03-22. DOI 10.3886/
+ICPSR04652; 2007.
+24.
+Karasek RA, Gordon G, Pietrokovsky C, Frese M, Piep-
+er C, Schwartz J, et al. Job content questionnaire and user's
+guide. Los Angeles, Lowell: University of Southern Califor-
+nia / University of Massachusetts; 1985.
+25.
+Choi B, Schnall P, Yang H, Dobson M, Landsbergis P,
+Israel L, et al. Sedentary work, low physical job demand, and
+obesity in US workers. Am J Ind Med. In press 2010.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+O R I G I N A L P A P E R S B. CHOI et al.
+IJOMEH 2010;23(3)
+252
+38.
+Lallukka T, Lahelma E, Rahkonen O, Roos E, Laaksonen E,
+Martikainen P, et al. Associations of job strain and working over-
+time with adverse health behaviors and obesity: evidence from
+the Whitehall II Study, Helsinki Health Study, and the Japanese
+Civil Servants Study. Soc Sci Med 2008;66(8):1681­98.
+39.
+Gimeno D, Elovainio M, Jokela M, de Vogli R, Marmot MG,
+Kivimäki M. Association between passive jobs and low levels
+of leisure-time physical activity: the Whitehall II cohort study.
+Occup Environ Med 2009;66(11):772­6.
+40.
+Landsbergis PA, Schnall PL, Deitz DK, Warren K, Picker-
+ing TG, Schwartz JE. Job strain and health behaviors: results of
+a prospective study. Am J Health Promot 1998;12(4):237­45.
+41.
+Harley AE, Buckworth J, Katz ML, Willis SK, Odoms
+Young A, Heaney CA. Developing long-term physical activity
+participation: a grounded theory study with African American
+women. Health Educ Behav 2009;36(1):97­112.
+42.
+Alexy B. Workplace health promotion and the blue collar
+worker. AAOHN J 1990;38(1):12­6.
+43.
+Jaffee L, Lutter JM, Rex J, Hawkes C, Bucaccio P. Incen-
+tives and barriers to physical activity for working women. Am
+J Health Promot 1999;13(4):215­8.
+44.
+Stansfeld S, Candy B. Psychosocial work environment and
+mental health -- a meta-analytic review. Scand J Work Envi-
+ron Health 2006;32(6):443­62.
+45.
+Belkic K, Landsbergis P, Schnall P, Baker D, Theorell T,
+Siegrist J, et al. Psychosocial factors: review of the empiri-
+cal data among men. In: Schnall P, Belkic K, Landsbergis P,
+Baker D, editors. Occupational Medicine: State of the Art Re-
+views -- The Workplace and Cardiovascular Disease. Phila-
+delphia: Hanley & Belfus; 2000. p. 24­46.
+46.
+Wendel-Vos W, Droomers M, Kremers S, Brug J, van Len-
+the F. Potential environmental determinants of physical activity
+in adults: a systematic review. Obes Rev 2007;8(5):425­40.
+47.
+DeJoy DM, Southern DJ. An integrative perspective on work-
+site health promotion. J Occup Med 1993;35(12):1221­30.
+48.
+Staines GL. Spillover versus compensation: a review of the lit-
+erature on the relationship between work and non-work. Hum
+Relat 1980;33:111­29.
+49.
+Karasek RA, Brisson C, Kawakami N, Houtman I, Bongers P,
+Amick B. The job content questionnaire (JCQ): an instrument
+for internationally comparative assessment of psychosocial job
+characteristics. J Occup Health Psychol 1998;3:322­55.
+26.
+Karasek RA, Choi B, Ostergren PO, Ferrario M, de Smet P.
+Testing two methods of comparable scale scoring between
+the JCQ and JCQ-like Questionnaires in the JACE study. Int
+J Behav Med 2007;14(4):189­201.
+27.
+Marshall SJ, Jones DA, Ainsworth BE, Reis JP, Levy SS,
+Macera CA. Race/ethnicity, social class, and leisure-time phys-
+ical inactivity. Med Sci Sports Exerc 2007;39(1):44­51.
+28.
+Plotnikoff RC, Mayhew A, Birkett N, Loucaides CA,
+Fodor G. Age, gender, and urban-rural differences in the cor-
+relates of physical activity. Prev Med 2004;39(6):1115­25.
+29.
+Pomerleau J, McKee M, Robertson A, Vaasc S, Kadziaus-
+kiene K, Abaravicius A, et al. Physical inactivity in the Baltic
+countries. Prev Med 2000;31(6):665­72.
+30.
+Sallis JF, Hovell MF, Hofstetter CR, Faucher P, Elder JP,
+Blanchard J, et al. A multivariate study of determinants of vig-
+orous exercise in a community sample. Prev Med 1989;18(1):
+20­34.
+31.
+Trost SG, Owen N, Bauman AE, Sallis JF, Brown W. Cor-
+relates of adults' participation in physical activity: review and
+update. Med Sci Sports Exerc 2002;34(12):1996­2001.
+32.
+Burton NW, Turrell G. Occupation, hours worked, and leisure-
+time physical activity. Prev Med 2000;31(6):673­81.
+33.
+Schneider S, Becker S. Prevalence of physical activity among
+the working population and correlation with work-related fac-
+tors: results from the first German National Health Survey.
+J Occup Health 2005;47(5):414­23.
+34.
+Brownson RC, Baker EA, Housemann RA, Bren-
+nan LK, Bacak SJ. Environmental and policy determi-
+nants of physical activity in the United States. Am J Public
+Health 2001;91(12):1995­2003.
+35.
+American Psychiatric Association (APA). Diagnostic and
+Statistical Manual of Mental Disorders: DSM III-R. Washing-
+ton: The institute; 1987.
+36.
+World Health Organization (WHO). Obesity: Preventing
+and Managing the Global Epidemic. Geneva: The insti-
+tute; 2000.
+37.
+US Department of Health and Human Services (USD
+HHS) and US Department of Agriculture (USDA).
+Dietary Guidelines for Americans 2005. Available from:
+http://www.health.gov/dietaryguidelines/dga2005/document/
+pdf/DGA2005.pdf.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+WORK AND LEISURE TIME PHYSICAL ACTIVITY  O R I G I N A L P A P E R S
+IJOMEH 2010;23(3) 253
+50.
+Choi B, Kawakami N, Chang S, Koh S, Bjorner J, Punnett L,
+et al. A cross-national study on the multidimensional charac-
+teristics of the five-item psychological demands scale of the Job
+Content Questionnaire. Int J Behav Med 2008;15(2):120­32.
+51.
+Rauh MJ, Hovell MF, Hofstetter CR, Sallis JF, Gleghorn A.
+Reliability and validity of self-reported physical activity in Lati-
+nos. Int J Epidemiol 1992;21(5):966­71.
+52.
+Washburn RA, Goldfield SR, Smith KW, McKinlay JB.
+The validity of self-reported exercise-induced sweating
+as a measure of physical activity. Am J Epidemiol
+1990;132(1):107­13.
+Unauthenticated | 54.80.149.132
+Download Date | 3/15/14 12:40 PM
+
