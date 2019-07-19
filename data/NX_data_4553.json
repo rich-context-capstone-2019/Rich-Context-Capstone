@@ -1,0 +1,1377 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "community": 13,
+      "id": "pub_1536"
+    },
+    {
+      "community": 13,
+      "id": "St. Paul"
+    },
+    {
+      "community": 13,
+      "id": "data_4092"
+    },
+    {
+      "community": 13,
+      "id": "San Francisco"
+    },
+    {
+      "community": 4,
+      "id": "1993"
+    },
+    {
+      "community": 13,
+      "id": "Miami"
+    },
+    {
+      "community": 13,
+      "id": "1978"
+    },
+    {
+      "community": 13,
+      "id": "data_5366"
+    },
+    {
+      "community": 13,
+      "id": "housing conditions"
+    },
+    {
+      "community": 5,
+      "id": "energy consumption"
+    },
+    {
+      "community": 13,
+      "id": "Florida"
+    },
+    {
+      "community": 13,
+      "id": "San Jose"
+    },
+    {
+      "community": 13,
+      "id": "Michigan"
+    },
+    {
+      "community": 13,
+      "id": "District of Columbia"
+    },
+    {
+      "community": 3,
+      "id": "United States"
+    },
+    {
+      "community": 13,
+      "id": "data_6441"
+    },
+    {
+      "community": 13,
+      "id": "neighborhood conditions"
+    },
+    {
+      "community": 3,
+      "id": "1985"
+    },
+    {
+      "community": 3,
+      "id": "2007"
+    },
+    {
+      "community": 13,
+      "id": "relocation"
+    },
+    {
+      "community": 13,
+      "id": "St. Petersburg"
+    },
+    {
+      "community": 6,
+      "id": "pub_2340"
+    },
+    {
+      "community": 13,
+      "id": "1980"
+    },
+    {
+      "community": 4,
+      "id": "1995"
+    },
+    {
+      "community": 13,
+      "id": "Boston"
+    },
+    {
+      "community": 5,
+      "id": "home ownership"
+    },
+    {
+      "community": 13,
+      "id": "housing occupancy"
+    },
+    {
+      "community": 13,
+      "id": "California"
+    },
+    {
+      "community": 13,
+      "id": "housing units"
+    },
+    {
+      "community": 13,
+      "id": "municipal services"
+    },
+    {
+      "community": 13,
+      "id": "Minneapolis"
+    },
+    {
+      "community": 13,
+      "id": "energy conservation"
+    },
+    {
+      "community": 13,
+      "id": "housing"
+    },
+    {
+      "community": 13,
+      "id": "property insurance"
+    },
+    {
+      "community": 13,
+      "id": "Texas"
+    },
+    {
+      "community": 3,
+      "id": "1998"
+    },
+    {
+      "community": 13,
+      "id": "data_5358"
+    },
+    {
+      "community": 13,
+      "id": "property taxes"
+    },
+    {
+      "community": 13,
+      "id": "data_958"
+    },
+    {
+      "community": 4,
+      "id": "1987"
+    },
+    {
+      "community": 13,
+      "id": "Metropolitan Statistical Areas"
+    },
+    {
+      "community": 13,
+      "id": "Baltimore"
+    },
+    {
+      "community": 13,
+      "id": "Houston"
+    },
+    {
+      "community": 13,
+      "id": "property values"
+    },
+    {
+      "community": 13,
+      "id": "Oakland"
+    },
+    {
+      "community": 13,
+      "id": "Tampa"
+    },
+    {
+      "community": 13,
+      "id": "data_7902"
+    },
+    {
+      "community": 13,
+      "id": "Massachusetts"
+    },
+    {
+      "community": 13,
+      "id": "metropolitan statistical areas"
+    },
+    {
+      "community": 13,
+      "id": "Maryland"
+    },
+    {
+      "community": 13,
+      "id": "data_4153"
+    },
+    {
+      "community": 5,
+      "id": "income"
+    },
+    {
+      "community": 6,
+      "id": "living arrangements"
+    },
+    {
+      "community": 5,
+      "id": "transportation"
+    },
+    {
+      "community": 13,
+      "id": "data_4553"
+    },
+    {
+      "community": 13,
+      "id": "Detroit"
+    },
+    {
+      "community": 13,
+      "id": "energy assistance"
+    },
+    {
+      "community": 4,
+      "id": "1991"
+    },
+    {
+      "community": 5,
+      "id": "property repairs"
+    },
+    {
+      "community": 13,
+      "id": "data_6440"
+    },
+    {
+      "community": 47,
+      "id": "1973"
+    },
+    {
+      "community": 13,
+      "id": "data_1853"
+    },
+    {
+      "community": 13,
+      "id": "data_1099"
+    },
+    {
+      "community": 13,
+      "id": "census data"
+    },
+    {
+      "community": 5,
+      "id": "commuting (travel)"
+    },
+    {
+      "community": 13,
+      "id": "utility rates"
+    },
+    {
+      "community": 5,
+      "id": "housing costs"
+    },
+    {
+      "community": 13,
+      "id": "rental housing"
+    },
+    {
+      "community": 13,
+      "id": "Minnesota"
+    }
+  ],
+  "links": [
+    {
+      "source": "pub_1536",
+      "target": "data_958"
+    },
+    {
+      "source": "St. Paul",
+      "target": "data_4553"
+    },
+    {
+      "source": "data_4092",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_4092",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_4092",
+      "target": "energy conservation"
+    },
+    {
+      "source": "data_4092",
+      "target": "energy consumption"
+    },
+    {
+      "source": "data_4092",
+      "target": "home ownership"
+    },
+    {
+      "source": "data_4092",
+      "target": "housing"
+    },
+    {
+      "source": "data_4092",
+      "target": "housing conditions"
+    },
+    {
+      "source": "data_4092",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_4092",
+      "target": "housing occupancy"
+    },
+    {
+      "source": "data_4092",
+      "target": "housing units"
+    },
+    {
+      "source": "data_4092",
+      "target": "income"
+    },
+    {
+      "source": "data_4092",
+      "target": "Metropolitan Statistical Areas"
+    },
+    {
+      "source": "data_4092",
+      "target": "municipal services"
+    },
+    {
+      "source": "data_4092",
+      "target": "neighborhood conditions"
+    },
+    {
+      "source": "data_4092",
+      "target": "property insurance"
+    },
+    {
+      "source": "data_4092",
+      "target": "property taxes"
+    },
+    {
+      "source": "data_4092",
+      "target": "property values"
+    },
+    {
+      "source": "data_4092",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_4092",
+      "target": "relocation"
+    },
+    {
+      "source": "data_4092",
+      "target": "transportation"
+    },
+    {
+      "source": "data_4092",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_4092",
+      "target": "United States"
+    },
+    {
+      "source": "data_4092",
+      "target": "1991"
+    },
+    {
+      "source": "San Francisco",
+      "target": "data_4553"
+    },
+    {
+      "source": "1993",
+      "target": "data_4553"
+    },
+    {
+      "source": "Miami",
+      "target": "data_7902"
+    },
+    {
+      "source": "1978",
+      "target": "data_5366"
+    },
+    {
+      "source": "data_5366",
+      "target": "home ownership"
+    },
+    {
+      "source": "data_5366",
+      "target": "housing"
+    },
+    {
+      "source": "data_5366",
+      "target": "housing conditions"
+    },
+    {
+      "source": "data_5366",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_5366",
+      "target": "housing occupancy"
+    },
+    {
+      "source": "data_5366",
+      "target": "housing units"
+    },
+    {
+      "source": "data_5366",
+      "target": "income"
+    },
+    {
+      "source": "data_5366",
+      "target": "Metropolitan Statistical Areas"
+    },
+    {
+      "source": "data_5366",
+      "target": "municipal services"
+    },
+    {
+      "source": "data_5366",
+      "target": "neighborhood conditions"
+    },
+    {
+      "source": "data_5366",
+      "target": "property insurance"
+    },
+    {
+      "source": "data_5366",
+      "target": "property taxes"
+    },
+    {
+      "source": "data_5366",
+      "target": "property values"
+    },
+    {
+      "source": "data_5366",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_5366",
+      "target": "relocation"
+    },
+    {
+      "source": "data_5366",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_5366",
+      "target": "United States"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_958"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_1099"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_1853"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_4153"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_4553"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_5358"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_6440"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_6441"
+    },
+    {
+      "source": "housing conditions",
+      "target": "data_7902"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_958"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_1853"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_4153"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_4553"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_6440"
+    },
+    {
+      "source": "energy consumption",
+      "target": "data_6441"
+    },
+    {
+      "source": "Florida",
+      "target": "data_7902"
+    },
+    {
+      "source": "San Jose",
+      "target": "data_4553"
+    },
+    {
+      "source": "Michigan",
+      "target": "data_4553"
+    },
+    {
+      "source": "District of Columbia",
+      "target": "data_4553"
+    },
+    {
+      "source": "District of Columbia",
+      "target": "data_7902"
+    },
+    {
+      "source": "United States",
+      "target": "data_958"
+    },
+    {
+      "source": "United States",
+      "target": "data_1099"
+    },
+    {
+      "source": "United States",
+      "target": "data_1853"
+    },
+    {
+      "source": "United States",
+      "target": "data_4153"
+    },
+    {
+      "source": "United States",
+      "target": "data_4553"
+    },
+    {
+      "source": "United States",
+      "target": "data_5358"
+    },
+    {
+      "source": "United States",
+      "target": "data_6440"
+    },
+    {
+      "source": "United States",
+      "target": "data_6441"
+    },
+    {
+      "source": "United States",
+      "target": "data_7902"
+    },
+    {
+      "source": "data_6441",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_6441",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_6441",
+      "target": "energy conservation"
+    },
+    {
+      "source": "data_6441",
+      "target": "home ownership"
+    },
+    {
+      "source": "data_6441",
+      "target": "housing"
+    },
+    {
+      "source": "data_6441",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_6441",
+      "target": "housing occupancy"
+    },
+    {
+      "source": "data_6441",
+      "target": "housing units"
+    },
+    {
+      "source": "data_6441",
+      "target": "income"
+    },
+    {
+      "source": "data_6441",
+      "target": "Metropolitan Statistical Areas"
+    },
+    {
+      "source": "data_6441",
+      "target": "municipal services"
+    },
+    {
+      "source": "data_6441",
+      "target": "neighborhood conditions"
+    },
+    {
+      "source": "data_6441",
+      "target": "property insurance"
+    },
+    {
+      "source": "data_6441",
+      "target": "property taxes"
+    },
+    {
+      "source": "data_6441",
+      "target": "property values"
+    },
+    {
+      "source": "data_6441",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_6441",
+      "target": "relocation"
+    },
+    {
+      "source": "data_6441",
+      "target": "transportation"
+    },
+    {
+      "source": "data_6441",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_6441",
+      "target": "1985"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_958"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_1099"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_1853"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_4153"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_4553"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_5358"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_6440"
+    },
+    {
+      "source": "neighborhood conditions",
+      "target": "data_7902"
+    },
+    {
+      "source": "2007",
+      "target": "data_1099"
+    },
+    {
+      "source": "2007",
+      "target": "data_7902"
+    },
+    {
+      "source": "relocation",
+      "target": "data_958"
+    },
+    {
+      "source": "relocation",
+      "target": "data_1099"
+    },
+    {
+      "source": "relocation",
+      "target": "data_1853"
+    },
+    {
+      "source": "relocation",
+      "target": "data_4153"
+    },
+    {
+      "source": "relocation",
+      "target": "data_4553"
+    },
+    {
+      "source": "relocation",
+      "target": "data_5358"
+    },
+    {
+      "source": "relocation",
+      "target": "data_6440"
+    },
+    {
+      "source": "relocation",
+      "target": "data_7902"
+    },
+    {
+      "source": "St. Petersburg",
+      "target": "data_4553"
+    },
+    {
+      "source": "pub_2340",
+      "target": "data_1099"
+    },
+    {
+      "source": "1980",
+      "target": "data_4153"
+    },
+    {
+      "source": "1995",
+      "target": "data_1853"
+    },
+    {
+      "source": "Boston",
+      "target": "data_4553"
+    },
+    {
+      "source": "Boston",
+      "target": "data_7902"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_958"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_1099"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_1853"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_4153"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_4553"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_5358"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_6440"
+    },
+    {
+      "source": "home ownership",
+      "target": "data_7902"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_958"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_1099"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_1853"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_4153"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_4553"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_5358"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_6440"
+    },
+    {
+      "source": "housing occupancy",
+      "target": "data_7902"
+    },
+    {
+      "source": "California",
+      "target": "data_4553"
+    },
+    {
+      "source": "housing units",
+      "target": "data_958"
+    },
+    {
+      "source": "housing units",
+      "target": "data_1099"
+    },
+    {
+      "source": "housing units",
+      "target": "data_1853"
+    },
+    {
+      "source": "housing units",
+      "target": "data_4153"
+    },
+    {
+      "source": "housing units",
+      "target": "data_4553"
+    },
+    {
+      "source": "housing units",
+      "target": "data_5358"
+    },
+    {
+      "source": "housing units",
+      "target": "data_6440"
+    },
+    {
+      "source": "housing units",
+      "target": "data_7902"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_958"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_1099"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_1853"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_4153"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_4553"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_5358"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_6440"
+    },
+    {
+      "source": "municipal services",
+      "target": "data_7902"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "data_4553"
+    },
+    {
+      "source": "Minneapolis",
+      "target": "data_7902"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_958"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_1099"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_1853"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_4153"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_4553"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_6440"
+    },
+    {
+      "source": "energy conservation",
+      "target": "data_7902"
+    },
+    {
+      "source": "housing",
+      "target": "data_958"
+    },
+    {
+      "source": "housing",
+      "target": "data_1099"
+    },
+    {
+      "source": "housing",
+      "target": "data_1853"
+    },
+    {
+      "source": "housing",
+      "target": "data_4153"
+    },
+    {
+      "source": "housing",
+      "target": "data_4553"
+    },
+    {
+      "source": "housing",
+      "target": "data_5358"
+    },
+    {
+      "source": "housing",
+      "target": "data_6440"
+    },
+    {
+      "source": "housing",
+      "target": "data_7902"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_958"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_1099"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_1853"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_4153"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_4553"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_5358"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_6440"
+    },
+    {
+      "source": "property insurance",
+      "target": "data_7902"
+    },
+    {
+      "source": "Texas",
+      "target": "data_7902"
+    },
+    {
+      "source": "1998",
+      "target": "data_958"
+    },
+    {
+      "source": "data_5358",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_5358",
+      "target": "income"
+    },
+    {
+      "source": "data_5358",
+      "target": "Metropolitan Statistical Areas"
+    },
+    {
+      "source": "data_5358",
+      "target": "property taxes"
+    },
+    {
+      "source": "data_5358",
+      "target": "property values"
+    },
+    {
+      "source": "data_5358",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_5358",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_5358",
+      "target": "1973"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_958"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_1099"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_1853"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_4153"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_4553"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_6440"
+    },
+    {
+      "source": "property taxes",
+      "target": "data_7902"
+    },
+    {
+      "source": "data_958",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_958",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_958",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_958",
+      "target": "income"
+    },
+    {
+      "source": "data_958",
+      "target": "living arrangements"
+    },
+    {
+      "source": "data_958",
+      "target": "Metropolitan Statistical Areas"
+    },
+    {
+      "source": "data_958",
+      "target": "property values"
+    },
+    {
+      "source": "data_958",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_958",
+      "target": "transportation"
+    },
+    {
+      "source": "data_958",
+      "target": "utility rates"
+    },
+    {
+      "source": "1987",
+      "target": "data_6440"
+    },
+    {
+      "source": "Metropolitan Statistical Areas",
+      "target": "data_1853"
+    },
+    {
+      "source": "Metropolitan Statistical Areas",
+      "target": "data_4153"
+    },
+    {
+      "source": "Metropolitan Statistical Areas",
+      "target": "data_4553"
+    },
+    {
+      "source": "Metropolitan Statistical Areas",
+      "target": "data_6440"
+    },
+    {
+      "source": "Baltimore",
+      "target": "data_7902"
+    },
+    {
+      "source": "Houston",
+      "target": "data_7902"
+    },
+    {
+      "source": "property values",
+      "target": "data_1099"
+    },
+    {
+      "source": "property values",
+      "target": "data_1853"
+    },
+    {
+      "source": "property values",
+      "target": "data_4153"
+    },
+    {
+      "source": "property values",
+      "target": "data_4553"
+    },
+    {
+      "source": "property values",
+      "target": "data_6440"
+    },
+    {
+      "source": "property values",
+      "target": "data_7902"
+    },
+    {
+      "source": "Oakland",
+      "target": "data_4553"
+    },
+    {
+      "source": "Tampa",
+      "target": "data_4553"
+    },
+    {
+      "source": "Tampa",
+      "target": "data_7902"
+    },
+    {
+      "source": "data_7902",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_7902",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_7902",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_7902",
+      "target": "income"
+    },
+    {
+      "source": "data_7902",
+      "target": "living arrangements"
+    },
+    {
+      "source": "data_7902",
+      "target": "metropolitan statistical areas"
+    },
+    {
+      "source": "data_7902",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_7902",
+      "target": "transportation"
+    },
+    {
+      "source": "data_7902",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_7902",
+      "target": "Maryland"
+    },
+    {
+      "source": "data_7902",
+      "target": "Massachusetts"
+    },
+    {
+      "source": "data_7902",
+      "target": "Minnesota"
+    },
+    {
+      "source": "Massachusetts",
+      "target": "data_4553"
+    },
+    {
+      "source": "metropolitan statistical areas",
+      "target": "data_1099"
+    },
+    {
+      "source": "data_4153",
+      "target": "census data"
+    },
+    {
+      "source": "data_4153",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_4153",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_4153",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_4153",
+      "target": "income"
+    },
+    {
+      "source": "data_4153",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_4153",
+      "target": "utility rates"
+    },
+    {
+      "source": "income",
+      "target": "data_1099"
+    },
+    {
+      "source": "income",
+      "target": "data_1853"
+    },
+    {
+      "source": "income",
+      "target": "data_4553"
+    },
+    {
+      "source": "income",
+      "target": "data_6440"
+    },
+    {
+      "source": "living arrangements",
+      "target": "data_1099"
+    },
+    {
+      "source": "transportation",
+      "target": "data_1099"
+    },
+    {
+      "source": "transportation",
+      "target": "data_1853"
+    },
+    {
+      "source": "transportation",
+      "target": "data_4553"
+    },
+    {
+      "source": "transportation",
+      "target": "data_6440"
+    },
+    {
+      "source": "data_4553",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_4553",
+      "target": "energy assistance"
+    },
+    {
+      "source": "data_4553",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_4553",
+      "target": "property repairs"
+    },
+    {
+      "source": "data_4553",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_4553",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_4553",
+      "target": "Detroit"
+    },
+    {
+      "source": "data_4553",
+      "target": "Minnesota"
+    },
+    {
+      "source": "energy assistance",
+      "target": "data_1099"
+    },
+    {
+      "source": "energy assistance",
+      "target": "data_1853"
+    },
+    {
+      "source": "energy assistance",
+      "target": "data_6440"
+    },
+    {
+      "source": "data_6440",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_6440",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_6440",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_6440",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_1853",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_1853",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_1853",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_1853",
+      "target": "utility rates"
+    },
+    {
+      "source": "data_1099",
+      "target": "commuting (travel)"
+    },
+    {
+      "source": "data_1099",
+      "target": "housing costs"
+    },
+    {
+      "source": "data_1099",
+      "target": "rental housing"
+    },
+    {
+      "source": "data_1099",
+      "target": "utility rates"
+    }
+  ]
+}
