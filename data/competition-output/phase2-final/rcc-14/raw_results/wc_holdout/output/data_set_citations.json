@@ -1,0 +1,5085 @@
+[
+    {
+        "publication_id": 15522,
+        "data_set_id": 438,
+        "score": 0.9795355422831892,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 15523,
+        "data_set_id": 438,
+        "score": 0.9795355422831892,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 15524,
+        "data_set_id": 438,
+        "score": 0.9795355422831892,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 15557,
+        "data_set_id": 1135,
+        "score": 0.9493048184115536,
+        "mention_list": [
+            "National Education Longitudinal Study (NELS)",
+            "NELS"
+        ]
+    },
+    {
+        "publication_id": 15573,
+        "data_set_id": 668,
+        "score": 0.7339299542007583,
+        "mention_list": [
+            "Family Exchanges Study"
+        ]
+    },
+    {
+        "publication_id": 15576,
+        "data_set_id": 668,
+        "score": 0.7339299542007583,
+        "mention_list": [
+            "Family Exchanges Study"
+        ]
+    },
+    {
+        "publication_id": 15578,
+        "data_set_id": 438,
+        "score": 0.9970645001479322,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 15579,
+        "data_set_id": 438,
+        "score": 0.9871959844264145,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 15579,
+        "data_set_id": 668,
+        "score": 0.7339299542007583,
+        "mention_list": [
+            "Family Exchanges Study"
+        ]
+    },
+    {
+        "publication_id": 15603,
+        "data_set_id": 1165,
+        "score": 0.7756269913958287,
+        "mention_list": [
+            "CID"
+        ]
+    },
+    {
+        "publication_id": 15610,
+        "data_set_id": 437,
+        "score": 0.9776876068799746,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 15647,
+        "data_set_id": 649,
+        "score": 0.9071507992782767,
+        "mention_list": [
+            "CAS"
+        ]
+    },
+    {
+        "publication_id": 15657,
+        "data_set_id": 800,
+        "score": 0.9660631459797131,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 15682,
+        "data_set_id": 1325,
+        "score": 0.9923131251699131,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15683,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15684,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15685,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15686,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15687,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15688,
+        "data_set_id": 1325,
+        "score": 0.989433818153567,
+        "mention_list": [
+            "SII"
+        ]
+    },
+    {
+        "publication_id": 15726,
+        "data_set_id": 651,
+        "score": 0.9689260706702908,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing Study"
+        ]
+    },
+    {
+        "publication_id": 15785,
+        "data_set_id": 438,
+        "score": 0.9474973024558054,
+        "mention_list": [
+            "National Longitudinal Study on Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 15794,
+        "data_set_id": 40,
+        "score": 0.7767437573476091,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 15816,
+        "data_set_id": 437,
+        "score": 0.8882040840962143,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 15840,
+        "data_set_id": 1177,
+        "score": 0.8259412994419154,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 15843,
+        "data_set_id": 451,
+        "score": 0.9785566481007424,
+        "mention_list": [
+            "CS2"
+        ]
+    },
+    {
+        "publication_id": 15847,
+        "data_set_id": 437,
+        "score": 0.9574921299305976,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 15874,
+        "data_set_id": 438,
+        "score": 0.9935150654965008,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 15887,
+        "data_set_id": 437,
+        "score": 0.8368176347652714,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 15888,
+        "data_set_id": 1032,
+        "score": 0.9952948210576638,
+        "mention_list": [
+            "MTO"
+        ]
+    },
+    {
+        "publication_id": 15928,
+        "data_set_id": 800,
+        "score": 0.957659069820977,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 15944,
+        "data_set_id": 872,
+        "score": 0.736768637416528,
+        "mention_list": [
+            "ECLS-K"
+        ]
+    },
+    {
+        "publication_id": 15961,
+        "data_set_id": 872,
+        "score": 0.962413267440359,
+        "mention_list": [
+            "ECLS-K"
+        ]
+    },
+    {
+        "publication_id": 15962,
+        "data_set_id": 872,
+        "score": 0.9091337799202678,
+        "mention_list": [
+            "ECLS-K"
+        ]
+    },
+    {
+        "publication_id": 15963,
+        "data_set_id": 443,
+        "score": 0.99678824052842,
+        "mention_list": [
+            "SWAN"
+        ]
+    },
+    {
+        "publication_id": 15992,
+        "data_set_id": 520,
+        "score": 0.7723485873057712,
+        "mention_list": [
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 16006,
+        "data_set_id": 449,
+        "score": 0.907711828466623,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 16057,
+        "data_set_id": 437,
+        "score": 0.9022773121797252,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16092,
+        "data_set_id": 449,
+        "score": 0.9144977638633872,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 16101,
+        "data_set_id": 520,
+        "score": 0.8188898900604051,
+        "mention_list": [
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 16121,
+        "data_set_id": 1325,
+        "score": 0.8452218962082975,
+        "mention_list": [
+            "Study of Instructional Improvement"
+        ]
+    },
+    {
+        "publication_id": 16132,
+        "data_set_id": 872,
+        "score": 0.9168218785643907,
+        "mention_list": [
+            "ECLS-K"
+        ]
+    },
+    {
+        "publication_id": 16145,
+        "data_set_id": 443,
+        "score": 0.992599381902354,
+        "mention_list": [
+            "SWAN"
+        ]
+    },
+    {
+        "publication_id": 16227,
+        "data_set_id": 872,
+        "score": 0.9114760809436981,
+        "mention_list": [
+            "ECLS-K",
+            "ECLS-K data"
+        ]
+    },
+    {
+        "publication_id": 16232,
+        "data_set_id": 872,
+        "score": 0.7847337065175848,
+        "mention_list": [
+            "ECLS-K"
+        ]
+    },
+    {
+        "publication_id": 16292,
+        "data_set_id": 520,
+        "score": 0.831704642772999,
+        "mention_list": [
+            "NICHD study",
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 16315,
+        "data_set_id": 800,
+        "score": 0.9170252154988596,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 16324,
+        "data_set_id": 456,
+        "score": 0.9932746132208156,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 16326,
+        "data_set_id": 456,
+        "score": 0.9932746132208156,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 16329,
+        "data_set_id": 260,
+        "score": 0.9730573398779286,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16329,
+        "data_set_id": 437,
+        "score": 0.9170397248964716,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16338,
+        "data_set_id": 481,
+        "score": 0.9606158112264573,
+        "mention_list": [
+            "National Health And Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16352,
+        "data_set_id": 136,
+        "score": 0.7717927840719551,
+        "mention_list": [
+            "National Health Interview Survey",
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16371,
+        "data_set_id": 428,
+        "score": 0.8575336097324474,
+        "mention_list": [
+            "HCC"
+        ]
+    },
+    {
+        "publication_id": 16372,
+        "data_set_id": 260,
+        "score": 0.9975486853804494,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16386,
+        "data_set_id": 92,
+        "score": 0.9619162387135711,
+        "mention_list": [
+            "Panel Study of Income Dynamics",
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 16404,
+        "data_set_id": 437,
+        "score": 0.9270590158825188,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16422,
+        "data_set_id": 260,
+        "score": 0.99614629892079,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16426,
+        "data_set_id": 377,
+        "score": 0.9672812990473896,
+        "mention_list": [
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 16443,
+        "data_set_id": 260,
+        "score": 0.9941061101438446,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16443,
+        "data_set_id": 382,
+        "score": 0.9114040979896688,
+        "mention_list": [
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 16451,
+        "data_set_id": 445,
+        "score": 0.7241050942060419,
+        "mention_list": [
+            "National Comorbidity Survey Replication"
+        ]
+    },
+    {
+        "publication_id": 16453,
+        "data_set_id": 445,
+        "score": 0.7241050942060419,
+        "mention_list": [
+            "National Comorbidity Survey Replication"
+        ]
+    },
+    {
+        "publication_id": 16454,
+        "data_set_id": 260,
+        "score": 0.9954775297276507,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16461,
+        "data_set_id": 260,
+        "score": 0.9873098686101688,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16467,
+        "data_set_id": 437,
+        "score": 0.9270487423810482,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16468,
+        "data_set_id": 456,
+        "score": 0.9852901192430186,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 16469,
+        "data_set_id": 260,
+        "score": 0.943172430019231,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16469,
+        "data_set_id": 382,
+        "score": 0.8786442353374324,
+        "mention_list": [
+            "third National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16473,
+        "data_set_id": 260,
+        "score": 0.8906016718726096,
+        "mention_list": [
+            "NHANES I"
+        ]
+    },
+    {
+        "publication_id": 16473,
+        "data_set_id": 380,
+        "score": 0.9564014819135112,
+        "mention_list": [
+            "NHEFS"
+        ]
+    },
+    {
+        "publication_id": 16474,
+        "data_set_id": 380,
+        "score": 0.9522653869717338,
+        "mention_list": [
+            "NHEFS"
+        ]
+    },
+    {
+        "publication_id": 16475,
+        "data_set_id": 380,
+        "score": 0.9522653869717338,
+        "mention_list": [
+            "NHEFS"
+        ]
+    },
+    {
+        "publication_id": 16498,
+        "data_set_id": 136,
+        "score": 0.8734860412540457,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16514,
+        "data_set_id": 437,
+        "score": 0.7731933220584097,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16523,
+        "data_set_id": 260,
+        "score": 0.9887419993470336,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16525,
+        "data_set_id": 260,
+        "score": 0.9971227171618151,
+        "mention_list": [
+            "NHANES",
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16526,
+        "data_set_id": 260,
+        "score": 0.9881046832930749,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16551,
+        "data_set_id": 1207,
+        "score": 0.9292985598263626,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 16573,
+        "data_set_id": 136,
+        "score": 0.8896936648676022,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16574,
+        "data_set_id": 136,
+        "score": 0.7789684923371409,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16575,
+        "data_set_id": 136,
+        "score": 0.7789684923371409,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16576,
+        "data_set_id": 136,
+        "score": 0.7789684923371409,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 16576,
+        "data_set_id": 677,
+        "score": 0.8547884510869358,
+        "mention_list": [
+            "CHIPS"
+        ]
+    },
+    {
+        "publication_id": 16614,
+        "data_set_id": 382,
+        "score": 0.7686467717107709,
+        "mention_list": [
+            "national health survey"
+        ]
+    },
+    {
+        "publication_id": 16614,
+        "data_set_id": 1179,
+        "score": 0.9341733553744377,
+        "mention_list": [
+            "common cold"
+        ]
+    },
+    {
+        "publication_id": 16626,
+        "data_set_id": 520,
+        "score": 0.8707433569134286,
+        "mention_list": [
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 16634,
+        "data_set_id": 437,
+        "score": 0.7989616955439303,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16675,
+        "data_set_id": 461,
+        "score": 0.9872406498013847,
+        "mention_list": [
+            "SABE"
+        ]
+    },
+    {
+        "publication_id": 16675,
+        "data_set_id": 671,
+        "score": 0.976313778399004,
+        "mention_list": [
+            "SAGE",
+            "Study on Global Ageing and Adult Health"
+        ]
+    },
+    {
+        "publication_id": 16677,
+        "data_set_id": 260,
+        "score": 0.8864118172851754,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16682,
+        "data_set_id": 260,
+        "score": 0.9643112260179045,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16684,
+        "data_set_id": 1177,
+        "score": 0.870031354449791,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 16686,
+        "data_set_id": 377,
+        "score": 0.9189375871368048,
+        "mention_list": [
+            "Health and Retirement Survey",
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 16691,
+        "data_set_id": 651,
+        "score": 0.9673721685214537,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing Study"
+        ]
+    },
+    {
+        "publication_id": 16701,
+        "data_set_id": 260,
+        "score": 0.9301056399205665,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16719,
+        "data_set_id": 443,
+        "score": 0.993673709305893,
+        "mention_list": [
+            "SWAN"
+        ]
+    },
+    {
+        "publication_id": 16721,
+        "data_set_id": 443,
+        "score": 0.993673709305893,
+        "mention_list": [
+            "SWAN"
+        ]
+    },
+    {
+        "publication_id": 16738,
+        "data_set_id": 260,
+        "score": 0.9779936117084397,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16775,
+        "data_set_id": 488,
+        "score": 0.9967177066156295,
+        "mention_list": [
+            "MIDUS"
+        ]
+    },
+    {
+        "publication_id": 16776,
+        "data_set_id": 663,
+        "score": 0.911920840621183,
+        "mention_list": [
+            "NCVS"
+        ]
+    },
+    {
+        "publication_id": 16786,
+        "data_set_id": 668,
+        "score": 0.9636233248305959,
+        "mention_list": [
+            "FES"
+        ]
+    },
+    {
+        "publication_id": 16795,
+        "data_set_id": 437,
+        "score": 0.8097508700078437,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16796,
+        "data_set_id": 260,
+        "score": 0.9793293252164824,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16806,
+        "data_set_id": 260,
+        "score": 0.9944298457582562,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16808,
+        "data_set_id": 600,
+        "score": 0.9357018829547057,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey"
+        ]
+    },
+    {
+        "publication_id": 16812,
+        "data_set_id": 260,
+        "score": 0.9691288550057511,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16812,
+        "data_set_id": 382,
+        "score": 0.9453025865920383,
+        "mention_list": [
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 16813,
+        "data_set_id": 260,
+        "score": 0.9691288550057511,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16813,
+        "data_set_id": 382,
+        "score": 0.9453025865920383,
+        "mention_list": [
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 16829,
+        "data_set_id": 382,
+        "score": 0.8920382951841862,
+        "mention_list": [
+            "Third National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16831,
+        "data_set_id": 449,
+        "score": 0.8120329059172033,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 16840,
+        "data_set_id": 260,
+        "score": 0.9881809222893759,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16845,
+        "data_set_id": 437,
+        "score": 0.8102042459239195,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16862,
+        "data_set_id": 530,
+        "score": 0.8485655800081853,
+        "mention_list": [
+            "HOS"
+        ]
+    },
+    {
+        "publication_id": 16863,
+        "data_set_id": 481,
+        "score": 0.8271222095121514,
+        "mention_list": [
+            "National Health and Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16892,
+        "data_set_id": 437,
+        "score": 0.9433231821414377,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 16903,
+        "data_set_id": 260,
+        "score": 0.9749882201557406,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16910,
+        "data_set_id": 433,
+        "score": 0.9348636316340662,
+        "mention_list": [
+            "DAWN"
+        ]
+    },
+    {
+        "publication_id": 16917,
+        "data_set_id": 260,
+        "score": 0.9922145283705683,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16920,
+        "data_set_id": 1177,
+        "score": 0.9472698122344521,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 16972,
+        "data_set_id": 455,
+        "score": 0.7470645937803966,
+        "mention_list": [
+            "NCS"
+        ]
+    },
+    {
+        "publication_id": 16975,
+        "data_set_id": 260,
+        "score": 0.9794539248258373,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 16979,
+        "data_set_id": 260,
+        "score": 0.772850141395079,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 16993,
+        "data_set_id": 916,
+        "score": 0.7758358455854504,
+        "mention_list": [
+            "National Health Measurement Study"
+        ]
+    },
+    {
+        "publication_id": 17000,
+        "data_set_id": 382,
+        "score": 0.8917374960109957,
+        "mention_list": [
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 17002,
+        "data_set_id": 455,
+        "score": 0.7656437609629534,
+        "mention_list": [
+            "National Comorbidity Study"
+        ]
+    },
+    {
+        "publication_id": 17002,
+        "data_set_id": 488,
+        "score": 0.9932512531066284,
+        "mention_list": [
+            "National Survey of Midlife Development in the United States",
+            "MIDUS"
+        ]
+    },
+    {
+        "publication_id": 17012,
+        "data_set_id": 260,
+        "score": 0.9083211692082069,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 17017,
+        "data_set_id": 260,
+        "score": 0.9928611331439536,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 17042,
+        "data_set_id": 260,
+        "score": 0.9823746180749761,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 17043,
+        "data_set_id": 260,
+        "score": 0.9673990478161,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 17079,
+        "data_set_id": 530,
+        "score": 0.9609619734861929,
+        "mention_list": [
+            "HOS"
+        ]
+    },
+    {
+        "publication_id": 17082,
+        "data_set_id": 437,
+        "score": 0.9354208639671525,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 17088,
+        "data_set_id": 260,
+        "score": 0.972457482806989,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 17096,
+        "data_set_id": 1207,
+        "score": 0.9789764104687669,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17142,
+        "data_set_id": 1293,
+        "score": 0.9630465437094566,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17145,
+        "data_set_id": 438,
+        "score": 0.9596974421709583,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 17148,
+        "data_set_id": 928,
+        "score": 0.8393628112439607,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17154,
+        "data_set_id": 1189,
+        "score": 0.9763318074309246,
+        "mention_list": [
+            "ICVS"
+        ]
+    },
+    {
+        "publication_id": 17157,
+        "data_set_id": 438,
+        "score": 0.9977599912532601,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17158,
+        "data_set_id": 692,
+        "score": 0.8208203877598561,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17160,
+        "data_set_id": 1293,
+        "score": 0.9803189686213598,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17165,
+        "data_set_id": 152,
+        "score": 0.7651787342511999,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17186,
+        "data_set_id": 910,
+        "score": 0.9310238178150239,
+        "mention_list": [
+            "AFL"
+        ]
+    },
+    {
+        "publication_id": 17187,
+        "data_set_id": 438,
+        "score": 0.9879664537266399,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent Health",
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17192,
+        "data_set_id": 684,
+        "score": 0.9123547628365815,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17193,
+        "data_set_id": 436,
+        "score": 0.9699613764792133,
+        "mention_list": [
+            "Project on Human Development in Chicago Neighborhoods",
+            "PHDCN"
+        ]
+    },
+    {
+        "publication_id": 17193,
+        "data_set_id": 1293,
+        "score": 0.9872814196203737,
+        "mention_list": [
+            "British Crime Survey",
+            "BCS"
+        ]
+    },
+    {
+        "publication_id": 17201,
+        "data_set_id": 572,
+        "score": 0.8421047156543704,
+        "mention_list": [
+            "NCRP data"
+        ]
+    },
+    {
+        "publication_id": 17201,
+        "data_set_id": 655,
+        "score": 0.8900436678852939,
+        "mention_list": [
+            "National Corrections Reporting Program (NCRP)"
+        ]
+    },
+    {
+        "publication_id": 17208,
+        "data_set_id": 1293,
+        "score": 0.9788056574374583,
+        "mention_list": [
+            "British Crime Survey",
+            "BCS"
+        ]
+    },
+    {
+        "publication_id": 17210,
+        "data_set_id": 1293,
+        "score": 0.9788056574374583,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17211,
+        "data_set_id": 438,
+        "score": 0.9630239540578166,
+        "mention_list": [
+            "National Longitudinal Study on Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 17211,
+        "data_set_id": 1293,
+        "score": 0.9788056574374583,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17212,
+        "data_set_id": 438,
+        "score": 0.9977549440350019,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17212,
+        "data_set_id": 570,
+        "score": 0.9511718094344622,
+        "mention_list": [
+            "Cambridge Study in Delinquent Development",
+            "CSDD"
+        ]
+    },
+    {
+        "publication_id": 17212,
+        "data_set_id": 651,
+        "score": 0.9596850010918281,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing Study"
+        ]
+    },
+    {
+        "publication_id": 17213,
+        "data_set_id": 438,
+        "score": 0.9977549440350019,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17215,
+        "data_set_id": 464,
+        "score": 0.97133889394024,
+        "mention_list": [
+            "National Longitudinal Survey of Youth"
+        ]
+    },
+    {
+        "publication_id": 17222,
+        "data_set_id": 152,
+        "score": 0.8127943743294932,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17222,
+        "data_set_id": 663,
+        "score": 0.8071251534997855,
+        "mention_list": [
+            "National Crime Victimization Survey",
+            "NCVS"
+        ]
+    },
+    {
+        "publication_id": 17222,
+        "data_set_id": 684,
+        "score": 0.9928136353701061,
+        "mention_list": [
+            "National Incident Based Reporting System",
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17222,
+        "data_set_id": 692,
+        "score": 0.7617160189299454,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17238,
+        "data_set_id": 458,
+        "score": 0.9983901759774205,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 17240,
+        "data_set_id": 152,
+        "score": 0.9180783385078508,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17243,
+        "data_set_id": 643,
+        "score": 0.91415627144278,
+        "mention_list": [
+            "Uniform Crime Reporting Program"
+        ]
+    },
+    {
+        "publication_id": 17245,
+        "data_set_id": 574,
+        "score": 0.7341285142788929,
+        "mention_list": [
+            "Survey of Inmates in State and Federal Correctional Facilities"
+        ]
+    },
+    {
+        "publication_id": 17252,
+        "data_set_id": 152,
+        "score": 0.9345858013912313,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17258,
+        "data_set_id": 574,
+        "score": 0.8756505759280575,
+        "mention_list": [
+            "SISFCF"
+        ]
+    },
+    {
+        "publication_id": 17269,
+        "data_set_id": 651,
+        "score": 0.9773676011005094,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing Study",
+            "FFCWS",
+            "Fragile Families"
+        ]
+    },
+    {
+        "publication_id": 17274,
+        "data_set_id": 907,
+        "score": 0.8809300064844466,
+        "mention_list": [
+            "Second Philadelphia Birth Cohort"
+        ]
+    },
+    {
+        "publication_id": 17277,
+        "data_set_id": 1248,
+        "score": 0.9328395203529238,
+        "mention_list": [
+            "Stop, Question, and Frisk",
+            "SQF"
+        ]
+    },
+    {
+        "publication_id": 17279,
+        "data_set_id": 928,
+        "score": 0.8036793721353179,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17286,
+        "data_set_id": 438,
+        "score": 0.9766569054750464,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 17294,
+        "data_set_id": 1173,
+        "score": 0.9024666629979875,
+        "mention_list": [
+            "Pathways to Desistance study"
+        ]
+    },
+    {
+        "publication_id": 17307,
+        "data_set_id": 450,
+        "score": 0.9730084143901656,
+        "mention_list": [
+            "DATOS"
+        ]
+    },
+    {
+        "publication_id": 17328,
+        "data_set_id": 1207,
+        "score": 0.9213625896279601,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17329,
+        "data_set_id": 1207,
+        "score": 0.921323821749907,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17338,
+        "data_set_id": 436,
+        "score": 0.9844925114001056,
+        "mention_list": [
+            "PHDCN",
+            "Project on Human Development in Chicago Neighborhoods"
+        ]
+    },
+    {
+        "publication_id": 17344,
+        "data_set_id": 458,
+        "score": 0.9989794295805055,
+        "mention_list": [
+            "National Survey on Drug Use and Health",
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 17346,
+        "data_set_id": 458,
+        "score": 0.9989794295805055,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 17354,
+        "data_set_id": 651,
+        "score": 0.8049243706213081,
+        "mention_list": [
+            "Fragile Families survey"
+        ]
+    },
+    {
+        "publication_id": 17367,
+        "data_set_id": 730,
+        "score": 0.8479690580605899,
+        "mention_list": [
+            "SAFE"
+        ]
+    },
+    {
+        "publication_id": 17396,
+        "data_set_id": 1207,
+        "score": 0.9739932263818284,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17398,
+        "data_set_id": 1207,
+        "score": 0.9739932263818284,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17399,
+        "data_set_id": 1207,
+        "score": 0.9739932263818284,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17406,
+        "data_set_id": 438,
+        "score": 0.9472269727847973,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 17407,
+        "data_set_id": 438,
+        "score": 0.9472269727847973,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 17411,
+        "data_set_id": 136,
+        "score": 0.7324247935684024,
+        "mention_list": [
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 17411,
+        "data_set_id": 445,
+        "score": 0.8672202890090261,
+        "mention_list": [
+            "NCS-R"
+        ]
+    },
+    {
+        "publication_id": 17411,
+        "data_set_id": 455,
+        "score": 0.8784667686937543,
+        "mention_list": [
+            "National Comorbidity Survey"
+        ]
+    },
+    {
+        "publication_id": 17443,
+        "data_set_id": 1189,
+        "score": 0.8928584158157483,
+        "mention_list": [
+            "ICVS"
+        ]
+    },
+    {
+        "publication_id": 17446,
+        "data_set_id": 1173,
+        "score": 0.751130756628147,
+        "mention_list": [
+            "Pathways to Desistance study"
+        ]
+    },
+    {
+        "publication_id": 17460,
+        "data_set_id": 428,
+        "score": 0.8976771831660839,
+        "mention_list": [
+            "HCC"
+        ]
+    },
+    {
+        "publication_id": 17485,
+        "data_set_id": 684,
+        "score": 0.9682968893514916,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17519,
+        "data_set_id": 1293,
+        "score": 0.966284130111697,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17533,
+        "data_set_id": 152,
+        "score": 0.8475615828486168,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17534,
+        "data_set_id": 39,
+        "score": 0.745651016101772,
+        "mention_list": [
+            "National Election Study"
+        ]
+    },
+    {
+        "publication_id": 17537,
+        "data_set_id": 152,
+        "score": 0.963761734605718,
+        "mention_list": [
+            "Uniform Crime Report",
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17537,
+        "data_set_id": 684,
+        "score": 0.9893903431773348,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17537,
+        "data_set_id": 692,
+        "score": 0.9092848783173285,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17538,
+        "data_set_id": 684,
+        "score": 0.9875117894137854,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17539,
+        "data_set_id": 684,
+        "score": 0.9875117894137854,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17540,
+        "data_set_id": 684,
+        "score": 0.9875117894137854,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17545,
+        "data_set_id": 1293,
+        "score": 0.9591964756168672,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17548,
+        "data_set_id": 54,
+        "score": 0.9591395281297684,
+        "mention_list": [
+            "MTF"
+        ]
+    },
+    {
+        "publication_id": 17548,
+        "data_set_id": 433,
+        "score": 0.9630692191165604,
+        "mention_list": [
+            "DAWN"
+        ]
+    },
+    {
+        "publication_id": 17550,
+        "data_set_id": 1207,
+        "score": 0.8617092125091138,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17573,
+        "data_set_id": 437,
+        "score": 0.8448888900269511,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 17577,
+        "data_set_id": 152,
+        "score": 0.8795548011215873,
+        "mention_list": [
+            "Uniform Crime Report"
+        ]
+    },
+    {
+        "publication_id": 17583,
+        "data_set_id": 574,
+        "score": 0.8303800053903054,
+        "mention_list": [
+            "SISFCF"
+        ]
+    },
+    {
+        "publication_id": 17596,
+        "data_set_id": 152,
+        "score": 0.9335637645931218,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17602,
+        "data_set_id": 152,
+        "score": 0.8739904914618601,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17602,
+        "data_set_id": 663,
+        "score": 0.8452470674701995,
+        "mention_list": [
+            "National Crime Victimization Survey"
+        ]
+    },
+    {
+        "publication_id": 17602,
+        "data_set_id": 684,
+        "score": 0.9882576937709262,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17602,
+        "data_set_id": 692,
+        "score": 0.7648688328902906,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17603,
+        "data_set_id": 684,
+        "score": 0.9648692111686598,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17613,
+        "data_set_id": 152,
+        "score": 0.9005366335874663,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17614,
+        "data_set_id": 152,
+        "score": 0.9005366335874663,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17616,
+        "data_set_id": 437,
+        "score": 0.9025580206507776,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 17619,
+        "data_set_id": 651,
+        "score": 0.9814717897453915,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing Study",
+            "Fragile Families"
+        ]
+    },
+    {
+        "publication_id": 17620,
+        "data_set_id": 651,
+        "score": 0.9088059380472208,
+        "mention_list": [
+            "Fragile Families"
+        ]
+    },
+    {
+        "publication_id": 17631,
+        "data_set_id": 437,
+        "score": 0.8310732464873373,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 17633,
+        "data_set_id": 430,
+        "score": 0.9114480648398396,
+        "mention_list": [
+            "World Values Survey",
+            "WVS"
+        ]
+    },
+    {
+        "publication_id": 17642,
+        "data_set_id": 907,
+        "score": 0.8002365820043698,
+        "mention_list": [
+            "Second Philadelphia Birth Cohort"
+        ]
+    },
+    {
+        "publication_id": 17669,
+        "data_set_id": 152,
+        "score": 0.967583904370822,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17669,
+        "data_set_id": 1199,
+        "score": 0.8184053459055646,
+        "mention_list": [
+            "CSLLEA"
+        ]
+    },
+    {
+        "publication_id": 17677,
+        "data_set_id": 928,
+        "score": 0.9363743295352901,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17678,
+        "data_set_id": 928,
+        "score": 0.9233654152175814,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17682,
+        "data_set_id": 679,
+        "score": 0.8673020226875068,
+        "mention_list": [
+            "LEMAS"
+        ]
+    },
+    {
+        "publication_id": 17689,
+        "data_set_id": 1165,
+        "score": 0.7642313372226076,
+        "mention_list": [
+            "CID"
+        ]
+    },
+    {
+        "publication_id": 17690,
+        "data_set_id": 152,
+        "score": 0.9595002586855269,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17690,
+        "data_set_id": 684,
+        "score": 0.927896142346756,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17690,
+        "data_set_id": 692,
+        "score": 0.762334214639364,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17705,
+        "data_set_id": 907,
+        "score": 0.8074298842057502,
+        "mention_list": [
+            "Philadelphia Birth Cohort"
+        ]
+    },
+    {
+        "publication_id": 17708,
+        "data_set_id": 152,
+        "score": 0.8925276508934653,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17708,
+        "data_set_id": 663,
+        "score": 0.8611179192873095,
+        "mention_list": [
+            "National Crime Victimization Survey",
+            "NCVS"
+        ]
+    },
+    {
+        "publication_id": 17708,
+        "data_set_id": 713,
+        "score": 0.9631027218964182,
+        "mention_list": [
+            "National Congregations Study"
+        ]
+    },
+    {
+        "publication_id": 17719,
+        "data_set_id": 152,
+        "score": 0.8992545055525462,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17719,
+        "data_set_id": 684,
+        "score": 0.9924474742992334,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17719,
+        "data_set_id": 692,
+        "score": 0.8997566544984565,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17719,
+        "data_set_id": 826,
+        "score": 0.9246413965363605,
+        "mention_list": [
+            "SHR"
+        ]
+    },
+    {
+        "publication_id": 17720,
+        "data_set_id": 438,
+        "score": 0.9957812100077256,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17724,
+        "data_set_id": 152,
+        "score": 0.8647082919099351,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17724,
+        "data_set_id": 154,
+        "score": 0.7517378772151985,
+        "mention_list": [
+            "Uniform Crime Reports"
+        ]
+    },
+    {
+        "publication_id": 17732,
+        "data_set_id": 152,
+        "score": 0.9623949608220598,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17737,
+        "data_set_id": 1293,
+        "score": 0.9779737604201392,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17742,
+        "data_set_id": 1293,
+        "score": 0.9271647889705276,
+        "mention_list": [
+            "British Crime Survey",
+            "BCS"
+        ]
+    },
+    {
+        "publication_id": 17748,
+        "data_set_id": 152,
+        "score": 0.9180835696561437,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17756,
+        "data_set_id": 928,
+        "score": 0.8391918256082882,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17758,
+        "data_set_id": 1293,
+        "score": 0.9657536536311928,
+        "mention_list": [
+            "British Crime Survey",
+            "BCS"
+        ]
+    },
+    {
+        "publication_id": 17768,
+        "data_set_id": 684,
+        "score": 0.9801571006711132,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17768,
+        "data_set_id": 692,
+        "score": 0.7493759031261484,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17771,
+        "data_set_id": 1189,
+        "score": 0.9546667465359652,
+        "mention_list": [
+            "ICVS"
+        ]
+    },
+    {
+        "publication_id": 17772,
+        "data_set_id": 1293,
+        "score": 0.9748049999637983,
+        "mention_list": [
+            "British Crime Survey",
+            "BCS"
+        ]
+    },
+    {
+        "publication_id": 17782,
+        "data_set_id": 1207,
+        "score": 0.9888086135123116,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 17800,
+        "data_set_id": 928,
+        "score": 0.9814853017367142,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17801,
+        "data_set_id": 928,
+        "score": 0.9092117137435695,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17802,
+        "data_set_id": 928,
+        "score": 0.9092117137435695,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17821,
+        "data_set_id": 154,
+        "score": 0.745129142686421,
+        "mention_list": [
+            "Uniform Crime Reports"
+        ]
+    },
+    {
+        "publication_id": 17825,
+        "data_set_id": 1199,
+        "score": 0.8082642521635186,
+        "mention_list": [
+            "CSLLEA"
+        ]
+    },
+    {
+        "publication_id": 17830,
+        "data_set_id": 437,
+        "score": 0.9331519539777935,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 17842,
+        "data_set_id": 152,
+        "score": 0.8794447021081032,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17842,
+        "data_set_id": 663,
+        "score": 0.7822086129546996,
+        "mention_list": [
+            "NCVS"
+        ]
+    },
+    {
+        "publication_id": 17842,
+        "data_set_id": 684,
+        "score": 0.9877986309387395,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17848,
+        "data_set_id": 574,
+        "score": 0.7368490763938917,
+        "mention_list": [
+            "Survey of Inmates in State and Federal Correctional Facilities"
+        ]
+    },
+    {
+        "publication_id": 17859,
+        "data_set_id": 438,
+        "score": 0.9760535201025189,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17873,
+        "data_set_id": 572,
+        "score": 0.9681198346771702,
+        "mention_list": [
+            "NCRP",
+            "NCRP data"
+        ]
+    },
+    {
+        "publication_id": 17873,
+        "data_set_id": 574,
+        "score": 0.8454820734564525,
+        "mention_list": [
+            "Survey of Inmates in State Correctional Facilities (SISCF)",
+            "SISCF"
+        ]
+    },
+    {
+        "publication_id": 17873,
+        "data_set_id": 655,
+        "score": 0.920895528710593,
+        "mention_list": [
+            "National Corrections Reporting Program (NCRP)"
+        ]
+    },
+    {
+        "publication_id": 17874,
+        "data_set_id": 572,
+        "score": 0.8403643499618136,
+        "mention_list": [
+            "NCRP"
+        ]
+    },
+    {
+        "publication_id": 17874,
+        "data_set_id": 655,
+        "score": 0.920895528710593,
+        "mention_list": [
+            "National Corrections Reporting Program (NCRP)"
+        ]
+    },
+    {
+        "publication_id": 17876,
+        "data_set_id": 154,
+        "score": 0.7558294604310433,
+        "mention_list": [
+            "Uniform Crime Reports"
+        ]
+    },
+    {
+        "publication_id": 17883,
+        "data_set_id": 684,
+        "score": 0.9732356368447598,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17883,
+        "data_set_id": 692,
+        "score": 0.7996326564126292,
+        "mention_list": [
+            "National Incident-Based Reporting System"
+        ]
+    },
+    {
+        "publication_id": 17888,
+        "data_set_id": 1293,
+        "score": 0.965661731544116,
+        "mention_list": [
+            "British Crime Survey"
+        ]
+    },
+    {
+        "publication_id": 17896,
+        "data_set_id": 643,
+        "score": 0.9456108996979884,
+        "mention_list": [
+            "Uniform Crime Reporting Program"
+        ]
+    },
+    {
+        "publication_id": 17902,
+        "data_set_id": 444,
+        "score": 0.9628405046029723,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 17906,
+        "data_set_id": 530,
+        "score": 0.9191515770464671,
+        "mention_list": [
+            "HOS"
+        ]
+    },
+    {
+        "publication_id": 17907,
+        "data_set_id": 152,
+        "score": 0.747536859559404,
+        "mention_list": [
+            "Uniform Crime Report"
+        ]
+    },
+    {
+        "publication_id": 17907,
+        "data_set_id": 455,
+        "score": 0.8472302579792855,
+        "mention_list": [
+            "National Comorbidity Study"
+        ]
+    },
+    {
+        "publication_id": 17908,
+        "data_set_id": 438,
+        "score": 0.9972492174361888,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 17909,
+        "data_set_id": 152,
+        "score": 0.9597051233264249,
+        "mention_list": [
+            "UCR"
+        ]
+    },
+    {
+        "publication_id": 17909,
+        "data_set_id": 638,
+        "score": 0.805332193587399,
+        "mention_list": [
+            "Uniform Crime Reporting"
+        ]
+    },
+    {
+        "publication_id": 17909,
+        "data_set_id": 684,
+        "score": 0.9491589191725467,
+        "mention_list": [
+            "NIBRS"
+        ]
+    },
+    {
+        "publication_id": 17917,
+        "data_set_id": 92,
+        "score": 0.9011155238835203,
+        "mention_list": [
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 17925,
+        "data_set_id": 520,
+        "score": 0.755793928262574,
+        "mention_list": [
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 17925,
+        "data_set_id": 872,
+        "score": 0.9086260571950566,
+        "mention_list": [
+            "ECLS-K",
+            "ECLS-K data"
+        ]
+    },
+    {
+        "publication_id": 17937,
+        "data_set_id": 520,
+        "score": 0.8093113387354678,
+        "mention_list": [
+            "NICHD"
+        ]
+    },
+    {
+        "publication_id": 17945,
+        "data_set_id": 947,
+        "score": 0.9889302247240864,
+        "mention_list": [
+            "FSS"
+        ]
+    },
+    {
+        "publication_id": 17955,
+        "data_set_id": 1165,
+        "score": 0.740126288611985,
+        "mention_list": [
+            "CID"
+        ]
+    },
+    {
+        "publication_id": 17965,
+        "data_set_id": 260,
+        "score": 0.9714440450989557,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 17965,
+        "data_set_id": 910,
+        "score": 0.9637799698650119,
+        "mention_list": [
+            "AFL"
+        ]
+    },
+    {
+        "publication_id": 17968,
+        "data_set_id": 314,
+        "score": 0.8937704990785337,
+        "mention_list": [
+            "SHS"
+        ]
+    },
+    {
+        "publication_id": 17987,
+        "data_set_id": 436,
+        "score": 0.9176571304983379,
+        "mention_list": [
+            "Project on Human Development in Chicago Neighborhoods",
+            "PHDCN"
+        ]
+    },
+    {
+        "publication_id": 17987,
+        "data_set_id": 438,
+        "score": 0.7600289050740788,
+        "mention_list": [
+            "National Longitudinal Survey of Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 17989,
+        "data_set_id": 468,
+        "score": 0.9958592587004854,
+        "mention_list": [
+            "NSFG"
+        ]
+    },
+    {
+        "publication_id": 17990,
+        "data_set_id": 92,
+        "score": 0.8255381694452683,
+        "mention_list": [
+            "Panel Study of Income Dynamics",
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 17990,
+        "data_set_id": 154,
+        "score": 0.7400897452764521,
+        "mention_list": [
+            "Uniform Crime Reports"
+        ]
+    },
+    {
+        "publication_id": 17990,
+        "data_set_id": 651,
+        "score": 0.9597521699563455,
+        "mention_list": [
+            "Fragile Families"
+        ]
+    },
+    {
+        "publication_id": 17992,
+        "data_set_id": 928,
+        "score": 0.8274708687225861,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 17997,
+        "data_set_id": 651,
+        "score": 0.9671251358476024,
+        "mention_list": [
+            "Fragile Families and Child Wellbeing study"
+        ]
+    },
+    {
+        "publication_id": 17997,
+        "data_set_id": 870,
+        "score": 0.8404607370527937,
+        "mention_list": [
+            "NSAF"
+        ]
+    },
+    {
+        "publication_id": 18001,
+        "data_set_id": 928,
+        "score": 0.9274986144496289,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 18002,
+        "data_set_id": 1032,
+        "score": 0.9979459921100345,
+        "mention_list": [
+            "Moving to Opportunity",
+            "MTO"
+        ]
+    },
+    {
+        "publication_id": 18003,
+        "data_set_id": 68,
+        "score": 0.9732795476488655,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18004,
+        "data_set_id": 399,
+        "score": 0.9627987480017595,
+        "mention_list": [
+            "SOA"
+        ]
+    },
+    {
+        "publication_id": 18006,
+        "data_set_id": 651,
+        "score": 0.8033755317049335,
+        "mention_list": [
+            "Fragile Families study"
+        ]
+    },
+    {
+        "publication_id": 18007,
+        "data_set_id": 68,
+        "score": 0.9023002658269073,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18007,
+        "data_set_id": 92,
+        "score": 0.9050358340547731,
+        "mention_list": [
+            "PSID",
+            "Panel Study of Income Dynamics"
+        ]
+    },
+    {
+        "publication_id": 18029,
+        "data_set_id": 928,
+        "score": 0.8530279704666417,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 18043,
+        "data_set_id": 40,
+        "score": 0.9113343989951358,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 18060,
+        "data_set_id": 1108,
+        "score": 0.8760796085781581,
+        "mention_list": [
+            "British Social Attitudes survey"
+        ]
+    },
+    {
+        "publication_id": 18132,
+        "data_set_id": 260,
+        "score": 0.9800502641369204,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 18141,
+        "data_set_id": 438,
+        "score": 0.9981293171824874,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent Health",
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 18159,
+        "data_set_id": 68,
+        "score": 0.8889840389698478,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18159,
+        "data_set_id": 92,
+        "score": 0.8033690166810725,
+        "mention_list": [
+            "Panel Study of Income Dynamics"
+        ]
+    },
+    {
+        "publication_id": 18159,
+        "data_set_id": 464,
+        "score": 0.8631333016020111,
+        "mention_list": [
+            "NLSY79"
+        ]
+    },
+    {
+        "publication_id": 18159,
+        "data_set_id": 574,
+        "score": 0.7854288715571208,
+        "mention_list": [
+            "Survey of Inmates in State and Federal Correctional Facilities"
+        ]
+    },
+    {
+        "publication_id": 18159,
+        "data_set_id": 1135,
+        "score": 0.7546276474027704,
+        "mention_list": [
+            "NELS data"
+        ]
+    },
+    {
+        "publication_id": 18172,
+        "data_set_id": 455,
+        "score": 0.9620062865483071,
+        "mention_list": [
+            "NCS"
+        ]
+    },
+    {
+        "publication_id": 18181,
+        "data_set_id": 437,
+        "score": 0.8225633203395146,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18208,
+        "data_set_id": 1108,
+        "score": 0.8864697741643414,
+        "mention_list": [
+            "British Social Attitudes survey"
+        ]
+    },
+    {
+        "publication_id": 18209,
+        "data_set_id": 437,
+        "score": 0.9270573055223124,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18223,
+        "data_set_id": 910,
+        "score": 0.9878719369180163,
+        "mention_list": [
+            "AFL"
+        ]
+    },
+    {
+        "publication_id": 18230,
+        "data_set_id": 40,
+        "score": 0.9166603599457109,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 18230,
+        "data_set_id": 68,
+        "score": 0.9677022773601414,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18230,
+        "data_set_id": 92,
+        "score": 0.911720946910907,
+        "mention_list": [
+            "Panel Study of Income Dynamics",
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 18231,
+        "data_set_id": 68,
+        "score": 0.9268797620628333,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18233,
+        "data_set_id": 40,
+        "score": 0.9000149426239709,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 18234,
+        "data_set_id": 68,
+        "score": 0.9622010939950512,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18235,
+        "data_set_id": 438,
+        "score": 0.9962206071769795,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent to Adult Health",
+            "Add Health",
+            "Add Health survey"
+        ]
+    },
+    {
+        "publication_id": 18241,
+        "data_set_id": 1207,
+        "score": 0.9843055792834057,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 18248,
+        "data_set_id": 947,
+        "score": 0.9440200956236313,
+        "mention_list": [
+            "FSS"
+        ]
+    },
+    {
+        "publication_id": 18249,
+        "data_set_id": 947,
+        "score": 0.9440200956236313,
+        "mention_list": [
+            "FSS"
+        ]
+    },
+    {
+        "publication_id": 18266,
+        "data_set_id": 68,
+        "score": 0.9749588656958792,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18269,
+        "data_set_id": 68,
+        "score": 0.9606261145452843,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18276,
+        "data_set_id": 1135,
+        "score": 0.8233988175252528,
+        "mention_list": [
+            "NELS",
+            "NELS data"
+        ]
+    },
+    {
+        "publication_id": 18281,
+        "data_set_id": 872,
+        "score": 0.9583334176114215,
+        "mention_list": [
+            "ECLS-K",
+            "ECLS-K survey",
+            "ECLS-K data"
+        ]
+    },
+    {
+        "publication_id": 18302,
+        "data_set_id": 928,
+        "score": 0.843579515903758,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 18303,
+        "data_set_id": 928,
+        "score": 0.843579515903758,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 18305,
+        "data_set_id": 947,
+        "score": 0.9730948095686258,
+        "mention_list": [
+            "FSS"
+        ]
+    },
+    {
+        "publication_id": 18329,
+        "data_set_id": 92,
+        "score": 0.8276970679739516,
+        "mention_list": [
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 18350,
+        "data_set_id": 800,
+        "score": 0.7670668508738501,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 18351,
+        "data_set_id": 430,
+        "score": 0.9607873304705297,
+        "mention_list": [
+            "WVS"
+        ]
+    },
+    {
+        "publication_id": 18367,
+        "data_set_id": 800,
+        "score": 0.9599591848138567,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 18368,
+        "data_set_id": 430,
+        "score": 0.8437482785390629,
+        "mention_list": [
+            "World Values Survey"
+        ]
+    },
+    {
+        "publication_id": 18372,
+        "data_set_id": 1207,
+        "score": 0.9843443364454756,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 18375,
+        "data_set_id": 437,
+        "score": 0.9271213981857979,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18399,
+        "data_set_id": 437,
+        "score": 0.9433428156288823,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18407,
+        "data_set_id": 260,
+        "score": 0.9711462877129295,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 18407,
+        "data_set_id": 382,
+        "score": 0.9679714386222266,
+        "mention_list": [
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 18449,
+        "data_set_id": 136,
+        "score": 0.7841143365322749,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 18449,
+        "data_set_id": 928,
+        "score": 0.8373332023871073,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 18481,
+        "data_set_id": 464,
+        "score": 0.9714209886907925,
+        "mention_list": [
+            "National Longitudinal Survey of Youth"
+        ]
+    },
+    {
+        "publication_id": 18484,
+        "data_set_id": 136,
+        "score": 0.790308365147601,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 18505,
+        "data_set_id": 444,
+        "score": 0.8376689908638424,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 18520,
+        "data_set_id": 437,
+        "score": 0.9863407418925482,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18532,
+        "data_set_id": 304,
+        "score": 0.892639786857642,
+        "mention_list": [
+            "MIR"
+        ]
+    },
+    {
+        "publication_id": 18540,
+        "data_set_id": 455,
+        "score": 0.9166479594598335,
+        "mention_list": [
+            "National Comorbidity Survey"
+        ]
+    },
+    {
+        "publication_id": 18541,
+        "data_set_id": 68,
+        "score": 0.9733320620860773,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18542,
+        "data_set_id": 68,
+        "score": 0.9554360619116025,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18543,
+        "data_set_id": 68,
+        "score": 0.9554360619116025,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18544,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18545,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18546,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18547,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18548,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18549,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18550,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18551,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18552,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18553,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18554,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18555,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18556,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18557,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18558,
+        "data_set_id": 68,
+        "score": 0.8939307121687692,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18562,
+        "data_set_id": 1189,
+        "score": 0.907413827397816,
+        "mention_list": [
+            "ICVS"
+        ]
+    },
+    {
+        "publication_id": 18564,
+        "data_set_id": 1032,
+        "score": 0.9961117373559846,
+        "mention_list": [
+            "MTO"
+        ]
+    },
+    {
+        "publication_id": 18574,
+        "data_set_id": 451,
+        "score": 0.9368542126720509,
+        "mention_list": [
+            "CS2"
+        ]
+    },
+    {
+        "publication_id": 18582,
+        "data_set_id": 1207,
+        "score": 0.8318814282422793,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 18583,
+        "data_set_id": 430,
+        "score": 0.8998173167299841,
+        "mention_list": [
+            "World Values Survey"
+        ]
+    },
+    {
+        "publication_id": 18599,
+        "data_set_id": 651,
+        "score": 0.9518682617279588,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 18618,
+        "data_set_id": 136,
+        "score": 0.8953363772088763,
+        "mention_list": [
+            "National Health Interview Survey",
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 18620,
+        "data_set_id": 399,
+        "score": 0.9836887729587673,
+        "mention_list": [
+            "SOA"
+        ]
+    },
+    {
+        "publication_id": 18621,
+        "data_set_id": 1044,
+        "score": 0.9610298847280881,
+        "mention_list": [
+            "East Asian Social Survey",
+            "EASS"
+        ]
+    },
+    {
+        "publication_id": 18631,
+        "data_set_id": 1032,
+        "score": 0.9978196201349817,
+        "mention_list": [
+            "MTO"
+        ]
+    },
+    {
+        "publication_id": 18637,
+        "data_set_id": 1032,
+        "score": 0.9985435879685997,
+        "mention_list": [
+            "Moving to Opportunity",
+            "MTO"
+        ]
+    },
+    {
+        "publication_id": 18638,
+        "data_set_id": 908,
+        "score": 0.9461656715190089,
+        "mention_list": [
+            "CAG"
+        ]
+    },
+    {
+        "publication_id": 18676,
+        "data_set_id": 136,
+        "score": 0.7472906963667977,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 18686,
+        "data_set_id": 136,
+        "score": 0.911365058732892,
+        "mention_list": [
+            "National Health Interview Survey",
+            "NHIS",
+            "NHIS data"
+        ]
+    },
+    {
+        "publication_id": 18688,
+        "data_set_id": 437,
+        "score": 0.9601596317439798,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18688,
+        "data_set_id": 651,
+        "score": 0.7487485222672645,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 18691,
+        "data_set_id": 437,
+        "score": 0.9022272846199595,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18691,
+        "data_set_id": 635,
+        "score": 0.8550786243932679,
+        "mention_list": [
+            "MLS"
+        ]
+    },
+    {
+        "publication_id": 18719,
+        "data_set_id": 377,
+        "score": 0.9359421079822122,
+        "mention_list": [
+            "Health and Retirement Study",
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 18719,
+        "data_set_id": 488,
+        "score": 0.9707289329137585,
+        "mention_list": [
+            "National Survey of Midlife Development in the United States",
+            "MIDUS"
+        ]
+    },
+    {
+        "publication_id": 18723,
+        "data_set_id": 100,
+        "score": 0.7398972391767517,
+        "mention_list": [
+            "Monitoring the Future study"
+        ]
+    },
+    {
+        "publication_id": 18738,
+        "data_set_id": 437,
+        "score": 0.8144856138417482,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18750,
+        "data_set_id": 456,
+        "score": 0.9743083982367979,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 18753,
+        "data_set_id": 40,
+        "score": 0.9710121472666929,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 18753,
+        "data_set_id": 68,
+        "score": 0.950875706970679,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18757,
+        "data_set_id": 437,
+        "score": 0.8444239117689255,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18758,
+        "data_set_id": 437,
+        "score": 0.8229528806590641,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18760,
+        "data_set_id": 377,
+        "score": 0.797704048157445,
+        "mention_list": [
+            "Health and Retirement Study"
+        ]
+    },
+    {
+        "publication_id": 18760,
+        "data_set_id": 446,
+        "score": 0.9819471384205883,
+        "mention_list": [
+            "Chinese Longitudinal Healthy Longevity Survey",
+            "CLHLS"
+        ]
+    },
+    {
+        "publication_id": 18761,
+        "data_set_id": 377,
+        "score": 0.797704048157445,
+        "mention_list": [
+            "Health and Retirement Study"
+        ]
+    },
+    {
+        "publication_id": 18763,
+        "data_set_id": 437,
+        "score": 0.9270589733092262,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18766,
+        "data_set_id": 437,
+        "score": 0.9452292883984652,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18775,
+        "data_set_id": 444,
+        "score": 0.9680301584431129,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 18789,
+        "data_set_id": 437,
+        "score": 0.9698210297444543,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18790,
+        "data_set_id": 437,
+        "score": 0.9698210297444543,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18791,
+        "data_set_id": 458,
+        "score": 0.9991293825846075,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 18807,
+        "data_set_id": 399,
+        "score": 0.8545813627186719,
+        "mention_list": [
+            "LSOA"
+        ]
+    },
+    {
+        "publication_id": 18807,
+        "data_set_id": 437,
+        "score": 0.9680948712492202,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18813,
+        "data_set_id": 437,
+        "score": 0.9270590176420753,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18819,
+        "data_set_id": 1165,
+        "score": 0.8713368968668774,
+        "mention_list": [
+            "CID"
+        ]
+    },
+    {
+        "publication_id": 18820,
+        "data_set_id": 260,
+        "score": 0.9736946919030371,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 18823,
+        "data_set_id": 136,
+        "score": 0.7508376759671168,
+        "mention_list": [
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 18840,
+        "data_set_id": 1179,
+        "score": 0.9670161693437597,
+        "mention_list": [
+            "common cold"
+        ]
+    },
+    {
+        "publication_id": 18850,
+        "data_set_id": 437,
+        "score": 0.8840315754964998,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18851,
+        "data_set_id": 437,
+        "score": 0.8840315754964998,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18860,
+        "data_set_id": 912,
+        "score": 0.981064309819439,
+        "mention_list": [
+            "ACHS"
+        ]
+    },
+    {
+        "publication_id": 18863,
+        "data_set_id": 461,
+        "score": 0.9780557103820773,
+        "mention_list": [
+            "SABE Study",
+            "SABE"
+        ]
+    },
+    {
+        "publication_id": 18884,
+        "data_set_id": 68,
+        "score": 0.9533520719442788,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 18888,
+        "data_set_id": 136,
+        "score": 0.772298307293411,
+        "mention_list": [
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 18891,
+        "data_set_id": 668,
+        "score": 0.9941880471292064,
+        "mention_list": [
+            "FES"
+        ]
+    },
+    {
+        "publication_id": 18894,
+        "data_set_id": 600,
+        "score": 0.9959189817447961,
+        "mention_list": [
+            "NAMCS"
+        ]
+    },
+    {
+        "publication_id": 18901,
+        "data_set_id": 446,
+        "score": 0.9818527095950915,
+        "mention_list": [
+            "Chinese Longitudinal Healthy Longevity Survey",
+            "CLHLS"
+        ]
+    },
+    {
+        "publication_id": 18909,
+        "data_set_id": 870,
+        "score": 0.9722930839439711,
+        "mention_list": [
+            "NSAF"
+        ]
+    },
+    {
+        "publication_id": 18913,
+        "data_set_id": 600,
+        "score": 0.9868865052731255,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey",
+            "NAMCS"
+        ]
+    },
+    {
+        "publication_id": 18920,
+        "data_set_id": 437,
+        "score": 0.7730653771025457,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18922,
+        "data_set_id": 437,
+        "score": 0.927090195261311,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18924,
+        "data_set_id": 610,
+        "score": 0.9066809556000637,
+        "mention_list": [
+            "National Hospital Ambulatory Medical Care Survey"
+        ]
+    },
+    {
+        "publication_id": 18925,
+        "data_set_id": 449,
+        "score": 0.817186873259408,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 18927,
+        "data_set_id": 444,
+        "score": 0.9232093684214131,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 18928,
+        "data_set_id": 444,
+        "score": 0.9232093684214131,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 18934,
+        "data_set_id": 437,
+        "score": 0.7897281928844082,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18951,
+        "data_set_id": 377,
+        "score": 0.9426153955911,
+        "mention_list": [
+            "Health and Retirement Survey",
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 18953,
+        "data_set_id": 438,
+        "score": 0.928696115676903,
+        "mention_list": [
+            "AHS"
+        ]
+    },
+    {
+        "publication_id": 18956,
+        "data_set_id": 445,
+        "score": 0.7480428616235612,
+        "mention_list": [
+            "NCS-R"
+        ]
+    },
+    {
+        "publication_id": 18956,
+        "data_set_id": 458,
+        "score": 0.8719291114737527,
+        "mention_list": [
+            "National Survey on Drug Use and Health"
+        ]
+    },
+    {
+        "publication_id": 18966,
+        "data_set_id": 437,
+        "score": 0.8890727990886795,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18972,
+        "data_set_id": 600,
+        "score": 0.9780999903901669,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey",
+            "NAMCS"
+        ]
+    },
+    {
+        "publication_id": 18975,
+        "data_set_id": 437,
+        "score": 0.9019740573668487,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18976,
+        "data_set_id": 437,
+        "score": 0.9019740573668487,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 18985,
+        "data_set_id": 376,
+        "score": 0.8558402792333145,
+        "mention_list": [
+            "EPESE"
+        ]
+    },
+    {
+        "publication_id": 18992,
+        "data_set_id": 260,
+        "score": 0.9804903186459069,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 18993,
+        "data_set_id": 260,
+        "score": 0.9804903186459069,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 18996,
+        "data_set_id": 398,
+        "score": 0.8595109433627494,
+        "mention_list": [
+            "ACL"
+        ]
+    },
+    {
+        "publication_id": 18999,
+        "data_set_id": 651,
+        "score": 0.9272992010134921,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19001,
+        "data_set_id": 437,
+        "score": 0.9164413661801311,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19002,
+        "data_set_id": 456,
+        "score": 0.9929092301049827,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 19003,
+        "data_set_id": 456,
+        "score": 0.9929092301049827,
+        "mention_list": [
+            "HBSC"
+        ]
+    },
+    {
+        "publication_id": 19011,
+        "data_set_id": 398,
+        "score": 0.9611798185486408,
+        "mention_list": [
+            "ACL"
+        ]
+    },
+    {
+        "publication_id": 19037,
+        "data_set_id": 455,
+        "score": 0.8532373259416578,
+        "mention_list": [
+            "National Comorbidity Survey"
+        ]
+    },
+    {
+        "publication_id": 19038,
+        "data_set_id": 455,
+        "score": 0.8532373259416578,
+        "mention_list": [
+            "National Comorbidity Survey"
+        ]
+    },
+    {
+        "publication_id": 19044,
+        "data_set_id": 260,
+        "score": 0.960513216458414,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19044,
+        "data_set_id": 377,
+        "score": 0.9732800627761411,
+        "mention_list": [
+            "Health and Retirement Survey",
+            "HRS",
+            "Health and Retirement Study"
+        ]
+    },
+    {
+        "publication_id": 19045,
+        "data_set_id": 437,
+        "score": 0.8611908023617114,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19070,
+        "data_set_id": 437,
+        "score": 0.8542408655132407,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19076,
+        "data_set_id": 437,
+        "score": 0.9270590176468666,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19081,
+        "data_set_id": 1179,
+        "score": 0.8809083448675004,
+        "mention_list": [
+            "common cold"
+        ]
+    },
+    {
+        "publication_id": 19096,
+        "data_set_id": 587,
+        "score": 0.9150003359031866,
+        "mention_list": [
+            "India Human Development Survey"
+        ]
+    },
+    {
+        "publication_id": 19097,
+        "data_set_id": 260,
+        "score": 0.9640013094374342,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19098,
+        "data_set_id": 437,
+        "score": 0.9433003393411942,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19107,
+        "data_set_id": 438,
+        "score": 0.9972920859762705,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 19114,
+        "data_set_id": 260,
+        "score": 0.9813855053034202,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey",
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 19119,
+        "data_set_id": 377,
+        "score": 0.7994375651332037,
+        "mention_list": [
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 19119,
+        "data_set_id": 956,
+        "score": 0.9491349418681269,
+        "mention_list": [
+            "IFLS"
+        ]
+    },
+    {
+        "publication_id": 19120,
+        "data_set_id": 377,
+        "score": 0.7994375651332037,
+        "mention_list": [
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 19120,
+        "data_set_id": 956,
+        "score": 0.9041133724722137,
+        "mention_list": [
+            "IFLS"
+        ]
+    },
+    {
+        "publication_id": 19125,
+        "data_set_id": 437,
+        "score": 0.9270589885873596,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19126,
+        "data_set_id": 437,
+        "score": 0.8882178517181952,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19127,
+        "data_set_id": 437,
+        "score": 0.8882178517181952,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19128,
+        "data_set_id": 437,
+        "score": 0.8882178517181952,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19130,
+        "data_set_id": 437,
+        "score": 0.8882178517181952,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19135,
+        "data_set_id": 1207,
+        "score": 0.9903355757175809,
+        "mention_list": [
+            "PRC"
+        ]
+    },
+    {
+        "publication_id": 19141,
+        "data_set_id": 437,
+        "score": 0.9433129689310303,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19142,
+        "data_set_id": 428,
+        "score": 0.9749504468883389,
+        "mention_list": [
+            "HCC"
+        ]
+    },
+    {
+        "publication_id": 19145,
+        "data_set_id": 600,
+        "score": 0.9092572497956958,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey"
+        ]
+    },
+    {
+        "publication_id": 19145,
+        "data_set_id": 608,
+        "score": 0.9915448710183672,
+        "mention_list": [
+            "NHAMCS"
+        ]
+    },
+    {
+        "publication_id": 19146,
+        "data_set_id": 608,
+        "score": 0.9844455607935183,
+        "mention_list": [
+            "NHAMCS"
+        ]
+    },
+    {
+        "publication_id": 19147,
+        "data_set_id": 608,
+        "score": 0.9844455607935183,
+        "mention_list": [
+            "NHAMCS"
+        ]
+    },
+    {
+        "publication_id": 19148,
+        "data_set_id": 608,
+        "score": 0.9844455607935183,
+        "mention_list": [
+            "NHAMCS"
+        ]
+    },
+    {
+        "publication_id": 19151,
+        "data_set_id": 377,
+        "score": 0.9620645177852206,
+        "mention_list": [
+            "Health and Retirement Survey",
+            "Health and Retirement Study",
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 19155,
+        "data_set_id": 136,
+        "score": 0.7294072679942762,
+        "mention_list": [
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 19161,
+        "data_set_id": 437,
+        "score": 0.86145580385556,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19163,
+        "data_set_id": 383,
+        "score": 0.9214116114135484,
+        "mention_list": [
+            "National Hospital Discharge Survey"
+        ]
+    },
+    {
+        "publication_id": 19190,
+        "data_set_id": 651,
+        "score": 0.7489104770211541,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19196,
+        "data_set_id": 376,
+        "score": 0.9809305357670255,
+        "mention_list": [
+            "Hispanic Established Population for the Epidemiologic Study of the Elderly",
+            "H-EPESE",
+            "HEPESE"
+        ]
+    },
+    {
+        "publication_id": 19199,
+        "data_set_id": 136,
+        "score": 0.9113662739513602,
+        "mention_list": [
+            "NHIS",
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 19200,
+        "data_set_id": 136,
+        "score": 0.8293875401018547,
+        "mention_list": [
+            "National Health Interview Survey",
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19201,
+        "data_set_id": 437,
+        "score": 0.9019884162896737,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19202,
+        "data_set_id": 458,
+        "score": 0.9976196037492103,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19209,
+        "data_set_id": 458,
+        "score": 0.999075894562067,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19210,
+        "data_set_id": 458,
+        "score": 0.9985088921163239,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19211,
+        "data_set_id": 458,
+        "score": 0.9985088921163239,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19212,
+        "data_set_id": 260,
+        "score": 0.9863424882898058,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 19212,
+        "data_set_id": 458,
+        "score": 0.9985088921163239,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19213,
+        "data_set_id": 458,
+        "score": 0.9985088921163239,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19214,
+        "data_set_id": 458,
+        "score": 0.9985088921163239,
+        "mention_list": [
+            "NSDUH"
+        ]
+    },
+    {
+        "publication_id": 19236,
+        "data_set_id": 136,
+        "score": 0.8914250882505685,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19236,
+        "data_set_id": 839,
+        "score": 0.8836131636883513,
+        "mention_list": [
+            "NHIS-D"
+        ]
+    },
+    {
+        "publication_id": 19238,
+        "data_set_id": 260,
+        "score": 0.8989352527781524,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19238,
+        "data_set_id": 382,
+        "score": 0.9737727924744917,
+        "mention_list": [
+            "NHANES III",
+            "Third National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19239,
+        "data_set_id": 437,
+        "score": 0.9167781252827584,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19244,
+        "data_set_id": 437,
+        "score": 0.9106230449849344,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19258,
+        "data_set_id": 437,
+        "score": 0.9724791691816473,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19259,
+        "data_set_id": 437,
+        "score": 0.9724791691816473,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19276,
+        "data_set_id": 40,
+        "score": 0.9397720178389117,
+        "mention_list": [
+            "Current Population Survey",
+            "CPS"
+        ]
+    },
+    {
+        "publication_id": 19276,
+        "data_set_id": 68,
+        "score": 0.8257005674445009,
+        "mention_list": [
+            "Survey of Income and Program Participation (SIPP)",
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 19277,
+        "data_set_id": 651,
+        "score": 0.7486203170088458,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19278,
+        "data_set_id": 651,
+        "score": 0.7486203170088458,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19282,
+        "data_set_id": 437,
+        "score": 0.9696618449187339,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19285,
+        "data_set_id": 437,
+        "score": 0.986281298318186,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19287,
+        "data_set_id": 651,
+        "score": 0.8778571141745287,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19293,
+        "data_set_id": 663,
+        "score": 0.852780977580763,
+        "mention_list": [
+            "National Crime Victimization Survey",
+            "NCVS"
+        ]
+    },
+    {
+        "publication_id": 19294,
+        "data_set_id": 651,
+        "score": 0.9476141738635699,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19296,
+        "data_set_id": 92,
+        "score": 0.9789621805031878,
+        "mention_list": [
+            "Panel Study of Income Dynamics",
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 19299,
+        "data_set_id": 438,
+        "score": 0.9504837004156212,
+        "mention_list": [
+            "National Longitudinal Study on Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 19299,
+        "data_set_id": 600,
+        "score": 0.9697803324613579,
+        "mention_list": [
+            "National Ambulatory Medical Care Survey"
+        ]
+    },
+    {
+        "publication_id": 19304,
+        "data_set_id": 437,
+        "score": 0.8892909041989515,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19305,
+        "data_set_id": 635,
+        "score": 0.9866495304642373,
+        "mention_list": [
+            "Maternal Lifestyle Study"
+        ]
+    },
+    {
+        "publication_id": 19315,
+        "data_set_id": 68,
+        "score": 0.9098139693173111,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 19318,
+        "data_set_id": 437,
+        "score": 0.9862572569889374,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19323,
+        "data_set_id": 437,
+        "score": 0.7390658683590604,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19326,
+        "data_set_id": 260,
+        "score": 0.8688805544029884,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19330,
+        "data_set_id": 449,
+        "score": 0.8025193228849322,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 19332,
+        "data_set_id": 136,
+        "score": 0.8770545889716526,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19335,
+        "data_set_id": 399,
+        "score": 0.9109665404532391,
+        "mention_list": [
+            "LSOA"
+        ]
+    },
+    {
+        "publication_id": 19335,
+        "data_set_id": 489,
+        "score": 0.9971505741953024,
+        "mention_list": [
+            "National Social Life, Health, and Aging Project",
+            "NSHAP"
+        ]
+    },
+    {
+        "publication_id": 19336,
+        "data_set_id": 136,
+        "score": 0.8783705833183159,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19344,
+        "data_set_id": 928,
+        "score": 0.9091561980323974,
+        "mention_list": [
+            "GSS"
+        ]
+    },
+    {
+        "publication_id": 19352,
+        "data_set_id": 448,
+        "score": 0.9583524957366838,
+        "mention_list": [
+            "NEISS"
+        ]
+    },
+    {
+        "publication_id": 19357,
+        "data_set_id": 437,
+        "score": 0.9863194758131393,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19358,
+        "data_set_id": 437,
+        "score": 0.8873203052869978,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19359,
+        "data_set_id": 260,
+        "score": 0.9959294259021323,
+        "mention_list": [
+            "NHANES"
+        ]
+    },
+    {
+        "publication_id": 19364,
+        "data_set_id": 437,
+        "score": 0.917365665064292,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19376,
+        "data_set_id": 377,
+        "score": 0.9274938971162412,
+        "mention_list": [
+            "Health and Retirement Study",
+            "HRS"
+        ]
+    },
+    {
+        "publication_id": 19392,
+        "data_set_id": 438,
+        "score": 0.8118217989058105,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent to Adult Health"
+        ]
+    },
+    {
+        "publication_id": 19392,
+        "data_set_id": 458,
+        "score": 0.9136995590808826,
+        "mention_list": [
+            "National Survey on Drug Use and Health"
+        ]
+    },
+    {
+        "publication_id": 19392,
+        "data_set_id": 540,
+        "score": 0.9702710093699448,
+        "mention_list": [
+            "NCS-A"
+        ]
+    },
+    {
+        "publication_id": 19395,
+        "data_set_id": 800,
+        "score": 0.9383915831464693,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 19399,
+        "data_set_id": 444,
+        "score": 0.9820603777331693,
+        "mention_list": [
+            "CTS"
+        ]
+    },
+    {
+        "publication_id": 19403,
+        "data_set_id": 437,
+        "score": 0.843375824324605,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19411,
+        "data_set_id": 54,
+        "score": 0.9357627322656435,
+        "mention_list": [
+            "MTF"
+        ]
+    },
+    {
+        "publication_id": 19412,
+        "data_set_id": 583,
+        "score": 0.8657598789798161,
+        "mention_list": [
+            "National Survey of Drug Use and Health"
+        ]
+    },
+    {
+        "publication_id": 19420,
+        "data_set_id": 651,
+        "score": 0.7888350988880347,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19427,
+        "data_set_id": 437,
+        "score": 0.9270589885182706,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19434,
+        "data_set_id": 437,
+        "score": 0.9433424831683326,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19442,
+        "data_set_id": 398,
+        "score": 0.8538152126786667,
+        "mention_list": [
+            "ACL"
+        ]
+    },
+    {
+        "publication_id": 19444,
+        "data_set_id": 1179,
+        "score": 0.9735134675778714,
+        "mention_list": [
+            "common cold"
+        ]
+    },
+    {
+        "publication_id": 19448,
+        "data_set_id": 437,
+        "score": 0.7857108480370258,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19449,
+        "data_set_id": 396,
+        "score": 0.9944116777458928,
+        "mention_list": [
+            "ECA"
+        ]
+    },
+    {
+        "publication_id": 19453,
+        "data_set_id": 382,
+        "score": 0.9659172240918997,
+        "mention_list": [
+            "Third National Health and Nutrition Examination Survey",
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 19454,
+        "data_set_id": 382,
+        "score": 0.9659172240918997,
+        "mention_list": [
+            "Third National Health and Nutrition Examination Survey",
+            "NHANES III"
+        ]
+    },
+    {
+        "publication_id": 19464,
+        "data_set_id": 136,
+        "score": 0.8245419493411926,
+        "mention_list": [
+            "NHIS",
+            "National Health Interview Survey"
+        ]
+    },
+    {
+        "publication_id": 19464,
+        "data_set_id": 651,
+        "score": 0.8198234294074893,
+        "mention_list": [
+            "FFS"
+        ]
+    },
+    {
+        "publication_id": 19473,
+        "data_set_id": 1158,
+        "score": 0.8560206356731782,
+        "mention_list": [
+            "PATH study"
+        ]
+    },
+    {
+        "publication_id": 19474,
+        "data_set_id": 136,
+        "score": 0.9345362596461144,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19479,
+        "data_set_id": 382,
+        "score": 0.8993252822686081,
+        "mention_list": [
+            "Third National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 19479,
+        "data_set_id": 869,
+        "score": 0.9272455881245169,
+        "mention_list": [
+            "CIC"
+        ]
+    },
+    {
+        "publication_id": 19484,
+        "data_set_id": 437,
+        "score": 0.8614036127512399,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19485,
+        "data_set_id": 437,
+        "score": 0.7503566204600967,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19488,
+        "data_set_id": 649,
+        "score": 0.8141487235508499,
+        "mention_list": [
+            "CAS"
+        ]
+    },
+    {
+        "publication_id": 19525,
+        "data_set_id": 800,
+        "score": 0.92422865729153,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 19538,
+        "data_set_id": 136,
+        "score": 0.9268076784327751,
+        "mention_list": [
+            "NHIS"
+        ]
+    },
+    {
+        "publication_id": 19541,
+        "data_set_id": 789,
+        "score": 0.7368151080956903,
+        "mention_list": [
+            "Eurobarometer survey"
+        ]
+    },
+    {
+        "publication_id": 19541,
+        "data_set_id": 800,
+        "score": 0.9623399843883634,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 19548,
+        "data_set_id": 574,
+        "score": 0.8007510722300475,
+        "mention_list": [
+            "Survey of Inmates in State and Federal Correctional Facilities"
+        ]
+    },
+    {
+        "publication_id": 19611,
+        "data_set_id": 438,
+        "score": 0.9977540161861645,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 19612,
+        "data_set_id": 438,
+        "score": 0.997686955695347,
+        "mention_list": [
+            "Add Health"
+        ]
+    },
+    {
+        "publication_id": 19646,
+        "data_set_id": 437,
+        "score": 0.8533245550579621,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19664,
+        "data_set_id": 436,
+        "score": 0.935932398175903,
+        "mention_list": [
+            "Project on Human Development in Chicago Neighborhoods"
+        ]
+    },
+    {
+        "publication_id": 19673,
+        "data_set_id": 437,
+        "score": 0.9463657691176063,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19694,
+        "data_set_id": 1165,
+        "score": 0.9044058091125681,
+        "mention_list": [
+            "CID"
+        ]
+    },
+    {
+        "publication_id": 19701,
+        "data_set_id": 437,
+        "score": 0.9432448479754174,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19726,
+        "data_set_id": 437,
+        "score": 0.9728651907189663,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19730,
+        "data_set_id": 39,
+        "score": 0.9508286969043195,
+        "mention_list": [
+            "NES"
+        ]
+    },
+    {
+        "publication_id": 19732,
+        "data_set_id": 480,
+        "score": 0.864861269566592,
+        "mention_list": [
+            "Correlates of War Project"
+        ]
+    },
+    {
+        "publication_id": 19788,
+        "data_set_id": 437,
+        "score": 0.9433457574677833,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19808,
+        "data_set_id": 908,
+        "score": 0.7456473094703463,
+        "mention_list": [
+            "CAG"
+        ]
+    },
+    {
+        "publication_id": 19891,
+        "data_set_id": 430,
+        "score": 0.9613151296361977,
+        "mention_list": [
+            "World Values Survey",
+            "WVS"
+        ]
+    },
+    {
+        "publication_id": 19913,
+        "data_set_id": 428,
+        "score": 0.9256223458685,
+        "mention_list": [
+            "HCC"
+        ]
+    },
+    {
+        "publication_id": 19956,
+        "data_set_id": 437,
+        "score": 0.9774596946042967,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 19964,
+        "data_set_id": 396,
+        "score": 0.96029184968155,
+        "mention_list": [
+            "ECA"
+        ]
+    },
+    {
+        "publication_id": 19972,
+        "data_set_id": 1177,
+        "score": 0.9205823071430178,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 19973,
+        "data_set_id": 1177,
+        "score": 0.9205823071430178,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 20003,
+        "data_set_id": 488,
+        "score": 0.9812329690717502,
+        "mention_list": [
+            "National Survey of Midlife Development in the United States",
+            "MIDUS"
+        ]
+    },
+    {
+        "publication_id": 20030,
+        "data_set_id": 438,
+        "score": 0.9842318033648451,
+        "mention_list": [
+            "add health"
+        ]
+    },
+    {
+        "publication_id": 20038,
+        "data_set_id": 679,
+        "score": 0.9804689598547451,
+        "mention_list": [
+            "LEMAS",
+            "LEMAS survey"
+        ]
+    },
+    {
+        "publication_id": 20038,
+        "data_set_id": 1259,
+        "score": 0.9837138074844127,
+        "mention_list": [
+            "PPCS"
+        ]
+    },
+    {
+        "publication_id": 20039,
+        "data_set_id": 679,
+        "score": 0.9141795150530987,
+        "mention_list": [
+            "LEMAS"
+        ]
+    },
+    {
+        "publication_id": 20045,
+        "data_set_id": 668,
+        "score": 0.8816475248624264,
+        "mention_list": [
+            "FES"
+        ]
+    },
+    {
+        "publication_id": 20102,
+        "data_set_id": 430,
+        "score": 0.9634440353196413,
+        "mention_list": [
+            "World Values Survey",
+            "WVS"
+        ]
+    },
+    {
+        "publication_id": 20111,
+        "data_set_id": 668,
+        "score": 0.9354865627923504,
+        "mention_list": [
+            "FES"
+        ]
+    },
+    {
+        "publication_id": 20123,
+        "data_set_id": 398,
+        "score": 0.9691613473771423,
+        "mention_list": [
+            "ACL"
+        ]
+    },
+    {
+        "publication_id": 20129,
+        "data_set_id": 449,
+        "score": 0.7919294047116181,
+        "mention_list": [
+            "HS"
+        ]
+    },
+    {
+        "publication_id": 20134,
+        "data_set_id": 437,
+        "score": 0.9728482092573512,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20136,
+        "data_set_id": 366,
+        "score": 0.834924919515199,
+        "mention_list": [
+            "P&L"
+        ]
+    },
+    {
+        "publication_id": 20144,
+        "data_set_id": 437,
+        "score": 0.9863278871976052,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20208,
+        "data_set_id": 260,
+        "score": 0.8521065778566941,
+        "mention_list": [
+            "National Health and Nutrition Examination Survey"
+        ]
+    },
+    {
+        "publication_id": 20228,
+        "data_set_id": 464,
+        "score": 0.9784461368603566,
+        "mention_list": [
+            "National Longitudinal Survey of Youth (NLSY)"
+        ]
+    },
+    {
+        "publication_id": 20233,
+        "data_set_id": 430,
+        "score": 0.9608288921902529,
+        "mention_list": [
+            "World Values Survey",
+            "WVS"
+        ]
+    },
+    {
+        "publication_id": 20270,
+        "data_set_id": 438,
+        "score": 0.9756596237048007,
+        "mention_list": [
+            "National Longitudinal Study of Adolescent Health"
+        ]
+    },
+    {
+        "publication_id": 20276,
+        "data_set_id": 437,
+        "score": 0.9385145498479085,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20288,
+        "data_set_id": 68,
+        "score": 0.86751162037251,
+        "mention_list": [
+            "SIPP"
+        ]
+    },
+    {
+        "publication_id": 20291,
+        "data_set_id": 92,
+        "score": 0.9618623423892793,
+        "mention_list": [
+            "Panel Study of Income Dynamics",
+            "PSID"
+        ]
+    },
+    {
+        "publication_id": 20291,
+        "data_set_id": 464,
+        "score": 0.9823714353147619,
+        "mention_list": [
+            "National Longitudinal Survey of Youth",
+            "NLSY79"
+        ]
+    },
+    {
+        "publication_id": 20292,
+        "data_set_id": 398,
+        "score": 0.898371710922066,
+        "mention_list": [
+            "ACL"
+        ]
+    },
+    {
+        "publication_id": 20316,
+        "data_set_id": 437,
+        "score": 0.7613522882238517,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20338,
+        "data_set_id": 1177,
+        "score": 0.8277037839606954,
+        "mention_list": [
+            "WLS"
+        ]
+    },
+    {
+        "publication_id": 20342,
+        "data_set_id": 437,
+        "score": 0.9013727440523616,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20363,
+        "data_set_id": 455,
+        "score": 0.9172293173886416,
+        "mention_list": [
+            "National Comorbidity Survey",
+            "NCS"
+        ]
+    },
+    {
+        "publication_id": 20367,
+        "data_set_id": 437,
+        "score": 0.9863167458392152,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20527,
+        "data_set_id": 437,
+        "score": 0.7754177646571705,
+        "mention_list": [
+            "NHS"
+        ]
+    },
+    {
+        "publication_id": 20553,
+        "data_set_id": 800,
+        "score": 0.9844133399276677,
+        "mention_list": [
+            "Eurobarometer"
+        ]
+    },
+    {
+        "publication_id": 20571,
+        "data_set_id": 956,
+        "score": 0.850872544573923,
+        "mention_list": [
+            "IFLS"
+        ]
+    },
+    {
+        "publication_id": 20572,
+        "data_set_id": 956,
+        "score": 0.7917699051868105,
+        "mention_list": [
+            "IFLS"
+        ]
+    },
+    {
+        "publication_id": 20573,
+        "data_set_id": 366,
+        "score": 0.8266098734858137,
+        "mention_list": [
+            "P&L"
+        ]
+    }
+]
