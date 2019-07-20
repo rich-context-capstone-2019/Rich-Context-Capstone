@@ -45,27 +45,26 @@ all_cit = pd.concat([tt_cit[['publication_id', 'data_set_id', 'score', 'source']
 all_cit['pub_name'] = ['pub_'+str(i) for i in all_cit.publication_id] 
 all_cit['data_name'] = ['data_'+str(i) for i in all_cit.data_set_id] 
 
-### 4. Generate [dataset, publication] Graph
+
+### 5. Generate [dataset, publication] Graph
 pub_nodes = ['pub_'+str(i) for i in all_pubs.publication_id]
 data_nodes = ['data_'+str(i) for i in all_data.data_set_id]
 pub_edges = [(x,y) for x,y in zip(all_cit.pub_name, all_cit.data_name)]
-
-def startG():
-    g = nx.Graph()
-    g.add_nodes_from(pub_nodes+data_nodes)
-    g.add_edges_from(pub_edges)
-    return g
     
-### 5. Extract & Integrate Subject Terms
+### 6. Extract & Integrate Subject Terms
 all_sub = [i.split(',') for i in all_data.subjects]
 all_sub = set(list(itertools.chain(*all_sub)))
 sub_edges = [('data_'+str(x),sub) for x,y in zip(all_data.data_set_id, all_data.subjects) for sub in y.split(',')]
 
-def addST(g, edges=sub_edges):
-    g.add_nodes_from(all_sub)
-    g.add_edges_from(edges)
+def addST(g, c=False):
+    if c:
+        g.add_nodes_from(all_sub)
+        g.add_edges_from(new_sub_edges)
+    else:
+        g.add_nodes_from(all_sub)
+        g.add_edges_from(edges)
 
-### 6. Load & Integrate Author
+### 7. Load & Integrate Author
 all_auth = pd.read_csv('data/p1p2_PubAuthor_pairs.csv')[['publication_id', 'AuthorId']]
 all_auth = pd.concat([all_auth, pd.read_csv('data/PubAuthor_pairs.csv')[['publication_id', 'AuthorId']]]).reset_index(drop=True)
 auth_nodes = ['auth_'+str(i) for i in list(set(all_auth.AuthorId))]
@@ -75,7 +74,7 @@ def addAuth(g):
     g.add_nodes_from(auth_nodes)
     g.add_edges_from(auth_edges)
 
-### 6. Load & Integrate Publication Text Similarity Edges
+### 8. Load & Integrate Publication Text Similarity Edges
 all_sim = pd.read_csv('data/doc_sim.csv')[['Doc1', 'Doc2', 'Similarity']]
 top_sim = all_sim[all_sim.Similarity >= 0.95]
 sim_edges = [(x,y) for x,y in zip(top_sim.Doc1, top_sim.Doc2)]
@@ -83,7 +82,7 @@ sim_edges = [(x,y) for x,y in zip(top_sim.Doc1, top_sim.Doc2)]
 def addPubSim(g):
     g.add_edges_from(sim_edges)
     
-### 8. Contract Similar Dataset Titles
+    ### 4. Contract Similar Dataset Titles
 roman = re.compile("""
     ^                   # beginning of string
     M{0,4}              # thousands - 0 to 4 M's
@@ -129,12 +128,15 @@ new_edges = [(x,focals[y]) for x,y in pub_edges]
 new_data_nodes = list(set([focals[i] for i in data_nodes]))
 new_sub_edges = [(focals[x], y) for x,y in sub_edges]
 
-def startG8():
+def startG(c=False):
     g = nx.Graph()
-    g.add_nodes_from(pub_nodes+new_data_nodes)
-    g.add_edges_from(new_edges)
+    if c:
+        g.add_nodes_from(pub_nodes+data_nodes)
+        g.add_edges_from(pub_edges)
+    else:
+        g.add_nodes_from(pub_nodes+new_data_nodes)
+        g.add_edges_from(new_edges) 
     return g
-
 ### 9. Load & Integrate Field of Study Entity
 all_fos = pd.read_csv('data/allFoS_PubID.csv', dtype=object)
 all_fos['pub_name'] = ['pub_'+str(i) for i in all_fos.publication_id]
@@ -142,3 +144,11 @@ fos_edges = [('pub_'+str(x),y) for x,y in zip(all_fos.publication_id, all_fos.No
 
 def addFoS(g):
     g.add_edges_from(fos_edges)
+    
+def buildG(c=True):
+    g = startG(c)
+    addST(g, c)
+    addAuth(g)
+    addPubSim(g)
+    addFoS(g)
+    return g
