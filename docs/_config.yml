@@ -1,1 +1,30 @@
 theme: jekyll-theme-tactile
+
+
+title: Chris Bobbe
+subtitle: Web Developer
+description: Website and portfolio of Chris Bobbe, front-end web developer.
+
+author: Chris Bobbe
+email: csbobbe@gmail.com
+avatar: assets/images/avatar.jpg
+
+baseurl: ""
+url: "https://chrisbobbe.github.io"
+
+# Social settings
+facebook_url: https://www.facebook.com/chris.bobbe
+github_url: https://github.com/chrisbobbe
+linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
+twitter_url: https://twitter.com/chrisbobbe
+
+# SEO settiongs
+google_analytics: UA-112211352-1
+
+# Build settings
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Necessary for Prologue theme:
+collections: [sections]
