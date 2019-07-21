@@ -7,7 +7,6 @@ import community
 import re
 import nltk
 from nltk.tokenize import word_tokenize
-nltk.download('punkt')
 
 def writeNX(filename, g):
     network_json = json_graph.node_link_data(g)
@@ -151,7 +150,6 @@ def addCommunity(g):
     partition = community.best_partition(g)
     for i in g.nodes:
         g.nodes[i]['community'] = partition.get(i)
-    return g
     
 def buildG(c=True):
     g = startG(c)

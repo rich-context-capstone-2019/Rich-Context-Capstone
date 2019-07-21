@@ -6,7 +6,6 @@ import nltk
 import networkx as nx
 import NetworkBuilder as nb
 from nltk.tokenize import word_tokenize
-nltk.download('punkt')
 
 datasets = pd.read_json('data/train_test/data_sets.json')
 publications = pd.read_json('data/train_test/publications.json')
@@ -67,7 +66,6 @@ def getRecommendations(Search_By='Keyword', search='', metric='Jaccard', G=None)
             nodes = [i for i in G.neighbors(match[0]) if str(i).startswith('data_')] if len(match)>0 else []
             all_res = pd.DataFrame([int(i.replace('data_','')) for i in nodes], columns =['data_set_id'])
             all_res['score'] = 1.0
-            
             nodes.extend([i for i in G.neighbors(match[0]) if str(i).startswith('pub_')])
     elif Search_By == 'Dataset':
         match = difflib.get_close_matches(search, list(all_dataTitles.keys())+list(all_dataTitles.values()))
@@ -81,10 +79,14 @@ def getRecommendations(Search_By='Keyword', search='', metric='Jaccard', G=None)
         print('MISSING ARGUMENT: Specify Search Criteria!')
         return all_res
     
-    for n in nodes:
-        res = getNodeSim(n, G, metric)
-        all_res = res if res.shape[0] <= 0 else pd.concat([all_res, res], sort=False)
-    all_res = all_res.reset_index(drop=True)
+    if len(match)>0:
+        print(match[0])
+        
+    if all_res.shape[0] < 10:
+        for n in nodes:
+            res = getNodeSim(n, G, metric)
+            all_res = res if res.shape[0] <= 0 else pd.concat([all_res, res], sort=False)
+        all_res = all_res.reset_index(drop=True)
     
     if all_res.shape[0]>0:
         all_res = pd.merge(all_res, datasets[['data_set_id', 'title', 'description']], how='left', on='data_set_id')
