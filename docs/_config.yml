@@ -1,1 +1,8 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-minimal
+title: Rich Contet Capstone
+description: "THE WEBSITE IS STILL UNDER WORK."
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Goals determine what you going to be!"
