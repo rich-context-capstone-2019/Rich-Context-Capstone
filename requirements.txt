@@ -3,12 +3,14 @@ appnope==0.1.0
 attrs==19.1.0
 backcall==0.1.0
 bleach==3.1.0
+bqplot==0.11.6
 certifi==2019.6.16
 chardet==3.0.4
 Click==7.0
 cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.6.0
+docopt==0.6.2
 entrypoints==0.3
 Flask==1.0.3
 idna==2.8
@@ -29,7 +31,9 @@ matplotlib==3.1.1
 mistune==0.8.4
 nbconvert==5.5.0
 nbformat==4.4.0
+nbinteract==0.2.4
 networkx==2.3
+nltk==3.4.4
 notebook==5.7.8
 numpy==1.16.4
 pandas==0.24.2
@@ -44,6 +48,7 @@ Pygments==2.4.2
 pyparsing==2.4.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
+python-louvain==0.13
 pytz==2019.1
 pyzmq==18.0.2
 qgrid==1.1.1
@@ -55,6 +60,7 @@ testpath==0.4.2
 toolz==0.9.0
 tornado==6.0.3
 traitlets==4.3.2
+traittypes==0.2.1
 urllib3==1.25.3
 wcwidth==0.1.7
 webencodings==0.5.1
