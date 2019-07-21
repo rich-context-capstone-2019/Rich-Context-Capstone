@@ -3,6 +3,7 @@ import itertools
 import pandas as pd
 import networkx as nx
 from networkx.readwrite import json_graph
+import community
 import re
 import nltk
 from nltk.tokenize import word_tokenize
@@ -131,11 +132,11 @@ new_sub_edges = [(focals[x], y) for x,y in sub_edges]
 def startG(c=False):
     g = nx.Graph()
     if c:
-        g.add_nodes_from(pub_nodes+data_nodes)
-        g.add_edges_from(pub_edges)
-    else:
         g.add_nodes_from(pub_nodes+new_data_nodes)
-        g.add_edges_from(new_edges) 
+        g.add_edges_from(new_edges)
+    else:
+        g.add_nodes_from(pub_nodes+data_nodes)
+        g.add_edges_from(pub_edges) 
     return g
 ### 9. Load & Integrate Field of Study Entity
 all_fos = pd.read_csv('data/allFoS_PubID.csv', dtype=object)
@@ -144,6 +145,13 @@ fos_edges = [('pub_'+str(x),y) for x,y in zip(all_fos.publication_id, all_fos.No
 
 def addFoS(g):
     g.add_edges_from(fos_edges)
+    
+def addCommunity(g):
+    g.remove_nodes_from([i for i in g.nodes if str(i)=='nan']+['pub_nan'])
+    partition = community.best_partition(g)
+    for i in g.nodes:
+        g.nodes[i]['community'] = partition.get(i)
+    return g
     
 def buildG(c=True):
     g = startG(c)
