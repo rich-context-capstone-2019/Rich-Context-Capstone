@@ -1,0 +1,532 @@
+<!DOCTYPE HTML>
+<!--
+Local Air Quality Management: Disrupting Vehicle Emission Testing Programs (NYU Marron Institute)
+-->
+<html>
+
+<head>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <title>NYU CUSP Capstone Project 2019 </title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="style.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+    <script src="https://fb.me/react-with-addons-15.1.0.js"></script>
+    <script src="https://fb.me/react-dom-15.1.0.js"></script>
+    
+    <script src="https://cdn.jsdelivr.net/npm/vega@3"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@3"></script>
+
+<style id="jsbin-css">
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+text {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+</style>
+
+</head>
+
+<body class="is-preload">
+
+    <!-- Page Wrapper -->
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <header id="header" class="alt">
+            <h1>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                <a href="#intro">Introduction</a>&emsp;&emsp;
+                <a href="#data">Raw Data</a>&emsp;&emsp;
+                <a href="#method">Methodology</a>&emsp;&emsp;
+                <a href="#result">Result</a>&emsp;&emsp;
+                <a href="#conclusion">Conclusion</a>&emsp;&emsp;
+                <a href="#people">About&nbsp;Us</a></h1>
+        </header>
+
+        <!-- Button -->
+        <button onclick="topFunction()" id="myBtn" title="Back to top">Top</button>
+
+        <!-- Banner -->
+        <section id="banner">
+            <div class="inner">
+                <div class="logo"><img src="images/logo-01.png" width='45%' height="10%"></span>
+                </div>
+                <h2>Rich Context Algorithms & Development: Dataset Recommendation System</h2>
+                <p> Sponsored by Coleridge Initiative; Conducted by NYU CUSP students</p>
+                <a href="https://jz3309capstone.herokuapp.com/" class="special">Web Application</a>
+                <a href="https://github.com/rich-context-capstone-2019/Rich-Context-Capstone" class="special">Code</a>
+                <a href="#" class="special">Paper</a>
+            </div>
+        </section>
+
+        <!-- Wrapper -->
+        <section id="wrapper">
+
+            <!-- One -->
+            <section id="abstract" class="wrapper spotlight style1">
+                <div name="overview" class="inner">
+                    <div class="logo1"><span class="fa fa-anchor"></span></div>
+                    <div class="content">
+                        <h2 class="major">Project Overview</h2>
+                        <p align="left">
+                          Exploring research datasets and their relational network between one and the others, and between datasets and entities of interest, such as research fields, paper titles, authors, and citation counts, are currently inefficient and lack an integrated online platform that improves this process. This capstone project connects datasets with various entities in the papers that use them and with other related papers. 
+                          <br/></br>
+                          This project investigates how to leverage the heterogeneous information, such as entity relations and textual content, and use it to generate dataset recommendations for our users. Among different recommendation techniques, we propose a novel approach to integrate a graph based recommendation system which combines techniques from our empirical studies and literature reviews. 
+                          </br><br/>
+                          <span id="dots"> </span>
+                          <span id= 'timeline'>
+                            <a><img src="images/projectA_timeline.png" width="100%" height="80%" /></a>
+                            </br>
+                            <a><img src="images/projectB_timeline.png" width="100%" height="80%" /></a>
+                          </span>
+                        </p>
+                        <a onclick='expandTimeline()' class="special" id='tl-link'>See Project Timeline</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Two -->
+            <section id="intro" class="wrapper alt spotlight style2">
+                <div class="inner">
+                  <!--<a href="#" class="image"><img src="images/pic011.jpg" alt="" /></a>-->
+                  <div class="logo1"><span class="fa fa-map-signs"></span></div>
+                  <!-- change the image here -->
+                  <div class="content">
+                      <h2 class="major">Introduction</h2>
+                      <p align="left">The Salt Lake County vehicle emissions testing program suffers from uncontrolled transactional cost burdens for motorists and is not capable of tracking noncompliant vehicles.
+                          How can we leverage Salt Lake County test pricing and vehicle data to reduce cost inefficiencies for motorists and enable tracking capabilities for local government?
+                          This project proposes to support Salt Lake County regulators in the exploration and development of new cost efficiencies and noncompliant vehicle tracking capabilities.
+                          <br/></br>We seek to accomplish the following: the identification of testing price points that can accomplish a decrease in cost per ton of reduced pollutant emissions while preserving service
+                          availability within the testing provider network, and discernment of patterns in noncompliant vehicle use through ensemble classification methods.
+                      </p>
+                  </div>
+                </div>
+            </section>
+
+            <!-- Three -->
+            <section id="data" class="wrapper spotlight style1">
+                <div class="inner">
+                  <div class="logo1"><span class="fa fa-database"></span></div>
+
+                  <div class="content">
+                      <h2 class="major"> Raw Data </h2>
+                      <p align="left"> <strong>1.&nbsp&nbspRich Context Competition Dataset</strong>
+                          </br>
+                          TThe Rich Context Competition held by Coleridge Initiative was with the intent to automate the discovery of research datasets, fields, and methods used in a publication paper. This project have used both the dataset used to train the model as well as the prediction output from the winner of the competition. These datasets include 3 main components</br>
+                          <br/>
+                          <strong>2.&nbsp&nbsp ICPSR Archive</strong></br>
+                            TThe ICPSR Archive is considered an International Leader in Data Stewardship, maintaining a data archive of about 250,000 of research in the social and behavioral sciences. The ICPSR Bibliography of Data-related Literature is a searchable database that as of 2019 contains 80,000 citations of published and unpublished works resulting from analyses of data held in the ICPSR archive. This project is using about 15,000 publication papers and 10,348 dataset from the ICPSR archive in which we have extracted their metadata, such as subject terms, descriptions, titles, and DOI. </br>
+
+                          <strong>3.&nbsp&nbsp Microsoft Academic Graph Data</strong></br>
+                            The Microsoft Academic Graph (MAG) currently has 218,951,661 papers with 239,743,363 authors, 664,149 topics, 4,384 conferences, 48,731 journals, and 25,511 institutions. </br>  
+
+                      </p>
+                  </div>
+                </div>
+            </section>
+
+        <!-- Four -->
+            <section id="method" class="wrapper alt spotlight style2">
+                  <svg width="800" height="800"></svg>
+                    <div id="ui"></div>
+  <div id="vis"></div>
+<script id="jsbin-javascript">
+class GetRecommendation extends React.Component {
+   constructor(props) {
+    super(props);
+    this.state = {
+      bytype: 'dataset'
+    };
+    this.handleChange = this.handleChange.bind(this);
+    this.handleSubmit = this.handleSubmit.bind(this);
+  }
+  handleChange(event) {
+    this.setState({
+      [event.target.name]: event.target.value
+    });
+  }
+  handleSubmit(event) {
+  d3.selectAll("svg > *").remove();
+  var svg = d3.select("svg"),
+      width = svg.attr("width"),
+      height = svg.attr("height");
+  var color = d3.scaleOrdinal(d3.schemeCategory10);
+  var simulation = d3.forceSimulation()
+      .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(250))
+      .force("charge", d3.forceManyBody())
+      .force("center", d3.forceCenter(width/4, height/3));
+  var data = d3.json("https://raw.githubusercontent.com/rich-context-capstone-2019/Rich-Context-Capstone/master/data/NX_data_450.json", function(error, graph) {
+    if (error) throw error;
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter().append("g")
+    
+  var circles = node.append("circle")
+      .attr("r", 5)
+      .attr("fill", function(d) { return color(d.community); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+  var lables = node.append("text")
+      .text(function(d) {
+        return d.id;
+      })
+      .attr('x', 6)
+      .attr('y', 3);
+  node.append("title")
+      .text(function(d) { return d.id; });
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+  simulation.force("link")
+      .links(graph.links);
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+    node
+        .attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        })
+  }
+});
+    event.preventDefault();
+  }
+  render() {
+    return (
+      React.createElement("form", {onSubmit: this.handleSubmit}, 
+        React.createElement("label", null, 
+          "Get Recommendation   ", React.createElement("br", null), 
+          "ByType  ",  
+          React.createElement("select", {
+            name: "bytype", 
+            value: this.state.bytype, 
+            onChange: this.handleChange}, 
+            React.createElement("option", {value: "dataset"}, "Data Set"), 
+            React.createElement("option", {value: "publication"}, "Publication"), 
+            React.createElement("option", {value: "keyword"}, "Keywords")
+          ), 
+          "   " 
+        ), 
+        React.createElement("input", {id: "searched", onChange: this.handleChange}), 
+        React.createElement("input", {type: "submit", value: "Update"})
+      )
+    );
+  }
+}
+ReactDOM.render(
+  React.createElement("div", null, 
+    React.createElement(GetRecommendation, null)
+  ),
+  document.getElementById('ui')
+);
+var svg = d3.select("svg"),
+    width = svg.attr("width"),
+    height = svg.attr("height");
+var color = d3.scaleOrdinal(d3.schemeCategory10);
+var simulation = d3.forceSimulation()
+    .force("link", d3.forceLink().id(function(d) { return d.id; }).distance(300))
+    .force("charge", d3.forceManyBody())
+    .force("center", d3.forceCenter(width/2, height/2));
+var data = d3.json("https://raw.githubusercontent.com/rich-context-capstone-2019/Rich-Context-Capstone/master/data/network_small.json", function(error, graph) {
+  if (error) throw error;
+  var link = svg.append("g")
+      .attr("class", "links")
+    .selectAll("line")
+    .data(graph.links)
+    .enter().append("line")
+      .attr("stroke-width", function(d) { return Math.sqrt(d.value); });
+  var node = svg.append("g")
+      .attr("class", "nodes")
+    .selectAll("g")
+    .data(graph.nodes)
+    .enter().append("g")
+    
+  var circles = node.append("circle")
+      .attr("r", 5)
+      .attr("fill", function(d) { return color(d.community); })
+      .call(d3.drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended));
+  var lables = node.append("text")
+      .text(function(d) {
+        return d.id;
+      })
+      .attr('x', 6)
+      .attr('y', 3);
+  node.append("title")
+      .text(function(d) { return d.id; });
+  simulation
+      .nodes(graph.nodes)
+      .on("tick", ticked);
+  simulation.force("link")
+      .links(graph.links);
+  function ticked() {
+    link
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; });
+    node
+        .attr("transform", function(d) {
+          return "translate(" + d.x + "," + d.y + ")";
+        })
+  }
+});
+function dragstarted(d) {
+  if (!d3.event.active) simulation.alphaTarget(0.3).restart();
+  d.fx = d.x;
+  d.fy = d.y;
+}
+function dragged(d) {
+  d.fx = d3.event.x;
+  d.fy = d3.event.y;
+}
+function dragended(d) {
+  if (!d3.event.active) simulation.alphaTarget(0);
+  d.fx = null;
+  d.fy = null;
+}
+</script>
+
+
+<script id="jsbin-source-css" type="text/css">.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+text {
+  font-family: sans-serif;
+  font-size: 10px;
+}
+</script>
+
+            </section>
+
+            <!-- Five -->
+            <section id="result" class="wrapper spotlight style4">
+                <div class="inner">
+                  <div class="content">
+                      <h2 class="major"> Result </h2>
+                      <p align ="left">
+                          <strong>1. &nbsp&nbsp Web Application </strong> </br>
+                          A prototype web application displays locations of testing facilities with detailed information on each of them and filter feature based on zip code and price range.
+                          </br><br/>
+                          Application will be used by county residents and our intuition.
+                          Domain knowledge of our mentor indicated that filtering specifically by zip code will allow users to quickly select the most convenient facilities,
+                          while price filter will add transparency to existing pricing schemes and provide
+                          a more informed and economically transparent facility selection process.
+                          </br>
+                          <div align="center">
+                              <a href="https://jz3309capstone.herokuapp.com/"> <img src="images/app.jpg" width="90%" height="30%" /></a>
+                          </div>
+                          </br>
+                      </p>
+                      <p align ="left">
+                          <strong>2.  &nbsp&nbsp Local Moran's I</strong> </br>
+                          The main outcomes from our analysis include Managers suggested average of 35$ (similar to current county average) as proposed price cap. Around 63% of managers claimed not to offer testing after a price cap is introduced. 60% of managers would be willing
+                          to participate in government subsidy programs that would foster timely repairs.</br>
+                          <div id="figure" align="center">
+                              <a><img src="images/LISA.jpg" width="60%" height="50%" /></a>
+                              </br>
+                          </div>
+                      </p>
+                      <p align ="left">
+                          <strong align ="left">3.  &nbsp&nbsp Stats</strong> </br>
+                          To support stakeholder decision-making, we have calculated multiple statistics on testing in the county based on the data. We estimated number of initial tests per test result in each year (2017-2018). We calculated the average cost of testing and
+                          average price across all tests.
+                          <ul>
+                              <li align ="left">Around 7% of initial OBDII tests do not pass, where 4% results are rejects (vehicle not yet ready to take the test due to technical conditions), and 3% are fails (vehicle did not pass the test).</li>
+                              <li align ="left">Average price of all OBDII tests is currently 33.95$ (to compare, in Cache County, UT price cap is set at 15$, so the difference is significant).Initial results and all statistics have been reported to the stakeholder.</li>
+                          </ul>
+                      </p>
+                      <!-- <a href="#" class="special">Learn more</a> -->
+                  </div>
+                </div>
+            </section>
+
+            <!-- Six -->
+            <section id="conclusion" class="wrapper alt spotlight style2">
+                <div class="inner">
+                  <div class="logo1"><span class="fa fa-clipboard-check"></span></div>
+                  <div class="content">
+                      <h2 class="major"> Conclusion</h2>
+                      <p align="left"> Major risks of the project are associated with communication and delivery.
+                        In the research plan we indicate that some steps might require iteration - those include analytical framework development and application development.
+                        Therefore, timely delivery will highly depend on successful collaboration with the stakeholder, and among team members, to avoid unnecessary misunderstandings and extensions.
+                        </br><br/>
+                        Another risk resides in the team’s capability to deliver high quality products to the end users.
+                        Because our stakeholder is a government institution and our work might have sufficient impact on the entire vehicle emission test program,
+                        it is crucial to ensure we meet expectations and produce high-end deliverables.
+                        </br> <br/>
+                        To mitigate this risk we often sought advice from more experienced peers, eg.
+                        We have contacted professional UX designer to conduct our application tests.
+                        We also tried to quickly identify potentially difficult tasks and issues to address them together and find solutions during team calls or meetings.
+                      </p>
+                      <!-- <a href="#" class="special">Learn more</a> -->
+                  </div>
+                </div>
+            </section>
+
+            <!-- Seven -->
+            <section id="reference" class="wrapper spotlight style4">
+                <div class="inner">
+                  <div class="content">
+                      <h2 class="major"> References </h2>
+                      <p align = 'left' > Baltusis, Paul. On board vehicle diagnostics. No. 2004-21-0009. SAE Technical Paper, 2004.</br><br/>
+                          Harrington, Winston, Virginia McConnell, and Amy Ando. "Are vehicle emission inspection programs living up to expectations?." Transportation Research Part D: Transport and Environment 5.3 (2000): 153-172. </br><br/>
+                          Kuhns, Hampden D., et al. "Remote sensing of PM, NO, CO and HC emission factors for on-road gasoline and diesel engine vehicles in Las Vegas, NV." Science of the Total Environment 322.1-3 (2004): 123-137.</br><br/>
+                          National Research Council. Evaluating Vehicle Emissions Inspection and Maintenance Programs. National Academies Press, 2001. </br><br/>
+                          Pierce, Lamar, and Jason A. Snyder. "Discretion and manipulation by experts: Evidence from a vehicle emissions policy change." The BE Journal of Economic Analysis & Policy 12.3 (2012). </p>
+                      </p>
+                  </div>
+                </div>
+            </section>
+
+            <!-- People -->
+            <section id="people" class="wrapper alt style1">
+                <div class="inner">
+                    <h2 class="major">Group Members</h2>
+
+                    <section class="features">
+                        <article>
+                            <br/>
+                            <div align="center">
+                                <a href="#" class="image"><img src="images/people-Ewelina.jpg" /></a>
+                            </div>
+                            <h3 align="center">Project Manager</h3>
+                            <h3 class="major" align="center">Ewelina Marcinkiewicz</h3>
+                            <p> Ewelina Marcinkiewicz is responsible for setting measurable targets and deadlines for their completion, so the project flows efficiently and is being completed on time. She will ensure that all parties involved
+                                in the project communicate effectively and hence have clear understanding of team’s progress. She will also be responsible for problem structuring and scoping throughout the project, to guarantee high quality of final deliverables.
+                            </p>
+                            <a href="https://www.linkedin.com/in/ewelina-marcinkiewicz/" class="special"> Linkedin </a>
+                            <a href="#" class="special"> Github </a>
+                        </article>
+                        <article>
+                            <br/>
+                            <div align="center">
+                                <a href="#" class="image"><img src="images/people-Yunhe.jpg" alt="" /></a>
+                            </div>
+                            <h3 align="center">Data Visualization Lead</h3>
+                            <h3 class="major" align="center">Yunhe Cui</h3>
+                            <p> Yunhe Cui is responsible for data visualization and interpretation.
+                              She used ArcGIS desktop, Python, HTML5, CSS, QGIS and ArcGIS Pro to demonstrate spatial and non-spatial data in maps and interactive charts.
+                              She also conducted spatial analysis (Local Moran's I and geographically Weighted Regression) on the testing data record in Salt Lake County census tracks.
+                            </p>
+                            <a href="https://www.linkedin.com/in/yunhe-cui-67503a115/" class="special"> Linkedin </a>
+                            <a href="https://github.com/yunhecui" class="special"> Github </a>
+                        </article>
+                        <article>
+                            <br/>
+                            <div align="center">
+                                <a href="#" class="image"><img src="images/people-Ursula.jpg" alt="" /></a>
+                            </div>
+                            <h3 align="center">Document Lead</h3>
+                            <h3 class="major" align="center">Ursula Kaczmarek</h3>
+                            <p> Ursula Kaczmarek assumed responsibility for making the vehicle-level testing data suitable for exploratory analysis and modeling, using the Tidyverse data-cleaning package in R.
+                                She also performed exploratory analysis on these testing data, including identification of an appropriate algorithm for identifying per-vehicle initial test results. She performed a literature review on developments in U.S. localities' vehicle emissions programs and price caps within regulated monopolies.
+                            </p>
+                            <a href="#" class="special"> Linkedin </a>
+                            <a href="https://github.com/ursulakaczmarek" class="special"> Github </a>
+                        </article>
+                        <article>
+                            <br/>
+                            <div align="center">
+                                <a href="#" class="image"><img src="images/people-Jiawen.jpg" alt="" /></a>
+                            </div>
+                            <h3 align="center">Web Application Lead</h3>
+                            <h3 class="major" align="center">Jiawen Liang</h3>
+                            <p> Jiawen Liang is responsible for the web application development. He is responsible for designing a web application based on collected data which could help residents in Salt Lake County to locate the cheapest repair shop around
+                                them that can do the emission test.
+                            </p>
+                            <a href="https://www.linkedin.com/in/jiawen-liang-b582b8177/" class="special"> Linkedin </a>
+                            <a href="https://github.com/a627142126" class="special"> Github </a>
+                        </article>
+
+                        <article>
+                            <br/>
+                            <div align="center">
+                                <a href="#" class="image"><img src="images/c.jpg" alt="" /></a>
+                            </div>
+                            <h3 align="center">Data Processing Lead</h3>
+                            <h3 class="major" align="center">Jingxi Zhao</h3>
+                            <p> Jingxi Zhao is responsible for data cleaning and translating. She lead the team first recognized unfinished, unreliable or non-relevant data and removed inaccurate records in Python or R as well as collected emission test cost for 435 test station in Salt Lake County.
+                              Then converted the raw data into different formats, to enable for next step interprea1 and analysis.
+                            </p>
+                            <a href="https://www.linkedin.com/in/jingxi-zhao-4aa727156/" class="special"> Linkedin </a>
+                            <a href="https://github.com/jz3309" class="special"> Github </a>
+                        </article>
+                    </section>
+                </div>
+            </section>
+
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="inner">
+                <h2 class="major">Get in touch with us!</h2>
+                <ul class="contact">
+                    <li class="icon solid fa-home">
+                        NYU CUSP<br/> 370 Jay Street<br/> Brooklyn, NY, 11201
+                    </li>
+                    <li class="icon solid fa-phone">+1 646-853-7998</li>
+                    <li class="icon solid fa-envelope"><a href="#">em3845@nyu.edu</a></li>
+                </ul>
+                <ul class="copyright">
+                    <li>&copy; NYU CUSP 2019 Capstone</li>
+                    <li>This template is made by <a href="https://colorlib.com">Colorlib</a></li>
+                    <li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                </ul>
+            </div>
+        </section>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
+© 2019 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
