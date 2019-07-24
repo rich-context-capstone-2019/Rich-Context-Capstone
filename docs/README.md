@@ -8,9 +8,15 @@ Exploring and finding existent research datasets and the relational network amon
 * Great data go undiscovered and are undervalued
 * Time and resources are wasted redoing empirical work
 * No existing recommendation system for datasets
+
 #### Our Goal
 * Build a dataset recommendation system to improve research efficiency.
+
 #### Our Approach
 * Build a heterogenous knowledge graph network. 
 * Exploit information to develop a more well connected network.
 * Use link prediction to measure connectivity between nodes. 
+
+## DEMO
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RbY7AwgOlRc/0.jpg)](http://www.youtube.com/watch?v=RbY7AwgOlRc)
+
