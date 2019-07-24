@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Building Graph-Based Dataset Recommendation System</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+	<link href="style1.css" rel="stylesheet">
+</head>
+<body>
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
+<div class="container-fluid">
+	<a class="navbar-brand"href="#"><img src="img/logo.png" height="50" ></a>
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+		<span class="navbar-toggler-icon"></span>
+	</button>
+	<div class="collapse navbar-collapse" id="navbarResponsive">
+		<ul class="navbar-nav ml-auto">
+			<li class="nav-item">
+				<a class="nav-link" href="#Home">Home</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#Hypothesis">Hypothesis</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#data">Data</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#Methodology">Methodology</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#result">Analysis</a>
+			</li>
+			<li class="nav-item">
+				<a class="nav-link" href="#team">Team</a>
+			</li>
+			
+		</ul>
+	</div>
+</div>
+</nav>
+
+
+<!--- Image Slider -->
+<div id="slides" class="carousel slide" data-ride="carousel">
+	<ul class="carousel-indicators">
+		<li data-target="#slides" data-slide-to="0" class="active"></li>
+		<li data-target="#slides" data-slide-to="1"></li>
+		<li data-target="#slides" data-slide-to="2"></li>
+	</ul>
+	<div class="carousel-inner">
+		<div class="carousel-item active">
+			<img src="img/back2.png" >
+			<div class="carousel-caption">
+				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
+				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
+				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
+				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<img src="img/back3.png">
+			<div class="carousel-caption">
+				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
+				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
+				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
+				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
+			</div>
+		</div>
+		<div class="carousel-item">
+			<img src="img/back4.png">
+			<div class="carousel-caption">
+				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
+				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
+				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
+				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!--- Jumbotron -->
+<div class="container-fluid">
+<div class="row jumbotron">
+	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+	</div>
+</div>
+</div>
+	
+<!--- motivation Section -->
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-6">
+		<div class="container padding" id="Motivation">
+		  <h2>Problem Statement and Scope</h2>
+			 <div class="col-12 text-left">
+	 	 <p>Nations around the world are seeing more and more people flock to cities. The year 2008 marked the first time in human history when more than half of the global population could be found in cities or towns. And that number is only expected to grow: by 2030, two thirds of the global population will reside in cities. </p>
+
+
+	 	 	<p>At the same time, many countries are aging. In member nations of the OECD, the proportion of citizens aged 65 and older has grown from 7.7% in 1950 to 17.8% in 2010 and will reach 25% by 2050. </p>
+
+	  	<p>Studies show that seniors face unique challenges when it comes to navigating NYC on foot - senior pedestrians suffer higher fatality rates in pedestrian accidents in NYC than any other part of the US. To combat this problem, NYC DOT came up with its Safe Streets for Seniors program and since 2008, DOT has implemented changes in 41 "Senior Pedestrian Focus Areas". </p>
+			</div>	
+		</div>
+	</div>
+	<div class="col-6">
+		<img src="img/motivation.png" height="500" width="400">
+	</div>
+</div>
+</div>
+
+
+
+<!--- Hypothesis Section -->
+<hr class="my-4">
+<div class="container padding" id="Hypothesis">
+<div class="row welcome text-center">
+ <div class="col-12">
+  <h2>Hypotheses</h2>
+ </div>
+ <div class="col-12 ">
+  <p>Hypothesis 1: <b>Fewer seniors will be involved</b> in fatal motor vehicle accidents in SPFAs</p>
+	<p>Hypothesis 2: <b>Fewer seniors will be killed</b> in motor vehicle accidents in SPFAs</p>
+   <p>Hypothesis 3: <b>Fewer senior <u>pedestrians</u> will be killed</b> in motor vehicle accidents in SPFAs</p>
+ </div>
+</div>
+
+
+
+
+<!--- Data Section -->
+<hr class="my-4">
+<div class="container padding" id="data">
+<div class="row welcome text-center">
+ <div class="col-12">
+  <h2>Data</h2>
+ </div>
+ <div class="col-12 text-left">
+  <p>Our diff-in-diff analysis relies primarily on two data sets - Motor Vehicle Crash Data collected from the National Highway Traffic Safety Administration (NHTSA) and Senior Pedestrian Focus Areas（SPFA) spatial data.</p>
+ </div>
+</div>
+
+
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-6">
+		<img src="img/data1.jpeg" height="250" width="250" >
+			<button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide">Motor Vehicle Crash Data</button>
+		<div id="hide" class="collapse in text-left">
+			<div class="col-12 bg-light">The NHTSA publishes nationwide motor vehicle crash data going back decades as part of its Fatality Analysis Reporting System (FARS). All crashes reported in FARS involve at least one fatality and include extensive data on each crash, including date, time, location, weather conditions, and the age of each person involved. We collected this data from 2001 to 2017 for the nation and filtered down to accidents in NYC.</div>
+		</div>
+	</div>
+	<div class="col-6">
+		<img src="img/data2.jpeg" height="250" width="250">
+			<button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide2">Senior Pedestrian Focus Areas</button>
+		<div id="hide2" class="collapse in text-left">
+			<div class="col-12 bg-light">SPFAs are specific areas in NYC that have been identified by NYC DOT as especially dangerous for senior pedestrians living in those areas. DOT has identified 41 SPFAs in total and has undertaken various infrastructure projects to improve the safety of these areas. Spatial data that describes SPFAs is published online by NYC Open Data, which we collected for visualization and analysis.</div>
+		</div>
+</div>
+</div>
+
+
+<div class="container padding">
+<div class="row text-left padding">
+	<div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 col-xl-2">
+		<h4>Data Summary</h4>
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 col-xl-10">
+		<table class="table table-hover bg-light">
+		  <thead>
+		    <tr>
+		      <th scope="col">Type of Data</th>
+		      <th scope="col">Datasets</th>
+		      <th scope="col">Relevant Fields</th>
+
+		    </tr>
+		  </thead>
+		  <tbody>
+		    <tr>
+		      <th scope="row">NHTSA Motor Vehicle Crash Data</th>
+		      <td>Accident Data</td>
+		      <td>Date, Latitude, Longitude, Weather Conditions, etc.</td>
+
+		    </tr>
+		    <tr>
+		      <th scope="row">NHTSA Motor Vehicle Crash Data</th>
+		      <td>Motorist and Pedestrian Data</td>
+		      <td>Age, Gender, Injury Severity, etc.</td>
+		    </tr>
+		    <tr>
+		      <th scope="row">DOT's SPFA Data</th>
+		      <td>SPFA shapefile</td>
+		      <td>SPFA Name, SPFA Implementation Round, Geometry</td>
+		    </tr>
+		  </tbody>
+		</table>
+	</div>
+</div>
+</div>
+<h5>Data Source:</h5>
+<p><a href="ftp://ftp.nhtsa.dot.gov/fars/">NHTSA traffic fatality data </a></p>
+<p><a href="https://data.cityofnewyork.us/Transportation/VZV_Safe-Streets-for-Seniors/bsuh-ywiw">SPFA spatial data</a></p>
+
+<!--- Visualization Section -->
+<hr class="my-4">
+<div class="container padding" id="Visualization">
+<div class="row welcome text-center">
+	<div class="col-12">
+  		<h2>Data Visualization</h2>
+ 	</div>
+ 	<div class="col-12">
+ 	 <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide3">Visualization</button>
+ 	</div>
+		<div id="hide3" class="collapse in text-left">
+			<div class="col-12 bg-light">Tableau Visualization of Accidents Data</div>
+			<iframe src="https://public.tableau.com/views/final_15633289694530/Dashboard?:embed=y&:display_count=yes&:origin=viz_share_link" width = '1000' height = '900'></iframe>
+			<div class="col-12 bg-light">Tableau Visualization of Accidents Data</div>
+	 	</div>
+	</div>
+<hr class="my-4">	
+</div>
+</div>
+
+<!--- Methodology Section -->
+<div class="container padding" id="Methodology">
+<div class="row welcome text-center">
+	<div class="col-12">
+  		<h2>Methodology</h2>
+ 	</div>
+ 	<div class="col-12">
+ 	 <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide4">Difference-in-Difference</button>
+ 	</div>
+		<div id="hide4" class="collapse in text-left">
+			<div class="col-12 bg-light">
+				<p>We used a statistical technique known as "difference-in-difference" (aka diff-in-diff) for our study. </p>
+				<p>Diff-in-diff looks at the effect of a treatment on a 'treatment group' versus a 'control group' in a natural experiment. </p>
+				<p>It calculates the effect of a treatment on an outcome by comparing the average change over time in the outcome variable for the treatment group, compared to the average change over time for the control group.</p>
+			</div>
+	 	</div>
+	</div>
+<hr class="my-4">
+</div>
+</div>
+
+
+
+  <!-- Result Section -->
+  <section class="page-section" id="result">
+    <div class="container">
+      <h2 class="text-center mt-0">Analysis</h2>
+      <div class="row">
+
+
+        <div class="col-lg-6 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-globe text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Regression Model</h3>
+             <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" 
+              data-target="#Mo">Model</button>
+               <div id="Mo" class="collapse in">
+                  <img src="img/regression1.png" width="400" class="card-img-top">
+                </div>
+          </div>
+        </div>
+        <div class="col-lg-6 col-md-6 text-center">
+          <div class="mt-5">
+            <i class="fas fa-4x fa-gem text-primary mb-4"></i>
+            <h3 class="h4 mb-2">Resgression Results</h3>
+            <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" 
+              data-target="#Re">Result</button>
+               <div id="Re" class="collapse in">
+                  <img src="img/regression_results2.png" width="400" class="card-img-top">
+		    <div class="col-12 text-left">    
+		       </div>
+                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<hr class="my-4">
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-6">
+		<div class="container padding" id="Motivation">
+		  <h2>Conclusion</h2>
+			 <div class="col-12 text-left">
+	 	 <p>Based on the results of our models, it looks like NYC's Safe Streets for Seniors program is working, which is good news. Fewer seniors are involved in accidents and fewer senior pedestrians, in particular, are being killed by motor vehicles.</p>
+		<p>In light of these findings, other cities should consider adopting a similar program. Navigating urban environments on foot can be extremely challenging but also essential to the life and well-being of seniors. And as urban senior populations grow in the coming decades, it will be especially important to make sure they can get around cities without constantly worrying for their own safety. Of course, there's no “one size fits all” solution to any public policy. But NYC’s Safe Streets for Seniors is a step in the right direction.</p>
+			</div>
+			</div>
+	</div>
+	<div class="col-6">
+		<img src="img/conclusion.png" height="300" >
+	</div>
+	<div class="col-12 text-center">
+		<h5>To review more, please visit our github site at <a href="https://github.com/agingcapstone/agingcapstone_notebooks">https://github.com/agingcapstone/agingcapstone_notebooks</a></h5>
+	</div>
+</div>
+</div>
+
+
+
+<hr class="my-4">
+<div class="container-fluid padding">
+<div class="row text-center padding">
+	<div class="col-12">
+		<div class="container padding" id="Motivation">
+		  <h2>Similar Studies</h2>
+		  <p><a href="https://www1.nyc.gov/html/dot/html/pedestrians/safeseniors.shtml">“NYC DOT - Safe Streets for Seniors.” Accessed April 15, 2019. </a></p>
+		<p><a href="https://comptroller.nyc.gov/reports/aging-with-dignity-a-blueprint-for-serving-nycs-growing-senior-population/">“Aging with Dignity: A Blueprint for Serving NYC’s Growing Senior Population : Office of the New York City Comptroller Scott M. Stringer.” Accessed April 27, 2019.</a></p>
+		<p><a href="https://doi.org/10.1016/j.aap.2012.05.009">Chen, Li, Cynthia Chen, Reid Ewing, Claire E. McKnight, Raghavan Srinivasan, and Matthew Roe. “Safety Countermeasures and Crash Reduction in New York City--Experience and Lessons Learned.” Accident; Analysis and Prevention 50 (January 2013): 312–22</a></p>
+</div>
+	</div>
+
+</div>
+</div>
+
+
+<!--- Fixed background -->
+<figure>
+	<div class="fixed-wrap">
+		<div id="fixed"></div>
+	</div>
+</figure>
+
+  
+<!--- Meet the team -->
+<div class="container-fluid padding" id="team">
+<div class="row welcome text-center">
+	<div class="col-12">
+		<h2 class="display-4">Meet the Team</h2>
+	</div>
+	<hr>
+</div>
+</div>
+
+<!--- Cards -->
+<div class="container-fluid padding">
+<div class="row">
+	<div class="col-md-3">
+		<div class="card">
+			<img src="img/sam.jpeg" class="card-img-top">
+			<div class="card-body">
+				<h4 class="card-title">Sam Burns</h4>
+				<p class="card-text">Sam had a past life in the investigative world and has a current life as a data (and tennis) nerd. </p>
+				<a href="https://www.linkedin.com/in/sam-burns-nyc/" class="btn btn-outline-secondary">LinkedIn</a>
+				<a href="https://github.com/seeess1" class="btn btn-outline-secondary">GitHub</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="card">
+			<img src="img/poyang.jpeg" class="card-img-top">
+			<div class="card-body">
+				<h4 class="card-title">Po-Yang Kang</h4>
+				<p class="card-text">Undergrad from The George Washington University who double majored in International Affairs and Economics, with a minor in Computer Science. Currently a M.S. graduate at NYU CUSP.</p>
+				<a href="https://www.linkedin.com/in/poyangkang/" class="btn btn-outline-secondary">LinkedIn</a>
+				<a href="https://github.com/ImprobableLiar" class="btn btn-outline-secondary">GitHub</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="card">
+			<img src="img/asilayi.jpg" class="card-img-top">
+			<div class="card-body">
+				<h4 class="card-title">Asilayi Bahetibieke</h4>
+				<p class="card-text">Undergrad from Peking University who double majored in Economics and Urban Planning. Currently a M.S. graduate at NYU CUSP.</p>
+				<a href="https://www.linkedin.com/in/asilayi-bahetibieke-962006173/" class="btn btn-outline-secondary">LinkedIn</a>
+				<a href="https://github.com/asilayi" class="btn btn-outline-secondary">GitHub</a>
+			</div>
+		</div>
+	</div>
+	<div class="col-md-3">
+		<div class="card">
+			<img src="img/pengzi.jpeg" class="card-img-top">
+			<div class="card-body">
+				<h4 class="card-title">Pengzi Li</h4>
+				<p class="card-text">Undergrad from University of Toronto who double majored in Statistics and Economics, with a minor in mathematics. Currently a M.S. graduate at NYU CUSP.</p>
+				<a href="https://www.linkedin.com/in/pengziliestella/" class="btn btn-outline-secondary">LinkedIn</a>
+				<a href="https://github.com/estellaleee" class="btn btn-outline-secondary">GitHub</a>
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+
+
+
+<!--- Two Column Section -->
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-lg-6">
+		<h2>About Mentor</h2>
+		<h4>Daniela Hochfellner</h4>
+			<h6>a Research Assistant Professor at CUSP and an Adjunct Research Assistant Professor at the Institute for Social Research, Survey Research Center at the University of Michigan. She received her PhD in Sociology from the University of Bamberg (in Germany)</h6>
+		<h6>Email:daniela.hochfellner@nyu.edu</h6>
+<h6>Tel:(646) 997-0549</h6>
+		<br>
+	</div>
+	<div class="col-lg-6">
+		<img src="img/Daniela.jpg" class="img-fluid">
+	</div>
+</div>
+<hr class="my-4">
+</div>
+
+<div class="container-fluid padding">
+<div class="row padding">
+	<div class="col-lg-6">
+		<h2>About Sponsor</h2>
+		<h4>Center for Urban Science + Progress</h4>
+		<h6>CUSP is an interdisciplinary research center dedicated to the application of science, technology, engineering, and mathematics in the service of urban communities across the globe. Using New York City as our laboratory and classroom, who strive to develop novel data- and technology-driven solutions for complex urban problems</h6>
+		<br>
+	</div>
+	<div class="col-lg-6">
+		<img src="img/logo.png" class="img-fluid">
+	</div>
+</div>
+<hr class="my-4">
+</div>
+
+
+<a href="#" class="btn btn-outline-info btn-lg" role="button" style="position: fixed; bottom:5px;right:5px;margin:0;padding:5px 3px;font-size: 20px">Get Back to Top</a>
+
+</body>
+</html>
