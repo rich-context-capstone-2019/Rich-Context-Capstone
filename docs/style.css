@@ -17,8 +17,8 @@ html, body {
   font-size: 1.1em !important;
 }
 .carousel-inner img {
-  width: 100%;
-  height:100%;
+  width: 50%;
+  height:50%;
 }
 .carousel-caption {
   position: absolute;
@@ -26,7 +26,8 @@ html, body {
   transform: translateY(-50%);
 }
 .carousel-caption h1 {
-  font-size: 500%;
+  color: #dd4b39;
+  font-size: 100%;
   text-transform: uppercase;
   text-shadow: 1px 1px 10px #000;
 }
@@ -104,6 +105,9 @@ html, body {
 .fa-instagram:hover,
 .fa-youtube:hover {
   color: #d5d5d5;
+}  
+.bottom{
+     margin-bottom: 3cm;
 }
 footer {
   background-color: #3f3f3f;
@@ -142,7 +146,8 @@ hr.light-100 {
   top: 45%;
 }
 .carousel-caption h1 {
-  font-size: 350%;
+  color: black;
+  font-size: 250%;
 }
 .carousel-caption h3 {
   font-size: 140%;
@@ -154,6 +159,7 @@ hr.light-100 {
   padding: 8px 14px;
 }
 .display-4 {
+  color: #dd4b39;
   font-size: 200%;
 }
 .social a {

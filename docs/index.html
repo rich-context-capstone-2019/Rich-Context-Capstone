@@ -32,10 +32,10 @@
 				<a class="nav-link" href="#data">Data</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#Methodology">Methodology</a>
+				<a class="nav-link" href="#Visualization">Demo</a>
 			</li>
 			<li class="nav-item">
-				<a class="nav-link" href="#result">Analysis</a>
+				<a class="nav-link" href="#Conclusion">Conclusion</a>
 			</li>
 			<li class="nav-item">
 				<a class="nav-link" href="#team">Team</a>
@@ -48,7 +48,7 @@
 
 
 <!--- Image Slider -->
-<div id="slides" class="carousel slide" data-ride="carousel">
+<!-- <div id="slides" class="carousel slide" data-ride="carousel">
 	<ul class="carousel-indicators">
 		<li data-target="#slides" data-slide-to="0" class="active"></li>
 		<li data-target="#slides" data-slide-to="1"></li>
@@ -56,35 +56,24 @@
 	</ul>
 	<div class="carousel-inner">
 		<div class="carousel-item active">
-			<img src="img/back2.png" >
+			<img src="Website Plots/Initial Network Structure 2.png" >
 			<div class="carousel-caption">
-				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
-				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
+				<h2 class="display-3">Initial Network Structure</h2>
 				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
 				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img src="img/back3.png">
+			<img src="Website Plots/Lastest Network Structure 1.png">
 			<div class="carousel-caption">
-				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
-				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
-				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
-				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
-			</div>
-		</div>
-		<div class="carousel-item">
-			<img src="img/back4.png">
-			<div class="carousel-caption">
-				<h2 class="display-3">Senior Pedestrians in NYC:</h2>
-				<h3>A Diff-in-Diff Approach to Evaluating Safe Streets for Seniors</h3>
+				<h2 class="display-3">Lastest Network Structure</h2>
 				<a href="#team" class="btn btn-outline-info btn-lg" role="button">Contact Us</a>
 				<a href="#Motivation" class="btn btn-outline-info btn-lg" role="button">Get Started</a>
 			</div>
 		</div>
 	</div>
 </div>
-
+ -->
 <!--- Jumbotron -->
 <div class="container-fluid">
 <div class="row jumbotron">
@@ -98,22 +87,19 @@
 <!--- motivation Section -->
 <div class="container-fluid padding">
 <div class="row text-center padding">
-	<div class="col-6">
+	<div class="col-12">
 		<div class="container padding" id="Motivation">
-		  <h2>Problem Statement and Scope</h2>
+		  <h2>Introduction</h2>
 			 <div class="col-12 text-left">
-	 	 <p>Nations around the world are seeing more and more people flock to cities. The year 2008 marked the first time in human history when more than half of the global population could be found in cities or towns. And that number is only expected to grow: by 2030, two thirds of the global population will reside in cities. </p>
+	 	 <p>Exploring and finding existent research datasets and the relational network among themselves, between datasets and entities of interest such as research fields, paper titles, authors, and research methods are shown to be inefficient and the lack an integrated online platform that improves this process. This capstone project connects datasets with various entities in the academic research entities such as the publication papers that were used, the authors, the research field involved, as well as the subject terms given to the dataset. This heterogenous knowledge graph is built in order to improve user experience by building a dataset recommendation system based on the network.  </p>
 
 
-	 	 	<p>At the same time, many countries are aging. In member nations of the OECD, the proportion of citizens aged 65 and older has grown from 7.7% in 1950 to 17.8% in 2010 and will reach 25% by 2050. </p>
-
-	  	<p>Studies show that seniors face unique challenges when it comes to navigating NYC on foot - senior pedestrians suffer higher fatality rates in pedestrian accidents in NYC than any other part of the US. To combat this problem, NYC DOT came up with its Safe Streets for Seniors program and since 2008, DOT has implemented changes in 41 "Senior Pedestrian Focus Areas". </p>
 			</div>	
 		</div>
 	</div>
-	<div class="col-6">
+	<!-- <div class="col-6">
 		<img src="img/motivation.png" height="500" width="400">
-	</div>
+	</div> -->
 </div>
 </div>
 
@@ -124,13 +110,31 @@
 <div class="container padding" id="Hypothesis">
 <div class="row welcome text-center">
  <div class="col-12">
-  <h2>Hypotheses</h2>
+  <h2>Problem Statement</h2>
  </div>
  <div class="col-12 ">
-  <p>Hypothesis 1: <b>Fewer seniors will be involved</b> in fatal motor vehicle accidents in SPFAs</p>
-	<p>Hypothesis 2: <b>Fewer seniors will be killed</b> in motor vehicle accidents in SPFAs</p>
-   <p>Hypothesis 3: <b>Fewer senior <u>pedestrians</u> will be killed</b> in motor vehicle accidents in SPFAs</p>
+  	<p>Great data go undiscovered and are undervalued</p>
+	<p>Time and resources are wasted redoing empirical work</p>
+   	<p>No existing recommendation system for datasets</p>
+   	<p> </p>
  </div>
+ <div class="col-12">
+  <h2>Our Goal</h2>
+ </div>
+ <div class="col-12 ">
+  <p>Build a dataset recommendation system to improve research efficiency.</p>
+  <p> </p>
+
+ </div>
+  <div class="col-12">
+  <h2>Our Approach</h2>
+ </div>
+ <div class="col-12 ">
+  	<p>Build a heterogenous knowledge graph network</p>
+	<p>Exploit information to develop a more well connected network</p>
+   	<p>Use link prediction to measure connectivity between nodes</p>
+ </div>
+
 </div>
 
 
@@ -142,14 +146,25 @@
 <div class="row welcome text-center">
  <div class="col-12">
   <h2>Data</h2>
- </div>
- <div class="col-12 text-left">
-  <p>Our diff-in-diff analysis relies primarily on two data sets - Motor Vehicle Crash Data collected from the National Highway Traffic Safety Administration (NHTSA) and Senior Pedestrian Focus Areas（SPFA) spatial data.</p>
- </div>
 </div>
+ <div class="col-12 text-left">
+  <p align="left"> <strong>1.&nbsp&nbspRich Context Competition Dataset</strong>
+  	</br>
+	  The Rich Context Competition held by Coleridge Initiative was with the intent to automate the discovery of research datasets, fields, and methods used in a publication paper. This project have used both the dataset used to train the model as well as the prediction output from the winner of the competition. These datasets include 3 main components</br>
+	  <br/>
+	  <strong>2.&nbsp&nbsp ICPSR Archive</strong></br>
+	    TThe ICPSR Archive is considered an International Leader in Data Stewardship, maintaining a data archive of about 250,000 of research in the social and behavioral sciences. The ICPSR Bibliography of Data-related Literature is a searchable database that as of 2019 contains 80,000 citations of published and unpublished works resulting from analyses of data held in the ICPSR archive. This project is using about 15,000 publication papers and 10,348 dataset from the ICPSR archive in which we have extracted their metadata, such as subject terms, descriptions, titles, and DOI. </br>
+	    </br>
+	  <strong>3.&nbsp&nbsp Microsoft Academic Graph Data</strong></br>
+	    The Microsoft Academic Graph (MAG) currently has 218,951,661 papers with 239,743,363 authors, 664,149 topics, 4,384 conferences, 48,731 journals, and 25,511 institutions. </br>  
+
+  </p>
 
 
-<div class="container-fluid padding">
+</div>
+  </div>
+
+<!-- <div class="container-fluid padding">
 <div class="row text-center padding">
 	<div class="col-6">
 		<img src="img/data1.jpeg" height="250" width="250" >
@@ -208,29 +223,32 @@
 <h5>Data Source:</h5>
 <p><a href="ftp://ftp.nhtsa.dot.gov/fars/">NHTSA traffic fatality data </a></p>
 <p><a href="https://data.cityofnewyork.us/Transportation/VZV_Safe-Streets-for-Seniors/bsuh-ywiw">SPFA spatial data</a></p>
-
+ -->
 <!--- Visualization Section -->
 <hr class="my-4">
 <div class="container padding" id="Visualization">
 <div class="row welcome text-center">
 	<div class="col-12">
-  		<h2>Data Visualization</h2>
+  		<h2>Demo</h2>
  	</div>
  	<div class="col-12">
- 	 <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide3">Visualization</button>
+ 	 <button onclick= "window.location.href='https://bl.ocks.org/sl4729/raw/9bacbd2e1ae7efa51da7187abcda1cfe/';" type="button" class="btn btn-outline-info btn-lg" style="margin-bottom:1cm;">Open Web Demo</button>	 
  	</div>
-		<div id="hide3" class="collapse in text-left">
-			<div class="col-12 bg-light">Tableau Visualization of Accidents Data</div>
-			<iframe src="https://public.tableau.com/views/final_15633289694530/Dashboard?:embed=y&:display_count=yes&:origin=viz_share_link" width = '1000' height = '900'></iframe>
-			<div class="col-12 bg-light">Tableau Visualization of Accidents Data</div>
-	 	</div>
-	</div>
-<hr class="my-4">	
+ 	<div class="col-12">
+ 	 <button type="button" class="btn btn-outline-info btn-lg" data-toggle="collapse" data-target="#hide4">Open Video Demo</button>
+ 	</div>
+		<div id="hide4" class="collapse in text-left">
+			<div class="col-12 bg-light">
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/RbY7AwgOlRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+ 	<br />
+
+ 	
 </div>
 </div>
 
 <!--- Methodology Section -->
-<div class="container padding" id="Methodology">
+<!-- <div class="container padding" id="Methodology">
 <div class="row welcome text-center">
 	<div class="col-12">
   		<h2>Methodology</h2>
@@ -240,20 +258,18 @@
  	</div>
 		<div id="hide4" class="collapse in text-left">
 			<div class="col-12 bg-light">
-				<p>We used a statistical technique known as "difference-in-difference" (aka diff-in-diff) for our study. </p>
-				<p>Diff-in-diff looks at the effect of a treatment on a 'treatment group' versus a 'control group' in a natural experiment. </p>
-				<p>It calculates the effect of a treatment on an outcome by comparing the average change over time in the outcome variable for the treatment group, compared to the average change over time for the control group.</p>
+				<iframe width="560" height="315" src="https://www.youtube.com/embed/RbY7AwgOlRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 	 	</div>
 	</div>
 <hr class="my-4">
 </div>
-</div>
+</div> -->
 
 
 
   <!-- Result Section -->
-  <section class="page-section" id="result">
+<!--   <section class="page-section" id="result">
     <div class="container">
       <h2 class="text-center mt-0">Analysis</h2>
       <div class="row">
@@ -285,45 +301,39 @@
         </div>
       </div>
     </div>
-  </section>
-
-<hr class="my-4">
-<div class="container-fluid padding">
-<div class="row text-center padding">
-	<div class="col-6">
-		<div class="container padding" id="Motivation">
-		  <h2>Conclusion</h2>
-			 <div class="col-12 text-left">
-	 	 <p>Based on the results of our models, it looks like NYC's Safe Streets for Seniors program is working, which is good news. Fewer seniors are involved in accidents and fewer senior pedestrians, in particular, are being killed by motor vehicles.</p>
-		<p>In light of these findings, other cities should consider adopting a similar program. Navigating urban environments on foot can be extremely challenging but also essential to the life and well-being of seniors. And as urban senior populations grow in the coming decades, it will be especially important to make sure they can get around cities without constantly worrying for their own safety. Of course, there's no “one size fits all” solution to any public policy. But NYC’s Safe Streets for Seniors is a step in the right direction.</p>
-			</div>
-			</div>
-	</div>
-	<div class="col-6">
-		<img src="img/conclusion.png" height="300" >
-	</div>
-	<div class="col-12 text-center">
-		<h5>To review more, please visit our github site at <a href="https://github.com/agingcapstone/agingcapstone_notebooks">https://github.com/agingcapstone/agingcapstone_notebooks</a></h5>
-	</div>
-</div>
-</div>
+  </section> -->
 
 
+  <!--- motivation Section -->
+ <hr class="my-4">
 
-<hr class="my-4">
 <div class="container-fluid padding">
 <div class="row text-center padding">
 	<div class="col-12">
-		<div class="container padding" id="Motivation">
-		  <h2>Similar Studies</h2>
-		  <p><a href="https://www1.nyc.gov/html/dot/html/pedestrians/safeseniors.shtml">“NYC DOT - Safe Streets for Seniors.” Accessed April 15, 2019. </a></p>
-		<p><a href="https://comptroller.nyc.gov/reports/aging-with-dignity-a-blueprint-for-serving-nycs-growing-senior-population/">“Aging with Dignity: A Blueprint for Serving NYC’s Growing Senior Population : Office of the New York City Comptroller Scott M. Stringer.” Accessed April 27, 2019.</a></p>
-		<p><a href="https://doi.org/10.1016/j.aap.2012.05.009">Chen, Li, Cynthia Chen, Reid Ewing, Claire E. McKnight, Raghavan Srinivasan, and Matthew Roe. “Safety Countermeasures and Crash Reduction in New York City--Experience and Lessons Learned.” Accident; Analysis and Prevention 50 (January 2013): 312–22</a></p>
-</div>
-	</div>
+		<div class="container padding" id="Conclusion">
+		  <h2>Conclusion</h2>
+			 <div class="col-12 text-left">
+	 	 <p>We built up the graph-based dataset recommendation system to improve research efficiency. The advantages of graph-based recommendation system include that it can leverage multiple types of entities and information, and it can generate results without requiring user activity history. We have utilized the available resources and improved upon our previous prototype network. Our preliminary network analysis has shown that we have successfully created a more connected network with deeper layers of entities, which results in more diverse sets of connections. </p>
 
+ 		<p>After successful efforts in creating more connected heterogeneous networks, we experiment on the network graphs and start to produce recommendation rankings. We conducted multiple recommendation ranking approaches and evaluated the results based on our predefined evaluation methods. The algorithms we used to calculate nodes similarity include Jaccard similarity, Cosine similarity, Hopcroft algorithm, and Adamic-Adar Index. Due to our evaluation metrics, the Cosine similarity algorithm has the best performance in terms of coverage and runtime. </p>
+
+
+			</div>	
+		</div>
+		<div class="col-12 text-center">
+		<h5>To review more, please visit our github site at <a href="https://github.com/rich-context-capstone-2019/Rich-Context-Capstones">https://github.com/rich-context-capstone-2019/Rich-Context-Capstone</a></h5>
+	</div>
+	</div>
+	<!-- <div class="col-6">
+		<img src="img/motivation.png" height="500" width="400">
+	</div> -->
 </div>
 </div>
+
+
+
+
+
 
 
 <!--- Fixed background -->
@@ -351,7 +361,7 @@
 		<div class="card">
 			<img src="img/sam.jpeg" class="card-img-top">
 			<div class="card-body">
-				<h4 class="card-title">Sam Burns</h4>
+				<h4 class="card-title">Tanya Nabila</h4>
 				<p class="card-text">Sam had a past life in the investigative world and has a current life as a data (and tennis) nerd. </p>
 				<a href="https://www.linkedin.com/in/sam-burns-nyc/" class="btn btn-outline-secondary">LinkedIn</a>
 				<a href="https://github.com/seeess1" class="btn btn-outline-secondary">GitHub</a>
@@ -362,7 +372,7 @@
 		<div class="card">
 			<img src="img/poyang.jpeg" class="card-img-top">
 			<div class="card-body">
-				<h4 class="card-title">Po-Yang Kang</h4>
+				<h4 class="card-title">Haopeng Huang</h4>
 				<p class="card-text">Undergrad from The George Washington University who double majored in International Affairs and Economics, with a minor in Computer Science. Currently a M.S. graduate at NYU CUSP.</p>
 				<a href="https://www.linkedin.com/in/poyangkang/" class="btn btn-outline-secondary">LinkedIn</a>
 				<a href="https://github.com/ImprobableLiar" class="btn btn-outline-secondary">GitHub</a>
@@ -373,7 +383,7 @@
 		<div class="card">
 			<img src="img/asilayi.jpg" class="card-img-top">
 			<div class="card-body">
-				<h4 class="card-title">Asilayi Bahetibieke</h4>
+				<h4 class="card-title">Songjian Li</h4>
 				<p class="card-text">Undergrad from Peking University who double majored in Economics and Urban Planning. Currently a M.S. graduate at NYU CUSP.</p>
 				<a href="https://www.linkedin.com/in/asilayi-bahetibieke-962006173/" class="btn btn-outline-secondary">LinkedIn</a>
 				<a href="https://github.com/asilayi" class="btn btn-outline-secondary">GitHub</a>
@@ -384,10 +394,10 @@
 		<div class="card">
 			<img src="img/pengzi.jpeg" class="card-img-top">
 			<div class="card-body">
-				<h4 class="card-title">Pengzi Li</h4>
-				<p class="card-text">Undergrad from University of Toronto who double majored in Statistics and Economics, with a minor in mathematics. Currently a M.S. graduate at NYU CUSP.</p>
-				<a href="https://www.linkedin.com/in/pengziliestella/" class="btn btn-outline-secondary">LinkedIn</a>
-				<a href="https://github.com/estellaleee" class="btn btn-outline-secondary">GitHub</a>
+				<h4 class="card-title">Muci Yu</h4>
+				<p class="card-text">Undergrad from Oberlin College who double majored in Economics and Environmental Studies. Currently a M.S. graduate at NYU CUSP.</p>
+				<a href="https://www.linkedin.com/in/muci-yu/" class="btn btn-outline-secondary">LinkedIn</a>
+				<a href="https://github.com/muciyuallen" class="btn btn-outline-secondary">GitHub</a>
 			</div>
 		</div>
 	</div>
@@ -397,7 +407,7 @@
 
 
 <!--- Two Column Section -->
-<div class="container-fluid padding">
+<!-- <div class="container-fluid padding">
 <div class="row padding">
 	<div class="col-lg-6">
 		<h2>About Mentor</h2>
@@ -413,7 +423,7 @@
 </div>
 <hr class="my-4">
 </div>
-
+ -->
 <div class="container-fluid padding">
 <div class="row padding">
 	<div class="col-lg-6">
