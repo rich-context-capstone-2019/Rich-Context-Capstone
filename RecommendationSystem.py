@@ -19,7 +19,8 @@ def cosineSimilarity(G, pairs):
     for u,v in pairs:
         common = len(list(nx.common_neighbors(G, u, v)))
         s = common / math.sqrt(len(G[u])*len(G[v]))
-        preds.append((int(v.replace('data_', '')),s))
+        if s > 0.0:
+            preds.append((int(v.replace('data_', '')),s))
     return pd.DataFrame(preds, columns=['data_set_id', 'score']).iloc[:10]
 
 def getNodeSim(node, g, metric):
@@ -79,8 +80,8 @@ def getRecommendations(Search_By='Keyword', search='', metric='Jaccard', G=None)
         print('MISSING ARGUMENT: Specify Search Criteria!')
         return all_res
     
-    if len(match)>0:
-        print(match[0])
+#     if len(match)>0:
+#         print(match[0])
         
     if all_res.shape[0] < 10:
         for n in nodes:
