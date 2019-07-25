@@ -130,8 +130,14 @@ hr.light-100 {
   margin-bottom: 1rem;
 }
 
+img {
+  width: 120px;
+  margin: 20px;
+}
 
-
+.card-img-top {
+  clip-path: circle(60px at center);
+}
 
 
 /*---Media Queries --*/
