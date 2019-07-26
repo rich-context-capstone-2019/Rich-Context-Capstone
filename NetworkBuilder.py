@@ -56,7 +56,7 @@ all_sub = [i.split(',') for i in all_data.subjects]
 all_sub = set(list(itertools.chain(*all_sub)))
 sub_edges = [('data_'+str(x),sub) for x,y in zip(all_data.data_set_id, all_data.subjects) for sub in y.split(',')]
 
-def addST(g, c=False):
+def addST(g, c=True):
     if c:
         g.add_nodes_from(all_sub)
         g.add_edges_from(new_sub_edges)
@@ -128,7 +128,7 @@ new_edges = [(x,focals[y]) for x,y in pub_edges]
 new_data_nodes = list(set([focals[i] for i in data_nodes]))
 new_sub_edges = [(focals[x], y) for x,y in sub_edges]
 
-def startG(c=False):
+def startG(c=True):
     g = nx.Graph()
     if c:
         g.add_nodes_from(pub_nodes+new_data_nodes)

@@ -7,6 +7,13 @@ html, body {
   color: #222;
   text-align: left;
 }
+#graphgif {
+  width: auto;
+  height : auto;
+  max-height: 100%;
+  max-width: 100%;
+}
+
 .navbar {
   padding: .8rem;
 }
