@@ -19,5 +19,5 @@ Exploring and finding existent research datasets and the relational network amon
 
 ## DEMO
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/RbY7AwgOlRc/0.jpg)](http://www.youtube.com/watch?v=RbY7AwgOlRc)
-
+![Network Graph](https://media.giphy.com/media/dw9DQPNytQrB6gfrkJ/giphy.gif)
 <video src="demo_diabetes.mov" width="320" height="200" controls preload></video>
