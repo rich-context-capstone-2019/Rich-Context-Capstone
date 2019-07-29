@@ -82,7 +82,7 @@ sim_edges = [(x,y) for x,y in zip(top_sim.Doc1, top_sim.Doc2)]
 def addPubSim(g):
     g.add_edges_from(sim_edges)
     
-    ### 4. Contract Similar Dataset Titles
+### 4. Contract Similar Dataset Titles
 roman = re.compile("""
     ^                   # beginning of string
     M{0,4}              # thousands - 0 to 4 M's
