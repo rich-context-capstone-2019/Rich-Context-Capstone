@@ -68,7 +68,7 @@ pyrsistent==0.15.2
 python-dateutil==2.8.0
 python-louvain==0.13
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 pyzmq==18.0.2
 qgrid==1.1.1
 qtconsole==4.5.1
